@@ -12,96 +12,96 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation></translation>
+        <translation>Anlagen</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation></translation>
+        <translation>Installieren...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Schließen</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation></translation>
+        <translation>Gescheitert!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>
-        <translation></translation>
+        <translation>Aktualisierung abgeschlossen. Bitte starte Hiri neu.</translation>
     </message>
     <message>
         <source>Updating... %1%</source>
-        <translation></translation>
+        <translation>Aktualisierung... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation></translation>
+        <translation>Verbergen</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation></translation>
+        <translation>%1 Mehr</translation>
     </message>
 </context>
 <context>
     <name>CalendarWebEngine</name>
     <message>
         <source>Calendar</source>
-        <translation></translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <source>We&apos;re loading your calendar...</source>
-        <translation></translation>
+        <translation>Wir laden Ihren Kalender ...</translation>
     </message>
 </context>
 <context>
     <name>Collapsable</name>
     <message>
         <source>View full message</source>
-        <translation></translation>
+        <translation>Vollständige Nachricht anzeigen</translation>
     </message>
 </context>
 <context>
     <name>ComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation></translation>
+        <translation>Wähle eine Option</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation></translation>
+        <translation>Klarheit</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation></translation>
+        <translation>Kürze</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation></translation>
+        <translation>Ton</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation></translation>
+        <translation>Verhalten</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation></translation>
+        <translation>Ihre Punktzahl</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>CONTACT</source>
-        <translation></translation>
+        <translation>KONTAKT</translation>
     </message>
     <message>
         <source>EMAIL %1</source>
@@ -109,34 +109,34 @@
     </message>
     <message>
         <source>WORK PHONE</source>
-        <translation></translation>
+        <translation>TELEFON (Arbeit)</translation>
     </message>
     <message>
         <source>MOBILE PHONE</source>
-        <translation></translation>
+        <translation>HANDY</translation>
     </message>
     <message>
         <source>OFFICE LOCATION</source>
-        <translation></translation>
+        <translation>Bürostandort</translation>
     </message>
     <message>
         <source>NOTES</source>
-        <translation></translation>
+        <translation>Anmerkung</translation>
     </message>
     <message>
         <source>ADDRESS</source>
-        <translation></translation>
+        <translation>ADRESSE</translation>
     </message>
     <message>
         <source>TITLE</source>
-        <translation></translation>
+        <translation>TITEL</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Contacts</source>
-        <translation></translation>
+        <translation>Kontakte</translation>
     </message>
     <message>
         <source>NAME</source>
@@ -144,15 +144,15 @@
     </message>
     <message>
         <source>DETAILS</source>
-        <translation></translation>
+        <translation>Einzelheiten</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation></translation>
+        <translation>Suche</translation>
     </message>
     <message>
         <source>Contacts folder</source>
-        <translation></translation>
+        <translation>Kontaktordner</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -167,7 +167,7 @@
     <name>CreateNewFolderButtonInput</name>
     <message>
         <source>Create new folder</source>
-        <translation></translation>
+        <translation>Neuen Ordner erstellen</translation>
     </message>
 </context>
 <context>
@@ -186,68 +186,68 @@
     </message>
     <message>
         <source>Different username?</source>
-        <translation></translation>
+        <translation>Anderen Benutzernamen?</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation></translation>
+        <translation>Benutzername</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation></translation>
+        <translation>Verbinden</translation>
     </message>
     <message>
         <source>We&apos;re getting your mail, contacts and calendar items
 for the first time. You can continue to use Hiri, but it may be a little slow while this is happening.</source>
-        <translation></translation>
+        <translation>Wir bekommen Ihre e-Mails, Kontakte und Kalenderelemente zum ersten Mal. Sie können weiterhin Hiri verwenden, aber es kann ein wenig langsam sein, während dies geschieht.</translation>
     </message>
     <message>
         <source>Let me in anyway</source>
-        <translation></translation>
+        <translation>Lassen Sie mich trotzdem</translation>
     </message>
 </context>
 <context>
     <name>DailyCalendarView</name>
     <message>
         <source>%1 Previous</source>
-        <translation></translation>
+        <translation>%1 Vorherigen</translation>
     </message>
     <message>
         <source>Next %1</source>
-        <translation></translation>
+        <translation>Nächste %1</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Back to dashboard</source>
-        <translation></translation>
+        <translation>Zurück zum dashboard</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation></translation>
+        <translation>Einstellungen</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>All day</source>
-        <translation></translation>
+        <translation>Den ganzen Tag</translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation></translation>
+        <translation>Zum Kalender</translation>
     </message>
     <message>
         <source>You have no meetings today</source>
-        <translation></translation>
+        <translation>Sie haben heute keine Meetings</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation></translation>
+        <translation>Profil bearbeiten</translation>
     </message>
     <message>
         <source>Hi %1</source>
@@ -266,37 +266,37 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>since last check</source>
-        <translation></translation>
+        <translation>Seit der letzten Prüfung</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation></translation>
+        <translation>E-Mails heute</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation></translation>
+        <translation>Ihren Kalender</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation></translation>
+        <translation>Kommunikation Punktzahl</translation>
     </message>
     <message>
         <source>Invites</source>
-        <translation></translation>
+        <translation>Einladungen</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation></translation>
+        <translation>Warten</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation></translation>
+        <translation>Minuten</translation>
     </message>
 </context>
 <context>
@@ -318,103 +318,103 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DeferDetails</name>
     <message>
         <source>Deferred on</source>
-        <translation></translation>
+        <translation>Aufgeschoben</translation>
     </message>
     <message>
         <source>Deferred to</source>
-        <translation></translation>
+        <translation>Aufgeschoben zu</translation>
     </message>
     <message>
         <source>(Edit)</source>
-        <translation></translation>
+        <translation>(Bearbeiten)</translation>
     </message>
 </context>
 <context>
     <name>DeferFlyout</name>
     <message>
         <source>This evening</source>
-        <translation></translation>
+        <translation>Heute Abend</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation></translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation></translation>
+        <translation>Nächste Woche</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation></translation>
+        <translation>Benutzerdefinierte Datum und Zeit</translation>
     </message>
 </context>
 <context>
     <name>DeferLabel</name>
     <message>
         <source>Deferred</source>
-        <translation></translation>
+        <translation>Latente</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation></translation>
+        <translation>Eine neue Version von Hiri ist verfügbar! Möchten sie updaten?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation></translation>
+        <translation>Jetzt aktualisieren</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation></translation>
+        <translation>Später erinnern</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation></translation>
+        <translation>Datei auswählen</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Conversation moved to spam.</source>
-        <translation></translation>
+        <translation>Gespräch verschoben um spam.</translation>
     </message>
     <message>
         <source>Conversation deleted.</source>
-        <translation></translation>
+        <translation>Konversation gelöscht.</translation>
     </message>
     <message>
         <source>Discarding draft...</source>
-        <translation></translation>
+        <translation>Entwurf verwerfen...</translation>
     </message>
     <message>
         <source>Draft discarded.</source>
-        <translation></translation>
+        <translation>Entwurf verworfen.</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation></translation>
+        <translation>Antwort</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation></translation>
+        <translation>Delegieren</translation>
     </message>
     <message>
         <source>Sorry, you can’t Defer, Delete or Delegate a mail when you are offline.</source>
-        <translation></translation>
+        <translation>Entschuldigung, Sie können eine E-Mail nicht verschieben, löschen oder delegieren, wenn Sie offline sind.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delegate a meeting.</source>
-        <translation></translation>
+        <translation>Sorry, kann man nicht delegieren ein treffen.</translation>
     </message>
     <message>
         <source>Defer</source>
-        <translation></translation>
+        <translation>Verschieben</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t defer a task</source>
-        <translation></translation>
+        <translation>Sorry, kann man nicht aufschieben einer Aufgabe</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t defer a delegated message</source>
@@ -1963,7 +1963,7 @@ recommendations for you...</source>
     </message>
     <message>
         <source>No</source>
-        <translation></translation>
+        <translation>Nein</translation>
     </message>
 </context>
 </TS>

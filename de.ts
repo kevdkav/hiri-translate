@@ -418,7 +418,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Sorry, you can&apos;t defer a delegated message</source>
-        <translation></translation>
+        <translation>Sorry, kann man nicht aufschieben eines Delegierten Nachricht</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t defer a meeting request</source>
@@ -426,7 +426,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Discard</source>
-        <translation></translation>
+        <translation>Verwerfen</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -434,7 +434,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Forward</source>
-        <translation></translation>
+        <translation>Vorwärts</translation>
     </message>
     <message>
         <source>Reply Multiple</source>

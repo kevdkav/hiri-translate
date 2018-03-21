@@ -12,7 +12,7 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation></translation>
+        <translation>Fitxers adjunts</translation>
     </message>
 </context>
 <context>

@@ -19,15 +19,15 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation></translation>
+        <translation>Instal·lant...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Tanca</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation></translation>
+        <translation>Fallat!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>

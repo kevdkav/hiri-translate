@@ -5,7 +5,7 @@
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation>Calendriers-Public</translation>
+        <translation>Calendriers Public</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
@@ -325,127 +325,127 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de répétition</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les jours</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque jour de travail</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>Toutes les 2 semaines</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chaque dernier %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaque %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>0 minutes</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minutes</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minutes</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 minutes</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minutes</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 heure</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>2 heures</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 heures</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>4 heures</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>8 heures</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 heures</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 jour</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation type="unfinished"></translation>
+        <translation>2 jours</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation type="unfinished"></translation>
+        <translation>3 jours</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>1 semaine</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>2 semaines</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Toute la journée</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>maintenant</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mins</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 j</translation>
     </message>
 </context>
 <context>
@@ -1008,59 +1008,59 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>EmailActions</name>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Répondre</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Déléguer</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas définir de rappels lorsque vous êtes hors connexion.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepter une réunion</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Refuser la réunion</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Répondre à tous</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez déjà un brouillon sur ce message</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiver</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Snooze</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette conversation contient des brouillons. Es-tu sûr de vouloir la supprimer?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, supprimez-le</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Non, garde le</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dans une nouvelle fenetre</translation>
     </message>
 </context>
 <context>
@@ -1237,55 +1237,55 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>EmailOps</name>
     <message>
         <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;envoi du message a échoué.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le message est plus volumineux que le serveur ne le permet.</translation>
     </message>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Message marqué comme indésirable</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le message n&apos;est plus indésirable. Déplacé vers la boîte de réception.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Marqué comme indésirable</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plus d&apos;indésirables. Déplacé vers la boîte de réception.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de réunion acceptée</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Demande de réunion refusée</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le message non envoyé est dans votre dossier Boîte d&apos;envoi. Essayez de scinder les pièces jointes entre plusieurs messages.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous etes hors ligne. Le courrier a été déplacé vers la boîte d&apos;envoi.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous n&apos;avons pas pu envoyer votre message - il contient des destinataires invalides</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yikes! Quelque chose s&apos;est mal passé!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Message déplacé à FYI. Tâche supprimée</translation>
     </message>
 </context>
 <context>
@@ -1323,83 +1323,83 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion Exchange</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>Quelqu&apos;un@votrefournisseur.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>mot de passe</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>nom d&apos;utilisateur (facultatif)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>Problème de connexion? Cliquez ici</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Découverte automatique des paramètres du serveur</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Serveur</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>serveur (exp: server.domain.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Authentification</translation>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basique</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation type="unfinished"></translation>
+        <translation>Version du serveur</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2010</translation>
     </message>
     <message>
         <source>Exchange 2013</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2013</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protocole</translation>
     </message>
     <message>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vérifier le certificat SSL</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;étape suivante</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas Exchange?</translation>
     </message>
 </context>
 <context>
@@ -1449,99 +1449,99 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas créer de dossier si vous êtes hors connexion.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Création dossier %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier créé</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas renommer un dossier si vous êtes hors connexion.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier renommé</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas supprimer un dossier si vous êtes hors connexion.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer définitivement le dossier et le contenu de &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer le dossier &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suppression du dossier %1</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier supprimé</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, supprimez-le</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Non, garde le</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas vider un dossier si vous êtes hors connexion.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer définitivement tous les éléments et sous-dossiers du dossier &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes-vous sûr de vouloir supprimer tous les éléments du dossier &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vider le dossier %1</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dossier vidé.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, supprimez-les</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Non, gardez-les</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas déplacer les dossiers lorsque vous êtes hors connexion.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé, vous ne pouvez pas marquer comme lu tant que vous n&apos;êtes pas connecté.</translation>
     </message>
     <message>
         <source>Marking all as read...</source>
-        <translation type="unfinished"></translation>
+        <translation>Marquer tout comme lu ...</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les éléments marqués comme lus.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors du marquage des éléments lus.</translation>
     </message>
 </context>
 <context>
@@ -1849,23 +1849,23 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Parcourir les emails</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conversation suivante / précédente:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Conversation suivante / précédente (lorsqu&apos;elle est ouverte):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation type="unfinished"></translation>
+        <translation>Faites défiler vers le haut / bas:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Haut / bas de la page actuelle:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
@@ -1889,35 +1889,35 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Répondre à tous:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vers l&apos;avant:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marquer comme lu:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Marquer comme non lu:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiver:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode multi-sélection</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez la conversation:</translation>
     </message>
     <message>
         <source>Select all:</source>

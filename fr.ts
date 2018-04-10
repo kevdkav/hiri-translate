@@ -345,7 +345,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished">Chaque dernier %1</translation>
+        <translation>Chaque dernier %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
@@ -1853,11 +1853,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished">Conversation suivante / précédente:</translation>
+        <translation>Conversation suivante / précédente:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished">Conversation suivante / précédente (lorsqu&apos;elle est ouverte):</translation>
+        <translation>Conversation suivante / précédente (lorsqu&apos;elle est ouverte):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
@@ -1865,7 +1865,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished">Haut / bas de la page actuelle:</translation>
+        <translation>Haut / bas de la page actuelle:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
@@ -1921,31 +1921,31 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Select all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout sélectionner:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la sélection:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Composer un nouveau mail:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir la boîte de réception unifiée:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir la boîte de réception Actionable:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez la boîte de réception FYI:</translation>
     </message>
     <message>
         <source>Open calendar:</source>

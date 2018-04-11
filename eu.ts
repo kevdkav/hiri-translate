@@ -1306,7 +1306,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>On behalf of</source>
         <translation type="unfinished">Noren izenean</translation>
-    </mesinvalisage>
+    </message>
     <message>
         <source>To</source>
         <translation type="unfinished">Nori</translation>

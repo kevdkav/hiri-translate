@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="en_GB" sourcelanguage="en_GB">
 <context>
     <name>AccountsFlyout</name>
     <message>
@@ -664,19 +664,19 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>GAL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Displaying all contacts, type to search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GAL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;no name&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -721,19 +721,15 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>DashboardCalendar</name>
     <message>
-        <source>All day</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Today</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Go to calendar</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -764,6 +760,10 @@ Do you want to forward only this event or the whole series?</source>
         <source>(no subject)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>All day</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>DashboardHeader</name>
@@ -772,11 +772,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hi!</source>
+        <source>Hi %1!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Hi %1!</source>
+        <source>Hi!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1003,18 +1003,6 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>EmailActions</name>
     <message>
-        <source>Reply</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delegate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1027,7 +1015,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Reply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reply all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delegate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1040,6 +1036,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Snooze</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1236,14 +1236,6 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>EmailOps</name>
     <message>
-        <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Message marked as junk</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1265,6 +1257,14 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Meeting request declined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message upload has failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Message was larger than server allows.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1295,19 +1295,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Action/To</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bcc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>On behalf of</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action/To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1315,7 +1307,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>FYI/Cc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bcc</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1551,7 +1551,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Create folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mark all as read</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1568,14 +1576,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Create folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mark all as read</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1790,10 +1790,6 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>Invites</name>
     <message>
-        <source>Send invites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Hi,</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1835,6 +1831,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send invites</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1999,7 +1999,19 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Inbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Check for new messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsorted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to UNSORTED</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2019,27 +2031,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unsorted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Move to UNSORTED</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Calendar</source>
+        <source>Get a discount on Hiri today!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inbox</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Get a discount on Hiri today!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2056,6 +2052,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calendar</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2104,15 +2104,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Include original message attachments</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2190,19 +2190,19 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FYI | Cc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Bcc</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>To</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>FYI | Cc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bcc</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2639,7 +2639,27 @@ email to the next level.</source>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
+        <source>Search contacts in Global Address List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No contacts found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error has occurred</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search all contacts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Type a name to start searching</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type  to search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2659,31 +2679,11 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No contacts found</source>
+        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search contacts in Global Address List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Search all contacts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Type  to search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2842,7 +2842,15 @@ email to the next level.</source>
 <context>
     <name>ReplyBox</name>
     <message>
-        <source>saving</source>
+        <source>Reply sent.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sending failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click here to edit this draft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2874,34 +2882,34 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reply sent.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sending failed.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click here to edit this draft</source>
+        <source>saving</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>sending</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ReplyToMultiple</name>
+    <message>
+        <source>Reply to multiple</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Only reply to people who need to know.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2914,14 +2922,6 @@ email to the next level.</source>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Reply to multiple</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3117,11 +3117,7 @@ email to the next level.</source>
 <context>
     <name>SearchField</name>
     <message>
-        <source>Type to search</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Displaying all messages, type to search</source>
+        <source>Search the Archive</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3129,15 +3125,19 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Type and press Enter to search</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Type to search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Search, or press Enter to show all Archive messages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displaying all messages, type to search</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3269,6 +3269,14 @@ email to the next level.</source>
 <context>
     <name>SettingsAccounts</name>
     <message>
+        <source>Your avatar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Subscription status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3334,44 +3342,6 @@ You can still use Hiri until connection with the server has been established.</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete account</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you want to delete this account from Hiri?
-This will delete all settings and the LOCAL email database.
-Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your avatar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Change</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Alias addresses</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3411,6 +3381,36 @@ Known aliases:</source>
     </message>
     <message>
         <source>Yes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will take effect only after you restart Hiri</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete account and settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove all account specific information from Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete this account from Hiri?
+This will delete all settings and the LOCAL email database.
+Don&apos;t worry, your emails are still safe on the server!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3596,6 +3596,33 @@ Known aliases:</source>
     </message>
 </context>
 <context>
+    <name>SettingsLanguages</name>
+    <message>
+        <source>Languages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose UI language:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will take effect only after you restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please note:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
@@ -3621,11 +3648,19 @@ Known aliases:</source>
 <context>
     <name>SettingsPage</name>
     <message>
-        <source>General</source>
+        <source>Settings for</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Preferences</source>
+        <source>Global settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for all accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3634,6 +3669,22 @@ Known aliases:</source>
     </message>
     <message>
         <source>Out of office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Hiri</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preferences</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3649,10 +3700,6 @@ Known aliases:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Archive</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Keyboard shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3665,23 +3712,7 @@ Known aliases:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Settings for</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Global settings</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>for all accounts</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Account</source>
+        <source>Languages</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3825,14 +3856,6 @@ This will let you pin Hiri icon to your launcher.</source>
 <context>
     <name>SingleAttachment</name>
     <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Attachment downloaded to: </source>
         <translation type="unfinished"></translation>
     </message>
@@ -3844,17 +3867,17 @@ This will let you pin Hiri icon to your launcher.</source>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SinglePerson</name>
-    <message>
-        <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Out of office message</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Remove task</source>
         <translation type="unfinished"></translation>
@@ -3863,17 +3886,17 @@ This will let you pin Hiri icon to your launcher.</source>
         <source>Add task</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OUT OF OFFICE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Out of office message</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
-    <message>
-        <source>Ask question here</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Describe task here</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Delegate to</source>
         <translation type="unfinished"></translation>
@@ -3884,6 +3907,14 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Task for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ask question here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Describe task here</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4117,11 +4148,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>SupportDialog</name>
     <message>
-        <source>Sending feedback...</source>
+        <source>Send feedback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sending feedback...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4134,22 +4169,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send feedback</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4169,6 +4188,14 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Email will be sent to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help us help you :)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The more details you give, the better we will be able to help.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4178,6 +4205,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Attach logs to this ticket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4195,6 +4226,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 </context>
 <context>
     <name>Task</name>
+    <message>
+        <source>Were these tasks completed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Was this task completed?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You marked this message as a task on </source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>you</source>
         <translation type="unfinished"></translation>
@@ -4220,31 +4263,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Task</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> for </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You marked this message as a task on </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delegated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Task</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source> to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> for </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4787,6 +4818,71 @@ under control.</source>
     </message>
     <message>
         <source>No</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AttachmentsService</name>
+    <message>
+        <source>There was an error downloading the attachment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to save: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>DesktopService</name>
+    <message>
+        <source>From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>EmailService</name>
+    <message>
+        <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Oops! Something went wrong</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ExceptionHandler</name>
+    <message>
+        <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MiscController</name>
+    <message>
+        <source> on behalf of </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>Operation</name>
+    <message>
+        <source>Connection to server was interrupted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yikes, something went wrong</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>obj</name>
+    <message>
+        <source>Test {} interpolation</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

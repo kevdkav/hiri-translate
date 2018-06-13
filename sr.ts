@@ -5,373 +5,374 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation></translation>
+        <translation>Додај нови налог</translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation></translation>
+        <translation>Јавни календари</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation></translation>
+        <translation>Дељени календари</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation></translation>
+        <translation>Ако не можете пронаћи календар који тражите проверите да ли сте прихватили захтеве за дељењем.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation></translation>
+        <translation>Додај</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation></translation>
+        <translation>Ниједан нови јавни календар није пронађен</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation></translation>
+        <translation>Ниједан нови дељени календар није пронађен</translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation></translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation></translation>
+        <translation>Детектован је nVidia nouveau драјвер који може проузроковати проблеме. Поново покрените Хири да би сте укључили софтверско рендеровање.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail...</source>
-        <translation></translation>
+        <translation>Упс, не можемо да нађемо вашу пошту...</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation></translation>
+        <translation>Прилози</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation></translation>
+        <translation>Претражи глобални адресар (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation></translation>
+        <translation>Инсталирање...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Затвори</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation></translation>
+        <translation>Неуспело!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>
-        <translation></translation>
+        <translation>Ажурирање завршено. Поново покрените Хири...</translation>
     </message>
     <message>
         <source>Updating... %1%</source>
-        <translation></translation>
+        <translation>Ажурирање... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation></translation>
+        <translation>Сакриј</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation></translation>
+        <translation>%1 више</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation></translation>
+        <translation>назад на почетак</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation></translation>
+        <translation>Нажалост не можемо да учитамо ваш календар</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation></translation>
+        <translation>Прилоз &apos;%1&apos; ће бити скинут</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation></translation>
+        <translation>Прилог &apos;%1&apos; скинут</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation></translation>
+        <translation>Скидање прилога &apos;%1&apos; није успело</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation></translation>
+        <translation>Састанак снимљен</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation></translation>
+        <translation>Грешка приликом брисања прилога</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation></translation>
+        <translation>Грешка приликом додавања јавног календара</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation></translation>
+        <translation>Грешка приликом додавања дељеног календара</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation></translation>
+        <translation>Брисање календара</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation></translation>
+        <translation>Календар обрисан</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation></translation>
+        <translation>Календар уклоњен</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation></translation>
+        <translation>Грешка приликом уклањања календара</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation></translation>
+        <translation>Преименовање календара</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation></translation>
+        <translation>Календар преименован</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation></translation>
+        <translation>Одаберите време:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation></translation>
+        <translation>Именујте ваш календар</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation></translation>
+        <translation>Преименуј</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation></translation>
+        <translation>Обриши</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>Одустани</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation></translation>
+        <translation>Сними</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation></translation>
+        <translation>Моји календари</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation></translation>
+        <translation>Да ли сте сигурни да желите да обришете овај календар?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation></translation>
+        <translation>Да, бриши</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation></translation>
+        <translation>Не, одустани</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation></translation>
+        <translation>Јавни календари</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation></translation>
+        <translation>Да ли сте сигурни да желите да уклоните календар %1? Увек можете да га додате касније.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation></translation>
+        <translation>Да уклони</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation></translation>
+        <translation>Не одустани</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation></translation>
+        <translation>Дељени календари</translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation></translation>
+        <translation>Нови</translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation></translation>
+        <translation>Радна недеља</translation>
     </message>
     <message>
         <source>Week</source>
-        <translation></translation>
+        <translation>Недеља</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation></translation>
+        <translation>Месец</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation></translation>
+        <translation>+ %1 још</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation></translation>
+        <translation>Целодневни</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation></translation>
+        <translation>без наслова</translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation></translation>
+        <translation>Именујте ваш календар</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation></translation>
+        <translation>Одустани</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation></translation>
+        <translation>Сачувај</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation></translation>
+        <translation>Иди на данашњи датум</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation></translation>
+        <translation>Догодила се грешка, пробајте поново</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation></translation>
+        <translation>Ово је понављајући састанак.
+Да ли желите да проследите само овај састанак или цео низ?</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation></translation>
+        <translation>Једнократни састанак</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation></translation>
+        <translation>Цео низ</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation></translation>
+        <translation>Не можете отказати овај састанак јер нисте организатор. Да ли желите да га обришете?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation></translation>
+        <translation>Да, бриши.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation></translation>
+        <translation>Не, одустани.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation></translation>
+        <translation>Без понављања</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation></translation>
+        <translation>Свакодневно</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation></translation>
+        <translation>Сваког радног дана</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation></translation>
+        <translation>Сваког %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation></translation>
+        <translation>На 2 недеље</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation></translation>
+        <translation>Сваког последњег %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation></translation>
+        <translation>Сваког %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation></translation>
+        <translation>Сваког %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation></translation>
+        <translation>Нема</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation></translation>
+        <translation>0 минута</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation></translation>
+        <translation>5 минута</translation>
     </message>
     <message>
         <source>10 minutes</source>

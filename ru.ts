@@ -5,73 +5,73 @@
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation></translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation></translation>
+        <translation>Вложения</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation></translation>
+        <translation>Устанавливается...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation></translation>
+        <translation>Неуспешно!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>
-        <translation></translation>
+        <translation>Обновление завершено. Пожалуйста перезапустите Hiri...</translation>
     </message>
     <message>
         <source>Updating... %1%</source>
-        <translation></translation>
+        <translation>Обновляется... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation></translation>
+        <translation>Скрыть</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation></translation>
+        <translation>Ещё %1</translation>
     </message>
 </context>
 <context>
     <name>CalendarWebEngine</name>
     <message>
         <source>Calendar</source>
-        <translation></translation>
+        <translation>Календарь</translation>
     </message>
     <message>
         <source>We&apos;re loading your calendar...</source>
-        <translation></translation>
+        <translation>Мы загружаем ваш календарь...</translation>
     </message>
 </context>
 <context>
     <name>Collapsable</name>
     <message>
         <source>View full message</source>
-        <translation></translation>
+        <translation>Просмотреть полное сообщение</translation>
     </message>
 </context>
 <context>
     <name>ComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation></translation>
+        <translation>Отметьте опции</translation>
     </message>
 </context>
 <context>
@@ -90,18 +90,18 @@
     </message>
     <message>
         <source>Behaviour</source>
-        <translation></translation>
+        <translation>Поведение</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation></translation>
+        <translation>ваш счёт</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>CONTACT</source>
-        <translation></translation>
+        <translation>КОНТАКТ</translation>
     </message>
     <message>
         <source>EMAIL %1</source>
@@ -109,50 +109,50 @@
     </message>
     <message>
         <source>WORK PHONE</source>
-        <translation></translation>
+        <translation>РАБОЧИЙ ТЕЛЕФОН</translation>
     </message>
     <message>
         <source>MOBILE PHONE</source>
-        <translation></translation>
+        <translation>МОБИЛЬНЫЙ ТЕЛЕФОН</translation>
     </message>
     <message>
         <source>OFFICE LOCATION</source>
-        <translation></translation>
+        <translation>АДРЕС ОФИСА</translation>
     </message>
     <message>
         <source>NOTES</source>
-        <translation></translation>
+        <translation>ЗАМЕТКИ</translation>
     </message>
     <message>
         <source>ADDRESS</source>
-        <translation></translation>
+        <translation>АДРЕС</translation>
     </message>
     <message>
         <source>TITLE</source>
-        <translation></translation>
+        <translation>ЗАГОЛОВОК</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Contacts</source>
-        <translation></translation>
+        <translation>Контакты</translation>
     </message>
     <message>
         <source>NAME</source>
-        <translation></translation>
+        <translation>ИМЯ</translation>
     </message>
     <message>
         <source>DETAILS</source>
-        <translation></translation>
+        <translation>ОПИСАНИЕ</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Contacts folder</source>
-        <translation></translation>
+        <translation>Папка контактов</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -160,41 +160,41 @@
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation></translation>
+        <translation>&lt;без имени&gt;</translation>
     </message>
 </context>
 <context>
     <name>CreateNewFolderButtonInput</name>
     <message>
         <source>Create new folder</source>
-        <translation></translation>
+        <translation>Создать новую папку</translation>
     </message>
 </context>
 <context>
     <name>CredentialsWizard</name>
     <message>
         <source>Sign in</source>
-        <translation></translation>
+        <translation>Зарегистрироваться</translation>
     </message>
     <message>
         <source>Email address</source>
-        <translation></translation>
+        <translation>Адрес Email</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation></translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Different username?</source>
-        <translation></translation>
+        <translation>Другое имя пользователя?</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation></translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation></translation>
+        <translation>Подключиться</translation>
     </message>
     <message>
         <source>We&apos;re getting your mail, contacts and calendar items
@@ -214,7 +214,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Next %1</source>
-        <translation></translation>
+        <translation>Далее %1</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Settings</source>
-        <translation></translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -247,7 +247,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation></translation>
+        <translation>Редактировать профиль</translation>
     </message>
     <message>
         <source>Hi %1</source>
@@ -1963,7 +1963,7 @@ recommendations for you...</source>
     </message>
     <message>
         <source>No</source>
-        <translation></translation>
+        <translation>Нет</translation>
     </message>
 </context>
 </TS>

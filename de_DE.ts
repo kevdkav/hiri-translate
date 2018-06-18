@@ -24,7 +24,7 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>We couldn't find any new public calendars</source>
@@ -39,7 +39,7 @@
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"/>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -57,7 +57,7 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Anlagen</translation>
+        <translation>Anhänge</translation>
     </message>
 </context>
 <context>
@@ -71,34 +71,36 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation>Installieren...</translation>
+        <translation>Installiere...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Schließen</translation>
+        <translation>Schlie­ßen</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Gescheitert!</translation>
+        <translation>Fehlgeschlagen!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>
-        <translation>Aktualisierung abgeschlossen. Bitte starte Hiri neu.</translation>
+        <translation>Update abgeschlossen. Bitte Hiri neu starten...</translation>
     </message>
     <message>
         <source>Updating... %1%</source>
-        <translation>Aktualisierung... %1%</translation>
+        <translatorcomment>I would use the English here. There is a word for updating in German, but it is not used in this context.</translatorcomment>
+        <translation>Updating... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Verbergen</translation>
+        <translatorcomment>Unsure of context.</translatorcomment>
+        <translation>Verstecken</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation>%1 Mehr</translation>
+        <translation>%1 weitere</translation>
     </message>
 </context>
 <context>
@@ -182,19 +184,19 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
 </context>
 <context>
@@ -209,11 +211,11 @@
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"/>
+        <translation>Ja, löschen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
     <message>
         <source>Public calendars</source>
@@ -266,7 +268,7 @@
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation type="unfinished">Den ganzen Tag</translation>
+        <translation>Ganztägig</translation>
     </message>
     <message>
         <source>no subject</source>
@@ -281,11 +283,11 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
 </context>
 <context>
@@ -312,7 +314,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Entire series</source>
-        <translation type="unfinished"/>
+        <translation>Alle Termine in der Reihe</translation>
     </message>
     <message>
         <source>You can't cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
@@ -431,7 +433,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished">Den ganzen Tag</translation>
+        <translation>Ganztägig</translation>
     </message>
     <message>
         <source>now</source>
@@ -452,17 +454,6 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>%1 d</source>
         <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>CalendarWebEngine</name>
-    <message>
-        <source>Calendar</source>
-        <translation type="vanished">Kalender</translation>
-    </message>
-    <message>
-        <source>We're loading your calendar...</source>
-        <translation type="vanished">Wir laden Ihren Kalender ...</translation>
     </message>
 </context>
 <context>
@@ -503,20 +494,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
 </context>
 <context>
-    <name>Collapsable</name>
-    <message>
-        <source>View full message</source>
-        <translation type="vanished">Vollständige Nachricht anzeigen</translation>
-    </message>
-</context>
-<context>
-    <name>ComboBox</name>
-    <message>
-        <source>Select an option</source>
-        <translation type="vanished">Wähle eine Option</translation>
-    </message>
-</context>
-<context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
@@ -528,7 +505,8 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Tone</source>
-        <translation>Ton</translation>
+        <translatorcomment>Need context here. Assuming this means the tone of the written email. Otherwise you can also use "Klang".</translatorcomment>
+        <translation>Stil</translation>
     </message>
     <message>
         <source>Behaviour</source>
@@ -536,39 +514,12 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>your score</source>
-        <translation>Ihre Punktzahl</translation>
+        <translatorcomment>You can also use "Bewertung". But I used score across the app.</translatorcomment>
+        <translation>Score</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
-    <message>
-        <source>CONTACT</source>
-        <translation type="vanished">KONTAKT</translation>
-    </message>
-    <message>
-        <source>WORK PHONE</source>
-        <translation type="vanished">TELEFON (Arbeit)</translation>
-    </message>
-    <message>
-        <source>MOBILE PHONE</source>
-        <translation type="vanished">HANDY</translation>
-    </message>
-    <message>
-        <source>OFFICE LOCATION</source>
-        <translation type="vanished">Bürostandort</translation>
-    </message>
-    <message>
-        <source>NOTES</source>
-        <translation type="vanished">Anmerkung</translation>
-    </message>
-    <message>
-        <source>ADDRESS</source>
-        <translation type="vanished">ADRESSE</translation>
-    </message>
-    <message>
-        <source>TITLE</source>
-        <translation type="vanished">TITEL</translation>
-    </message>
     <message>
         <source>Error deleting contact</source>
         <translation type="unfinished"/>
@@ -647,7 +598,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -679,11 +630,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact: </source>
@@ -695,7 +646,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
@@ -713,28 +664,16 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>Contacts</name>
     <message>
-        <source>Contacts</source>
-        <translation type="vanished">Kontakte</translation>
-    </message>
-    <message>
-        <source>DETAILS</source>
-        <translation type="vanished">Einzelheiten</translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Suche</translation>
     </message>
     <message>
-        <source>Contacts folder</source>
-        <translation type="vanished">Kontaktordner</translation>
-    </message>
-    <message>
         <source>GAL</source>
-        <translation type="unfinished"/>
+        <translation>Kontaktverzeichnis</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;kein Name&gt;</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
@@ -769,61 +708,15 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
-    </message>
-</context>
-<context>
-    <name>CreateNewFolderButtonInput</name>
-    <message>
-        <source>Create new folder</source>
-        <translation type="vanished">Neuen Ordner erstellen</translation>
-    </message>
-</context>
-<context>
-    <name>CredentialsWizard</name>
-    <message>
-        <source>Different username?</source>
-        <translation type="vanished">Anderen Benutzernamen?</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation type="vanished">Benutzername</translation>
-    </message>
-    <message>
-        <source>Connect</source>
-        <translation type="vanished">Verbinden</translation>
-    </message>
-    <message>
-        <source>We're getting your mail, contacts and calendar items
-for the first time. You can continue to use Hiri, but it may be a little slow while this is happening.</source>
-        <translation type="vanished">Wir bekommen Ihre e-Mails, Kontakte und Kalenderelemente zum ersten Mal. Sie können weiterhin Hiri verwenden, aber es kann ein wenig langsam sein, während dies geschieht.</translation>
-    </message>
-    <message>
-        <source>Let me in anyway</source>
-        <translation type="vanished">Lassen Sie mich trotzdem</translation>
-    </message>
-</context>
-<context>
-    <name>DailyCalendarView</name>
-    <message>
-        <source>%1 Previous</source>
-        <translation type="vanished">%1 Vorherigen</translation>
-    </message>
-    <message>
-        <source>Next %1</source>
-        <translation type="vanished">Nächste %1</translation>
+        <translation>Senden</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
-    <message>
-        <source>Back to dashboard</source>
-        <translation type="vanished">Zurück zum dashboard</translation>
-    </message>
     <message>
         <source>Settings</source>
         <translation>Einstellungen</translation>
@@ -833,23 +726,20 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DashboardCalendar</name>
     <message>
         <source>All day</source>
-        <translation>Den ganzen Tag</translation>
+        <translatorcomment>need context.</translatorcomment>
+        <translation>Ganztägig</translation>
     </message>
     <message>
         <source>Go to calendar</source>
         <translation>Zum Kalender</translation>
     </message>
     <message>
-        <source>You have no meetings today</source>
-        <translation type="vanished">Sie haben heute keine Meetings</translation>
-    </message>
-    <message>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Heute</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished">Morgen</translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>Loading your meetings...</source>
@@ -888,22 +778,23 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"/>
+        <translation>Hallo!</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"/>
+        <translation>Hallo %1!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"/>
+        <translatorcomment>Need context</translatorcomment>
+        <translation>neu</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation>Seit der letzten Prüfung</translation>
+        <translation>seit letztem Check</translation>
     </message>
     <message>
         <source>emails today</source>
@@ -914,15 +805,11 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation>Ihren Kalender</translation>
+        <translation>Ihr Kalender</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation>Kommunikation Punktzahl</translation>
-    </message>
-    <message>
-        <source>Invites</source>
-        <translation type="vanished">Einladungen</translation>
+        <translation>Ihre Kommunikationsbewertung</translation>
     </message>
     <message>
         <source>Invite your friends</source>
@@ -933,7 +820,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation>Warten</translation>
+        <translation>Warten Sie</translation>
     </message>
     <message>
         <source>mins</source>
@@ -964,7 +851,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
@@ -990,74 +877,33 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
 </context>
 <context>
-    <name>DeferDetails</name>
-    <message>
-        <source>Deferred on</source>
-        <translation type="vanished">Aufgeschoben</translation>
-    </message>
-    <message>
-        <source>Deferred to</source>
-        <translation type="vanished">Aufgeschoben zu</translation>
-    </message>
-    <message>
-        <source>(Edit)</source>
-        <translation type="vanished">(Bearbeiten)</translation>
-    </message>
-</context>
-<context>
-    <name>DeferFlyout</name>
-    <message>
-        <source>This evening</source>
-        <translation type="vanished">Heute Abend</translation>
-    </message>
-    <message>
-        <source>Tomorrow</source>
-        <translation type="vanished">Morgen</translation>
-    </message>
-    <message>
-        <source>Next week</source>
-        <translation type="vanished">Nächste Woche</translation>
-    </message>
-    <message>
-        <source>Custom date and time</source>
-        <translation type="vanished">Benutzerdefinierte Datum und Zeit</translation>
-    </message>
-</context>
-<context>
-    <name>DeferLabel</name>
-    <message>
-        <source>Deferred</source>
-        <translation type="vanished">Latente</translation>
-    </message>
-</context>
-<context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished">Heute Abend</translation>
+        <translation>Heute Abend</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished">Morgen</translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished">Nächste Woche</translation>
+        <translation>Nächste Woche</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished">Benutzerdefinierte Datum und Zeit</translation>
+        <translation>Datum und Zeit definieren</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation>Eine neue Version von Hiri ist verfügbar! Möchten sie updaten?</translation>
+        <translation>Eine neue Version von Hiri ist erhältlich. Wollen Sie ein Update machen?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation>Jetzt aktualisieren</translation>
+        <translation>Jetzt updaten</translation>
     </message>
     <message>
         <source>Remind me later</source>
@@ -1065,7 +911,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Select file</source>
-        <translation>Datei auswählen</translation>
+        <translation>Datei wählen</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -1073,13 +919,13 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation type="unfinished"/>
+        <translation>Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
     </message>
 </context>
 <context>
@@ -1117,19 +963,19 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"/>
+        <translation>Ja, löschen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"/>
+        <translation>Termin absagen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1163,60 +1009,16 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
 <context>
     <name>EmailActions</name>
     <message>
-        <source>Conversation moved to spam.</source>
-        <translation type="vanished">Gespräch verschoben um spam.</translation>
-    </message>
-    <message>
-        <source>Conversation deleted.</source>
-        <translation type="vanished">Konversation gelöscht.</translation>
-    </message>
-    <message>
-        <source>Discarding draft...</source>
-        <translation type="vanished">Entwurf verwerfen...</translation>
-    </message>
-    <message>
-        <source>Draft discarded.</source>
-        <translation type="vanished">Entwurf verworfen.</translation>
-    </message>
-    <message>
         <source>Reply</source>
-        <translation>Antwort</translation>
+        <translation>Antworten</translation>
     </message>
     <message>
         <source>Delegate</source>
         <translation>Delegieren</translation>
     </message>
     <message>
-        <source>Sorry, you can’t Defer, Delete or Delegate a mail when you are offline.</source>
-        <translation type="vanished">Entschuldigung, Sie können eine E-Mail nicht verschieben, löschen oder delegieren, wenn Sie offline sind.</translation>
-    </message>
-    <message>
-        <source>Sorry, you can't delegate a meeting.</source>
-        <translation type="vanished">Sorry, kann man nicht delegieren ein treffen.</translation>
-    </message>
-    <message>
-        <source>Defer</source>
-        <translation type="vanished">Verschieben</translation>
-    </message>
-    <message>
-        <source>Sorry, you can't defer a task</source>
-        <translation type="vanished">Sorry, kann man nicht aufschieben einer Aufgabe</translation>
-    </message>
-    <message>
-        <source>Sorry, you can't defer a delegated message</source>
-        <translation type="vanished">Sorry, kann man nicht aufschieben eines Delegierten Nachricht</translation>
-    </message>
-    <message>
-        <source>Discard</source>
-        <translation type="vanished">Verwerfen</translation>
-    </message>
-    <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Forward</source>
-        <translation type="vanished">Vorwärts</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Sorry, you can't set reminders when you are offline.</source>
@@ -1252,11 +1054,11 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"/>
+        <translation>Ja, löschen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -1279,7 +1081,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished">Vorwärts</translation>
+        <translation>Weiterleiten</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
@@ -1325,22 +1127,22 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"/>
+        <translation>(GELÖSCHT)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"/>
+        <translation>(ENTWÜRFE)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"/>
+        <translation>(GELÖSCHT)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"/>
+        <translation>(ENTWÜRFE)</translation>
     </message>
 </context>
 <context>
@@ -1358,14 +1160,14 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"/>
+        <translation>(Kein Betreff)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"/>
+        <translation>(ENTWURF)</translation>
     </message>
     <message>
         <source> on behalf of </source>
@@ -1400,7 +1202,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -1415,7 +1217,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>That's the lot</source>
-        <translation type="unfinished"/>
+        <translation>Das ist alles</translation>
     </message>
     <message>
         <source>We're getting your mails...</source>
@@ -1496,19 +1298,21 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"/>
+        <translation>Von</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"/>
+        <translatorcomment>Needs to be defined.</translatorcomment>
+        <translation>Action/An</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"/>
+        <translatorcomment>Need to be defined could be "Zur Info" / "Nur Info"</translatorcomment>
+        <translation>FYI/Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <source>On behalf of</source>
@@ -1617,18 +1421,18 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"/>
+        <translation>Externe Bilder einmal anzeigen</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"/>
+        <translation>Externe Bilder von diesem Absender immer anzeigen</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"/>
+        <translation>Datei wählen</translation>
     </message>
     <message>
         <source>Attach</source>
@@ -1639,7 +1443,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished">Wähle eine Option</translation>
+        <translation>Option wählen</translation>
     </message>
 </context>
 <context>
@@ -1657,11 +1461,11 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"/>
+        <translation>Ordner %1 wird angelegt</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"/>
+        <translation>Ordner angelegt</translation>
     </message>
     <message>
         <source>Sorry, you can't rename a folder if you're offline.</source>
@@ -1681,23 +1485,23 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Are you sure you want to delete the folder "%1"?</source>
-        <translation type="unfinished"/>
+        <translation>Wollen Sie den Ordner %1 löschen?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"/>
+        <translation>Ordner %1 wird gelöscht</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"/>
+        <translation>Ordner gelöscht</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"/>
+        <translation>Ja, löschen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
     <message>
         <source>Sorry, you can't empty a folder if you're offline.</source>
@@ -1713,11 +1517,11 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"/>
+        <translation>Ordner %1 wird geleert</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"/>
+        <translation>Ordner wurde geleert.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
@@ -1752,27 +1556,27 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"/>
+        <translation>Neuer Unterordner</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"/>
+        <translation>Ordner leeren</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"/>
+        <translation>Ok</translation>
     </message>
     <message>
         <source>Create folder</source>
@@ -1973,7 +1777,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"/>
+        <translation>Drucken</translation>
     </message>
 </context>
 <context>
@@ -1995,15 +1799,15 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>Invites</name>
     <message>
         <source>Send invites</source>
-        <translation type="unfinished"/>
+        <translation>Einladungen verschicken</translation>
     </message>
     <message>
         <source>Hi,</source>
-        <translation type="unfinished"/>
+        <translation>Hallo,</translation>
     </message>
     <message>
         <source>I'd like to invite you to give Hiri a try. It's a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation type="unfinished"/>
+        <translation>Ich möchte Sie einladen Hiri auszuprobieren. Hiri ist eine neue E-Mail-Applikation, die Ihnen helfen wird Zeit zu sparen, Ihren Tag zu organisieren und Ihre Kommunikation zu verbessern. Sie können Hiri hier runterladen:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
@@ -2200,43 +2004,43 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation type="unfinished"/>
+        <translation>Neue E-Mail verfassen</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation type="unfinished"/>
+        <translation>Auf neue Nachrichten prüfen</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished"/>
+        <translation>Action</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation type="unfinished"/>
+        <translation>Verschieben in ACTION</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"/>
+        <translation>FYI</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished"/>
+        <translation>Verschieben: FYI</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"/>
+        <translation>Unsortiert</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation type="unfinished"/>
+        <translation>Verschieben: UNSORTIERT</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished">Kalender</translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback senden</translation>
     </message>
     <message>
         <source>Inbox</source>
@@ -2252,22 +2056,22 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished">Kontakte</translation>
+        <translation>Kontakte</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"/>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Einstellungen</translation>
+        <translation>Einstellungen</translation>
     </message>
 </context>
 <context>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -2285,35 +2089,37 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation type="unfinished"/>
+        <translatorcomment>not need for "please"in German :-)</translatorcomment>
+        <translation>Empfänger hinzufügen</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation type="unfinished"/>
+        <translation>Eine oder mehrere der E-Mail Adressen wurden falsch eingegeben. Bitte nach jeder Adresse Eingabe drücken</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation type="unfinished"/>
+        <translatorcomment>context!</translatorcomment>
+        <translation>Bitte alle Aufgaben ausfüllen</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"/>
+        <translation>Bitte Betreff eingeben</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Empfänger</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"/>
+        <translation>Betreff</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Senden</translation>
     </message>
     <message>
         <source>Error :(</source>
-        <translation type="unfinished"/>
+        <translation>Fehler :(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
@@ -2332,7 +2138,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"/>
+        <translation>wird gespeichert</translation>
     </message>
     <message>
         <source>saved locally</source>
@@ -2344,7 +2150,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Draft saved</source>
-        <translation type="unfinished"/>
+        <translation>Entwurf gespeichert</translation>
     </message>
     <message>
         <source>Error saving draft</source>
@@ -2384,22 +2190,22 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
 </context>
 <context>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished"/>
+        <translation>Action | An</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation type="unfinished"/>
+        <translation>FYI | Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"/>
+        <translation>Bcc</translation>
     </message>
     <message>
         <source>To</source>
@@ -2450,11 +2256,11 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>MainNotifier</name>
     <message>
         <source>Looks like you're offline or lost connection</source>
-        <translation type="unfinished"/>
+        <translation>Sie sind offline oder haben die Verbindung verloren</translation>
     </message>
     <message>
         <source>... and we're back</source>
-        <translation type="unfinished"/>
+        <translation>.... und wieder zurück</translation>
     </message>
     <message>
         <source>Checking your emails...</source>
@@ -2466,7 +2272,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Checking </source>
-        <translation type="unfinished"/>
+        <translation>Prüfe </translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient...</source>
@@ -2485,7 +2291,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"/>
+        <translation>Alles durchsuchen</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
@@ -2493,7 +2299,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>Sucheingabe</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
@@ -2501,7 +2307,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"/>
+        <translation>Alle Nachrichten werden angezeigt, Sucheingabe</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
@@ -2520,7 +2326,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"/>
+        <translation>Abwesenheitsnotiz</translation>
     </message>
     <message>
         <source>No availability data</source>
@@ -2579,14 +2385,14 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"/>
+        <translation>(Kein Betreff)</translation>
     </message>
     <message>
         <source>Start</source>
@@ -2598,7 +2404,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished">Den ganzen Tag</translation>
+        <translation>Ganztägig</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -2638,7 +2444,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Attendees</source>
-        <translation type="unfinished"/>
+        <translation>Gäste</translation>
     </message>
     <message>
         <source>This meeting has been cancelled</source>
@@ -2646,7 +2452,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
@@ -2654,18 +2460,18 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"/>
+        <translation>Ja, löschen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"/>
+        <translation>(Kein Betreff)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder...</source>
@@ -2718,7 +2524,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>MessageAttachments</name>
     <message>
         <source>1 file attached</source>
-        <translation type="unfinished"/>
+        <translation>1 Datei angehängt</translation>
     </message>
     <message>
         <source>%1 files attached</source>
@@ -2729,15 +2535,15 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>NewMessageNotification</name>
     <message>
         <source>There is a new message in this conversation</source>
-        <translation type="unfinished"/>
+        <translation>Neue Nachricht in dieser Konversation</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation type="unfinished"/>
+        <translation>Nichts tun</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation type="unfinished"/>
+        <translation>Jetzt lesen</translation>
     </message>
 </context>
 <context>
@@ -2748,7 +2554,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"/>
+        <translation>(Kein Betreff)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2837,38 +2643,38 @@ email to the next level.</source>
     <name>Pagination</name>
     <message>
         <source>Go to page</source>
-        <translation type="unfinished"/>
+        <translation>Gehe zu Seite</translation>
     </message>
 </context>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Type a name to start searching</source>
-        <translation type="unfinished"/>
+        <translation>Namen eingeben um Suche zu beginnen</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"/>
+        <translation>E-Mail</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation type="unfinished"/>
+        <translation>Abteilung</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"/>
+        <translation>Telefon</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"/>
+        <translation>Büro</translation>
     </message>
     <message>
         <source>No contacts found</source>
-        <translation type="unfinished"/>
+        <translation>Keine Kontakte gefunden</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"/>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Search contacts in Global Address List</source>
@@ -2888,7 +2694,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -2907,7 +2713,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Senden</translation>
     </message>
 </context>
 <context>
@@ -2929,75 +2735,77 @@ email to the next level.</source>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation type="unfinished"/>
+        <translation>Schön und kurz</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation type="unfinished"/>
+        <translation>Guter Ton</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation type="unfinished"/>
+        <translation>Action war klar</translation>
     </message>
     <message>
         <source>Good subject</source>
-        <translation type="unfinished"/>
+        <translation>Guter Betreff</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation type="unfinished"/>
+        <translation>Einfach und verständlich formuliert</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation type="unfinished"/>
+        <translation>Verstanden was gefragt war</translation>
     </message>
     <message>
         <source>Relevant to me</source>
-        <translation type="unfinished"/>
+        <translation>Für mich relevant</translation>
     </message>
     <message>
         <source>Inappropriate</source>
-        <translation type="unfinished"/>
+        <translation>Ungeeignet</translation>
     </message>
     <message>
         <source>Too long</source>
-        <translation type="unfinished"/>
+        <translation>Zu lang</translation>
     </message>
     <message>
         <source>Too many FYI's</source>
-        <translation type="unfinished"/>
+        <translatorcomment>should be FYIs not FYI's :-)</translatorcomment>
+        <translation>Zu viele FYIs</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
-        <translation type="unfinished"/>
+        <translation>Nicht relevant für mich</translation>
     </message>
     <message>
         <source>Should have called/met</source>
-        <translation type="unfinished"/>
+        <translation>Anruf / Meeting wäre besser gewesen</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation type="unfinished"/>
+        <translation>Schlechter Betreff</translation>
     </message>
     <message>
         <source>Not clear</source>
-        <translation type="unfinished"/>
+        <translation>Nicht klar</translation>
     </message>
     <message>
         <source>Rating...</source>
-        <translation type="unfinished"/>
+        <translation>Bewertung...</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation type="unfinished"/>
+        <translatorcomment>Did't use good job.</translatorcomment>
+        <translation>Email bewertet!</translation>
     </message>
     <message>
         <source>Send rating</source>
-        <translation type="unfinished"/>
+        <translation>Bewertung senden</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben diese E-Mail bewertet</translation>
     </message>
 </context>
 <context>
@@ -3047,43 +2855,43 @@ email to the next level.</source>
     <name>ReplyBox</name>
     <message>
         <source>saving</source>
-        <translation type="unfinished"/>
+        <translation>wird gespeichert</translation>
     </message>
     <message>
         <source>Pop out reply</source>
-        <translation type="unfinished"/>
+        <translation>Antwort größer anzeigen</translation>
     </message>
     <message>
         <source>Save draft</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Discard Draft</source>
-        <translation type="unfinished"/>
+        <translation>Verwerfen</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation type="unfinished"/>
+        <translation>Wollen Sie den Entwurf verwerfen?</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished"/>
+        <translation>Entwurf verwerfen</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation type="unfinished"/>
+        <translation>Weiter bearbeiten</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger bearbeiten</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Senden</translation>
     </message>
     <message>
         <source>Reply sent.</source>
-        <translation type="unfinished"/>
+        <translation>Antwort wurde gesendet.</translation>
     </message>
     <message>
         <source>Sending failed.</source>
@@ -3102,23 +2910,24 @@ email to the next level.</source>
     <name>ReplyToMultiple</name>
     <message>
         <source>Only reply to people who need to know.</source>
-        <translation type="unfinished"/>
+        <translation>Nur an relevante Leute antworten.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger zufügen - die E-Mail wird als FYU/CC gesendet</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translatorcomment>Context. Could be alle (everyone) or Alles (everything)</translatorcomment>
+        <translation>Alles auswählen</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
-        <translation type="unfinished"/>
+        <translation>Versuchen Sie diese Tickbox nicht zu benutzen</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"/>
+        <translation>Fertig</translation>
     </message>
     <message>
         <source>Reply to multiple</source>
@@ -3212,11 +3021,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"/>
+        <translation>Ablehnen</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"/>
+        <translation>Annehmen</translation>
     </message>
 </context>
 <context>
@@ -3230,11 +3039,11 @@ email to the next level.</source>
     <name>RightPanel</name>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"/>
+        <translation>Ordner</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished"/>
+        <translation>Aufgaben</translation>
     </message>
 </context>
 <context>
@@ -3261,7 +3070,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3322,15 +3131,16 @@ email to the next level.</source>
     <name>SearchField</name>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"/>
+        <translation>Sucheingabe</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"/>
+        <translatorcomment>context. Where is this being displayed? In the Searchbox?</translatorcomment>
+        <translation>Alle Nachrichten werden angezeigt, Sucheingabe</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"/>
+        <translation>Alles durchsuchen</translation>
     </message>
     <message>
         <source>Search the Archive</source>
@@ -3447,7 +3257,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translation>Alles auswählen</translation>
     </message>
     <message>
         <source>Mark as read</source>
@@ -3459,7 +3269,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3472,14 +3282,6 @@ email to the next level.</source>
 </context>
 <context>
     <name>SettingsAccounts</name>
-    <message>
-        <source>Your avatar</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Change</source>
-        <translation type="unfinished"/>
-    </message>
     <message>
         <source>Subscription status</source>
         <translation type="unfinished"/>
@@ -3546,56 +3348,6 @@ You can still use Hiri until connection with the server has been established.</s
         <translation type="unfinished"/>
     </message>
     <message>
-        <source>Alias addresses</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
-
-Known aliases:</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>(please note these must be existing aliases, you can't create aliases in Hiri)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Save</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Aliases saved</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Make default</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
         <source>Delete account and settings</source>
         <translation type="unfinished"/>
     </message>
@@ -3615,7 +3367,65 @@ Don't worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
+        <translation>Löschen</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
+    </message>
+    <message>
+        <source>This will take effect only after you restart Hiri</source>
         <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Your avatar</source>
+        <translation>Ihr Benutzerbild</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>Bearbeiten</translation>
+    </message>
+    <message>
+        <source>Alias addresses</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
+
+Known aliases:</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>You can enter any custom aliases here (one per line):</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>(please note these must be existing aliases, you can't create aliases in Hiri)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>Speichern</translation>
+    </message>
+    <message>
+        <source>Aliases saved</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Make default</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Make this account appear first when Hiri starts.</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Are you sure you want to make this account default?</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>Ja</translation>
     </message>
 </context>
 <context>
@@ -3673,7 +3483,7 @@ Don't worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"/>
+        <translation>Einstellungen gespeichert</translation>
     </message>
     <message>
         <source>Target folder</source>
@@ -3692,11 +3502,11 @@ Don't worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Sonntag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Montag</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
@@ -3726,7 +3536,7 @@ Don't worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished">Kommunikation Punktzahl</translation>
+        <translation>Ihre Kommunikationsbewertung</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3772,11 +3582,11 @@ Don't worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Check for update</source>
-        <translation type="unfinished"/>
+        <translation>Update suchen</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"/>
+        <translation>Du bist Hiri Version %1 verwenden</translation>
     </message>
     <message>
         <source>View changelog</source>
@@ -3784,19 +3594,19 @@ Don't worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Can't check for updates at the moment</source>
-        <translation type="unfinished"/>
+        <translation>Momentan ist es nicht möglich nach Updates zu suchen</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation type="unfinished"/>
+        <translation>Neue Version gefunden</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation type="unfinished"/>
+        <translation>Sie haben die letzte Version</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim suchen nach Updates</translation>
     </message>
 </context>
 <context>
@@ -3830,11 +3640,11 @@ Don't worry, your emails are still safe on the server!</source>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"/>
+        <translation>Abwesenheitsnotiz</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3852,6 +3662,54 @@ Don't worry, your emails are still safe on the server!</source>
 <context>
     <name>SettingsPage</name>
     <message>
+        <source>General</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Preferences</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Signature</source>
+        <translation>Signatur</translation>
+    </message>
+    <message>
+        <source>Out of office</source>
+        <translation>Abwesenheitsnotiz</translation>
+    </message>
+    <message>
+        <source>Appearance</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Calendar</source>
+        <translation>Kalender</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Archive</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard shortcuts</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Keyboard shortcuts (Ctrl + /)</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
+        <source>Dashboard</source>
+        <translation>Dashboard</translation>
+    </message>
+    <message>
+        <source>Buy Hiri</source>
+        <translation type="unfinished"/>
+    </message>
+    <message>
         <source>Settings for</source>
         <translation type="unfinished"/>
     </message>
@@ -3865,54 +3723,6 @@ Don't worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Signature</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Out of office</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Archive</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Buy Hiri</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>General</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Preferences</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Appearance</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Calendar</source>
-        <translation type="unfinished">Kalender</translation>
-    </message>
-    <message>
-        <source>Time</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard shortcuts</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"/>
-    </message>
-    <message>
-        <source>Dashboard</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3989,7 +3799,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished">Anlagen</translation>
+        <translation>Anhänge</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -4001,7 +3811,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"/>
+        <translation>Bearbeiten</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
@@ -4028,7 +3838,7 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Signatur</translation>
     </message>
     <message>
         <source>Include "--" at the top of the signature</source>
@@ -4036,7 +3846,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4047,25 +3857,25 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished">Wähle eine Option</translation>
+        <translation>Option wählen</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger hinzufügen</translation>
     </message>
 </context>
 <context>
     <name>SingleAttachment</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"/>
+        <translation>Öffnen</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"/>
+        <translation>Download</translation>
     </message>
     <message>
         <source>Attachment downloaded to: </source>
@@ -4084,11 +3894,11 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SinglePerson</name>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"/>
+        <translation>ABWESENHEIT</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"/>
+        <translation>Abwesenheitsnotiz</translation>
     </message>
     <message>
         <source>Remove task</source>
@@ -4103,11 +3913,11 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SingleTaskInput</name>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"/>
+        <translation>Frage hier stellen</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"/>
+        <translation>Aufgabe hier erklären</translation>
     </message>
     <message>
         <source>Delegate to</source>
@@ -4353,39 +4163,41 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Sending feedback...</source>
-        <translation type="unfinished"/>
+        <translation>Feedback wird verschickt...</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"/>
+        <translation>Bitte Feedback-Mitteilung schreiben</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"/>
+        <translatorcomment>no space between : and %1%1?</translatorcomment>
+        <translation>Feedback Nachricht:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation>Feedback wurde verschickt. Danke!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim verschicken vom Feedback</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Senden</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"/>
+        <translatorcomment>Again ,better would be: Diese E-Mail wird an (INSERT EMAILS) geschickt.</translatorcomment>
+        <translation>Empfänger:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"/>
+        <translation>Helfen Sie uns Ihnen zu helfen :)</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"/>
+        <translation>Feedback senden</translation>
     </message>
     <message>
         <source>Error attaching logs</source>
@@ -4421,46 +4233,46 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation type="unfinished"/>
+        <translation>An</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"/>
+        <translation>Aus</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"/>
+        <translation>Sie</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation type="unfinished"/>
+        <translation>Sie und ein anderer</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation type="unfinished"/>
+        <translation>Sie und %1 weitere</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation type="unfinished"/>
+        <translation>1 Anderer</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation type="unfinished"/>
+        <translation>%1 Andere</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"/>
+        <translation>Frage</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation type="unfinished"/>
+        <translation>Aufgabe</translation>
     </message>
     <message>
         <source> for </source>
-        <translation type="unfinished"/>
+        <translation> für </translation>
     </message>
     <message>
         <source>Were these tasks completed?</source>
@@ -4491,11 +4303,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"/>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"/>
+        <translation>Löschen</translation>
     </message>
 </context>
 <context>
@@ -4513,7 +4325,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation type="unfinished"/>
+        <translation>Gleiche Aufgabe für alle</translation>
     </message>
 </context>
 <context>
@@ -4524,7 +4336,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"/>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4580,14 +4392,14 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"/>
+        <translation>Nein, nicht löschen</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"/>
+        <translation>Sie</translation>
     </message>
     <message>
         <source>all</source>
@@ -4602,11 +4414,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Schließen</translation>
+        <translation>Schlie­ßen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"/>
+        <translation>Speichern</translation>
     </message>
 </context>
 <context>
@@ -4741,11 +4553,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"/>
+        <translation>Bitte Feedback-Mitteilung schreiben</translation>
     </message>
     <message>
         <source>Sending feedback...</source>
-        <translation type="unfinished"/>
+        <translation>Feedback wird verschickt...</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
@@ -4753,15 +4565,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation>Feedback wurde verschickt. Danke!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim verschicken vom Feedback</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you'd like to share?</source>
@@ -4769,7 +4581,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"/>
+        <translation>Senden</translation>
     </message>
 </context>
 <context>
@@ -4787,57 +4599,57 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"/>
+        <translation>Sonntag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"/>
+        <translation>Montag</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"/>
+        <translation>Dienstag</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"/>
+        <translation>Mittwoch</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"/>
+        <translation>Donnerstag</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"/>
+        <translation>Freitag</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"/>
+        <translation>Samstag</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"/>
+        <translation>Sie</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannt</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation type="unfinished"/>
+        <translation>Gerade jetzt</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"/>
+        <translation>Gestern</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished">Morgen</translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation type="unfinished"/>
+        <translation>Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4897,7 +4709,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished">Den ganzen Tag</translation>
+        <translation>Ganztägig</translation>
     </message>
     <message>
         <source>now</source>
@@ -4964,7 +4776,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"/>
+        <translation>Alles auswählen</translation>
     </message>
     <message>
         <source>Unselect</source>
@@ -5018,7 +4830,7 @@ under control.</source>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"/>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>

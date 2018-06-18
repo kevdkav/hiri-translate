@@ -1,435 +1,435 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="fr_FR" sourcelanguage="en">
+<TS version="2.1" language="eu_ES" sourcelanguage="en_GB">
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation>Calendriers Public</translation>
+        <translation>Egutegi Publikoak</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation>Calendriers Partagés</translation>
+        <translation>Egutegi Partekatuak</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Si vous ne trouvez pas le calendrier que vous recherchez, assurez-vous d&apos;avoir accepté la demande de partage.</translation>
+        <translation>Bilatzen ari zaren egutegia aurkitzen ez baduzu, ziurta zaitez hura partekatzeko eskaera onartu duzula.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Ajouter</translation>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation>Nous n&apos;avons trouvé aucun nouveau calendrier public</translation>
+        <translation>Ez dugu egutegi publiko berririk aurkitu</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation>Nous n&apos;avons trouvé aucun nouveau calendrier partagé</translation>
+        <translation>Ez dugu egutegi partekatu berririk aurkitu</translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Pilote nVidia nouveau détecté qui provoque des plantages. Veuillez redémarrer Hiri afin de forcer le rendu du logiciel.</translation>
+        <translation>Kraskadurak eragiten dituen nVidia nouveau kontrolatzailea antzeman da. Mesedez, berrekin Hiri softwarea renderizatzeko.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail...</source>
-        <translation>Oups, nous ne pouvons pas trouver votre courrier ...</translation>
+        <translation>Hara, ezin dugu zure posta elektronikoa aurkitu...</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Pièces jointes</translation>
+        <translation>Eranskinak</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Rechercher dans liste d&apos;adresses globale (%1 + Tab)</translation>
+        <translation>Bilatu Helbide Zerrenda Orokorrean (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation>Installation...</translation>
+        <translation>Instalatzen...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation>Itxi</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Échoué!</translation>
+        <translation>Huts egin du!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>
-        <translation>Mise à jour terminée. S&apos;il vous plaît redémarrer Hiri ...</translation>
+        <translation>Eguneratzen amaitu da. Mesedez, berrekin Hiri...</translation>
     </message>
     <message>
         <source>Updating... %1%</source>
-        <translation>Mise à jour... %1%</translation>
+        <translation>Eguneratzen... % %1</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Cacher</translation>
+        <translation>Ezkutatu</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation>%1 plus</translation>
+        <translation>%1 gehiago</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation>retour au début</translation>
+        <translation>itzuli hasierara</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation>Pardon. Nous ne sommes pas en mesure de charger votre calendrier</translation>
+        <translation>Barkatu. Ezin izan dugu egutegia kargatu</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation>La pièce jointe &apos;%1&apos; sera téléchargée</translation>
+        <translation>&apos;%1&apos; eranskina deskargatuko da</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation>Pièce jointe &apos;%1&apos; téléchargée</translation>
+        <translation>&apos;%1&apos; eranskina deskargatu da</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation>Le téléchargement de la pièce jointe &apos;%1&apos; a échoué</translation>
+        <translation>Ezin izan da &apos;%1&apos; eranskina deskargatu</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation>Réunion créée</translation>
+        <translation>Hitzordua sortu da</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation>Erreur lors de la suppression-de la pièce jointe</translation>
+        <translation>Errorea gertatu da eranskina ezabatzean</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation>Erreur lors de l&apos;ajout du calendrier public</translation>
+        <translation>Errorea gertatu da egutegi publikoa gehitzean</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation>Erreur lors de l&apos;ajout du calendrier partagé</translation>
+        <translation>Errorea gertatu da egutegi partekatua gehitzean</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation>Suppression du calendrier</translation>
+        <translation>Egutegia ezabatzen ari da</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation>Calendrier supprimé</translation>
+        <translation>Egutegia ezabatu da</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation>Calendrier supprimé</translation>
+        <translation>Egutegia kendu da</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation>Erreur lors de la suppression-du-calendrier</translation>
+        <translation>Errorea gertatu da egutegia kentzean</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation>Renommer le calendrier</translation>
+        <translation>Egutegiaren izena aldatzen ari da</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation>Calendrier renommé</translation>
+        <translation>Egutegiaren izena aldatu da</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Sélectionnez une heure:</translation>
+        <translation>Hautatu ordua:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Donnez un nom à votre calendrier</translation>
+        <translation>Jarri izen bat egutegiari</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Renommer</translation>
+        <translation>Aldatu izena</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation>Mes calendriers</translation>
+        <translation>Nire egutegiak</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer ce calendrier?</translation>
+        <translation>Ziur zaude egutegi hau ezabatu nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Oui, supprimez-le</translation>
+        <translation>Bai, ezabatu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation>Calendriers publics</translation>
+        <translation>Egutegi publikoak</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation>Êtes-vous sûr de vouloir supprimer le calendrier %1? Vous pouvez toujours l&apos;ajouter plus tard.</translation>
+        <translation>Ziur zaude %1 egutegia kendu nahi duzula? Gero gehitu ahal izango duzu.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation>Oui, supprimez-le</translation>
+        <translation>Bai, kendu</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation>Pas le garder</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation>Calendriers partagés</translation>
+        <translation>Egutegi partekatuak</translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation>Créer</translation>
+        <translation>Sortu</translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation>Semaine de travail</translation>
+        <translation>Lan-astea</translation>
     </message>
     <message>
         <source>Week</source>
-        <translation>Semaine</translation>
+        <translation>Astea</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation>Mois</translation>
+        <translation>Hilabetea</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation>+%1 de plus</translation>
+        <translation>+ %1 gehiago</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation>Toute la journée</translation>
+        <translation>Egun osoa</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation>pas de sujet</translation>
+        <translation>ez dago gairik</translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Donnez un nom à votre calendrier</translation>
+        <translation>Jarri izen bat egutegiari</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation>Aller à aujourd&apos;hui</translation>
+        <translation>Joan gaurko egunera</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation>Une erreur est survenue, veuillez réessayer</translation>
+        <translation>Errore bat gertatu da. Mesedez, saiatu berriro</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation>C&apos;est une réunion récurrente.
-Voulez-vous transmettre uniquement cet événement ou toute la série?</translation>
+        <translation>Hitzordu hau behin eta berriz errepikatzen da.
+Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation>Réunion unique</translation>
+        <translation>Hitzordu bat bakarrik</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation>Série complète</translation>
+        <translation>Multzo osoa</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Vous ne pouvez pas annuler cette réunion parce que vous n&apos;êtes pas l&apos;organisateur. Voulez-vous le supprimer à la place?</translation>
+        <translation>Ezin duzu hitzordua bertan behera utzi, ez baitzara antolatzailea. Ezabatu egin nahi duzu?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation>Oui, supprimez-le.</translation>
+        <translation>Bai, ezabatu.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation>Non, garde le.</translation>
+        <translation>Ez, mantendu.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation>Pas de répétition</translation>
+        <translation>Ez errepikatu</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation>Tous les jours</translation>
+        <translation>Egunero</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation>Chaque jour de travail</translation>
+        <translation>Lanegun guztietan</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation>Chaque %1</translation>
+        <translation>%1(e)ro</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation>Toutes les 2 semaines</translation>
+        <translation>2 astero</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation>Chaque dernier %1</translation>
+        <translation>Hilabeteko azken %1(e)ro</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation>Chaque %1 %3</translation>
+        <translation>%1 %3(e)ro</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation>Chaque %1 %2</translation>
+        <translation>%1 %2(e)ro</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Aucun</translation>
+        <translation>Ezer ez</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation>0 minutes</translation>
+        <translation>0 minutu</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation>5 minutes</translation>
+        <translation>5 minutu</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation>10 minutes</translation>
+        <translation>10 minutu</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation>15 minutes</translation>
+        <translation>15 minutu</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation>30 minutes</translation>
+        <translation>30 minutu</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation>1 heure</translation>
+        <translation>Ordu 1</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation>2 heures</translation>
+        <translation>2 ordu</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation>3 heures</translation>
+        <translation>3 ordu</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation>4 heures</translation>
+        <translation>4 ordu</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation>8 heures</translation>
+        <translation>8 ordu</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation>12 heures</translation>
+        <translation>12 ordu</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation>1 jour</translation>
+        <translation>Egun 1</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation>2 jours</translation>
+        <translation>2 egun</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation>3 jours</translation>
+        <translation>3 egun</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation>1 semaine</translation>
+        <translation>Aste 1</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation>2 semaines</translation>
+        <translation>2 aste</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Toute la journée</translation>
+        <translation>Egun osoa</translation>
     </message>
     <message>
         <source>now</source>
-        <translation>maintenant</translation>
+        <translation>orain</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -437,866 +437,863 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 mins</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 h</translation>
+        <translation>%1 ordu</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation>%1 j</translation>
+        <translation>%1 egun</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation>toute la journée</translation>
+        <translation>egun osoa</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation>Pas de sujet</translation>
+        <translation>Ez dago gairik</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Désolé, nous n&apos;avons pas pu déterminer quel type d&apos;e-mail vous utilisez.</translation>
+        <translation>Barkatu, ezin izan dugu aurkitu zein posta elektroniko erabiltzen ari zaren.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation>Quel est votre fournisseur de messagerie?</translation>
+        <translation>Zein da zure posta elektronikoaren hornitzailea?</translation>
     </message>
     <message>
         <source>Please choose...</source>
-        <translation>Choisissez s&apos;il vous plaît...</translation>
+        <translation>Aukeratu, mesedez...</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
-        <translation>Vous ne voyez pas votre fournisseur de messagerie répertorié ici? Actuellement, Hiri travaille avec Office365, Outlook.com (Hotmail/Live/MSN) et Exchange. Si tu as besoin d&apos;aide, </translation>
+        <translation>Zure posta elektronikoaren hornitzailea ez dago zerrenda honetan? Hirik Office365, Outlook.com (Hotmail/Live/MSN) eta Exchange hornitzaileekin lan egiten du. Laguntza behar baduzu, </translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation>Contactez nous.</translation>
+        <translation>jarri gurekin harremanetan.</translation>
     </message>
 </context>
 <context>
     <name>Collapsable</name>
     <message>
         <source>View full message</source>
-        <translation>Voir le message complet</translation>
+        <translation>Ikusi mezu osoa</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation>Clarté</translation>
+        <translation>Argitasuna</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation>Brièveté</translation>
+        <translation>Laburtasuna</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation>Ton</translation>
+        <translation>Tonua</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation>Comportement</translation>
+        <translation>Jarrera</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation>ton score</translation>
+        <translation>zure kalifikazioa</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation>Erreur lors de la suppression du contact</translation>
+        <translation>Errorea gertatu da kontaktua ezabatzean</translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation>Afficher un nom</translation>
+        <translation>Bistaratu izena</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation>Compagnie</translation>
+        <translation>Enpresa</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation>Département</translation>
+        <translation>Saila</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>Contact</translation>
+        <translation>Kontaktua</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation>Prénom</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Nom de famille</translation>
+        <translation>Abizena</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation>Email %1</translation>
+        <translation>%1 helbide elektronikoa</translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation>Téléphone de travail</translation>
+        <translation>Laneko telefono-zenbakia</translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation>Téléphone portable</translation>
+        <translation>Mugikorreko zenbakia</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Titre</translation>
+        <translation>Titulua</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation>Emplacement du bureau</translation>
+        <translation>Bulegoaren Kokapena</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Addresse</translation>
+        <translation>Helbidea</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation>Rue</translation>
+        <translation>Kalea</translation>
     </message>
     <message>
         <source>City</source>
-        <translation>Ville</translation>
+        <translation>Hiria</translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Etat</translation>
+        <translation>Estatua</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation>Pays</translation>
+        <translation>Herrialdea</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation>Code postal</translation>
+        <translation>Posta-kodea</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notes</translation>
+        <translation>Oharrak</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editer</translation>
+        <translation>Editatu</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation>Email 1 n&apos;est pas une adresse e-mail valide</translation>
+        <translation>1 helbide elektronikoa baliogabea da</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation>Email 2 n&apos;est pas une adresse e-mail valide</translation>
+        <translation>2 helbide elektronikoa baliogabea da</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation>Un contact doit avoir un nom ou une adresse e-mail</translation>
+        <translation>Kontaktuak izen edo helbide elektroniko bat izan behar du</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation>Erreur de mise à jour du contact</translation>
+        <translation>Errorea gertatu da kontaktua eguneratzean</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation>%1 est déjà dans vos contacts</translation>
+        <translation>%1 zure kontaktuen artean dago jadanik</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation>Erreur lors de la création d&apos;un contact</translation>
+        <translation>Errorea gertatu da kontaktua sortzean</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact: </source>
-        <translation>Êtes-vous sûr de vouloir supprimer le contact: </translation>
+        <translation>Ziur zaude kontaktu hau ezabatu nahi duzula: </translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation>Oui, supprimez-le.</translation>
+        <translation>Bai, ezabatu.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation>Ajouter à vos contacts</translation>
+        <translation>Gehitu zure kontaktuetara</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation>ajouté à votre dossier de contacts</translation>
+        <translation>zure kontaktuen karpetara gehitu da</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation>Erreur de création de contact</translation>
+        <translation>Errorea gertatu da kontaktua sortzean</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation>Chercher</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation>GAL</translation>
+        <translation>Helbide Zerrenda Orokorra</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation>&lt;pas de nom&gt;</translation>
+        <translation>&lt;ez dago izenik&gt;</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation>Afficher tous les contacts, taper pour rechercher</translation>
+        <translation>Kontaktu guztiak bistaratzen, idatzi bilatzeko</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation>Tous les contacts</translation>
+        <translation>Kontaktu guztiak</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation>&lt;pas d&apos;email&gt;</translation>
+        <translation>&lt;ez dago helbide elektronikorik&gt;</translation>
     </message>
     <message>
         <source>In </source>
-        <translation>Dans </translation>
+        <translation>Hemen</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation>Créer un contact</translation>
+        <translation>Sortu kontaktu bat</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation>Sélectionnez un contact</translation>
+        <translation>Hautatu kontaktu bat</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation>Annuler l&apos;édition</translation>
+        <translation>Utzi editatzeari</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Envoyer</translation>
+        <translation>Bidali</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation>Ezarpenak</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>All day</source>
-        <translation>Toute la journée</translation>
+        <translation>Egun osoa</translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation>Aller au calendrier</translation>
+        <translation>Joan egutegira</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Aujourd&apos;hui</translation>
+        <translation>Gaur</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Demain</translation>
+        <translation>Bihar</translation>
     </message>
     <message>
         <source>Loading your meetings...</source>
-        <translation>Chargement de vos réunions...</translation>
+        <translation>Zure hitzorduak kargatzen...</translation>
     </message>
     <message>
         <source>You have no meetings </source>
-        <translation>Vous n&apos;avez pas de réunion </translation>
+        <translation>Ez duzu hitzordurik </translation>
     </message>
     <message>
         <source>today</source>
-        <translation>aujourd&apos;hui</translation>
+        <translation>gaur</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation>demain</translation>
+        <translation>bihar</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation>Impossible de charger les réunions :(</translation>
+        <translation>Ezin izan dira hitzorduak kargatu :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation>Vos réunions seront mises à jour une fois que vous serez de retour en ligne</translation>
+        <translation>Zure hitzorduak berriz linean zaudenean eguneratuko dira</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation>pas de sujet</translation>
+        <translation>(ez dago gairik)</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation>Editer le profil</translation>
+        <translation>Editatu profila</translation>
     </message>
     <message>
         <source>Hi %1</source>
-        <translation>Salut %1</translation>
+        <translation>Kaixo %1</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation>Salut!</translation>
+        <translation>Kaixo!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation>nouveau</translation>
+        <translation>berria</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation>depuis le dernier contrôle</translation>
+        <translation>azken egiaztapena egin zenetik</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation>emails aujourd&apos;hui</translation>
+        <translation>gaurko mezu elektronikoak</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation>Votre calendrier</translation>
+        <translation>Zure egutegia</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation>Score de communication</translation>
+        <translation>Komunikazioaren kalifikazioa</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation>Invite tes amis</translation>
+        <translation>Gonbidatu zure lagunak</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation>attendez</translation>
+        <translation>itxaron</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation>mins</translation>
+        <translation>minutu</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation>Vérifier</translation>
+        <translation>Egiaztatu</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation>Pas de nouveau courrier</translation>
+        <translation>Ez dago mezu berririk</translation>
     </message>
 </context>
 <context>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation>Date:</translation>
+        <translation>Data:</translation>
     </message>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translatorcomment>à:16h</translatorcomment>
-        <translation>à</translation>
+        <translation>16:00etan</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation>Annuler le rappel</translation>
+        <translation>Baliogabetu ohartarazpena</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation>Début</translation>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>End</source>
-        <translation>Fin</translation>
+        <translation>Amaiera</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation>Définir un rappel</translation>
+        <translation>Jarri ohartarazpen bat</translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation>Ce soir</translation>
+        <translation>Gaur arratsaldean</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Demain</translation>
+        <translation>Bihar</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>Prochaine semaine</translation>
+        <translation>Hurrengo astean</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation>Date et heure personnalisées</translation>
+        <translation>Data eta ordu pertsonalizatuak</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation>Une nouvelle version de Hiri est disponible! Voulez-vous mettre à jour?</translation>
+        <translation>Hiriren bertsio berri bat dago erabilgarri! Eguneratu egin nahi duzu?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation>Mettre à jour maintenant</translation>
+        <translation>Eguneratu orain</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation>Rappelez-moi plus tard</translation>
+        <translation>Gogorarazi geroago</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>Choisir le fichier</translation>
+        <translation>Hautatu fitxategia</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation>Enregistrer sous</translation>
+        <translation>Gorde honela</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Désolé, certaines pièces jointes n&apos;ont pas pu être trouvées et seront supprimées:
-
-</translation>
+        <translation>Barkatu, eranskin batzuk ezin izan dira aurkitu eta kendu egingo dira: </translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation>Télécharger toutes les pièces jointes</translation>
+        <translation>Deskargatu eranskin guztiak</translation>
     </message>
     <message>
         <source>Attachments downloaded to: </source>
-        <translation>Pièces jointes téléchargées sur: </translation>
+        <translation>Eranskinak hemen deskargatu dira: </translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation>Erreur lors du téléchargement de toutes les pièces jointes</translation>
+        <translation>Errorea gertatu da eranskin guztiak deskargatzean</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation>Êtes-vous sûr de vouloir annuler cette réunion?</translation>
+        <translation>Ziur zaude hitzordu hau bertan behera utzi nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation>Oui, l&apos;annuler</translation>
+        <translation>Bai, bertan behera utzi</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation>Non ne pas annuler</translation>
+        <translation>Ez, bere horretan mantendu</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer cette réunion?</translation>
+        <translation>Ziur zaude hitzordu hau ezabatu nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Oui, supprimez-le</translation>
+        <translation>Bai, ezabatu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation>Annuler la réunion</translation>
+        <translation>Hitzordua bertan behera utzi</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editer</translation>
+        <translation>Editatu</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation>Annuler les séries</translation>
+        <translation>Baliogabetu multzo osoa</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation>Supprimer les séries</translation>
+        <translation>Ezabatu multzo osoa</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation>Modifier la série</translation>
+        <translation>Editatu multzo osoa</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation>Annuler l&apos;occurrence</translation>
+        <translation>Baliogabetu gertakaria</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation>Supprimer l&apos;occurrence</translation>
+        <translation>Ezabatu gertakaria</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation>Modifier l&apos;occurrence</translation>
+        <translation>Editatu gertakaria</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Reply</source>
-        <translation>Répondre</translation>
+        <translation>Erantzun</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation>Déléguer</translation>
+        <translation>Eskuordetu</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation>Désolé, vous ne pouvez pas définir de rappels lorsque vous êtes hors connexion.</translation>
+        <translation>Barkatu, ezin duzu ohartarazpenik jarri offline bazaude.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation>Accepter une réunion</translation>
+        <translation>Onartu hitzordua</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation>Refuser la réunion</translation>
+        <translation>Egin uko hitzorduari</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation>Répondre à tous</translation>
+        <translation>Erantzun denak</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation>Vous avez déjà un brouillon sur ce message</translation>
+        <translation>Jadanik baduzu mezu honen zirriborro bat</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archiver</translation>
+        <translation>Artxibatu</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation>Snooze</translation>
+        <translation>Errepikatu</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation>Cette conversation contient des brouillons. Es-tu sûr de vouloir la supprimer?</translation>
+        <translation>Elkarrizketa honek zirriborroak ditu. Ziur zaude ezabatu egin nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Oui, supprimez-le</translation>
+        <translation>Bai, ezabatu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation>Ouvrir dans une nouvelle fenetre</translation>
+        <translation>Ireki leiho berri batean</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation>Marquer comme non lu</translation>
+        <translation>Markatu irakurri gabe gisa</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Marquer comme lu</translation>
+        <translation>Markatu irakurrita gisa</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation>Vous avez déjà un brouillon sur ce message</translation>
+        <translation>Jadanik baduzu mezu honen zirriborro bat</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Vers l&apos;avant</translation>
+        <translation>Birbidali</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation>Imprimer / Enregistrer en PDF</translation>
+        <translation>Inprimatu / Gorde PDF gisa</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation>Marquer comme non indésirable</translation>
+        <translation>Ez markatu zabor-posta gisa</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation>Marquer comme indésirable</translation>
+        <translation>Markatu zabor-posta gisa</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation>Désolé, nous ne prenons pas en charge %1. Hiri ne fonctionne qu&apos;avec une adresse e-mail Exchange / Office 365.</translation>
+        <translation>Barkatu, ez dugu %1 sostengatzen. Hirik Exchange/Office 365 helbide elektronikoekin bakarrik funtzionatzen du.</translation>
     </message>
     <message>
         <source>Let&apos;s get you started.</source>
-        <translation>Commencer maintenant.</translation>
+        <translation>Has gaitezen.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation>Entrez votre adresse email</translation>
+        <translation>Sartu zure helbide elektronikoa</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>Quelqu&apos;un@votrefournisseur.com</translation>
+        <translation>izena@zurehornitzailea.com</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation>L&apos;étape suivante</translation>
+        <translation>Hurrengo urratsa</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation>(SUPPRIMÉ)</translation>
+        <translation>(EZABATUTA)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation>(BROUILLONS)</translation>
+        <translation>(ZIRRIBORROAK)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation>(SUPPRIMÉ)</translation>
+        <translation>(EZABATUTA)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation>(BROUILLONS)</translation>
+        <translation>(ZIRRIBORROAK)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder...</source>
-        <translation>Erreur lors de la définition d&apos;un rappel...</translation>
+        <translation>Errorea gertatu da ohartarazpena ezartzean...</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source> conversations selected</source>
-        <translation> conversations sélectionnées</translation>
+        <translation> hautatutako elkarrizketak</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation>(Pas de sujet)</translation>
+        <translation>(Ez dago gairik)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation>(BROUILLON)</translation>
+        <translation>(ZIRRIBORROA)</translation>
     </message>
     <message>
         <source> on behalf of </source>
-        <translation> de la part de </translation>
+        <translation> noren izenean </translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation>Demande de réunion acceptée.</translation>
+        <translation>Hitzordu-eskaera onartu da.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation>Nouvelle heure proposée: %1 - %2</translation>
+        <translation>Proposatutako ordu berria: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation>Demande de réunion provisoirement acceptée.</translation>
+        <translation>Hitzordu-eskaera behin-behineko izaeraz onartu da.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation>Demande de réunion refusée.</translation>
+        <translation>Uko egin zaio hitzordu-eskaerari.</translation>
     </message>
     <message>
         <source>Meeting request has been canceled.</source>
-        <translation>La demande de réunion a été annulée.</translation>
+        <translation>Hitzordu-eskaera bertan behera geratu da.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation>Quand: %1</translation>
+        <translation>Noiz: %1</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation>Ajouter des destinataires</translation>
+        <translation>Gehitu hartzaileak</translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source> matches found</source>
-        <translation> correspondances trouvées</translation>
+        <translation> bat-etortze aurkitu dira</translation>
     </message>
     <message>
         <source>Loading...</source>
-        <translation>Chargement...</translation>
+        <translation>Kargatzen...</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation>C&apos;est le lot</translation>
+        <translation>Hori da dena</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails...</source>
-        <translation>Nous recevons vos mails ...</translation>
+        <translation>Zure mezu elektronikoak jasotzen ari gara...</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation>Vous ne voyez toujours pas d&apos;e-mails?</translation>
+        <translation>Oraindik ez dituzu mezu batzuk ikusten?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation>Obtenez plus de courrier</translation>
+        <translation>Jaso mezu elektroniko gehiago</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation>Cette réunion a été mise à jour</translation>
+        <translation>Hitzordu hau eguneratu egin da</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message upload has failed.</source>
-        <translation>L&apos;envoi du message a échoué.</translation>
+        <translation>Ezin izan da mezua eguneratu.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation>Le message est plus volumineux que le serveur ne le permet.</translation>
+        <translation>Mezua zerbitzariak ahalbidetzen duena baino luzeagoa da.</translation>
     </message>
     <message>
         <source>Message marked as junk</source>
-        <translation>Message marqué comme indésirable</translation>
+        <translation>Mezua zabor-posta gisa markatu da</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation>Le message n&apos;est plus indésirable. Déplacé vers la boîte de réception.</translation>
+        <translation>Mezua ez da zabor gisa hartuko. Sarrerako ontzira mugitu da.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation>Marqué comme indésirable</translation>
+        <translation>Zabor-posta gisa markatu da</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation>Plus d&apos;indésirables. Déplacé vers la boîte de réception.</translation>
+        <translation>Ez da zabor gisa hartuko. Sarrerako ontzira mugitu da.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation>Demande de réunion acceptée</translation>
+        <translation>Hitzordu-eskaera onartu da</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation>Demande de réunion refusée</translation>
+        <translation>Hitzordu-eskaerari uko egin zaio</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation>Le message non envoyé est dans votre dossier Boîte d&apos;envoi. Essayez de scinder les pièces jointes entre plusieurs messages.</translation>
+        <translation>Bidali gabe geratu den mezua Irteerako Ontzian dago. Saiatu eranskinak hainbat mezutan zatitzen.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation>Vous etes hors ligne. Le courrier a été déplacé vers la boîte d&apos;envoi.</translation>
+        <translation>Offline zaude. Mezua Irteerako Ontzira mugitu da.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation>Nous n&apos;avons pas pu envoyer votre message - il contient des destinataires invalides</translation>
+        <translation>Ezin izan dugu zure mezua bidali - hartzaile baliogabeak ditu</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation>Yikes! Quelque chose s&apos;est mal passé!</translation>
-    </message>
+        <translation>Arraioa! Akats bat gertatu da!</translation>
+    </message>https://secure-ds.serving-sys.com/BurstingRes/Site-109103/Type-0/e89e2359-d6ef-4c61-a06a-b0973cf0caba.jpg
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Message déplacé à FYI. Tâche supprimée</translation>
+        <translation>Mezua FYI ontzira mugitu da. Ataza kendu egin da.</translation>
     </message>
 </context>
 <context>
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation>De</translation>
+        <translation>Nork</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation>Action/À</translation>
+        <translation>Ekintza/Nori</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
@@ -1308,11 +1305,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>On behalf of</source>
-        <translation>De la part de</translation>
+        <translation>Noren izenean</translation>
     </message>
     <message>
         <source>To</source>
-        <translation>À</translation>
+        <translation>Nori</translation>
     </message>
     <message>
         <source>Cc</source>
@@ -1323,39 +1320,39 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation>Connexion Exchange</translation>
+        <translation>Exchange saio-hasiera</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>Quelqu&apos;un@votrefournisseur.com</translation>
+        <translation>izena@zurehornitzailea.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation>mot de passe</translation>
+        <translation>pasahitza</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation>nom d&apos;utilisateur (facultatif)</translation>
+        <translation>erabiltzaile-izena (hautazkoa)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation>Problème de connexion? Cliquez ici</translation>
+        <translation>Saioa hasteko arazoak dituzu? Egin klik hemen</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation>Découverte automatique des paramètres du serveur</translation>
+        <translation>Zerbitzariari dagozkion ezarpenen aurkitze automatikoa</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation>Serveur</translation>
+        <translation>Zerbitzaria</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation>serveur (exp: server.domain.com)</translation>
+        <translation>zerbitzaria (adibidez, zerbitzaria.domeinua.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation>Authentification</translation>
+        <translation>Autentifikazioa</translation>
     </message>
     <message>
         <source>NTLM</source>
@@ -1363,11 +1360,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Basic</source>
-        <translation>Basique</translation>
+        <translation>Oinarrizkoa</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation>Version du serveur</translation>
+        <translation>Zerbitzariaren bertsioa</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
@@ -1379,7 +1376,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Protocol</source>
-        <translation>Protocole</translation>
+        <translation>Protokoloa</translation>
     </message>
     <message>
         <source>HTTPS</source>
@@ -1391,616 +1388,616 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation>Vérifier le certificat SSL</translation>
+        <translation>Egiaztatu SSL ziurtagiria</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation>L&apos;étape suivante</translation>
+        <translation>Hurrengo urratsa</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation>Pas Exchange?</translation>
+        <translation>Ez da Exchange?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation>Déposez les fichiers ici</translation>
+        <translation>Jaregin fitxategiak hona</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation>Afficher les images externes une fois</translation>
+        <translation>Bistaratu kanpoko irudiak behin</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation>Toujours afficher les images externes de cet expéditeur</translation>
+        <translation>Bistaratu beti bidaltzaile honen kanpoko irudiak</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation>Veuillez choisir un fichier</translation>
+        <translation>Mesedez, hautatu fitxategi bat</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation>Attacher</translation>
+        <translation>Erantsi</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation>Choisir une option</translation>
+        <translation>Hautatu aukera bat</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation>Sélectionner le dossier</translation>
+        <translation>Hautatu karpeta</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation>Désolé, vous ne pouvez pas créer de dossier si vous êtes hors connexion.</translation>
+        <translation>Barkatu, ezin duzu karpetarik sortu offline bazaude.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation>Création dossier %1</translation>
+        <translation>%1 karpeta sortzen</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation>Dossier créé</translation>
+        <translation>Karpeta sortu da</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation>Désolé, vous ne pouvez pas renommer un dossier si vous êtes hors connexion.</translation>
+        <translation>Barkatu, ezin duzu karpetaren izena aldatu offline bazaude.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation>Dossier renommé</translation>
+        <translation>Karpetaren izena aldatu da</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation>Désolé, vous ne pouvez pas supprimer un dossier si vous êtes hors connexion.</translation>
+        <translation>Barkatu, ezin duzu karpeta bat ezabatu offline bazaude.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer définitivement le dossier et le contenu de &quot;%1&quot;?</translation>
+        <translation>Ziur zaude &quot;%1&quot; karpeta eta eduki guztia betiko ezabatu nahi dituzula?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer le dossier &quot;%1&quot;?</translation>
+        <translation>Ziur zaude &quot;%1&quot; karpeta ezabatu nahi duzula?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation>Suppression du dossier %1</translation>
+        <translation>%1 karpeta ezabatzen</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation>Dossier supprimé</translation>
+        <translation>Karpeta ezabatu da</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Oui, supprimez-le</translation>
+        <translation>Bai, ezabatu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation>Désolé, vous ne pouvez pas vider un dossier si vous êtes hors connexion.</translation>
+        <translation>Barkatu, ezin duzu karpeta bat hustu offline bazaude.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer définitivement tous les éléments et sous-dossiers du dossier &quot;%1&quot;?</translation>
+        <translation>Ziur zaude &quot;%1&quot; karpetako elementu eta azpikarpeta guztiak betiko ezabatu nahi dituzula?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer tous les éléments du dossier &quot;%1&quot;?</translation>
+        <translation>Ziur zaude &quot;%1&quot; karpetako elementu guztiak ezabatu nahi dituzula?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation>Vider le dossier %1</translation>
+        <translation>%1 karpeta husten</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation>Dossier vidé.</translation>
+        <translation>Karpeta hustu da.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation>Oui, supprimez-les</translation>
+        <translation>Bai, ezabatu</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation>Non, gardez-les</translation>
+        <translation>Ez, mantendu</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation>Désolé, vous ne pouvez pas déplacer les dossiers lorsque vous êtes hors connexion.</translation>
+        <translation>Barkatu, ezin dituzu karpetak mugitu offline bazaude.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation>Désolé, vous ne pouvez pas marquer comme lu tant que vous n&apos;êtes pas connecté.</translation>
+        <translation>Barkatu, ezin duzu irakurrita gisa markatu offline bazaude.</translation>
     </message>
     <message>
         <source>Marking all as read...</source>
-        <translation>Marquer tout comme lu ...</translation>
+        <translation>Dena irakurrita gisa markatzen...</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation>Tous les éléments marqués comme lus.</translation>
+        <translation>Elementu guztiak irakurrita gisa markatu dira.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation>Erreur lors du marquage des éléments lus.</translation>
+        <translation>Errorea gertatu da elementuak irakurrita gisa markatzean.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation>Créer un sous-dossier</translation>
+        <translation>Sortu azpikarpeta bat</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Renommer</translation>
+        <translation>Aldatu izena</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation>Contenu vide</translation>
+        <translation>Hustu edukiak</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation>Créer un dossier</translation>
+        <translation>Sortu karpeta bat</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation>Tout marquer comme lu</translation>
+        <translation>Markatu dena irakurrita gisa</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation>Ajouté à la signature: &quot;Je contrôle mes emails &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</translation>
+        <translation>Honako hau gehitu da sinadurara: &quot;Nire mezu elektronikoak kontrolatzen ditut &lt;a href=&quot;https://www.hiri.com/&quot;&gt; Hiri&lt;/a&gt; erabiltzen dudan bitartean&quot;</translation>
     </message>
 </context>
 <context>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation>Africain - Afrique du Sud</translation>
+        <translation>Afrikaans - Hegoafrika</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation>Bulgare</translation>
+        <translation>Bulgariera</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation>Catalan</translation>
+        <translation>Katalana</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation>Tchèque</translation>
+        <translation>Txekiera</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation>Danois</translation>
+        <translation>Daniera</translation>
     </message>
     <message>
         <source>German</source>
-        <translation>Allemand</translation>
+        <translation>Alemana</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation>Grec</translation>
+        <translation>Greziera</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation>Anglais - Canada</translation>
+        <translation>Ingelesa - Kanada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation>Anglais - Royaume Uni</translation>
+        <translation>Ingelesa - Erresuma Batua</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation>Anglais - États Unis</translation>
+        <translation>Ingelesa - Estatu Batuak</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation>Espagnol - Espagne</translation>
+        <translation>Espainiera - Espainia</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation>Estonien</translation>
+        <translation>Estoniera</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation>Farsi</translation>
+        <translation>Persiera</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation>Féroïen</translation>
+        <translation>Faroera</translation>
     </message>
     <message>
         <source>French</source>
-        <translation>Français</translation>
+        <translation>Frantsesa</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation>Hébreu</translation>
+        <translation>Hebreera</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation>Hindi</translation>
+        <translation>Hindia</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation>Croate</translation>
+        <translation>Kroaziera</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation>Hongrois</translation>
+        <translation>Hungariera</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation>Indonésien</translation>
+        <translation>Indonesiera</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation>Italien</translation>
+        <translation>Italiera</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation>Coréen</translation>
+        <translation>Koreera</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation>Lituanien</translation>
+        <translation>Lituaniera</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation>Letton</translation>
+        <translation>Letoniera</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation>Norvégien (Bokmål)</translation>
+        <translation>Norvegiera (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation>Néerlandais - Pays-Bas</translation>
+        <translation>Nederlandera - Herbehereak</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation>Polonais</translation>
+        <translation>Poloniera</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation>Portugais - Brésil</translation>
+        <translation>Portugalera - Brasil</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation>Portugais - Portugal</translation>
+        <translation>Portugalera - Portugal</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation>Roumain</translation>
+        <translation>Errumaniera</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation>Russe</translation>
+        <translation>Errusiera</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation>Serbe (Latin)</translation>
+        <translation>Serbiera (Latina)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation>Slovaque</translation>
+        <translation>Eslovakiera</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation>Slovène</translation>
+        <translation>Esloveniera</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation>Albanais</translation>
+        <translation>Albaniera</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation>Serbe (Cyrillique)</translation>
+        <translation>Serbiera (Zirilikoa)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation>Suédois</translation>
+        <translation>Suediera</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation>Tamil</translation>
+        <translation>Tamilera</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation>Tadjik</translation>
+        <translation>Tajikera</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation>Turc</translation>
+        <translation>Turkiera</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation>Ukrainien</translation>
+        <translation>Ukrainera</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>Vietnamien</translation>
+        <translation>Vietnamera</translation>
     </message>
 </context>
 <context>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation>Imprimer l&apos;emplacement du fichier</translation>
+        <translation>Inprimatu fitxategiaren kokapena</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation>Désolé, la création de PDF a échoué. :(</translation>
+        <translation>Barkatu, ezin izan da PDFa sortu.:(</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Impression</translation>
+        <translation>Inprimatu</translation>
     </message>
 </context>
 <context>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Message déplacé à FYI. Tâche supprimée.</translation>
+        <translation>Mezua FYI ontzira bidali da. Ataza kendu egin da.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation>Boîte de réception unifiée</translation>
+        <translation>Sarrerako ontzi bateratua</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation>Déplacer vers Non trié</translation>
+        <translation>Mugitu Sailkatu gabeak ontzira</translation>
     </message>
 </context>
 <context>
     <name>Invites</name>
     <message>
         <source>Send invites</source>
-        <translation>Envoie des invitations</translation>
+        <translation>Bidali gonbidapenak</translation>
     </message>
     <message>
         <source>Hi,</source>
-        <translation>Salut,</translation>
+        <translation>Kaixo,</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation>Je voudrais vous inviter à essayer Hiri. C&apos;est une nouvelle application de messagerie qui vous permet de gagner du temps, d&apos;organiser votre journée et d&apos;améliorer la communication. Télécharger les ici:</translation>
+        <translation>Hiri probatzera gonbidatu nahi zaitut. Denbora aurrezten, eguna antolatzen eta komunikazioa hobetzen lagunduko dizun posta elektronikorako aplikazio berri bat da. Deskargatu hemen:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation>Si vous l&apos;aimez, vous pouvez obtenir 25% de réduction en utilisant le lien suivant:</translation>
+        <translation>Gogoko baduzu, % 25eko deskontua izan dezakezu honako esteka hau erabilita:</translation>
     </message>
     <message>
         <source>Thanks!</source>
-        <translation>Merci!</translation>
+        <translation>Eskerrik asko!</translation>
     </message>
     <message>
         <source>Check Hiri out...</source>
-        <translation>Vérifiez Hiri dehors ...</translation>
+        <translation>Ikuskatu Hiri...</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation>Partager l&apos;amour!</translation>
+        <translation>Partekatu maitasuna!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get </source>
-        <translation>Invitez vos amis et collègues à essayer Hiri. Les 3 premières personnes que vous invitez </translation>
+        <translation>Gonbidatu zure lagunei eta lankideei Hiri probatzera. Gonbidatzen dituzun lehen 3 pertsonek </translation>
     </message>
     <message>
         <source>25% off</source>
-        <translation>25% de réduction</translation>
+        <translation>% 25eko deskontua izango dute</translation>
     </message>
     <message>
         <source> if they like it and decide to signup. We&apos;ll give you </source>
-        <translation> s&apos;ils aiment et décident de s&apos;inscrire. Nous allons vous donner </translation>
+        <translation> gogoko badute eta kontratatzea erabakitzen badute. Zuri ere egingo dizugu deskontua </translation>
     </message>
     <message>
         <source> too if you send to just 3 people, even if they don&apos;t signup. :)</source>
-        <translation> aussi si vous envoyez à seulement 3 personnes, même si elles ne sont pas inscrites. :)</translation>
+        <translation>gonbidapena 3 pertsonei bidaltzen badiezu, baita kontratatzen ez badute ere. :)</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation>Vous devriez inviter les gens à qui vous écrivez le plus. Vous allez tous les deux bénéficier des courriels Actionable et FYI.</translation>
+        <translation>Mezu elektroniko gehien bidaltzen dizkiezun pertsonei gonbidatu beharko zenieke. Biek bereganatuko dituzue Actionable eta FYI mezuen abantailak.</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation>Raccourcis clavier</translation>
+        <translation>Laster-teklak</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation>Parcourir les emails</translation>
+        <translation>Mezu elektronikoak arakatzen</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation>Conversation suivante / précédente:</translation>
+        <translation>Hurrengo/aurreko elkarrizketa:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation>Conversation suivante / précédente (lorsqu&apos;elle est ouverte):</translation>
+        <translation>Hurrengo/aurreko elkarrizketa (irekita dagoenean):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation>Faites défiler vers le haut / bas:</translation>
+        <translation>Joan gora/behera:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation>Haut / bas de la page actuelle:</translation>
+        <translation>Orrialde honen goialdea/behealdea:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation>Ouvrir la conversation:</translation>
+        <translation>Ireki elkarrizketa:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation>Fermer la conversation:</translation>
+        <translation>Itxi elkarrizketa:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation>Ouvrir la recherche:</translation>
+        <translation>Ireki bilaketa:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation>Actions par email</translation>
+        <translation>Posta elektronikoko ekintzak</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation>Répondre:</translation>
+        <translation>Erantzun:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation>Répondre à tous:</translation>
+        <translation>Erantzun denei:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation>Effacer:</translation>
+        <translation>Ezabatu:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation>Vers l&apos;avant:</translation>
+        <translation>Birbidali:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation>Marquer comme lu:</translation>
+        <translation>Markatu irakurrita gisa:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation>Marquer comme non lu:</translation>
+        <translation>Markatu irakurri gabe gisa:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation>Archiver:</translation>
+        <translation>Artxibatu:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation>Mode multi-sélection</translation>
+        <translation>Hautaketa anitzaren modua</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation>Sélectionnez la conversation:</translation>
+        <translation>Hautatu elkarrizketa:</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation>Tout sélectionner:</translation>
+        <translation>Hautatu dena:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation>Effacer la sélection:</translation>
+        <translation>Garbitu hautaketa:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation>Navigation</translation>
+        <translation>Nabigazioa</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation>Composer un nouveau mail:</translation>
+        <translation>Idatzi mezu berri bat:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation>Ouvrir la boîte de réception unifiée:</translation>
+        <translation>Ireki sarrerako ontzi bateratua:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation>Ouvrir la boîte de réception Actionable:</translation>
+        <translation>Ireki Actionable sarrerako ontzia</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>Ouvrez la boîte de réception FYI:</translation>
+        <translation>Ireki FYI sarrerako ontzia:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation>Ouvrir calendrier:</translation>
+        <translation>Ireki egutegia:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation>Ouvrir contacts:</translation>
+        <translation>Ireki kontaktuak:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation>Ouvrir le tableau de bord:</translation>
+        <translation>Ireki aginte-taula:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation>Ouvrir Options:</translation>
+        <translation>Ireki ezarpenak:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation>Ouvrir la boîte de commentaire:</translation>
+        <translation>Ireki iruzkinen elkarrizketa:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation>Composition</translation>
+        <translation>Idazten</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation>Envoyer un mail:</translation>
+        <translation>Bidali mezu elektroniko bat:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Letra lodia:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation>Italique:</translation>
+        <translation>Letra etzana:</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation>Souligner:</translation>
+        <translation>Azpimarratu:</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation>Créer un lien:</translation>
+        <translation>Sortu esteka bat:</translation>
     </message>
 </context>
 <context>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation>Composer un nouveau mail</translation>
+        <translation>Idatzi mezu elektroniko berri bat</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation>Vérifier les nouveaux messages</translation>
+        <translation>Egiaztatu mezu berriak</translation>
     </message>
     <message>
         <source>Actionable</source>
@@ -2008,7 +2005,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation>Déplacer vers ACTIONABLE</translation>
+        <translation>Mugitu ACTIONABLE ontzira</translation>
     </message>
     <message>
         <source>FYI</source>
@@ -2016,178 +2013,178 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation>Déplacer vers FYI</translation>
+        <translation>Mugitu FYI ontzira</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation>Non trié</translation>
+        <translation>Sailkatu gabeak</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation>Déplacer vers Non trié</translation>
+        <translation>Mugitu SAILKATU GABEAK ontzira</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation>Calendrier</translation>
+        <translation>Egutegia</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation>Envoyer des commentaires</translation>
+        <translation>Bidali iruzkina</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation>Boîte de réception</translation>
+        <translation>Sarrerako ontzia</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation>Obtenez un rabais sur Hiri aujourd&apos;hui!</translation>
+        <translation>Lortu Hiri erabiltzeko deskontu bat gaur!</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation>Centre de compétences</translation>
+        <translation>Gaitasunen Zentroa</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Contacts</translation>
+        <translation>Kontaktuak</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation>Tableau de bord</translation>
+        <translation>Aginte-taula</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Paramètres</translation>
+        <translation>Ezarpenak</translation>
     </message>
 </context>
 <context>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation>Ajouter des destinataires</translation>
+        <translation>Gehitu hartzaileak</translation>
     </message>
 </context>
 <context>
     <name>LoginWizard</name>
     <message>
         <source>Offline, connect and try again.</source>
-        <translation>Hors connexion, connectez-vous et réessayez.</translation>
+        <translation>Offline zaude, konektatu eta saiatu berriro.</translation>
     </message>
     <message>
         <source>Seems like your network connection was interrupted.</source>
-        <translation>On dirait que votre connexion réseau a été interrompue.</translation>
+        <translation>Dirudienez, sareko konexioa eten egin da.</translation>
     </message>
 </context>
 <context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation>Veuillez ajouter un destinataire</translation>
+        <translation>Mesedez, gehitu hartzaile bat</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation>Un ou plusieurs des e-mails que vous avez entrés sont erronés. Assurez-vous d&apos;appuyer sur Entrée une fois que vous avez saisi une adresse e-mail</translation>
+        <translation>Sartu duzun helbide elektroniko bat edo gehiago ez dira zuzenak. Ziurta zaitez helbide elektronikoa sartu eta gero Sartu sakatzen duzula</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation>S&apos;il vous plaît remplir toutes les tâches</translation>
+        <translation>Mesedez, bete ataza guztiak</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation>Veuillez remplir la ligne d&apos;objet</translation>
+        <translation>Mesedez, bete gaiaren lerroa</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation>Destinataire invalide trouvé</translation>
+        <translation>Baliorik gabeko hartzaile bat aurkitu da</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation>Sujet</translation>
+        <translation>Gaia</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Envoyer</translation>
+        <translation>Bidali</translation>
     </message>
     <message>
         <source>Error :(</source>
-        <translation>Erreur :(</translation>
+        <translation>Errorea :(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation>Inclure les pièces jointes de message d&apos;origine</translation>
+        <translation>Gehitu jatorrizko mezuaren eranskinak</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation>Sauvegarder &amp; fermer</translation>
+        <translation>Gorde &amp; itxi</translation>
     </message>
 </context>
 <context>
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation>Composer</translation>
+        <translation>Idatzi</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation>sauvegarde</translation>
+        <translation>gordetzen</translation>
     </message>
     <message>
         <source>saved locally</source>
-        <translation>enregistré localement</translation>
+        <translation>bertan gorde da</translation>
     </message>
     <message>
         <source>error</source>
-        <translation>erreur</translation>
+        <translation>errorea</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation>Brouillon enregistré</translation>
+        <translation>Zirriborroa gorde da</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation>Erreur lors de l&apos;enregistrement du brouillon</translation>
+        <translation>Errorea gertatu da zirriborroa gordetzean</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation>Transféré envoyé</translation>
+        <translation>Birbidali beharreko mezua bidali da</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation>Délégué envoyé</translation>
+        <translation>Eskuordetu beharreko mezua bidali da</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation>Erreur d&apos;envoi du message</translation>
+        <translation>Errorea gertatu da mezua bidaltzean</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation>Message envoyé</translation>
+        <translation>Mezua bidali da</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation>Réunion transmise</translation>
+        <translation>Hitzordua birbidali da</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation>Erreur lors de la transmission d&apos;une réunion</translation>
+        <translation>Errorea gertatu da hitzordua birbidaltzean</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer ce brouillon?</translation>
+        <translation>Ziur zaude zirriborro hau baztertu nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation>Oui, jetez-le</translation>
+        <translation>Bai, baztertu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
 </context>
 <context>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation>Action | À</translation>
+        <translation>Ekintza | Nori</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2199,7 +2196,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>To</source>
-        <translation>À</translation>
+        <translation>Nori</translation>
     </message>
     <message>
         <source>Cc</source>
@@ -2210,118 +2207,117 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation>Quels sont &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; et &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
+        <translation>Zer dira &lt;font color=&quot;#e54624&quot;&gt;Ekintza&lt;/font&gt; eta &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation>Même chose que A et Cc vraiment. Mais si la personne à qui vous envoyez le courrier utilise Hiri, votre courrier sera envoyé dans sa boîte de réception Actionable ou FYI.</translation>
+        <translation>Nori eta Cc bezala. Baina mezua bidali behar diozun pertsonak Hiri erabiltzen badu, zure mezua haren Actionable edo FYI sarrerako ontzira bidaliko da.</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation>Apprendre encore plus</translation>
+        <translation>Ikasi gehiago</translation>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation>Pourquoi le sujet est-il en bas?</translation>
+        <translation>Zergatik dago gaia behealdean?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation>Parce que vous allez écrire une meilleure ligne d&apos;objet! Vous avez déjà écrit le contenu afin que votre sujet soit plus précis, ce qui économise du temps à votre destinataire.</translation>
+        <translation>Gaiaren lerro hobeto idatziko duzulako! Jadanik idatzi duzu edukia eta, beraz, gaia zehatzagoa izango da. Horrek zure hartzailearen denbora aurreztuko du.</translation>
     </message>
     <message>
         <source>What is &lt;font color=&quot;#e54624&quot;&gt;Delegate&lt;/font&gt;?</source>
-        <translation>Quel est &lt;font color=&quot;#e54624&quot;&gt;Délégué&lt;/font&gt;?</translation>
+        <translation>Zer da &lt;letra-kolorea=&quot;#e54624&quot;&gt;Eskuordetu&lt;/letra&gt;?</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation>Le délégué est utilisé pour transférer une tâche à quelqu&apos;un.</translation>
+        <translation>Ataza bat norbaiti birbidaltzeko erabiltzen da.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Si l&apos;e-mail que vous transférez contient une tâche pour vous, chaque destinataire que vous ajoutez à Action aura votre tâche par défaut.
- C&apos;est pourquoi nous l&apos;appelons délégué.</translation>
+        <translation>Birbidaltzen ari zaren mezuak zuretzako ataza bat gaineratzen badu, Ekintzara gehitzen duzun hartzaile bakoitzak zure ataza jasoko du.</translation>
     </message>
 </context>
 <context>
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation>On dirait que vous êtes hors connexion ou que vous avez perdu votre connexion</translation>
+        <translation>Dirudienez, offline zaude edo konexioa galdu duzu</translation>
     </message>
     <message>
         <source>... and we&apos;re back</source>
-        <translation>... et nous sommes de retour</translation>
+        <translation>... hemen gara berriz ere</translation>
     </message>
     <message>
         <source>Checking your emails...</source>
-        <translation>Vérification de vos emails...</translation>
+        <translation>Zure mezu elektronikoak egiaztatzen...</translation>
     </message>
     <message>
         <source>Getting your emails... %1%</source>
-        <translation>Obtenir vos emails ...%1%</translation>
+        <translation>Mezuak jasotzen... % %1</translation>
     </message>
     <message>
         <source>Checking </source>
-        <translation>Vérification </translation>
+        <translation>Egiaztatzen </translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient...</source>
-        <translation>Optimisation de la BD, soyez patient...</translation>
+        <translation>DB optimizatzen, itxaron pixka bat mesedez...</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting...</source>
-        <translation>Connexion interrompue lors de l&apos;obtention de votre courrier. Reconnexion...</translation>
+        <translation>Konexioa eten egin da zure mezuak jasotzen ari ginen bitartean. Berriz konektatzen...</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation>Rechercher dans les archives</translation>
+        <translation>Bilatu Artxiboan</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation>Rechercher tout</translation>
+        <translation>Bilatu dena</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation>Tapez et appuyez sur Entrée pour rechercher</translation>
+        <translation>Idatzi eta sakatu Sartu bilatzeko</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation>Tapez pour rechercher</translation>
+        <translation>Idatzi bilatzen hasteko</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation>Rechercher ou appuyez sur Entrée pour afficher tous les messages archivés</translation>
+        <translation>Bilatu edo sakatu Sartu artxibatutako mezu guztiak erakusteko</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation>Afficher tous les messages, taper pour rechercher</translation>
+        <translation>Mezu guztiak bistaratzen, idatzi bilatzen hasteko</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
-        <translation>Appuyez sur Retour pour choisir le tag</translation>
+        <translation>Sakatu Itzuli etiketa aukeratzeko</translation>
     </message>
 </context>
 <context>
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation>Occupé</translation>
+        <translation>Lanpetuta</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation>Provisoire</translation>
+        <translation>Behin-behinekoa</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation>Absent du bureau</translation>
+        <translation>Bulegotik kanpo</translation>
     </message>
     <message>
         <source>No availability data</source>
-        <translation>Aucune donnée de disponibilité</translation>
+        <translation>Ez dago eskuragarritasun-daturik</translation>
     </message>
     <message>
         <source>Free</source>
@@ -2329,884 +2325,884 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
 </context>
 <context>
-    <name>MeetingDetailsEditable</name>
+    <name>MeetingDeautenticartailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation>Titre de la réunion</translation>
+        <translation>Hitzorduaren izena</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation>Assistant de planification</translation>
+        <translation>Programazio-laguntzailea</translation>
     </message>
     <message>
         <source>All day?</source>
-        <translation>Toute la journée?</translation>
+        <translation>Egun osoa?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation>Privé?</translation>
+        <translation>Pribatua?</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation>Répéter</translation>
+        <translation>Errepikatu</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation>Rappel</translation>
+        <translation>Ohartarazpena</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation>Montrer comme</translation>
+        <translation>Erakutsi honela</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>Kokapena</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation>Inviter - entrez un nom pour commencer</translation>
+        <translation>Gonbidatu - idatzi izen bat hasteko</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation>C&apos;est une réunion récurrente. Vous pouvez uniquement supprimer une pièce jointe de la réunion d&apos;origine</translation>
+        <translation>Hitzordu hau behin eta berriz errepikatzen da. Jatorrizko hitzorduko eranskin bat bakarrik ken dezakezu</translation>
     </message>
     <message>
         <source>Edit original</source>
-        <translation>Editer l&apos;original</translation>
+        <translation>Editatu jatorrizkoa</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation>(Pas de sujet)</translation>
+        <translation>(Ez dago gairik)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Début</translation>
+        <translation>Hasiera</translation>
     </message>
     <message>
         <source>End</source>
-        <translation>Fin</translation>
+        <translation>Amaiera</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Toute la journée</translation>
+        <translation>Egun osoa</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation>Ouvrir dans une nouvelle fenêtre</translation>
+        <translation>Ireki beste leiho batean</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>Kokapena</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation>Visibilité</translation>
+        <translation>Ikusgaitasuna</translation>
     </message>
     <message>
         <source>Private</source>
-        <translation>Priver</translation>
+        <translation>Pribatua</translation>
     </message>
     <message>
         <source>Public</source>
-        <translation>Publique</translation>
+        <translation>Publikoa</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation>Montrer comme</translation>
+        <translation>Erakutsi honela</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation>Rappel</translation>
+        <translation>Ohartarazpena</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
-        <translation>Réunion passée</translation>
+        <translation>Iraganeko hitzordua</translation>
     </message>
     <message>
         <source>Organizer</source>
-        <translation>Organisateur</translation>
+        <translation>Antolatzailea</translation>
     </message>
     <message>
         <source>Attendees</source>
-        <translation>Participants</translation>
+        <translation>Bertaratuak</translation>
     </message>
     <message>
         <source>This meeting has been cancelled</source>
-        <translation>Cette réunion a été annulée</translation>
+        <translation>Hitzordua bertan behera utzi da</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer cette réunion?</translation>
+        <translation>Ziur zaude hitzordu hau ezabatu nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Oui, supprimez-le</translation>
+        <translation>Bai, ezabatu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Non, garde le</translation>
+        <translation>Ez, mantendu</translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation>(Pas de sujet)</translation>
+        <translation>(Ez dago gairik)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder...</source>
-        <translation>Oups, impossible de rejeter le rappel ...</translation>
+        <translation>Hara, ezin izan da ohartarazpena baztertu...</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder...</source>
-        <translation>Oups, impossible de répéter le rappel ...</translation>
+        <translation>Hara, ezin izan da ohartarazpena errepikatu...</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation>Demande de réunion acceptée.</translation>
+        <translation>Hitzordu-eskaera onartu da.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation>Nouvelle heure proposée: %1 - %2</translation>
+        <translation>Proposatutako ordu berria: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation>Demande de réunion provisoirement acceptée.</translation>
+        <translation>Hitzordu-eskaera behin-behineko izaeraz onartu da.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation>Demande de réunion refusée.</translation>
+        <translation>Hitzordu-eskaerari uko egin zaio.</translation>
     </message>
     <message>
         <source>Meeting request has been canceled.</source>
-        <translation>La demande de réunion a été annulée.</translation>
+        <translation>Hitzordu-eskaera bertan behera geratu da.</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponseLegend</name>
     <message>
         <source>Accepted</source>
-        <translation>Accepté</translation>
+        <translation>Onartu egin da</translation>
     </message>
     <message>
         <source>Declined</source>
-        <translation>Refusé</translation>
+        <translation>Uko egin zaio</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation>Provisoire</translation>
+        <translation>Behin-behinekoa</translation>
     </message>
 </context>
 <context>
     <name>MessageAttachments</name>
     <message>
         <source>1 file attached</source>
-        <translation>1 fichier joint</translation>
+        <translation>Fitxategi 1 erantsi da</translation>
     </message>
     <message>
         <source>%1 files attached</source>
-        <translation>%1 fichiers joints</translation>
+        <translation>%1 fitxategi erantsi dira</translation>
     </message>
 </context>
 <context>
     <name>NewMessageNotification</name>
     <message>
         <source>There is a new message in this conversation</source>
-        <translation>Il y a un nouveau message dans cette conversation</translation>
+        <translation>Mezu berri bat dago elkarrizketa honetan</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation>Rien à faire</translation>
+        <translation>Ez egin ezer</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation>Lisez maintenant</translation>
+        <translation>Irakurri orain</translation>
     </message>
 </context>
 <context>
     <name>Notifier</name>
     <message>
         <source>(No task)</source>
-        <translation>(Ne pas demander)</translation>
+        <translation>(Ez dago atazarik)</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation>(Pas de sujet)</translation>
+        <translation>(Ez dago gairik)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation>Ignorer tous les rappels</translation>
+        <translation>Baztertu ohartarazpen guztiak</translation>
     </message>
 </context>
 <context>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation>Pas Office365?</translation>
+        <translation>Ez duzu Office365?</translation>
     </message>
 </context>
 <context>
     <name>OfflineScreen</name>
     <message>
         <source>Oops.</source>
-        <translation>Oops.</translation>
+        <translation>Hara.</translation>
     </message>
     <message>
         <source>We couldn&apos;t authenticate you because of connection problems.
 Please check your internet connection and try again.</source>
-        <translation>Nous n&apos;avons pas pu vous authentifier à cause de problèmes de connexion.
-S&apos;il vous plaît, vérifiez votre connexion internet et réessayez.</translation>
+        <translation>Ezin izan zaitugu egiaztatu konexio-arazoak direla eta.
+Mesedez, egiaztatu zure internet-konexioa eta saiatu berriz.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Continuer</translation>
+        <translation>Jarraitu</translation>
     </message>
 </context>
 <context>
     <name>OnboardingCarousel</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation>Bienvenue à Hiri!</translation>
+        <translation>Ongi etorri Hirira!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation>Il est temps d&apos;obtenir votre email
-sous contrôle.</translation>
+        <translation>Zure posta elektronikoa
+kontrolatzeko unea iritsi da.</translation>
     </message>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation>Jusqu&apos;à votre jeu de messagerie avec le coup d&apos;un interrupteur.</translation>
+        <translation>Areagotu zure posta elektronikoko jokoa botoia sakatuta.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation>Consultez notre centre de compétences.</translation>
+        <translation>Ikuskatu gure Gaitasunen Zentroa</translation>
     </message>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation>Il est temps de passer vos
-email au niveau suivant.</translation>
+        <translation>Zure posta elektronikoa
+hurrengo mailara eramateko unea iritsi da.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation>Fabriqué par     l&apos;équipe Hiri</translation>
+        <translation>Hiri taldeak egin du</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
-        <translation>à Dublin, en Irlande.</translation>
+        <translation>Dublinen, Irlandan.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation>Allons-y!</translation>
+        <translation>Goazen!</translation>
     </message>
 </context>
 <context>
     <name>OutlookAuth</name>
     <message>
         <source>Outlook/Hotmail/Live/MSN login</source>
-        <translation>Outlook/Hotmail/Live/MSN connexion</translation>
+        <translation>Outlook/Hotmail/Live/MSN saio-hasiera</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>Quelqu&apos;un@votrefournisseur.com</translation>
+        <translation>izena@zurehornitzailea.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation>mot de passe</translation>
+        <translation>pasahitza</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
-        <translation>Votre mot de passe peut être erroné</translation>
+        <translation>Zure pasahitza okerra izan daiteke</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation>L&apos;étape suivante</translation>
+        <translation>Hurrengo urratsa</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
-        <translation>Pas Outlook/Hotmail/Live/MSN?</translation>
+        <translation>Ez duzu Outlook/Hotmail/Live/MSN?</translation>
     </message>
 </context>
 <context>
     <name>Pagination</name>
     <message>
         <source>Go to page</source>
-        <translation>Aller à la page</translation>
+        <translation>Joan orri honetara</translation>
     </message>
 </context>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Type a name to start searching</source>
-        <translation>Tapez un nom pour commencer la recherche</translation>
+        <translation>Idatzi izen bat bilatzen hasteko</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation>Email</translation>
+        <translation>Posta elektronikoa</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation>Profession</translation>
+        <translation>Lanpostua</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation>Téléphone</translation>
+        <translation>Telefono-zenbakia</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation>Bureau</translation>
+        <translation>Bulegoa</translation>
     </message>
     <message>
         <source>No contacts found</source>
-        <translation>Aucun contact trouvé</translation>
+        <translation>Ez da kontakturik aurkitu</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Ajouter</translation>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation>Rechercher des contacts dans la liste d&apos;adresses globale</translation>
+        <translation>Bilatu kontaktuak Helbide Zerrenda Orokorrean</translation>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation>Une erreur est survenue</translation>
+        <translation>Errore bat gertatu da</translation>
     </message>
     <message>
         <source>Search all contacts</source>
-        <translation>Rechercher tous les contacts</translation>
+        <translation>Bilatu kontaktu guztiak</translation>
     </message>
     <message>
         <source>Type  to search</source>
-        <translation>Tapez pour rechercher</translation>
+        <translation>Idatzi bilatzeko</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeDialog</name>
     <message>
         <source>Propose new time</source>
-        <translation>Proposer un nouvel horaire</translation>
+        <translation>Proposatu beste ordu bat</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation>Vous n&apos;avez pas changé l&apos;heure de la réunion. S&apos;il vous plaît proposer une nouvelle heure.</translation>
+        <translation>Ez duzu hitzorduaren ordua aldatu. Mesedez, proposatu beste ordu bat.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation>Dites-leur pourquoi vous proposez une nouvelle heure ou laissez en blanc</translation>
+        <translation>Jakinarazi iezaiezu zergatik proposatu duzun beste ordu bat, edo utzi hutsik</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Envoyer</translation>
+        <translation>Bidali</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeResponseButtons</name>
     <message>
         <source>New time accepted</source>
-        <translation>Nouvelle heure acceptée</translation>
+        <translation>Ordu berria onartu da</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation>Modifier la réunion</translation>
+        <translation>Editatu hitzordua</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
-        <translation>Accepter l&apos;heure proposé</translation>
+        <translation>Onartu proposatutako ordua</translation>
     </message>
 </context>
 <context>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation>Cool et court</translation>
+        <translation>Atsegina eta laburra</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation>Bon ton</translation>
+        <translation>Tonu egokia</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation>L&apos;action était claire</translation>
+        <translation>Ekintza garbi adierazi da</translation>
     </message>
     <message>
         <source>Good subject</source>
-        <translation>Bon sujet</translation>
+        <translation>Gai egokia</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation>Langage simple</translation>
+        <translation>Hizkuntza sinplea</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation>Compris ce qui a été demandé</translation>
+        <translation>Ondo ulertu da zer eskatzen zuen</translation>
     </message>
     <message>
         <source>Relevant to me</source>
-        <translation>Pertinent pour moi</translation>
+        <translation>Garrantzitsua da niretzat</translation>
     </message>
     <message>
         <source>Inappropriate</source>
-        <translation>Inapproprié</translation>
+        <translation>Desegokia</translation>
     </message>
     <message>
         <source>Too long</source>
-        <translation>Trop long</translation>
+        <translation>Luzeegia</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation>Trop de FYI&apos;s</translation>
+        <translation>FYI gehiegi</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
-        <translation>Pas pertinent pour moi</translation>
+        <translation>Ez da garrantzitsua niretzat</translation>
     </message>
     <message>
         <source>Should have called/met</source>
-        <translation>Aurait dû appeler / rencontré</translation>
+        <translation>Deitu/nigana etorri beharko zukeen</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation>Mauvais sujet</translation>
+        <translation>Gai okerra</translation>
     </message>
     <message>
         <source>Not clear</source>
-        <translation>Pas clair</translation>
+        <translation>Ez da garbia</translation>
     </message>
     <message>
         <source>Rating...</source>
-        <translation>Évaluation...</translation>
+        <translation>Ebaluatzen...</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation>Email évalué. Bon travail!</translation>
+        <translation>Mezu elektronikoa ebaluatu da. Oso ondo!</translation>
     </message>
     <message>
         <source>Send rating</source>
-        <translation>Envoyer la note</translation>
+        <translation>Bidali ebaluazioa</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation>Vous avez noté cet email</translation>
+        <translation>Mezu elektroniko hau ebaluatu duzu</translation>
     </message>
 </context>
 <context>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation>Snooze</translation>
+        <translation>Errepikatu</translation>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation>5 mins avant l&apos;échéance</translation>
+        <translation>Epemuga baino 5 minutu lehenago</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation>5 mins avant le début</translation>
+        <translation>Hasi baino 5 minutu lehenago</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation>10 mins avant l&apos;échéance</translation>
+        <translation>Epemuga baino 10 minutu lehenago</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation>10 mins avant le début</translation>
+        <translation>Hasi baino 10 minutu lehenago</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation>30 mins avant l&apos;échéance</translation>
+        <translation>Epemuga baino 30 minutu lehenago</translation>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation>30 mins avant le début</translation>
+        <translation>Hasi baino 30 minutu lehenago</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation>1h avant l&apos;échéance</translation>
+        <translation>Epemuga baino ordu 1 lehenago</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation>1h avant le début</translation>
+        <translation>Hasi baino ordu 1 lehenago</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation>Rejeter</translation>
+        <translation>Baztertu</translation>
     </message>
 </context>
 <context>
     <name>ReplyBox</name>
     <message>
         <source>saving</source>
-        <translation>sauvegarde</translation>
+        <translation>gordetzen</translation>
     </message>
     <message>
         <source>Pop out reply</source>
-        <translation>Pop ne répond pas</translation>
+        <translation>Ez erantzun</translation>
     </message>
     <message>
         <source>Save draft</source>
-        <translation>Enregistrer-brouillon</translation>
+        <translation>Gorde zirriborroa</translation>
     </message>
     <message>
         <source>Discard Draft</source>
-        <translation>Supprimer le brouillon</translation>
+        <translation>Baztertu zirriborroa</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer votre brouillon?</translation>
+        <translation>Ziur zaude zirriborroa baztertu nahi duzula?</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation>Supprimer le brouillon</translation>
+        <translation>Baztertu zirriborroa</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation>Continuer l&apos;édition</translation>
+        <translation>Jarraitu editatzen</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation>Modifier les destinataires</translation>
+        <translation>Editatu hartzaileak</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Envoyer</translation>
+        <translation>Bidali</translation>
     </message>
     <message>
         <source>Reply sent.</source>
-        <translation>Réponse envoyée.</translation>
+        <translation>Erantzuna bidali da.</translation>
     </message>
     <message>
         <source>Sending failed.</source>
-        <translation>Envoi échoué.</translation>
+        <translation>Ezin izan da bidali.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation>Cliquez ici pour éditer ce brouillon</translation>
+        <translation>Egin klik hemen zirriborro hau editatzeko</translation>
     </message>
     <message>
         <source>sending</source>
-        <translation>envoi</translation>
+        <translation>bidaltzen</translation>
     </message>
 </context>
 <context>
     <name>ReplyToMultiple</name>
     <message>
         <source>Only reply to people who need to know.</source>
-        <translation>Ne répondez qu&apos;aux personnes qui ont besoin de savoir.</translation>
+        <translation>Jakin behar dutenei bakarrik erantzun.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation>Ajouter quelqu&apos;un d&apos;autre - le courrier sera envoyé en tant que FYI/CC</translation>
+        <translation>Gehitu beste norbait - Mezu elektronikoa FYI/CC gisa bidaliko da</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Tout sélectionner</translation>
+        <translation>Hautatu dena</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
-        <translation>Essayez de ne pas utiliser cette case à cocher</translation>
+        <translation>Saiatu lauki hau ez erabiltzen</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation>Terminé</translation>
+        <translation>Amaitu da</translation>
     </message>
     <message>
         <source>Reply to multiple</source>
-        <translation>Répondre à plusieurs</translation>
+        <translation>Erantzun bati baino gehiagori</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation>Vous avez reçu un BCC sur cet e-mail - les autres destinataires ne savent pas que vous avez reçu cet e-mail. Si vous ajoutez des destinataires et répondez, vous ne serez plus caché.</translation>
+        <translation>Bcc bat jaso duzu mezu honetan - beste hartzaileek ez dakite mezu hau jaso duzula. Hartzaileak gehitu eta mezuari erantzuten badiozu, ezkutuko mezu izateari utziko dio.</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation>Un ou plusieurs des e-mails que vous avez sélectionnés sont erronés.</translation>
+        <translation>Hautatu duzun mezu elektroniko bat edo gehiago oker daude.</translation>
     </message>
 </context>
 <context>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation>Répondre à la réunion</translation>
+        <translation>Erantzun hitzorduari</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation>Répondre à un seul événement</translation>
+        <translation>Erantzun gertakari bakar bati</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation>Répondre aux séries</translation>
+        <translation>Erantzun multzo osoari</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re </source>
-        <translation>Dites-leur pourquoi vous êtes </translation>
+        <translation>Jakinaraz iezaiezu zergatik ari zaren</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation>accepter</translation>
+        <translation>onartzen</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation>provisoirement accepté</translation>
+        <translation>behin-behineko izaeraz onartzen</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation>décliner</translation>
+        <translation>uko egiten</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation>ou laissez vide.</translation>
+        <translation>edo utzi hutsik.</translation>
     </message>
     <message>
         <source>Send response</source>
-        <translation>Envoyer une réponse</translation>
+        <translation>Bidali erantzuna</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation>Vous avez accepté cette réunion.</translation>
+        <translation>Hitzordua onartu duzu.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation>Vous avez répondu à cette réunion comme provisoire.</translation>
+        <translation>Behin-behineko izaeraz erantzun diozu hitzordu honi.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation>Vous avez refusé cette réunion.</translation>
+        <translation>Uko egin diozu hitzorduari.</translation>
     </message>
     <message>
         <source>Propose new</source>
-        <translation>Proposer de nouvelles</translation>
+        <translation>Proposatu beste bat</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation>Transmettre ce</translation>
+        <translation>Birbidali hau</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation>Changer la réponse à</translation>
+        <translation>Aldatu erantzuna honi</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation>Réunion</translation>
+        <translation>Hitzordua</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Temps</translation>
+        <translation>Ordua</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation>Provisoire</translation>
+        <translation>Behin-behinekoa</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation>Refuser</translation>
+        <translation>Egin uko</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation>Accepter</translation>
+        <translation>Onartu</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation>Une erreur est survenue</translation>
+        <translation>Errore bat gertatu da</translation>
     </message>
 </context>
 <context>
     <name>RightPanel</name>
     <message>
         <source>Folders</source>
-        <translation>Dossiers</translation>
+        <translation>Karpetak</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation>Tâches</translation>
+        <translation>Atazak</translation>
     </message>
 </context>
 <context>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation>Toute la journée?</translation>
+        <translation>Egun osoa?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation>Inviter - entrez un nom pour commencer</translation>
+        <translation>Gonbidatu - idatzi izen bat hasteko</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation>Emplacement</translation>
+        <translation>Kokapena</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation>Disponible</translation>
+        <translation>Libre</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation>Occupé</translation>
+        <translation>Lanpetuta</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation>Appliquer</translation>
+        <translation>Aplikatu</translation>
     </message>
 </context>
 <context>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Rechercher dans liste d&apos;adresses globale (%1 + Tab)</translation>
+        <translation>Bilatu Helbide Zerrenda Orokorrean (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation>1: Sélectionnez une date</translation>
+        <translation>1: Hautatu egun bat</translation>
     </message>
     <message>
         <source>Exact day</source>
-        <translation>Jour exact</translation>
+        <translation>Egun zehatza</translation>
     </message>
     <message>
         <source>± 1 day</source>
-        <translation>± 1 jour</translation>
+        <translation>± 1 egun</translation>
     </message>
     <message>
         <source>± 1 week</source>
-        <translation>± 1 semaine</translation>
+        <translation>± 1 aste</translation>
     </message>
     <message>
         <source>± 1 month</source>
-        <translation>± 1 mois</translation>
+        <translation>± 1 hilabete</translation>
     </message>
     <message>
         <source>± 3 months</source>
-        <translation>± 3 mois</translation>
+        <translation>± 3 hilabete</translation>
     </message>
     <message>
         <source>± 1 year</source>
-        <translation>± 1 année</translation>
+        <translation>± 1 urte</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Confirmer</translation>
+        <translation>Baieztatu</translation>
     </message>
     <message>
         <source>On %1</source>
-        <translation>Le %1</translation>
+        <translation>%1(e)(a)n</translation>
     </message>
     <message>
         <source>Between %1 and %2</source>
-        <translation>Entre %1 et %2</translation>
+        <translation>%1 eta %2 artean</translation>
     </message>
 </context>
 <context>
     <name>SearchField</name>
     <message>
         <source>Type to search</source>
-        <translation>Tapez pour rechercher</translation>
+        <translation>Idatzi bilatzeko</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation>Afficher tous les messages, taper pour rechercher</translation>
+        <translation>Mezu guztiak bistaratzen, idatzi bilatzen hasteko</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation>Rechercher tout</translation>
+        <translation>Bilatu dena</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation>Rechercher dans les archives</translation>
+        <translation>Bilatu Artxiboan</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation>Tapez et appuyez sur Entrée pour rechercher</translation>
+        <translation>Idatzi eta sakatu Sartu bilatzeko</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation>Rechercher ou appuyez sur Entrée pour afficher tous les messages archivés</translation>
+        <translation>Bilatu edo sakatu Sartu artxibatutako mezu guztiak erakusteko</translation>
     </message>
 </context>
 <context>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation>Cliquez sur les tags pour affiner votre recherche!</translation>
+        <translation>Klikatu etiketetan bilaketa zehazteko!</translation>
     </message>
     <message>
         <source>What</source>
-        <translation>Quelle</translation>
+        <translation>Zer</translation>
     </message>
     <message>
         <source>When</source>
-        <translation>Quand</translation>
+        <translation>Noiz</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation>Où</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation>non lu:</translation>
+        <translation>irakurri gabe:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation>tâche:</translation>
+        <translation>ataza:</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation>réunion:</translation>
+        <translation>hitzordua:</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation>attachement:</translation>
+        <translation>eranskina:</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation>date:</translation>
+        <translation>data:</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation>aujourd&apos;hui:</translation>
+        <translation>gaur:</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation>cette semaine:</translation>
+        <translation>aste honetan:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation>ce mois-ci:</translation>
+        <translation>hilabete honetan:</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation>dossier:</translation>
+        <translation>karpeta:</translation>
     </message>
     <message>
         <source>actionable:</source>
@@ -3218,805 +3214,805 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation>envoyé:</translation>
+        <translation>bidalita:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation>Vous n&apos;avez pas trouvé ce que vous cherchiez?</translation>
+        <translation>Ez duzu aurkitu bilatzen ari zinena?</translation>
     </message>
     <message>
         <source>Sync more</source>
-        <translation>Synchroniser plus</translation>
+        <translation>Sinkronizatu gehiago</translation>
     </message>
     <message>
         <source>or</source>
-        <translation>ou</translation>
+        <translation>edo</translation>
     </message>
     <message>
         <source>Search locally</source>
-        <translation>Rechercher localement</translation>
+        <translation>Bilatu bertan</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation>Rechercher dans les archives</translation>
+        <translation>Bilatu Artxiboan</translation>
     </message>
 </context>
 <context>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation>Options de filtrage</translation>
+        <translation>Iragazki-aukerak</translation>
     </message>
 </context>
 <context>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation>Tout déselectionner</translation>
+        <translation>Indargabetu hautatutako guztia</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Tout sélectionner</translation>
+        <translation>Hautatu dena</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Marquer comme lu</translation>
+        <translation>Markatu irakurrita gisa</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation>Marquer comme non lu</translation>
+        <translation>Markatu irakurri gabe gisa</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archiver</translation>
+        <translation>Artxibatu</translation>
     </message>
     <message>
         <source> selected</source>
-        <translation> sélectionné</translation>
+        <translation> hautatuta</translation>
     </message>
 </context>
 <context>
     <name>SettingsAccounts</name>
     <message>
         <source>Subscription status</source>
-        <translation>État de l&apos;abonnement</translation>
+        <translation>Harpidetzaren egoera</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation>Actif</translation>
+        <translation>Aktibo</translation>
     </message>
     <message>
         <source>Trialing</source>
-        <translation>Essai</translation>
+        <translation>Probatzen</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation>Abonnement Ambassadeur</translation>
+        <translation>Enbaxadorearen harpidetza</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation>Impossible d&apos;obtenir vos données d&apos;abonnement.
-Vous pouvez toujours utiliser Hiri jusqu&apos;à ce que la connexion avec le serveur ait été établie.</translation>
+        <translation>Ezin izan dugu zure harpidetza-data lortu.
+Oraindik Hiri erabil dezakezu, zerbitzariarekin berriz konektatu arte.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
-        <translation>Acheter Hiri maintenant</translation>
+        <translation>Erosi Hiri orain</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation>Synchronisation</translation>
+        <translation>Sinkronizazioa</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation>Choisissez le nombre d&apos;emails que vous voulez télécharger:</translation>
+        <translation>Aukeratu Hirik zenbat mezu deskargatzea nahi duzun:</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation>1 mois</translation>
+        <translation>Hilabete 1</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation>3 mois</translation>
+        <translation>3 hilabete</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation>6 mois</translation>
+        <translation>6 hilabete</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation>1 ans</translation>
+        <translation>Urte 1</translation>
     </message>
     <message>
         <source>2 years</source>
-        <translation>2 ans</translation>
+        <translation>2 urte</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Tout</translation>
+        <translation>Dena</translation>
     </message>
     <message>
         <source>Start downloading</source>
-        <translation>Commencer le téléchargement</translation>
+        <translation>Hasi deskargatzen</translation>
     </message>
     <message>
         <source>Getting your emails...</source>
-        <translation>Obtenir vos emails ...</translation>
+        <translation>Mezuak jasotzen...</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation>Supprimer le compte et les paramètres</translation>
+        <translation>Ezabatu kontua eta ezarpenak</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation>Supprimez toutes les informations spécifiques au compte de Hiri.</translation>
+        <translation>Kendu kontuko informazio zehatz guztia Hiritik.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation>Supprimer le compte</translation>
+        <translation>Ezabatu kontua</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation>Êtes-vous sûr de vouloir supprimer ce compte de Hiri?
-Ceci effacera tous les paramètres et la base de données d&apos;email LOCAL.
-Ne vous inquiétez pas, vos emails restent en sécurité sur le serveur!</translation>
+        <translation>Ziur zaude kontu hau ezabatu nahi duzula Hiritik?
+Zure ezarpen guztiak eta TOKIKO posta elektronikoaren datu-basea ezabatuko dira.
+Ez kezkatu, zure mezuak oraindik gordeta daude zerbitzarian!</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Annuler</translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation>Cela ne prendra effet qu&apos;après le redémarrage de Hiri</translation>
+        <translation>Honek Hiri berrekitean bakarrik izango ditu ondorioak</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation>Choisissez la disposition</translation>
+        <translation>Aukeratu aurkezpena</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation>Choisissez comment vous souhaitez que vos e-mails apparaissent.</translation>
+        <translation>Aukeratu zure mezu elektronikoak nola agertzea nahi duzun.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation>Faible densité</translation>
+        <translation>Dentsitate txikia</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation>Moins de courriels, plus de texte d&apos;aperçu.</translation>
+        <translation>Mezu gutxiago eta aurrebistako testu gehiago.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation>Haute densité</translation>
+        <translation>Dentsitate handia</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation>Plus d&apos;e-mails, moins de texte d&apos;aperçu.</translation>
+        <translation>Mezu gehiago eta aurrebistako testu gutxiago.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation>Vue à deux volets</translation>
+        <translation>Bi leihoko ikuspegia</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation>Liste d&apos;e-mails en haut et un aperçu en bas.</translation>
+        <translation>Mezuen zerrenda goialdean eta aurrebistako leihoa behealdean.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation>Taille de l&apos;interface utilisateur</translation>
+        <translation>Erabiltzaile-interfazearen tamaina</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation>Cela ne prendra effet qu&apos;après le redémarrage de Hiri</translation>
+        <translation>Honek Hiri berrekitean bakarrik izango ditu ondorioak</translation>
     </message>
 </context>
 <context>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation>Archiver</translation>
+        <translation>Artxibatu</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation>Afficher le bouton d&apos;archivage dans la barre d&apos;outils d&apos;e-mail</translation>
+        <translation>Erakutsi artxiboaren botoia mezuen tresna-barran</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation>Paramètres sauvegardés</translation>
+        <translation>Ezarpenak gorde dira</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation>Dossier cible</translation>
+        <translation>Xede-karpeta</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation>Fuseau horaire du calendrier</translation>
+        <translation>Egutegiaren ordu-zona</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation>Premier jour de la semaine</translation>
+        <translation>Asteko lehen eguna</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation>Dimanche</translation>
+        <translation>Igandea</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation>Lundi</translation>
+        <translation>Astelehena</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation>Ce changement prendra effet lorsque vous relancerez Hiri</translation>
+        <translation>Aldaketa hau Hiri berrekitean ezarriko da</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation>Format de l&apos;heure</translation>
+        <translation>Orduaren formatua</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation>Cette modification prendra effet une fois que vous aurez actualisé votre boîte de réception</translation>
+        <translation>Aldaketa hau zure sarrerako ontzia freskatzean ezarriko da</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation>Afficher le tableau de bord en cas d&apos;inactivité</translation>
+        <translation>Erakutsi aginte-taula aktibo ez nagoenen</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation>Afficher le tableau de bord lorsqu&apos;il n&apos;interagit pas avec Hiri pour:</translation>
+        <translation>Bistaratu aginte-taula Hirirekin lan egiten ari ez naizenean:</translation>
     </message>
 </context>
 <context>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation>Score de communication</translation>
+        <translation>Komunikazioaren kalifikazioa</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation>Activer l&apos;évaluation des e-mails et du score de communication</translation>
+        <translation>Gaitu mezuen ebaluazioa eta komunikazioaren kalifikazioa</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation>Inclure le lien du score dans la signature</translation>
+        <translation>Gaineratu ebaluazioaren esteka sinaduran</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation>Changements des versions</translation>
+        <translation>Aldaketen erregistroa</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Your avatar</source>
-        <translation>Votre avatar</translation>
+        <translation>Zure avatarra</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation>Changer</translation>
+        <translation>Aldatu</translation>
     </message>
     <message>
         <source>Optimize performance</source>
-        <translation>Optimiser les performances</translation>
+        <translation>Optimizatu errendimendua</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation>Accélérer Hiri et libérer de l&apos;espace disque. Cela peut prendre une minute.</translation>
+        <translation>Bizkortu Hiri eta utzi libre diskoaren espazio pixka bat. Minutu bat behar izan dezake.</translation>
     </message>
     <message>
         <source>Optimizing the database...</source>
-        <translation>Optimisation de la base de données ...</translation>
+        <translation>Datu-basea optimizatzen...</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation>Optimiser maintenant</translation>
+        <translation>Optimizatu orain</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation>Hiri pourrait avoir l&apos;air figé à ce stade patienter quelques minutes.</translation>
+        <translation>Hiri izoztuta gera daiteke, baina eman minutu batzuk.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation>Fini!</translation>
+        <translation>Listo!</translation>
     </message>
     <message>
         <source>Check for update</source>
-        <translation>Vérifier les mises à jour</translation>
+        <translation>Arakatu eguneraketak</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation>Vous utilisez Hiri version %1</translation>
+        <translation>Hiriren %1 bertsioa erabiltzen ari zara</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation>Voir le changelog</translation>
+        <translation>Ikusi aldaketen erregistroa</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation>Impossible de vérifier les mises à jour pour le moment</translation>
+        <translation>Une honetan ezin dira eguneraketak arakatu</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation>Nouvelle version trouvée</translation>
+        <translation>Bertsio berri bat aurkitu da</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation>Vous êtes à la dernière version</translation>
+        <translation>Azken bertsioa erabiltzen ari zara</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation>Erreur de vérification des mises à jour</translation>
+        <translation>Errore bat gertatu da eguneraketak arakatzean</translation>
     </message>
 </context>
 <context>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation>Absent du bureau</translation>
+        <translation>Bulegotik kanpo</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation>Veuillez entrer un message d&apos;absence du bureau.</translation>
+        <translation>Mesedez, sartu Bulegotik Kanpo nagoenerako mezu bat</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation>Absent du bureau-enregistré</translation>
+        <translation>Bulegotik kanpo nagoenerako mezua gorde da</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation>Erreur l&apos;ors de l&apos;enregistrement Absent du bureau</translation>
+        <translation>Errore bat gertatu da bulegotik kanpo nagoenerako mezua gordetzean</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>General</source>
-        <translation>Général</translation>
+        <translation>Orokorra</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation>Préférences</translation>
+        <translation>Lehentasunak</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation>Comptes</translation>
+        <translation>Kontuak</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation>Signature</translation>
+        <translation>Sinadura</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation>Absent du bureau</translation>
+        <translation>Bulegotik kanpo</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation>Apparence</translation>
+        <translation>Itxura</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation>Calendrier</translation>
+        <translation>Egutegia</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>Temps</translation>
+        <translation>Ordua</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Archiver</translation>
+        <translation>Artxibatu</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation>Raccourcis clavier</translation>
+        <translation>Laster-teklak</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation>Raccourcis clavier (Ctrl + /)</translation>
+        <translation>Laster-teklak (Ctrl + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation>Tableau de bord</translation>
+        <translation>Aginte-taula</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation>Achetez Hiri</translation>
+        <translation>Erosi Hiri</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation>Notifications de bureau</translation>
+        <translation>Mahaigaineko jakinarazpenak</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation>Désactiver les notifications</translation>
+        <translation>Desgaitu jakinarazpenak</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation>Réunions et rappels de tâches</translation>
+        <translation>Hitzordu eta atazen ohartarazpenak</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation>Rappels de réunions, rappels de tâches et nouveaux emails</translation>
+        <translation>Hitzordu eta atazen ohartarazpenak, eta mezu elektroniko berriak</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation>Intégration sur le bureau</translation>
+        <translation>Mahaigaineko integrazioa</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation>Afficher Hiri dans la barre des taches</translation>
+        <translation>Erakutsi Hiri sistema-erretiluan</translation>
     </message>
     <message>
         <source> (Enabled when notifications are switched on)</source>
-        <translation> (Activé lorsque les notifications sont activées)</translation>
+        <translation>(Aktibatuta jakinarazpenak piztuta daudenean)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation>Fermer dans la barre des taches</translation>
+        <translation>Sistema-erretilutik gertu</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation>Créez une entrée de bureau et ajoutez-la au menu de votre application.
-Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</translation>
+        <translation>Sortu mahaigaineko sarrera bat eta gehitu zure aplikazioen menura.
+Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation>Créer une icône sur le bureau</translation>
+        <translation>Sortu mahaigaineko sarrera bat</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation>Fini!</translation>
+        <translation>Listo!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation>Faites de Hiri l&apos;application de messagerie par défaut.</translation>
+        <translation>Bihurtu Hiri posta elektronikorako programa lehenetsia</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation>Inscrire comme application de messagerie par défaut</translation>
+        <translation>Erregistratu posta elektronikorako aplikazio lehenetsi gisa</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation>Erreur d&apos;inscription</translation>
+        <translation>Errorea gertatu da erregistratzean</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation>Composez et répondez</translation>
+        <translation>Idatzi &amp; erantzun</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation>Fermer la conversation après avoir envoyé une réponse</translation>
+        <translation>Itxi elkarrizketa erantzuna bidali ondoren</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Pièces jointes</translation>
+        <translation>Eranskinak</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation>Demandez toujours où télécharger les pièces jointes</translation>
+        <translation>Galdetu beti non deskargatu eranskinak</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation>Télécharger vers</translation>
+        <translation>Deskargatu hemen</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation>Changer</translation>
+        <translation>Aldatu</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation>Erreur lors de la sélection du dossier. Essayez un dossier différent.</translation>
+        <translation>Errorea gertatu da karpeta hautatzean. Saiatu beste karpeta batekin.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation>Vérification orthographique</translation>
+        <translation>Zuzentzaile ortografikoa</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation>Correcteur orthographique activé</translation>
+        <translation>Zuzentzaile ortografikoa gaitu da</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>Langue</translation>
+        <translation>Hizkuntza</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation>Vous pouvez modifier les paramètres du vérificateur d&apos;orthographe en cliquant avec le bouton droit de la souris dans la fenêtre de réponse et composer Windows.</translation>
+        <translation>Zuzentzaile ortografikoaren ezarpenak alda ditzakezu eskuineko botoiarekin erantzun eta idatzi leihoetan klik eginda.</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation>Signature</translation>
+        <translation>Sinadura</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation>Inclure &quot;-&quot; en haut de la signature</translation>
+        <translation>Gehitu &quot;--&quot; sinaduraren gainean</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation>Signature enregistrée</translation>
+        <translation>Sinadura gorde da</translation>
     </message>
     <message>
         <source>Error saving signature</source>
-        <translation>Erreur d&apos;enregistrement de la signature</translation>
+        <translation>Errorea gertatu da sinadura gordetzean</translation>
     </message>
 </context>
 <context>
     <name>SettingsTrialDiscount</name>
     <message>
         <source>The sooner you buy, the better the deal!</source>
-        <translation>Le plus tôt vous achetez, meilleur est l&apos;affaire!</translation>
+        <translation>Zenbat eta lehenago erosi, orduan eta merkeago!</translation>
     </message>
     <message>
         <source>Annual (full price $39)</source>
-        <translation>Annuel (prix total 39 $)</translation>
+        <translation>Urtean (guztira, 39$)</translation>
     </message>
     <message>
         <source>Lifetime (full price $119)</source>
-        <translation>À vie (prix total 119 $)</translation>
+        <translation>Betiko (guztira, 119$)</translation>
     </message>
     <message>
         <source>Buy now for $</source>
-        <translation>Achetez maintenant pour $</translation>
+        <translation>Erosi orain $-ren truke</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Aujourd&apos;hui</translation>
+        <translation>Gaur</translation>
     </message>
 </context>
 <context>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation>Choisir une option</translation>
+        <translation>Hautatu aukera bat</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation>Ajouter des destinataires</translation>
+        <translation>Gehitu hartzaileak</translation>
     </message>
 </context>
 <context>
     <name>SingleAttachment</name>
     <message>
         <source>Open</source>
-        <translation>Ouvrir</translation>
+        <translation>Ireki</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Télécharger</translation>
+        <translation>Deskargatu</translation>
     </message>
     <message>
         <source>Attachment downloaded to: </source>
-        <translation>Pièce jointe téléchargée sur: </translation>
+        <translation>Eranskina hemen deskargatu da: </translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation>Erreur lors du téléchargement</translation>
+        <translation>Errorea gertatu da eranskina deskargatzean</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation>Yikes! Je ne suis pas sûr de savoir comment ouvrir cette pièce jointe!</translation>
+        <translation>Arraioa! Ez dakit nola ireki eranskin hau!</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation>ABSENT DU BUREAU</translation>
+        <translation>BULEGOTIK KANPO</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation>Message d&apos;absence du bureau</translation>
+        <translation>Bulegotik kanpo nagoenerako mezua</translation>
     </message>
     <message>
         <source>Remove task</source>
-        <translation>Supprimer la tâche</translation>
+        <translation>Kendu ataza</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation>Ajouter une tâche</translation>
+        <translation>Gehitu ataza</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Ask question here</source>
-        <translation>Posez la question ici</translation>
+        <translation>Egin galdera hemen</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation>Décrivez la tâche ici</translation>
+        <translation>Deskribatu ataza hemen</translation>
     </message>
     <message>
         <source>Delegate to</source>
-        <translation>Déléguer à</translation>
+        <translation>Eskuordetu honi</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation>Question pour</translation>
+        <translation>Honentzako galdera</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation>Tâche pour</translation>
+        <translation>Honentzako ataza</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation>Compétence activée</translation>
+        <translation>Gaitasuna gaitu da</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation>Compétence désactivée</translation>
+        <translation>Gaitasuna desgaitu da</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation>Qu&apos;est ce que ça fait?</translation>
+        <translation>Zer egiten du?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation>A quoi ressemble-t-il?</translation>
+        <translation>Zer nolako itxura du?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation>Pourquoi?</translation>
+        <translation>Zergatik?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation>Action/FYI Divisé</translation>
+        <translation>Ekintza/FYI Zatiketa</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Séparez vos e-mails en utilisant le partage Action/FYI divisé.</translation>
+        <translation>Bereizi zure mezuak Ekintza/FYI zatiketa erabiliz.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation>Il ajoute Action et un filtre FYI à la boîte gris foncé sur le côté gauche.</translation>
+        <translation>Ekintza eta FYI iragazkiak gehitzen ditu ezkerraldeko koadro gris ilunera.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation>Le tableau de bord</translation>
+        <translation>Aginte-taula</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation>Arrêtez de vérifier votre courrier si souvent.</translation>
+        <translation>Ez egiaztatu posta elektronikoa horren maiz.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation>Un tableau de bord apparaîtra devant Hiri après 90 secondes d&apos;inactivité pour vous rappeler de ne pas vérifier votre courrier si souvent. Cela vous aide à rester concentré et vous fait gagner du temps.</translation>
+        <translation>90 segundo geldirik egon ondoren, aginte-taula bat agertuko zaizu Hiri aurrealdean, zure posta elektronikoa horren maiz ez ikuskatzeko ohartaraziz. Horrek arreta jartzen eta denbora aurrezten lagunduko dizu.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation>Liste de tâches</translation>
+        <translation>Atazen Zerrenda</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation>Transformez vos e-mails en tâches en cliquant sur.</translation>
+        <translation>Bihurtu zure mezuak ataza klik eginda.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ataza-zerrenda bat gehitzen du eskuinaldean. Mezuak taula horretara arrastatu ahal izango dituzu, ataza-zerrenda bat sortzeko.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Eskuordetu mezuak</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziurta zaitez ataza bat eskuordetu duzula.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eskuordetzeko botoia gehitzen du Posta Elektronikoaren Ekintza Barrara.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohartarazpenak</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez ahaztu mezu garrantzitsurik</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohartarazteko botoia gehitzen du Posta Elektronikoaren Ekintza Barrara. Horrela, elkarrizketa zehatzetarako ohartarazpenak ezarri ahal izango dituzu.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Idatzi gaiaren lerro hobeak</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hobetu gaiaren lerroak horiek amaieran idatziz.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezua idazteko leihoaren behealdera mugitzen du gaiaren lerroa.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Zero sarrerako ontzia</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zero sarrerako ontziaren Zen artea praktikatzen dutenentzat.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekintza/FYI Zatiketa behar du</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zero sarrerako ontzia eskuratzea ahalbidetzen dizu. Normalean, Ekintza / FYI zatitzeko gaitasuna ahalbidetzen duzunean (egiaztatu Ekintza / FYI zatitzeko gaitasuna informazio gehiago eskuratzeko), iragazki hauetara mugitzen diren mezuak sarrerako ontzi nagusian mantentzen dira, baina kolore bidez kodifikatzen dira. Zero sarrerako ontzia gaitzean, mezu horiek Ekintza / FYI iragazkietara mugitzen dira. Horrela, zure sarrerako ontzi nagusia hustu dezakezu.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebaluatu mezu elektronikoak</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bihurtu komunikatzaile hobea.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Laster!</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zure komunikazio-gaitasunak hobetzeko modurik onena iruzkin egokiak egitea da, eta ba al dago galderak egiteko posta elektronikoa baino leku hobeagorik?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zure mezuak ebaluatzea ahalbidetzen die beste pertsona batzuei, komunikazio onaren lau oinarriak erabiliz - argitasuna, laburtasuna, tonua eta jarrera. Hirik zure lankideen iruzkinetan oinarritutako kalifikazio bat eta zure komunikazio-gaitasunak hobetzeko gomendioak emango dizkizu. Kalifikazio hori ez da beste inorekin partekatuko. Ebaluazioak anonimoak izango dira - ez duzu jakingo nork ebaluatu zaituen.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hobera egiteko unea da.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Areagotu zure jokoa posta elektronikorako produktibitate-trikimailu hauekin.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4030,14 +4026,27 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bertsio laburra: Zure mezuak sailkatzeak mezu erabilgarriak eta ez erabilgarriak bereizten lagunduko dizu. Sarrerako ontzia ondo antolatuta izateak adimena osasuntsuago mantentzen lagunduko dizu. &lt;br /&gt;&lt;br /&gt;
+    Mezuak iritsi ahala bereiztea -egin edo jakin beharreko gauzetan- zure sarrerako ontzia sailkatzeko modu ezin hobea da. Sarrerako ontzia modu eraginkorrean sailkatzen duzunean, konturatuko zara hasiera batean pentsatzen zenuena baino gauza gutxiago dituzula egiteko. Izan ere, jasotzen dituzun mezu elektroniko guztien % 20 inguruk baino ez dute zuretzako ataza bat. Gainerako mezuak honela banatzen dira:&lt;br /&gt;
+    &lt;ul&gt;
+    &lt;li&gt;Jasotako mezuen % 16 ez dira beharrezko CC-ak&lt;/li&gt;
+    &lt;li&gt;Jasotako mezuen % 13 ez dira garrantzitsuak edo ez dute jomugarik&lt;/li&gt;
+    &lt;li&gt;Jasotako mezuen % 41ek informazioa ematea baino ez dute helburu&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    Zure posta elektronikoa sailkatzen ez baduzu, ez duzu jakingo zein mezu elektronikori eskaini behar diozun arreta eta zeini ez. Horrenbestez, zure sarrerako ontziak lan-kantitate jasanezina gaineratzen duela irudituko zaizu. Gainezka dagoen sarrerako ontzi bat izatea nahiko estresagarria izan daiteke. Eta, estresatuta gaudenean, zokoratuta uzten ditugu gauza garrantzitsuak.&lt;br /&gt;&lt;br /&gt;Aplikazioko beste zati batzuetan ere agertzen da Ekintza / FYI kontzeptua. Ataza-zerrenda gaitzen baduzu, adibidez, ataza-zerrendara arrastatzen dituzun mezu guztiak Actionable iragazkian agertuko dira automatikoki. &lt;br /&gt;&lt;br /&gt;
+
+    Ekintza / FYI iragazkiari buruz gehiago jakiteko, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;kontsulta ezazu gure euskarri-artikulua&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta elektronikoarekin lotutako ohiturarik suntsigarriena? Zure posta gehiegitan ikuskatzea. Batez beste, egunean 96 aldiz edo 5 minuturo ikuskatzen dugu gure posta elektronikoa. Dena den, ez da beharrezkoa. Inork ez du espero zure posta elektronikoa horrenbeste aldiz ikuskatzea (eta hala bada, jota daude). &lt;br/&gt;&lt;br/&gt;
+    Posta elektronikoa ez da denbora errealeko komunikazio-protokolo bat. Erantzun azkar bat behar duzu? Saiatu deitzen, idazten, bat-bateko mezuak bidaltzen, edo pasatu zuzenean kasuan kasuko pertsonaren mahaitik. Posta elektronikoa oso ona da komunikazio asinkrono eta garbi baterako. Edo, sinple esanda, berehalako erantzun bat behar ez duzun gauzetarako, erantzuna argia denean. Zergatik? Zure mezu elektronikoak mezu ugari eragin ditzakeenean, hobe duzu telefonoa hartzea. Inork ez du gogoko mezu elektronikoekin tenisean ibiltzea.&lt;br /&gt;&lt;br /&gt;
+    Zure posta elektronikoa gutxiago ikuskatzeak denbora asko aurrezten lagunduko dizu. Zure posta ikuskatzen duzun bakoitzean, gutxienez minutu bat galtzen duzu (ikerketa batzuen arabera, 20 minutu izan daitezke, zure eginkizunaren arabera). Izan ere, egiten ari zinena eteten duzunean, ez da mezua irakurtzeko behar duzun denbora bakarrik galtzen. Postara jo aurretik egiten ari zinenaren erritmoa berreskuratzeko behar duzun denbora ere hartu behar da kontuan.&lt;br /&gt;&lt;br /&gt;
+    Posta elektronikoaren sarbidea mugatzeak parte-hartzaileen bihotz-taupadetan eta kontzentratzeko gaitasunean nola eragiten zuen aztertu zuen Kaliforniako Irvine Unibertsitateko eta Estatu Batuetako Armadako ikerlari-talde batek. Posta elektronikora sarbidea mugatzeak estresa izugarri murrizten duela frogatu zuten parte-hartzaileen bihotz-taupadak aztertuz. Posta elektronikora sartzerik ez zuten parte-hartzaileek 18 aldiz aldatzen zuten leihoz orduko, eta postara sarbidea zuten parte-hartzaileek, berriz, 37 aldiz. Aginte-taulako gaitasun horrek ez dizu posta elektronikoan sartzea galarazten, baina frogatuta dago zure posta ikuskatzen duzun aldi-kopurua murrizten duela.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4046,7 +4055,11 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Noizbait ahaztu duzu mezu elektroniko garrantzitsu bati erantzutea? Bai. Mezu horiek ataza-zerrendara eramaten badituzu, ziur egon zaitezke ez duzula ezer garrantzitsurik ahaztuko. Edo ez duzu zure mezuen zerrenda osoa arakatzen ibili beharrik izango zer egin behar duzun gogoratzeko.&lt;br /&gt;&lt;br /&gt;
+    Ataza-zerrendak oso ezaugarri interesgarriak ditu. Esaterako, atazarekin lotutako mezua ataza-zerrendatik bertatik ireki ahal izango duzu. Eta alderantziz - mezu batekin lotuta dagoen edozein ataza ireki ahal izango duzu edozein mezu elektronikotatik.&lt;br /&gt;&lt;br /&gt;
+    Era berean, atazak zerrendatan antolatu ahal izango dituzu. Dagoeneko eginda dauden zerrenda batzuk ditugu - gaur egin behar diren eta beste pertsona batzuei bidali dizkiezun atazak, adibidez, baina zure zerrenda pertsonalizatuak ere sor ditzakezu.&lt;br /&gt;&lt;br /&gt;
+    Atazak MS Outlook eta Microsoft sistemen aplikazioekin dira bateragarriak.&lt;br /&gt;&lt;br /&gt;
+    Ataza-zerrendaren inguruan gehiago jakiteko, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;kontsulta ezazu gure euskarri-artikulua&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4068,7 +4081,24 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Entzun al duzu inoiz lau irizpideen inguruko zerbait? Ez? Ondo da.&lt;br /&gt;
+    Microsoft Research-ek sortu zituen eta honako hauek dira:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Garrantzitsua ez bada, &lt;strong&gt;ezabatu&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;2 minututan edo gutxiagoan egin badaiteke, &lt;strong&gt;egin&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;Zuretzako ez bada edo egin badezakezu, &lt;strong&gt;eskuordetu&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;Nahitaez egin behar baduzu, baina 2 minutu baino gehiago behar badituzu (irakurketa barne), &lt;strong&gt;atzeratu&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    Lau irizpideen metodologia erabiliz, zure mezu elektroniko guztiei erantzun ahal izango diezu. Hirin oso gogoko ditugu lau irizpideak. Baina eskuordetzeari dagokion irizpidea gehixeago ikusarazi nahiko genuke. Horregatik, eskuordetzeko botoi bat gehitu dugu.&lt;br /&gt;&lt;br /&gt;
+
+    Eskuordetzeko botoiak mezuak birbidaltzeko botoiaren antzera jarduten du, baina baditu desberdintasun batzuk. Eskuordetzeko botoia erabiltzen duzunean, ataza-eremu bat gaineratzen da birbidalitako mezuaren hasieran eta, beraz, mezuarekin zer egitea nahi duzun jakinarazten diezu erabiltzaileei. Hori oso garrantzitsua da, erabiltzaileek jasotzen dituzten mezu elektronikoen % 40ek ez baitute ekintza garbirik gaineratzen, eta horrek argitze-mezuak eragiten ditu.&lt;br /&gt;&lt;br /&gt;
+
+    Aldaketa txiki bat da, baina, haren bitartez, Hirik zure komunikazioa hobetzen lagunduko dizu.&lt;br /&gt;&lt;br /&gt;
+
+    Bada eskuordetzeko botoia erabiltzeak eskaintzen duen beste &apos;abantaila&apos; bat. Hiriren beste erabiltzaile bati atzeratutako mezu bat bidaltzen badiozu, mezua haren Actionable sarrerako ontzira bideratuko da automatikoki, ondo baitakigu harentzako ekintza bat barne hartzen duela.</translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4080,7 +4110,14 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Jasotzen dituzun mezu elektronikoak lau irizpideen metodologia erabiliz aktiba daitezke:&lt;br /&gt;&lt;br /&gt;
+
+    1.      Garrantzitsua ez bada, &lt;strong&gt;ezabatu&lt;/strong&gt;.&lt;br /&gt;
+    2.      2 minututan edo gutxiagoan egin badaiteke, &lt;strong&gt;egin&lt;/strong&gt;.&lt;br /&gt;
+    3.      Zuretzako ez bada edo egin badezakezu, &lt;strong&gt;eskuordetu&lt;/strong&gt;.&lt;br /&gt;
+    4.      Nahitaez egin behar baduzu, baina 2 minutu baino gehiago behar badituzu (irakurketa barne), &lt;strong&gt;atzeratu&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
+
+    Atzeratzeko botoia da zerrendako laugarren irizpidea. Batzuetan ezin diozu mezu bati berehala erantzun, baina egun jakin batean edo egun jakin bat baino lehen gauzatu behar da. Ohartarazpenaren botoia sakatuz gero, mezu jakin baten ohartarazpena noiz jaso nahiko zenukeen aukera dezakezu. Oso sinplea da!</translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4089,86 +4126,91 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Mezuaren edukia idatzi ondoren hobeto idatziko duzu gaiaren lerroa.&lt;br /&gt;&lt;br /&gt;
+
+    Hori oso garrantzitsua da. Gaiaren lerroa hobeto erabiltzen bada, errazago balora daiteke mezuaren garrantzia. Mezuaren gaiak mezuaren edukia ondo islatzen badu, errazagoa da mezu osoa ulertzea.&lt;br /&gt;&lt;br /&gt;
+
+    Arrazoi horiek direla eta, Hirik ez dizu gai-lerrorik gabeko mezurik bidaltzen utziko.</translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zero sarrerako ontzia mezu elektronikoak kudeatzeko modu zehatz bat da eta sarrerako ontzia hutsik -edo ia hutsik- mantentzea du helburu.&lt;br /&gt;&lt;br /&gt;
+Zero sarrerako ontzia produktibitatean aditua den Merlin Mann jaunak garatu zuen. Mann-en ustez, zerok ez dio erreferentzia egiten sarrerako ontzian ditugun mezuen kopuruari; &quot;langileek beren sarrerako ontzian pentsatzen igarotzen duten denbora izango litzateke.&quot; Mann-en arabera, denbora eta arreta mugatuak dira, eta sarrerako ontzia &quot;egin beharreko gauzen&quot; zerrenda batekin nahasten denean, produktibitateak behera egiten du. Sarrerako ontzia garbituz gero, denbora gutxiago galduko duzu posta elektronikoan. Sarrerako ontzi garbi batek adimena osasuntsu eta emankor mantentzen laguntzen du - edo hala dio teoriak.</translation>
     </message>
 </context>
 <context>
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation>pas de sujet</translation>
+        <translation>ez dago gairik</translation>
     </message>
 </context>
 <context>
     <name>SupportDialog</name>
     <message>
         <source>Sending feedback...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iruzkina bidaltzen...</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesedez, idatzi iruzkin bat</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Iruzkina:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Iruzkina bidali da. Eskerrik asko!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea gertatu da iruzkina bidaltzean</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Bidali</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezua honi bidaliko zaio:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lagun iezaguzu zuri laguntzen :)</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Bidali iruzkina</translation>
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea gertatu da erregistroak eranstean</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikusi laguntza-zentroan maiz egiten diren galderak</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>Guretzako ideiaren bat baduzu</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Edo jarri zuzenean harremanetan Hiri Taldearekin</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zenbat eta xehetasun gehiago eman, orduan eta hobeto lagunduko dizugu.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esaguzu zure arazoa/gomendioa aplikazioaren zein zatiri dagokion.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Erantsi erregistroak tiket honetara</translation>
     </message>
 </context>
 <context>
@@ -4176,497 +4218,495 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation>On</translation>
+        <translation>Piztu</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Off</translation>
+        <translation>Itzali</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>you</source>
-        <translation>vous</translation>
+        <translation>zu</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation>vous et 1 autre</translation>
+        <translation>zu eta beste 1</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation>vous et %1 autres</translation>
+        <translation>zu eta beste %1</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation>1 autre</translation>
+        <translation>beste 1</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation>%1 autres</translation>
+        <translation>beste %1</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation>Question</translation>
+        <translation>Galdera</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation>Tâche</translation>
+        <translation>Ataza</translation>
     </message>
     <message>
         <source> for </source>
-        <translation> pour </translation>
+        <translation> honentzat </translation>
     </message>
     <message>
         <source>Were these tasks completed?</source>
-        <translation>Ces tâches ont-elles été accomplies?</translation>
+        <translation>Amaitu dira ataza hauek?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation>Cette tâche était-elle terminée?</translation>
+        <translation>Amaitu da ataza hau?</translation>
     </message>
     <message>
         <source>You marked this message as a task on </source>
-        <translation>Vous avez marqué ce message comme une tâche sur </translation>
+        <translation>Ataza honekin lotutako mezu gisa markatu duzu mezua: </translation>
     </message>
     <message>
         <source>Delegated</source>
-        <translation>Délégué</translation>
+        <translation>Pertsona honi</translation>
     </message>
     <message>
         <source> to </source>
-        <translation> à </translation>
+        <translation> eskuordetu zaio: </translation>
     </message>
     <message>
         <source>Open task</source>
-        <translation>Ouvrir la tâche</translation>
+        <translation>Ireki ataza</translation>
     </message>
 </context>
 <context>
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation>Renommer</translation>
+        <translation>Aldatu izena</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Ezabatu</translation>
     </message>
 </context>
 <context>
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation>Toutes les tâches</translation>
+        <translation>Ataza guztiak</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation>Nouvelle liste</translation>
+        <translation>Zerrenda berria</translation>
     </message>
 </context>
 <context>
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation>Même tâche pour tous</translation>
+        <translation>Ataza bera denentzat</translation>
     </message>
 </context>
 <context>
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarri ohartarazpena</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Utzi</translation>
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarri epemuga</translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>hemendik</translation>
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>sortu zenuen ataza hau:</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Ireki mezua</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarri ohartarazpen bat</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kendu ohartarazpena</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Kendu epemuga</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezabatu ataza</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehitu ohar bat</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Editatu oharra</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Garbitu oharra</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziur zaude oharra garbitu nahi duzula?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Bai, garbitu</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez, mantendu</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation>vous</translation>
+        <translation>zu</translation>
     </message>
     <message>
         <source>all</source>
-        <translation>tout</translation>
+        <translation>denak</translation>
     </message>
 </context>
 <context>
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation>Modifier la note de tâche</translation>
+        <translation>Editatu atazaren oharra</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation>Itxi</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Sauvegarder</translation>
+        <translation>Gorde</translation>
     </message>
 </context>
 <context>
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation>(Ne pas demander)</translation>
+        <translation>(Ez dago atazarik)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder...</source>
-        <translation>Oups, impossible de rejeter le rappel ...</translation>
+        <translation>Hara, ezin da ohartarazpena baztertu...</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder...</source>
-        <translation>Oups, impossible de répéter le rappel de tâche ...</translation>
+        <translation>Hara, ezin izan da atazaren ohartarazpena errepikatu...</translation>
     </message>
 </context>
 <context>
     <name>Tasks</name>
     <message>
         <source>Create a new task</source>
-        <translation>Créer une nouvelle tâche</translation>
+        <translation>Sortu ataza berri bat</translation>
     </message>
 </context>
 <context>
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation>(Aucune taches)</translation>
+        <translation>(Ez dago atazarik)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation>Désolé, vous ne pouvez pas déplacer une tâche terminée</translation>
+        <translation>Barkatu, ezin duzu amaituta dagoen ataza bat mugitu</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation>Désolé, vous ne pouvez pas déplacer une tâche envoyée</translation>
+        <translation>Barkatu, ezin duzu bidalita dagoen ataza bat mugitu</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da ataza-zerrenda kargatu...</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan dira atazak kargatu...</translation>
     </message>
     <message>
         <source>Oops, creating task failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da ataza sortu...</translation>
     </message>
     <message>
         <source>Oops, updating task failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da ataza eguneratu...</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ataza &quot;%1&quot;ra bidali duzu</translation>
     </message>
     <message>
         <source>Oops, moving task failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da ataza mugitu...</translation>
     </message>
     <message>
         <source>Oops, deleting task failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da ataza ezabatu...</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da atazaren karpeta ezabatu...</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elkarrizketa Actionable postontzira mugitu da.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed...</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara, ezin izan da jarraipena egin...</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Barkatu, ezin duzu atazarik gehitu bidalitako ataza-zerrendara</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ataza Gaur - ezarritako epemugara (gaur, 18:00etan) mugitu da</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ataza Aste honetara - ezarritako epemugara (ostirala, 18:00etan) mugitu da</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Barkatu, ezin duzu ataza hau bidalitako ataza-zerrendara mugitu</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Sentitzen dut, zure probaldia amaitu da :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez kezkatu! Lizentzia eros dezakezu Hiri erabiltzen jarraitzeko.</translation>
     </message>
     <message>
         <source>If you have any questions, please </source>
-        <translation type="unfinished"></translation>
+        <translation>Galderaren bat baduzu, mesedez, </translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>jarri gurekin harremanetan.</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Erosi orain</translation>
     </message>
     <message>
         <source>I paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ordaindu dut</translation>
     </message>
     <message>
         <source>Checking subscription...</source>
-        <translation type="unfinished"></translation>
+        <translation>Harpidetza egiaztatzen...</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Barkatu. Ez dugu zure ordainketa aurkitu.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesedez, idatzi iruzkin bat</translation>
     </message>
     <message>
         <source>Sending feedback...</source>
-        <translation type="unfinished"></translation>
+        <translation>Iruzkina bidaltzen...</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Probaldiko galdera:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Iruzkina bidali da. Eskerrik asko!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea gertatu da iruzkina bidaltzean</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mezua honi bidaliko zaio:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ba al duzu partekatu nahiko zenukeen probari edo iruzkinari buruzko galderaren bat?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Bidali</translation>
     </message>
 </context>
 <context>
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation>Marquer comme non lu</translation>
+        <translation>Markatu irakurri gabe gisa</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Marquer comme lu</translation>
+        <translation>Markatu irakurrita gisa</translation>
     </message>
 </context>
 <context>
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation>Dimanche</translation>
+        <translation>Igandea</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation>Lundi</translation>
+        <translation>Astelehena</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation>Mardi</translation>
+        <translation>Asteartea</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation>Mercredi</translation>
+        <translation>Asteazkena</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation>Jeudi</translation>
+        <translation>Osteguna</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation>Vendredi</translation>
+        <translation>Ostirala</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation>Samedi</translation>
+        <translation>Larunbata</translation>
     </message>
     <message>
         <source>You</source>
-        <translation>Vous</translation>
+        <translation>Zu</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Inconnu</translation>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation>Juste Maintenant</translation>
+        <translation>Oraintxe bertan</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>Hier</translation>
+        <translation>Atzo</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Demain</translation>
+        <translation>Bihar</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Désolé, certaines pièces jointes n&apos;ont pas pu être trouvées et seront supprimées:
-
-</translation>
+        <translation>Barkatu, eranskin batzuk ez dira aurkitu eta kendu egingo dira:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation>%1 pièces jointes ajoutées.</translation>
+        <translation>%1 eranskin gehitu dira.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation>Pièce jointe ajoutée.</translation>
+        <translation>Eranskina gehitu da.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation>Ce fichier est déjà attaché.</translation>
+        <translation>Fitxategi hori erantsita dago dagoeneko.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation>Certains fichiers sont déjà attachés.</translation>
+        <translation>Fitxategi batzuk erantsita daude dagoeneko.</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation>Tous les jours</translation>
+        <translation>Egunero</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation>Chaque jour de travail</translation>
+        <translation>Lanegun guztietan</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation>Chaque %1</translation>
+        <translation>%1(e)ro</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation>Chaque %1.</translation>
+        <translation>%1(e)ro.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation>Chaque %1. %2</translation>
+        <translation>%1(e)ro. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation>Chaque dernier %1</translation>
+        <translation>Hilabeteko azken %1(e)ro</translation>
     </message>
     <message>
         <source>Trial: </source>
-        <translation>Essai: </translation>
+        <translation>Probaldia:</translation>
     </message>
     <message>
         <source>Ends today</source>
-        <translation>Se termine aujourd&apos;hui</translation>
+        <translation>Gaur amaitzen da</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation>1 jour restant</translation>
+        <translation>Egun 1 geratzen da</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation>%1 jours restants</translation>
+        <translation>%1 egun geratzen dira</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Toute la journée</translation>
+        <translation>Egun osoa</translation>
     </message>
     <message>
         <source>now</source>
-        <translation>maintenant</translation>
+        <translation>orain</translation>
     </message>
     <message>
         <source>Due in </source>
-        <translation>Dû en </translation>
+        <translation>Epemuga: </translation>
     </message>
     <message>
         <source>Starts in </source>
-        <translation>Commence dans </translation>
+        <translation>Noiz hasten da: </translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -4674,100 +4714,100 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 mins</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 h</translation>
+        <translation>%1 ordu</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation>%1 j</translation>
+        <translation>%1 egun</translation>
     </message>
 </context>
 <context>
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation>Ouvrir le lien</translation>
+        <translation>Ireki esteka</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation>Copier l&apos;adresse du lien</translation>
+        <translation>Kopiatu estekaren helbidea</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation>Copier l&apos;image</translation>
+        <translation>Kopiatu irudia</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation>Enregistrer l&apos;image</translation>
+        <translation>Gorde irudia</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Couper</translation>
+        <translation>Ebaki</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation>Copier</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation>Coller</translation>
+        <translation>Itsatsi</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation>Coller sans formatage</translation>
+        <translation>Itsatsi formateatu gabe</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation>Tout sélectionner</translation>
+        <translation>Hautatu dena</translation>
     </message>
     <message>
         <source>Unselect</source>
-        <translation>Désélectionner</translation>
+        <translation>Baliogabetu hautatu den guztia</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation>Vérifier l&apos;orthographe</translation>
+        <translation>Egiaztatu ortografia</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation>La langue</translation>
+        <translation>Hizkuntza</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation>Image téléchargée dans votre dossier Téléchargements</translation>
+        <translation>Irudia Deskargen zure karpetan deskargatu da</translation>
     </message>
 </context>
 <context>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation>Quand:%1</translation>
+        <translation>Noiz: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation>Statut de disponibilité inconnu</translation>
+        <translation>Erabilgarritasun-egoera ezezaguna</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation>Vous êtes%1</translation>
+        <translation>%1 zara</translation>
     </message>
     <message>
         <source>Where: %1</source>
-        <translation>Où:%1</translation>
+        <translation>Non: %1</translation>
     </message>
 </context>
 <context>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation>Oui</translation>
+        <translation>Bai</translation>
     </message>
     <message>
         <source>No</source>
-        <translation>Non</translation>
+        <translation>Ez</translation>
     </message>
 </context>
 </TS>

@@ -1,77 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="es">
+<TS version="2.1" language="ru_RU" sourcelanguage="en_GB">
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Вложения</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation type="unfinished"></translation>
+        <translation>Устанавливается...</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Неуспешно!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление завершено. Пожалуйста перезапустите Hiri...</translation>
     </message>
     <message>
         <source>Updating... %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновляется... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Скрыть</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>Ещё %1</translation>
     </message>
 </context>
 <context>
     <name>CalendarWebEngine</name>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Календарь</translation>
     </message>
     <message>
         <source>We&apos;re loading your calendar...</source>
-        <translation type="unfinished"></translation>
+        <translation>Мы загружаем ваш календарь...</translation>
     </message>
 </context>
 <context>
     <name>Collapsable</name>
     <message>
         <source>View full message</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотреть полное сообщение</translation>
     </message>
 </context>
 <context>
     <name>ComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметьте опции</translation>
     </message>
 </context>
 <context>
@@ -90,18 +90,18 @@
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Поведение</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation type="unfinished"></translation>
+        <translation>ваш счёт</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>CONTACT</source>
-        <translation type="unfinished"></translation>
+        <translation>КОНТАКТ</translation>
     </message>
     <message>
         <source>EMAIL %1</source>
@@ -109,50 +109,50 @@
     </message>
     <message>
         <source>WORK PHONE</source>
-        <translation type="unfinished"></translation>
+        <translation>РАБОЧИЙ ТЕЛЕФОН</translation>
     </message>
     <message>
         <source>MOBILE PHONE</source>
-        <translation type="unfinished"></translation>
+        <translation>МОБИЛЬНЫЙ ТЕЛЕФОН</translation>
     </message>
     <message>
         <source>OFFICE LOCATION</source>
-        <translation type="unfinished"></translation>
+        <translation>АДРЕС ОФИСА</translation>
     </message>
     <message>
         <source>NOTES</source>
-        <translation type="unfinished"></translation>
+        <translation>ЗАМЕТКИ</translation>
     </message>
     <message>
         <source>ADDRESS</source>
-        <translation type="unfinished"></translation>
+        <translation>АДРЕС</translation>
     </message>
     <message>
         <source>TITLE</source>
-        <translation type="unfinished"></translation>
+        <translation>ЗАГОЛОВОК</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Контакты</translation>
     </message>
     <message>
         <source>NAME</source>
-        <translation type="unfinished"></translation>
+        <translation>ИМЯ</translation>
     </message>
     <message>
         <source>DETAILS</source>
-        <translation type="unfinished"></translation>
+        <translation>ОПИСАНИЕ</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск</translation>
     </message>
     <message>
         <source>Contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Папка контактов</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -160,41 +160,41 @@
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;без имени&gt;</translation>
     </message>
 </context>
 <context>
     <name>CreateNewFolderButtonInput</name>
     <message>
         <source>Create new folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать новую папку</translation>
     </message>
 </context>
 <context>
     <name>CredentialsWizard</name>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>Зарегистрироваться</translation>
     </message>
     <message>
         <source>Email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Адрес Email</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Different username?</source>
-        <translation type="unfinished"></translation>
+        <translation>Другое имя пользователя?</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключиться</translation>
     </message>
     <message>
         <source>We&apos;re getting your mail, contacts and calendar items
@@ -214,7 +214,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Next %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Далее %1</translation>
     </message>
 </context>
 <context>
@@ -225,7 +225,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
 </context>
 <context>
@@ -247,7 +247,7 @@ for the first time. You can continue to use Hiri, but it may be a little slow wh
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Редактировать профиль</translation>
     </message>
     <message>
         <source>Hi %1</source>
@@ -1963,7 +1963,7 @@ recommendations for you...</source>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет</translation>
     </message>
 </context>
 </TS>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="ca">
+<TS version="2.1" language="es_ES" sourcelanguage="en_GB">
 <context>
     <name>AlertDialog</name>
     <message>
@@ -12,22 +12,22 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Fitxers adjunts</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing...</source>
-        <translation>Instal·lant...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Tanca</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Fallat!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri...</source>

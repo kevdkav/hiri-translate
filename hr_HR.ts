@@ -4788,7 +4788,7 @@ under control.</source>
     </message>
     <message>
         <source>No</source>
-        <translation></translation>
+        <translation>Не</translation>
     </message>
 </context>
 </TS>

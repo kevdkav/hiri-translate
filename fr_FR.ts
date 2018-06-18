@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1129,11 +1129,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Let's add an account.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1996,7 +1996,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Italic:</source>
@@ -2264,7 +2264,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>If the email you're forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That's why we call it Delegate.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3413,21 +3413,21 @@ Ne vous inquiétez pas, vos emails restent en sécurité sur le serveur!</transl
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can't create aliases in Hiri)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
@@ -3435,19 +3435,19 @@ Known aliases:</source>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes</source>
@@ -3647,27 +3647,27 @@ Known aliases:</source>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href='https://hosted.weblate.org/projects/hiri/'&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3749,23 +3749,23 @@ Known aliases:</source>
     </message>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4057,87 +4057,87 @@ Cela vous permettra d'épingler l'icône Hiri à votre lanceur.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won't know who rated you.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4151,14 +4151,14 @@ Cela vous permettra d'épingler l'icône Hiri à votre lanceur.</translation>
     If you don't triage your email you can't tell which emails require attention and which don't. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href="https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-"&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they're nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM'ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don't need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you'd be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That's because when you are interrupted, it's not just the time it takes to read the email. It's the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants' heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants' heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn't prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you're not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4167,7 +4167,7 @@ Cela vous permettra d'épingler l'icône Hiri à votre lanceur.</translation>
     Tasks are compatible with MS Outlook and Microsoft's Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href="https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri"&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ever heard of the Four D's? Nope? That's OK.&lt;br /&gt;
@@ -4189,7 +4189,7 @@ Cela vous permettra d'épingler l'icône Hiri à votre lanceur.</translation>
 
     There's one more 'bonus' to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D's methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4201,7 +4201,7 @@ Cela vous permettra d'épingler l'icône Hiri à votre lanceur.</translation>
 
     The Defer button is the fourth 'D' in the list. Sometime you can't deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let's you choose when you'd like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You'll write a better subject line once you've written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4210,12 +4210,12 @@ Cela vous permettra d'épingler l'icône Hiri à votre lanceur.</translation>
 
     For the same reasons, you'll also notice that Hiri won't allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is "the amount of time an employee's brain is in his inbox." Mann's point is that time and attention are finite and when an inbox is confused with a "to do" list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4229,23 +4229,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Sending feedback...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
@@ -4253,11 +4253,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send feedback</source>
@@ -4265,31 +4265,31 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View FAQ's in our support center</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4404,55 +4404,55 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -4526,122 +4526,122 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, loading tasks failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, creating task failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, updating task failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have moved this task to "%1"</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, moving task failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, deleting task failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, creating followup failed...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, you can't add a task to the sent task list</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, you can't move this task to the sent task list</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you have any questions, please </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>I paid</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Checking subscription...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry. We couldn't find your payment.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sending feedback...</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you'd like to share?</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
@@ -4908,65 +4908,65 @@ sous contrôle.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won't be able to rate your colleagues' emails or see your communication score.</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"/>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

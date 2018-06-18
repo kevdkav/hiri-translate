@@ -1279,7 +1279,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>Yikes! Something went wrong!</source>
         <translation>Arraioa! Akats bat gertatu da!</translation>
-    </message>https://secure-ds.serving-sys.com/BurstingRes/Site-109103/Type-0/e89e2359-d6ef-4c61-a06a-b0973cf0caba.jpg
+    </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
         <translation>Mezua FYI ontzira mugitu da. Ataza kendu egin da.</translation>

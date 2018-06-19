@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.1" sourcelanguage="en_GB">
 <context>
@@ -19,7 +19,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you can't find the calendar you're looking for make sure you've accepted the sharing request.</source>
+        <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -27,11 +27,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We couldn't find any new public calendars</source>
+        <source>We couldn&apos;t find any new public calendars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We couldn't find any new shared calendars</source>
+        <source>We couldn&apos;t find any new shared calendars</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -115,15 +115,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Attachment '%1' will be downloaded</source>
+        <source>Attachment &apos;%1&apos; will be downloaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Attachment '%1' downloaded</source>
+        <source>Attachment &apos;%1&apos; downloaded</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Download of attachment '%1' failed</source>
+        <source>Download of attachment &apos;%1&apos; failed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -315,7 +315,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You can't cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
+        <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -471,7 +471,7 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>ChooseProvider</name>
     <message>
-        <source>Sorry, we couldn't figure out what kind of email you use.</source>
+        <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -483,7 +483,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don't see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
+        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -749,11 +749,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Couldn't load meetings :(</source>
+        <source>Couldn&apos;t load meetings :(</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Your meetings will be updated once you're back online</source>
+        <source>Your meetings will be updated once you&apos;re back online</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -948,7 +948,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>No don't cancel</source>
+        <source>No don&apos;t cancel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1003,7 +1003,7 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>EmailActions</name>
     <message>
-        <source>Sorry, you can't set reminders when you are offline.</source>
+        <source>Sorry, you can&apos;t set reminders when you are offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1093,7 +1093,7 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>EmailAddressForm</name>
     <message>
-        <source>Sorry, we don't support %1. Hiri only works with an Exchange/Office 365 email address.</source>
+        <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1109,7 +1109,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Let's add an account.</source>
+        <source>Let&apos;s add an account.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1210,15 +1210,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>That's the lot</source>
+        <source>That&apos;s the lot</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We're getting your mails...</source>
+        <source>We&apos;re getting your mails...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Still don't see some emails?</source>
+        <source>Still don&apos;t see some emails?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1272,11 +1272,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You're offline. The mail has been moved to Outbox.</source>
+        <source>You&apos;re offline. The mail has been moved to Outbox.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We couldn't send your message - it contains invalid recipients</source>
+        <source>We couldn&apos;t send your message - it contains invalid recipients</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1448,7 +1448,7 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>FolderListController</name>
     <message>
-        <source>Sorry, you can't create a folder if you're offline.</source>
+        <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1460,7 +1460,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't rename a folder if you're offline.</source>
+        <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1468,15 +1468,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't delete a folder if you're offline.</source>
+        <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to permanently delete the folder and the contents of "%1"?</source>
+        <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to delete the folder "%1"?</source>
+        <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1496,15 +1496,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't empty a folder if you're offline.</source>
+        <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to permanently delete all items and subfolders in folder "%1"?</source>
+        <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Are you sure you want to delete all items in folder "%1"?</source>
+        <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1524,11 +1524,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't move folders while you're offline.</source>
+        <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't mark as read while you're offline.</source>
+        <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1582,7 +1582,7 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
-        <source>Added to signature: "I'm getting my email under control &lt;a href="https://www.hiri.com/"&gt;using Hiri&lt;/a&gt;"</source>
+        <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1794,7 +1794,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I'd like to invite you to give Hiri a try. It's a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
+        <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1822,11 +1822,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> if they like it and decide to signup. We'll give you </source>
+        <source> if they like it and decide to signup. We&apos;ll give you </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> too if you send to just 3 people, even if they don't signup. :)</source>
+        <source> too if you send to just 3 people, even if they don&apos;t signup. :)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2209,11 +2209,11 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>MailTips</name>
     <message>
-        <source>What are &lt;font color="#e54624"&gt;Action&lt;/font&gt; and &lt;font color="#29abe2"&gt;FYI&lt;/font&gt;?</source>
+        <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Same as To and Cc really. But if the person you're sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
+        <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2225,11 +2225,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Because you'll write a better subject line! You've already written the content so your subject will be more accurate, which saves your recipient's time.</source>
+        <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What is &lt;font color="#e54624"&gt;Delegate&lt;/font&gt;?</source>
+        <source>What is &lt;font color=&quot;#e54624&quot;&gt;Delegate&lt;/font&gt;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2237,19 +2237,19 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If the email you're forwarding contains a task for you, each recipient you add to Action will have your task by default.
- That's why we call it Delegate.</source>
+        <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
+ That&apos;s why we call it Delegate.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MainNotifier</name>
     <message>
-        <source>Looks like you're offline or lost connection</source>
+        <source>Looks like you&apos;re offline or lost connection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>... and we're back</source>
+        <source>... and we&apos;re back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2565,7 +2565,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We couldn't authenticate you because of connection problems.
+        <source>We couldn&apos;t authenticate you because of connection problems.
 Please check your internet connection and try again.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2598,7 +2598,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Let's go!</source>
+        <source>Let&apos;s go!</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2694,11 +2694,11 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You haven't changed the meeting time. Please propose a new time.</source>
+        <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Let them know why you're proposing a new time, or leave blank</source>
+        <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2760,7 +2760,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Too many FYI's</source>
+        <source>Too many FYI&apos;s</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2909,7 +2909,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You were BCC'd on this email - other recipients don't know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
+        <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2944,7 +2944,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Let them know why you're </source>
+        <source>Let them know why you&apos;re </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3208,7 +3208,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Didn't find what you were looking for?</source>
+        <source>Didn&apos;t find what you were looking for?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3356,7 +3356,7 @@ Known aliases:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>(please note these must be existing aliases, you can't create aliases in Hiri)</source>
+        <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3406,7 +3406,7 @@ Known aliases:</source>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
-Don't worry, your emails are still safe on the server!</source>
+Don&apos;t worry, your emails are still safe on the server!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3579,7 +3579,7 @@ Don't worry, your emails are still safe on the server!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Can't check for updates at the moment</source>
+        <source>Can&apos;t check for updates at the moment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3618,7 +3618,7 @@ Don't worry, your emails are still safe on the server!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href='https://hosted.weblate.org/projects/hiri/'&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
+        <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3827,7 +3827,7 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Include "--" at the top of the signature</source>
+        <source>Include &quot;--&quot; at the top of the signature</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3864,7 +3864,7 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Yikes! I'm not sure how to open this attachment!</source>
+        <source>Yikes! I&apos;m not sure how to open this attachment!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3933,7 +3933,7 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What's it look like?</source>
+        <source>What&apos;s it look like?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4048,7 +4048,7 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won't know who rated you.</source>
+        <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4061,80 +4061,80 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
-    Splitting your emails as they arrive into things you need to do and things you just need to know about is a great way to triage your inbox. When you triage your inbox effectively, you begin to realise that there's not nearly as much stuff that you actually need to do as you thought. In fact, only about 20% of the email you receive on average, actually contains a task for you. The main reasons for the rest are broken down as follows:&lt;br /&gt;
+    Splitting your emails as they arrive into things you need to do and things you just need to know about is a great way to triage your inbox. When you triage your inbox effectively, you begin to realise that there&apos;s not nearly as much stuff that you actually need to do as you thought. In fact, only about 20% of the email you receive on average, actually contains a task for you. The main reasons for the rest are broken down as follows:&lt;br /&gt;
     &lt;ul&gt;
-    &lt;li&gt;16% of emails received are unnecessary CC's&lt;/li&gt;
+    &lt;li&gt;16% of emails received are unnecessary CC&apos;s&lt;/li&gt;
     &lt;li&gt;13% of emails received are irrelevant or untargeted&lt;/li&gt;
     &lt;li&gt;41% of emails received are for information purposes only&lt;/li&gt;
     &lt;/ul&gt;
     &lt;br /&gt;
-    If you don't triage your email you can't tell which emails require attention and which don't. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
+    If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
-    To learn about Action / FYI in detail, &lt;a href="https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-"&gt;visit our support article&lt;/a&gt;.</source>
+    To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they're nuts). &lt;br/&gt;&lt;br/&gt;
-    Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM'ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don't need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you'd be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
-    Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That's because when you are interrupted, it's not just the time it takes to read the email. It's the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
-    A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants' heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants' heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn't prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
+        <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
+    Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
+    Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
+    A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you're not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
+        <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
     The Task list has some cool features. For example, you can open the email associated with the task directly from the task list. And vice-versa - you can open any tasks associated with an email from any email.&lt;br /&gt;&lt;br /&gt;
-    You can also organise your tasks into lists. We've got some premade ones - for example, tasks that are due today and tasks you've sent to other people, but you can also create your own custom lists.&lt;br /&gt;&lt;br /&gt;
-    Tasks are compatible with MS Outlook and Microsoft's Task app.&lt;br /&gt;&lt;br /&gt;
-    To learn more about the task list, &lt;a href="https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri"&gt;visit our support page&lt;/a&gt;.
+    You can also organise your tasks into lists. We&apos;ve got some premade ones - for example, tasks that are due today and tasks you&apos;ve sent to other people, but you can also create your own custom lists.&lt;br /&gt;&lt;br /&gt;
+    Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
+    To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ever heard of the Four D's? Nope? That's OK.&lt;br /&gt;
+        <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
     It comes from Microsoft Research, and it works like this:&lt;br /&gt;
 
 &lt;ol&gt;
-    &lt;li&gt;If it isn't important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;/li&gt;
     &lt;li&gt;If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If it isn't for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;/li&gt;
     &lt;li&gt;If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;br /&gt;
 
-    You can action all of your emails using the Four D's methodology. At Hiri, we love the Four D's. But we wanted to make the Delegate 'D' a bit more obvious. So we added a Delegate button.&lt;br /&gt;&lt;br /&gt;
+    You can action all of your emails using the Four D&apos;s methodology. At Hiri, we love the Four D&apos;s. But we wanted to make the Delegate &apos;D&apos; a bit more obvious. So we added a Delegate button.&lt;br /&gt;&lt;br /&gt;
 
-    The Delegate button acts very much like a Forward button, with a few simple differences. When you use the Delegate button, A Task field is added to the beginning of the forwarded email so you can let users know exactly what you'd like them to do with the email. This is important, because 40% of emails users receive contain no clear action, which leads to additional clarification emails.&lt;br /&gt;&lt;br /&gt;
+    The Delegate button acts very much like a Forward button, with a few simple differences. When you use the Delegate button, A Task field is added to the beginning of the forwarded email so you can let users know exactly what you&apos;d like them to do with the email. This is important, because 40% of emails users receive contain no clear action, which leads to additional clarification emails.&lt;br /&gt;&lt;br /&gt;
 
-    It's a small change, but it's just one more way Hiri helps improve your communication.&lt;br /&gt;&lt;br /&gt;
+    It&apos;s a small change, but it&apos;s just one more way Hiri helps improve your communication.&lt;br /&gt;&lt;br /&gt;
 
-    There's one more 'bonus' to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
+    There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Emails you receive can be actioned using the Four D's methodology:&lt;br /&gt;&lt;br /&gt;
+        <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
 
-    1.      If it isn't important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;br /&gt;
+    1.      If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;br /&gt;
     2.      If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;br /&gt;
-    3.      If it isn't for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;br /&gt;
+    3.      If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;br /&gt;
     4.      If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;br /&gt;&lt;br /&gt;
 
-    The Defer button is the fourth 'D' in the list. Sometime you can't deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let's you choose when you'd like to get a reminder about a specific email thread. Simple as that!
+    The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You'll write a better subject line once you've written the body of the email.&lt;br /&gt;&lt;br /&gt;
+        <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
 
     This is important. Better use of the subject line makes it significantly easier for someone to assess the importance of an email. If the subject of your email is relevant to the body of the email, it also makes the whole email easier to digest.&lt;br /&gt;&lt;br /&gt;
 
-    For the same reasons, you'll also notice that Hiri won't allow you to send an email without a subject line.
+    For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
-Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is "the amount of time an employee's brain is in his inbox." Mann's point is that time and attention are finite and when an inbox is confused with a "to do" list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
+Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4176,7 +4176,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>View FAQ's in our support center</source>
+        <source>View FAQ&apos;s in our support center</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4434,11 +4434,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't move a completed task</source>
+        <source>Sorry, you can&apos;t move a completed task</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't move a sent task</source>
+        <source>Sorry, you can&apos;t move a sent task</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4461,7 +4461,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have moved this task to "%1"</source>
+        <source>You have moved this task to &quot;%1&quot;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4485,7 +4485,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't add a task to the sent task list</source>
+        <source>Sorry, you can&apos;t add a task to the sent task list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4497,7 +4497,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry, you can't move this task to the sent task list</source>
+        <source>Sorry, you can&apos;t move this task to the sent task list</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4532,7 +4532,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry. We couldn't find your payment.</source>
+        <source>Sorry. We couldn&apos;t find your payment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4560,7 +4560,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Have any questions about your trial or feedback that you'd like to share?</source>
+        <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4786,7 +4786,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>It's time to get your email
+        <source>It&apos;s time to get your email
 under control.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4857,7 +4857,7 @@ under control.</source>
 <context>
     <name>ExceptionHandler</name>
     <message>
-        <source>The Hiri server is offline. You won't be able to rate your colleagues' emails or see your communication score.</source>
+        <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -455,17 +455,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
 </context>
 <context>
-    <name>CalendarWebEngine</name>
-    <message>
-        <source>Calendar</source>
-        <translation type="vanished">Календарь</translation>
-    </message>
-    <message>
-        <source>We&apos;re loading your calendar…</source>
-        <translation type="vanished">Мы загружаем ваш календарь…</translation>
-    </message>
-</context>
-<context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
@@ -503,20 +492,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
 </context>
 <context>
-    <name>Collapsable</name>
-    <message>
-        <source>View full message</source>
-        <translation type="vanished">Просмотреть полное сообщение</translation>
-    </message>
-</context>
-<context>
-    <name>ComboBox</name>
-    <message>
-        <source>Select an option</source>
-        <translation type="vanished">Отметьте опции</translation>
-    </message>
-</context>
-<context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
@@ -541,34 +516,6 @@ Do you want to forward only this event or the whole series?</source>
 </context>
 <context>
     <name>ContactDetails</name>
-    <message>
-        <source>CONTACT</source>
-        <translation type="vanished">КОНТАКТ</translation>
-    </message>
-    <message>
-        <source>WORK PHONE</source>
-        <translation type="vanished">РАБОЧИЙ ТЕЛЕФОН</translation>
-    </message>
-    <message>
-        <source>MOBILE PHONE</source>
-        <translation type="vanished">МОБИЛЬНЫЙ ТЕЛЕФОН</translation>
-    </message>
-    <message>
-        <source>OFFICE LOCATION</source>
-        <translation type="vanished">АДРЕС ОФИСА</translation>
-    </message>
-    <message>
-        <source>NOTES</source>
-        <translation type="vanished">ЗАМЕТКИ</translation>
-    </message>
-    <message>
-        <source>ADDRESS</source>
-        <translation type="vanished">АДРЕС</translation>
-    </message>
-    <message>
-        <source>TITLE</source>
-        <translation type="vanished">ЗАГОЛОВОК</translation>
-    </message>
     <message>
         <source>Error deleting contact</source>
         <translation type="unfinished"></translation>
@@ -713,24 +660,8 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>Contacts</name>
     <message>
-        <source>Contacts</source>
-        <translation type="vanished">Контакты</translation>
-    </message>
-    <message>
-        <source>NAME</source>
-        <translation type="vanished">ИМЯ</translation>
-    </message>
-    <message>
-        <source>DETAILS</source>
-        <translation type="vanished">ОПИСАНИЕ</translation>
-    </message>
-    <message>
         <source>Search</source>
         <translation>Поиск</translation>
-    </message>
-    <message>
-        <source>Contacts folder</source>
-        <translation type="vanished">Папка контактов</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -778,47 +709,6 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>Send</source>
         <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>CreateNewFolderButtonInput</name>
-    <message>
-        <source>Create new folder</source>
-        <translation type="vanished">Создать новую папку</translation>
-    </message>
-</context>
-<context>
-    <name>CredentialsWizard</name>
-    <message>
-        <source>Sign in</source>
-        <translation type="vanished">Зарегистрироваться</translation>
-    </message>
-    <message>
-        <source>Email address</source>
-        <translation type="vanished">Адрес Email</translation>
-    </message>
-    <message>
-        <source>Password</source>
-        <translation type="vanished">Пароль</translation>
-    </message>
-    <message>
-        <source>Different username?</source>
-        <translation type="vanished">Другое имя пользователя?</translation>
-    </message>
-    <message>
-        <source>Username</source>
-        <translation type="vanished">Имя пользователя</translation>
-    </message>
-    <message>
-        <source>Connect</source>
-        <translation type="vanished">Подключиться</translation>
-    </message>
-</context>
-<context>
-    <name>DailyCalendarView</name>
-    <message>
-        <source>Next %1</source>
-        <translation type="vanished">Далее %1</translation>
     </message>
 </context>
 <context>

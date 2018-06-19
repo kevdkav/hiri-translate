@@ -922,12 +922,6 @@ Do you want to forward only this event or the whole series?</source>
         <translation>Speichern</translation>
     </message>
     <message>
-        <source>Sorry, some attachments could not be found and will be removed:
-
-</source>
-        <translation type="vanished">Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
-    </message>
-    <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2277,10 +2271,6 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>Getting your emails… %1%</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking </source>
-        <translation type="vanished">Prüfe </translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
@@ -4283,10 +4273,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>Aufgabe</translation>
     </message>
     <message>
-        <source> for </source>
-        <translation type="vanished"> für </translation>
-    </message>
-    <message>
         <source>Were these tasks completed?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4660,12 +4646,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>Tomorrow</source>
         <translation>Morgen</translation>
-    </message>
-    <message>
-        <source>Sorry, some attachments could not be found and will be removed:
-
-</source>
-        <translation type="vanished">Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>

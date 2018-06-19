@@ -57,7 +57,7 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Fitxers adjunts</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -71,15 +71,15 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Instal·lant…</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Tanca</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Fallat!</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
@@ -3783,7 +3783,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Fitxers adjunts</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -4400,7 +4400,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation>Tanca</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Save</source>

@@ -49,7 +49,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, we cannot find your mail...</source>
+        <source>Oops, we cannot find your mail…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -70,8 +70,8 @@
 <context>
     <name>AutoUpdateDialog</name>
     <message>
-        <source>Installing...</source>
-        <translation>Instal·lant...</translation>
+        <source>Installing…</source>
+        <translation>Instal·lant…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -82,11 +82,11 @@
         <translation>Fallat!</translation>
     </message>
     <message>
-        <source>Update complete. Please restart Hiri...</source>
+        <source>Update complete. Please restart Hiri…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Updating... %1%</source>
+        <source>Updating… %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -479,7 +479,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please choose...</source>
+        <source>Please choose…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -737,7 +737,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loading your meetings...</source>
+        <source>Loading your meetings…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1142,7 +1142,7 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>EmailContainer</name>
     <message>
-        <source>Error setting a reminder...</source>
+        <source>Error setting a reminder…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1206,7 +1206,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Loading...</source>
+        <source>Loading…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1214,7 +1214,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>We&apos;re getting your mails...</source>
+        <source>We&apos;re getting your mails…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1532,7 +1532,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Marking all as read...</source>
+        <source>Marking all as read…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1810,7 +1810,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Check Hiri out...</source>
+        <source>Check Hiri out…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2249,15 +2249,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>... and we&apos;re back</source>
+        <source>… and we&apos;re back</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checking your emails...</source>
+        <source>Checking your emails…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Getting your emails... %1%</source>
+        <source>Getting your emails… %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2265,11 +2265,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Optimizing DB, please be patient...</source>
+        <source>Optimizing DB, please be patient…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Connection interrupted while getting your mail. Reconnecting...</source>
+        <source>Connection interrupted while getting your mail. Reconnecting…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2464,11 +2464,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, unable to dismiss the reminder...</source>
+        <source>Oops, unable to dismiss the reminder…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, unable to snooze the reminder...</source>
+        <source>Oops, unable to snooze the reminder…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2780,7 +2780,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Rating...</source>
+        <source>Rating…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3338,7 +3338,7 @@ You can still use Hiri until connection with the server has been established.</s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Getting your emails...</source>
+        <source>Getting your emails…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3551,7 +3551,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Optimizing the database...</source>
+        <source>Optimizing the database…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4148,7 +4148,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>SupportDialog</name>
     <message>
-        <source>Sending feedback...</source>
+        <source>Sending feedback…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4412,11 +4412,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, unable to dismiss the reminder...</source>
+        <source>Oops, unable to dismiss the reminder…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, unable to snooze the task reminder...</source>
+        <source>Oops, unable to snooze the task reminder…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4445,19 +4445,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>TasksController</name>
     <message>
-        <source>Oops, loading task lists failed...</source>
+        <source>Oops, loading task lists failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, loading tasks failed...</source>
+        <source>Oops, loading tasks failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, creating task failed...</source>
+        <source>Oops, creating task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, updating task failed...</source>
+        <source>Oops, updating task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4465,15 +4465,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, moving task failed...</source>
+        <source>Oops, moving task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, deleting task failed...</source>
+        <source>Oops, deleting task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, deleting task folder failed...</source>
+        <source>Oops, deleting task folder failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4481,7 +4481,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, creating followup failed...</source>
+        <source>Oops, creating followup failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4528,7 +4528,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checking subscription...</source>
+        <source>Checking subscription…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4540,7 +4540,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sending feedback...</source>
+        <source>Sending feedback…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

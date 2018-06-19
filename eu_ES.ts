@@ -49,8 +49,8 @@
         <translation>Kraskadurak eragiten dituen nVidia nouveau kontrolatzailea antzeman da. Mesedez, berrekin Hiri softwarea renderizatzeko.</translation>
     </message>
     <message>
-        <source>Oops, we cannot find your mail...</source>
-        <translation>Hara, ezin dugu zure posta elektronikoa aurkitu...</translation>
+        <source>Oops, we cannot find your mail…</source>
+        <translation>Hara, ezin dugu zure posta elektronikoa aurkitu…</translation>
     </message>
 </context>
 <context>
@@ -70,8 +70,8 @@
 <context>
     <name>AutoUpdateDialog</name>
     <message>
-        <source>Installing...</source>
-        <translation>Instalatzen...</translation>
+        <source>Installing…</source>
+        <translation>Instalatzen…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -82,12 +82,12 @@
         <translation>Huts egin du!</translation>
     </message>
     <message>
-        <source>Update complete. Please restart Hiri...</source>
-        <translation>Eguneratzen amaitu da. Mesedez, berrekin Hiri...</translation>
+        <source>Update complete. Please restart Hiri…</source>
+        <translation>Eguneratzen amaitu da. Mesedez, berrekin Hiri…</translation>
     </message>
     <message>
-        <source>Updating... %1%</source>
-        <translation>Eguneratzen... % %1</translation>
+        <source>Updating… %1%</source>
+        <translation>Eguneratzen… % %1</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -480,8 +480,8 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation>Zein da zure posta elektronikoaren hornitzailea?</translation>
     </message>
     <message>
-        <source>Please choose...</source>
-        <translation>Aukeratu, mesedez...</translation>
+        <source>Please choose…</source>
+        <translation>Aukeratu, mesedez…</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
@@ -745,8 +745,8 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation>Bihar</translation>
     </message>
     <message>
-        <source>Loading your meetings...</source>
-        <translation>Zure hitzorduak kargatzen...</translation>
+        <source>Loading your meetings…</source>
+        <translation>Zure hitzorduak kargatzen…</translation>
     </message>
     <message>
         <source>You have no meetings </source>
@@ -1158,8 +1158,8 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
 <context>
     <name>EmailContainer</name>
     <message>
-        <source>Error setting a reminder...</source>
-        <translation>Errorea gertatu da ohartarazpena ezartzean...</translation>
+        <source>Error setting a reminder…</source>
+        <translation>Errorea gertatu da ohartarazpena ezartzean…</translation>
     </message>
 </context>
 <context>
@@ -1222,16 +1222,16 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation> bat-etortze aurkitu dira</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation>Kargatzen...</translation>
+        <source>Loading…</source>
+        <translation>Kargatzen…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
         <translation>Hori da dena</translation>
     </message>
     <message>
-        <source>We&apos;re getting your mails...</source>
-        <translation>Zure mezu elektronikoak jasotzen ari gara...</translation>
+        <source>We&apos;re getting your mails…</source>
+        <translation>Zure mezu elektronikoak jasotzen ari gara…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
@@ -1548,8 +1548,8 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation>Barkatu, ezin duzu irakurrita gisa markatu offline bazaude.</translation>
     </message>
     <message>
-        <source>Marking all as read...</source>
-        <translation>Dena irakurrita gisa markatzen...</translation>
+        <source>Marking all as read…</source>
+        <translation>Dena irakurrita gisa markatzen…</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
@@ -1826,8 +1826,8 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation>Eskerrik asko!</translation>
     </message>
     <message>
-        <source>Check Hiri out...</source>
-        <translation>Ikuskatu Hiri...</translation>
+        <source>Check Hiri out…</source>
+        <translation>Ikuskatu Hiri…</translation>
     </message>
     <message>
         <source>Share the love!</source>
@@ -2270,28 +2270,28 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation>Dirudienez, offline zaude edo konexioa galdu duzu</translation>
     </message>
     <message>
-        <source>... and we&apos;re back</source>
-        <translation>... hemen gara berriz ere</translation>
+        <source>… and we&apos;re back</source>
+        <translation>… hemen gara berriz ere</translation>
     </message>
     <message>
-        <source>Checking your emails...</source>
-        <translation>Zure mezu elektronikoak egiaztatzen...</translation>
+        <source>Checking your emails…</source>
+        <translation>Zure mezu elektronikoak egiaztatzen…</translation>
     </message>
     <message>
-        <source>Getting your emails... %1%</source>
-        <translation>Mezuak jasotzen... % %1</translation>
+        <source>Getting your emails… %1%</source>
+        <translation>Mezuak jasotzen… % %1</translation>
     </message>
     <message>
         <source>Checking </source>
         <translation>Egiaztatzen </translation>
     </message>
     <message>
-        <source>Optimizing DB, please be patient...</source>
-        <translation>DB optimizatzen, itxaron pixka bat mesedez...</translation>
+        <source>Optimizing DB, please be patient…</source>
+        <translation>DB optimizatzen, itxaron pixka bat mesedez…</translation>
     </message>
     <message>
-        <source>Connection interrupted while getting your mail. Reconnecting...</source>
-        <translation>Konexioa eten egin da zure mezuak jasotzen ari ginen bitartean. Berriz konektatzen...</translation>
+        <source>Connection interrupted while getting your mail. Reconnecting…</source>
+        <translation>Konexioa eten egin da zure mezuak jasotzen ari ginen bitartean. Berriz konektatzen…</translation>
     </message>
 </context>
 <context>
@@ -2536,12 +2536,12 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <translation>(Ez dago gairik)</translation>
     </message>
     <message>
-        <source>Oops, unable to dismiss the reminder...</source>
-        <translation>Hara, ezin izan da ohartarazpena baztertu...</translation>
+        <source>Oops, unable to dismiss the reminder…</source>
+        <translation>Hara, ezin izan da ohartarazpena baztertu…</translation>
     </message>
     <message>
-        <source>Oops, unable to snooze the reminder...</source>
-        <translation>Hara, ezin izan da ohartarazpena errepikatu...</translation>
+        <source>Oops, unable to snooze the reminder…</source>
+        <translation>Hara, ezin izan da ohartarazpena errepikatu…</translation>
     </message>
 </context>
 <context>
@@ -2864,8 +2864,8 @@ hurrengo mailara eramateko unea iritsi da.</translation>
         <translation>Ez da garbia</translation>
     </message>
     <message>
-        <source>Rating...</source>
-        <translation>Ebaluatzen...</translation>
+        <source>Rating…</source>
+        <translation>Ebaluatzen…</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
@@ -3415,8 +3415,8 @@ Oraindik Hiri erabil dezakezu, zerbitzariarekin berriz konektatu arte.</translat
         <translation>Hasi deskargatzen</translation>
     </message>
     <message>
-        <source>Getting your emails...</source>
-        <translation>Mezuak jasotzen...</translation>
+        <source>Getting your emails…</source>
+        <translation>Mezuak jasotzen…</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
@@ -3646,8 +3646,8 @@ Known aliases:</source>
         <translation>Bizkortu Hiri eta utzi libre diskoaren espazio pixka bat. Minutu bat behar izan dezake.</translation>
     </message>
     <message>
-        <source>Optimizing the database...</source>
-        <translation>Datu-basea optimizatzen...</translation>
+        <source>Optimizing the database…</source>
+        <translation>Datu-basea optimizatzen…</translation>
     </message>
     <message>
         <source>Optimize now</source>
@@ -4399,8 +4399,8 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>SupportDialog</name>
     <message>
-        <source>Sending feedback...</source>
-        <translation>Iruzkina bidaltzen...</translation>
+        <source>Sending feedback…</source>
+        <translation>Iruzkina bidaltzen…</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4663,12 +4663,12 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>(Ez dago atazarik)</translation>
     </message>
     <message>
-        <source>Oops, unable to dismiss the reminder...</source>
-        <translation>Hara, ezin da ohartarazpena baztertu...</translation>
+        <source>Oops, unable to dismiss the reminder…</source>
+        <translation>Hara, ezin da ohartarazpena baztertu…</translation>
     </message>
     <message>
-        <source>Oops, unable to snooze the task reminder...</source>
-        <translation>Hara, ezin izan da atazaren ohartarazpena errepikatu...</translation>
+        <source>Oops, unable to snooze the task reminder…</source>
+        <translation>Hara, ezin izan da atazaren ohartarazpena errepikatu…</translation>
     </message>
 </context>
 <context>
@@ -4696,44 +4696,44 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>TasksController</name>
     <message>
-        <source>Oops, loading task lists failed...</source>
-        <translation>Hara, ezin izan da ataza-zerrenda kargatu...</translation>
+        <source>Oops, loading task lists failed…</source>
+        <translation>Hara, ezin izan da ataza-zerrenda kargatu…</translation>
     </message>
     <message>
-        <source>Oops, loading tasks failed...</source>
-        <translation>Hara, ezin izan dira atazak kargatu...</translation>
+        <source>Oops, loading tasks failed…</source>
+        <translation>Hara, ezin izan dira atazak kargatu…</translation>
     </message>
     <message>
-        <source>Oops, creating task failed...</source>
-        <translation>Hara, ezin izan da ataza sortu...</translation>
+        <source>Oops, creating task failed…</source>
+        <translation>Hara, ezin izan da ataza sortu…</translation>
     </message>
     <message>
-        <source>Oops, updating task failed...</source>
-        <translation>Hara, ezin izan da ataza eguneratu...</translation>
+        <source>Oops, updating task failed…</source>
+        <translation>Hara, ezin izan da ataza eguneratu…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
         <translation>Ataza &quot;%1&quot;ra bidali duzu</translation>
     </message>
     <message>
-        <source>Oops, moving task failed...</source>
-        <translation>Hara, ezin izan da ataza mugitu...</translation>
+        <source>Oops, moving task failed…</source>
+        <translation>Hara, ezin izan da ataza mugitu…</translation>
     </message>
     <message>
-        <source>Oops, deleting task failed...</source>
-        <translation>Hara, ezin izan da ataza ezabatu...</translation>
+        <source>Oops, deleting task failed…</source>
+        <translation>Hara, ezin izan da ataza ezabatu…</translation>
     </message>
     <message>
-        <source>Oops, deleting task folder failed...</source>
-        <translation>Hara, ezin izan da atazaren karpeta ezabatu...</translation>
+        <source>Oops, deleting task folder failed…</source>
+        <translation>Hara, ezin izan da atazaren karpeta ezabatu…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
         <translation>Elkarrizketa Actionable postontzira mugitu da.</translation>
     </message>
     <message>
-        <source>Oops, creating followup failed...</source>
-        <translation>Hara, ezin izan da jarraipena egin...</translation>
+        <source>Oops, creating followup failed…</source>
+        <translation>Hara, ezin izan da jarraipena egin…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
@@ -4779,8 +4779,8 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>Ordaindu dut</translation>
     </message>
     <message>
-        <source>Checking subscription...</source>
-        <translation>Harpidetza egiaztatzen...</translation>
+        <source>Checking subscription…</source>
+        <translation>Harpidetza egiaztatzen…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
@@ -4791,8 +4791,8 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>Mesedez, idatzi iruzkin bat</translation>
     </message>
     <message>
-        <source>Sending feedback...</source>
-        <translation>Iruzkina bidaltzen...</translation>
+        <source>Sending feedback…</source>
+        <translation>Iruzkina bidaltzen…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>

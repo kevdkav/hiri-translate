@@ -49,8 +49,8 @@
         <translation>Pilote nVidia nouveau détecté qui provoque des plantages. Veuillez redémarrer Hiri afin de forcer le rendu du logiciel.</translation>
     </message>
     <message>
-        <source>Oops, we cannot find your mail...</source>
-        <translation>Oups, nous ne pouvons pas trouver votre courrier ...</translation>
+        <source>Oops, we cannot find your mail…</source>
+        <translation>Oups, nous ne pouvons pas trouver votre courrier …</translation>
     </message>
 </context>
 <context>
@@ -70,8 +70,8 @@
 <context>
     <name>AutoUpdateDialog</name>
     <message>
-        <source>Installing...</source>
-        <translation>Installation...</translation>
+        <source>Installing…</source>
+        <translation>Installation…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -82,12 +82,12 @@
         <translation>Échoué!</translation>
     </message>
     <message>
-        <source>Update complete. Please restart Hiri...</source>
-        <translation>Mise à jour terminée. S&apos;il vous plaît redémarrer Hiri ...</translation>
+        <source>Update complete. Please restart Hiri…</source>
+        <translation>Mise à jour terminée. S&apos;il vous plaît redémarrer Hiri …</translation>
     </message>
     <message>
-        <source>Updating... %1%</source>
-        <translation>Mise à jour... %1%</translation>
+        <source>Updating… %1%</source>
+        <translation>Mise à jour… %1%</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -480,8 +480,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>Quel est votre fournisseur de messagerie?</translation>
     </message>
     <message>
-        <source>Please choose...</source>
-        <translation>Choisissez s&apos;il vous plaît...</translation>
+        <source>Please choose…</source>
+        <translation>Choisissez s&apos;il vous plaît…</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
@@ -745,8 +745,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>Demain</translation>
     </message>
     <message>
-        <source>Loading your meetings...</source>
-        <translation>Chargement de vos réunions...</translation>
+        <source>Loading your meetings…</source>
+        <translation>Chargement de vos réunions…</translation>
     </message>
     <message>
         <source>You have no meetings </source>
@@ -1161,8 +1161,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
 <context>
     <name>EmailContainer</name>
     <message>
-        <source>Error setting a reminder...</source>
-        <translation>Erreur lors de la définition d&apos;un rappel...</translation>
+        <source>Error setting a reminder…</source>
+        <translation>Erreur lors de la définition d&apos;un rappel…</translation>
     </message>
 </context>
 <context>
@@ -1225,16 +1225,16 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation> correspondances trouvées</translation>
     </message>
     <message>
-        <source>Loading...</source>
-        <translation>Chargement...</translation>
+        <source>Loading…</source>
+        <translation>Chargement…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
         <translation>C&apos;est le lot</translation>
     </message>
     <message>
-        <source>We&apos;re getting your mails...</source>
-        <translation>Nous recevons vos mails ...</translation>
+        <source>We&apos;re getting your mails…</source>
+        <translation>Nous recevons vos mails …</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
@@ -1551,8 +1551,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>Désolé, vous ne pouvez pas marquer comme lu tant que vous n&apos;êtes pas connecté.</translation>
     </message>
     <message>
-        <source>Marking all as read...</source>
-        <translation>Marquer tout comme lu ...</translation>
+        <source>Marking all as read…</source>
+        <translation>Marquer tout comme lu …</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
@@ -1829,8 +1829,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>Merci!</translation>
     </message>
     <message>
-        <source>Check Hiri out...</source>
-        <translation>Vérifiez Hiri dehors ...</translation>
+        <source>Check Hiri out…</source>
+        <translation>Vérifiez Hiri dehors …</translation>
     </message>
     <message>
         <source>Share the love!</source>
@@ -2274,28 +2274,28 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>On dirait que vous êtes hors connexion ou que vous avez perdu votre connexion</translation>
     </message>
     <message>
-        <source>... and we&apos;re back</source>
-        <translation>... et nous sommes de retour</translation>
+        <source>… and we&apos;re back</source>
+        <translation>… et nous sommes de retour</translation>
     </message>
     <message>
-        <source>Checking your emails...</source>
-        <translation>Vérification de vos emails...</translation>
+        <source>Checking your emails…</source>
+        <translation>Vérification de vos emails…</translation>
     </message>
     <message>
-        <source>Getting your emails... %1%</source>
-        <translation>Obtenir vos emails ...%1%</translation>
+        <source>Getting your emails… %1%</source>
+        <translation>Obtenir vos emails …%1%</translation>
     </message>
     <message>
         <source>Checking </source>
         <translation>Vérification </translation>
     </message>
     <message>
-        <source>Optimizing DB, please be patient...</source>
-        <translation>Optimisation de la BD, soyez patient...</translation>
+        <source>Optimizing DB, please be patient…</source>
+        <translation>Optimisation de la BD, soyez patient…</translation>
     </message>
     <message>
-        <source>Connection interrupted while getting your mail. Reconnecting...</source>
-        <translation>Connexion interrompue lors de l&apos;obtention de votre courrier. Reconnexion...</translation>
+        <source>Connection interrupted while getting your mail. Reconnecting…</source>
+        <translation>Connexion interrompue lors de l&apos;obtention de votre courrier. Reconnexion…</translation>
     </message>
 </context>
 <context>
@@ -2489,12 +2489,12 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>(Pas de sujet)</translation>
     </message>
     <message>
-        <source>Oops, unable to dismiss the reminder...</source>
-        <translation>Oups, impossible de rejeter le rappel ...</translation>
+        <source>Oops, unable to dismiss the reminder…</source>
+        <translation>Oups, impossible de rejeter le rappel …</translation>
     </message>
     <message>
-        <source>Oops, unable to snooze the reminder...</source>
-        <translation>Oups, impossible de répéter le rappel ...</translation>
+        <source>Oops, unable to snooze the reminder…</source>
+        <translation>Oups, impossible de répéter le rappel …</translation>
     </message>
 </context>
 <context>
@@ -2817,8 +2817,8 @@ email au niveau suivant.</translation>
         <translation>Pas clair</translation>
     </message>
     <message>
-        <source>Rating...</source>
-        <translation>Évaluation...</translation>
+        <source>Rating…</source>
+        <translation>Évaluation…</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
@@ -3368,8 +3368,8 @@ Vous pouvez toujours utiliser Hiri jusqu&apos;à ce que la connexion avec le ser
         <translation>Commencer le téléchargement</translation>
     </message>
     <message>
-        <source>Getting your emails...</source>
-        <translation>Obtenir vos emails ...</translation>
+        <source>Getting your emails…</source>
+        <translation>Obtenir vos emails …</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
@@ -3599,8 +3599,8 @@ Known aliases:</source>
         <translation>Accélérer Hiri et libérer de l&apos;espace disque. Cela peut prendre une minute.</translation>
     </message>
     <message>
-        <source>Optimizing the database...</source>
-        <translation>Optimisation de la base de données ...</translation>
+        <source>Optimizing the database…</source>
+        <translation>Optimisation de la base de données …</translation>
     </message>
     <message>
         <source>Optimize now</source>
@@ -4228,7 +4228,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>SupportDialog</name>
     <message>
-        <source>Sending feedback...</source>
+        <source>Sending feedback…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4492,12 +4492,12 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>(Ne pas demander)</translation>
     </message>
     <message>
-        <source>Oops, unable to dismiss the reminder...</source>
-        <translation>Oups, impossible de rejeter le rappel ...</translation>
+        <source>Oops, unable to dismiss the reminder…</source>
+        <translation>Oups, impossible de rejeter le rappel …</translation>
     </message>
     <message>
-        <source>Oops, unable to snooze the task reminder...</source>
-        <translation>Oups, impossible de répéter le rappel de tâche ...</translation>
+        <source>Oops, unable to snooze the task reminder…</source>
+        <translation>Oups, impossible de répéter le rappel de tâche …</translation>
     </message>
 </context>
 <context>
@@ -4525,19 +4525,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>TasksController</name>
     <message>
-        <source>Oops, loading task lists failed...</source>
+        <source>Oops, loading task lists failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, loading tasks failed...</source>
+        <source>Oops, loading tasks failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, creating task failed...</source>
+        <source>Oops, creating task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, updating task failed...</source>
+        <source>Oops, updating task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4545,15 +4545,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, moving task failed...</source>
+        <source>Oops, moving task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, deleting task failed...</source>
+        <source>Oops, deleting task failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, deleting task folder failed...</source>
+        <source>Oops, deleting task folder failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4561,7 +4561,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Oops, creating followup failed...</source>
+        <source>Oops, creating followup failed…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4608,7 +4608,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checking subscription...</source>
+        <source>Checking subscription…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4620,7 +4620,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sending feedback...</source>
+        <source>Sending feedback…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

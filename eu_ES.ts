@@ -485,11 +485,15 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
-        <translation>Zure posta elektronikoaren hornitzailea ez dago zerrenda honetan? Hirik Office365, Outlook.com (Hotmail/Live/MSN) eta Exchange hornitzaileekin lan egiten du. Laguntza behar baduzu, </translation>
+        <translation type="vanished">Zure posta elektronikoaren hornitzailea ez dago zerrenda honetan? Hirik Office365, Outlook.com (Hotmail/Live/MSN) eta Exchange hornitzaileekin lan egiten du. Laguntza behar baduzu, </translation>
     </message>
     <message>
         <source>contact us.</source>
         <translation>jarri gurekin harremanetan.</translation>
+    </message>
+    <message>
+        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -642,7 +646,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact: </source>
-        <translation>Ziur zaude kontaktu hau ezabatu nahi duzula: </translation>
+        <translation type="vanished">Ziur zaude kontaktu hau ezabatu nahi duzula: </translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -663,6 +667,10 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>Error creating contact</source>
         <translation>Errorea gertatu da kontaktua sortzean</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete contact:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -693,7 +701,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>In </source>
-        <translation>Hemen</translation>
+        <translation type="vanished">Hemen</translation>
     </message>
     <message>
         <source>Create contact</source>
@@ -702,6 +710,10 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>Select contact</source>
         <translation>Hautatu kontaktu bat</translation>
+    </message>
+    <message>
+        <source>In</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -750,7 +762,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>You have no meetings </source>
-        <translation>Ez duzu hitzordurik </translation>
+        <translation type="vanished">Ez duzu hitzordurik </translation>
     </message>
     <message>
         <source>today</source>
@@ -771,6 +783,10 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>(no subject)</source>
         <translation>(ez dago gairik)</translation>
+    </message>
+    <message>
+        <source>You have no meetings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -931,7 +947,11 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Barkatu, eranskin batzuk ezin izan dira aurkitu eta kendu egingo dira: </translation>
+        <translation type="vanished">Barkatu, eranskin batzuk ezin izan dira aurkitu eta kendu egingo dira: </translation>
+    </message>
+    <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -942,11 +962,15 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Attachments downloaded to: </source>
-        <translation>Eranskinak hemen deskargatu dira: </translation>
+        <translation type="vanished">Eranskinak hemen deskargatu dira: </translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
         <translation>Errorea gertatu da eranskin guztiak deskargatzean</translation>
+    </message>
+    <message>
+        <source>Attachments downloaded to: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1166,11 +1190,15 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <name>EmailDragState</name>
     <message>
         <source> conversations selected</source>
-        <translation> hautatutako elkarrizketak</translation>
+        <translation type="vanished"> hautatutako elkarrizketak</translation>
     </message>
     <message>
         <source>(No subject)</source>
         <translation>(Ez dago gairik)</translation>
+    </message>
+    <message>
+        <source>conversations selected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1181,7 +1209,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source> on behalf of </source>
-        <translation> noren izenean </translation>
+        <translation type="vanished"> noren izenean </translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
@@ -1207,6 +1235,10 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <source>When: %1</source>
         <translation>Noiz: %1</translation>
     </message>
+    <message>
+        <source>%1 on behalf of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailInput</name>
@@ -1219,7 +1251,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <name>EmailList</name>
     <message>
         <source> matches found</source>
-        <translation> bat-etortze aurkitu dira</translation>
+        <translation type="vanished"> bat-etortze aurkitu dira</translation>
     </message>
     <message>
         <source>Loading…</source>
@@ -1240,6 +1272,10 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>Get more mail</source>
         <translation>Jaso mezu elektroniko gehiago</translation>
+    </message>
+    <message>
+        <source>%1 matches found</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1835,7 +1871,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get </source>
-        <translation>Gonbidatu zure lagunei eta lankideei Hiri probatzera. Gonbidatzen dituzun lehen 3 pertsonek </translation>
+        <translation type="vanished">Gonbidatu zure lagunei eta lankideei Hiri probatzera. Gonbidatzen dituzun lehen 3 pertsonek </translation>
     </message>
     <message>
         <source>25% off</source>
@@ -1843,15 +1879,27 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source> if they like it and decide to signup. We&apos;ll give you </source>
-        <translation> gogoko badute eta kontratatzea erabakitzen badute. Zuri ere egingo dizugu deskontua </translation>
+        <translation type="vanished"> gogoko badute eta kontratatzea erabakitzen badute. Zuri ere egingo dizugu deskontua </translation>
     </message>
     <message>
         <source> too if you send to just 3 people, even if they don&apos;t signup. :)</source>
-        <translation>gonbidapena 3 pertsonei bidaltzen badiezu, baita kontratatzen ez badute ere. :)</translation>
+        <translation type="vanished">gonbidapena 3 pertsonei bidaltzen badiezu, baita kontratatzen ez badute ere. :)</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
         <translation>Mezu elektroniko gehien bidaltzen dizkiezun pertsonei gonbidatu beharko zenieke. Biek bereganatuko dituzue Actionable eta FYI mezuen abantailak.</translation>
+    </message>
+    <message>
+        <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>if they like it and decide to signup. We&apos;ll give you</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2246,7 +2294,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>What is &lt;font color=&quot;#e54624&quot;&gt;Delegate&lt;/font&gt;?</source>
-        <translation>Zer da &lt;letra-kolorea=&quot;#e54624&quot;&gt;Eskuordetu&lt;/letra&gt;?</translation>
+        <translation type="vanished">Zer da &lt;letra-kolorea=&quot;#e54624&quot;&gt;Eskuordetu&lt;/letra&gt;?</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
@@ -2256,6 +2304,14 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
         <translation type="vanished">Birbidaltzen ari zaren mezuak zuretzako ataza bat gaineratzen badu, Ekintzara gehitzen duzun hartzaile bakoitzak zure ataza jasoko du.</translation>
+    </message>
+    <message>
+        <source>What is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delegate</source>
+        <translation>Eskuordetu</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2283,7 +2339,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Checking </source>
-        <translation>Egiaztatzen </translation>
+        <translation type="vanished">Egiaztatzen </translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
@@ -2292,6 +2348,10 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
         <translation>Konexioa eten egin da zure mezuak jasotzen ari ginen bitartean. Berriz konektatzen…</translation>
+    </message>
+    <message>
+        <source>Checking</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3029,7 +3089,7 @@ hurrengo mailara eramateko unea iritsi da.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re </source>
-        <translation>Jakinaraz iezaiezu zergatik ari zaren</translation>
+        <translation type="vanished">Jakinaraz iezaiezu zergatik ari zaren</translation>
     </message>
     <message>
         <source>accepting</source>
@@ -3050,6 +3110,10 @@ hurrengo mailara eramateko unea iritsi da.</translation>
     <message>
         <source>Send response</source>
         <translation>Bidali erantzuna</translation>
+    </message>
+    <message>
+        <source>Let them know why you&apos;re</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3347,7 +3411,11 @@ hurrengo mailara eramateko unea iritsi da.</translation>
     </message>
     <message>
         <source> selected</source>
-        <translation> hautatuta</translation>
+        <translation type="vanished"> hautatuta</translation>
+    </message>
+    <message>
+        <source>%1 selected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3843,7 +3911,7 @@ Known aliases:</source>
     </message>
     <message>
         <source> (Enabled when notifications are switched on)</source>
-        <translation>(Aktibatuta jakinarazpenak piztuta daudenean)</translation>
+        <translation type="vanished">(Aktibatuta jakinarazpenak piztuta daudenean)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
@@ -3919,6 +3987,10 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
         <translation>Zuzentzaile ortografikoaren ezarpenak alda ditzakezu eskuineko botoiarekin erantzun eta idatzi leihoetan klik eginda.</translation>
     </message>
+    <message>
+        <source>(Enabled when notifications are switched on)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsSignature</name>
@@ -3992,7 +4064,7 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     </message>
     <message>
         <source>Attachment downloaded to: </source>
-        <translation>Eranskina hemen deskargatu da: </translation>
+        <translation type="vanished">Eranskina hemen deskargatu da: </translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
@@ -4001,6 +4073,10 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
         <translation>Arraioa! Ez dakit nola ireki eranskin hau!</translation>
+    </message>
+    <message>
+        <source>Attachment downloaded to: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4507,7 +4583,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source> for </source>
-        <translation> honentzat </translation>
+        <translation type="vanished"> honentzat </translation>
     </message>
     <message>
         <source>Were these tasks completed?</source>
@@ -4519,7 +4595,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>You marked this message as a task on </source>
-        <translation>Ataza honekin lotutako mezu gisa markatu duzu mezua: </translation>
+        <translation type="vanished">Ataza honekin lotutako mezu gisa markatu duzu mezua: </translation>
     </message>
     <message>
         <source>Delegated</source>
@@ -4527,11 +4603,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source> to </source>
-        <translation> eskuordetu zaio: </translation>
+        <translation type="vanished"> eskuordetu zaio: </translation>
     </message>
     <message>
         <source>Open task</source>
         <translation>Ireki ataza</translation>
+    </message>
+    <message>
+        <source>You marked this message as a task on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4764,7 +4852,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you have any questions, please </source>
-        <translation>Galderaren bat baduzu, mesedez, </translation>
+        <translation type="vanished">Galderaren bat baduzu, mesedez, </translation>
     </message>
     <message>
         <source>get in touch.</source>
@@ -4817,6 +4905,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>Send</source>
         <translation>Bidali</translation>
+    </message>
+    <message>
+        <source>If you have any questions, please</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4884,7 +4976,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Barkatu, eranskin batzuk ez dira aurkitu eta kendu egingo dira:</translation>
+        <translation type="vanished">Barkatu, eranskin batzuk ez dira aurkitu eta kendu egingo dira:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4928,7 +5020,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial: </source>
-        <translation>Probaldia:</translation>
+        <translation type="vanished">Probaldia:</translation>
     </message>
     <message>
         <source>Ends today</source>
@@ -4952,11 +5044,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in </source>
-        <translation>Epemuga: </translation>
+        <translation type="vanished">Epemuga: </translation>
     </message>
     <message>
         <source>Starts in </source>
-        <translation>Noiz hasten da: </translation>
+        <translation type="vanished">Noiz hasten da: </translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -4973,6 +5065,22 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>%1 d</source>
         <translation>%1 egun</translation>
+    </message>
+    <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Due in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starts in</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

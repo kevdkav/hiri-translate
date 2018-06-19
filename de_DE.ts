@@ -485,11 +485,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
+        <source>contact us.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>contact us.</source>
+        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -637,10 +637,6 @@ Do you want to forward only this event or the whole series?</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <source>Are you sure you want to delete contact: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Yes, delete it.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -658,6 +654,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Error creating contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete contact:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -688,15 +688,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>In </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Create contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select contact</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -746,10 +746,6 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have no meetings </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -767,6 +763,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>(no subject)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have no meetings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -925,7 +925,11 @@ Do you want to forward only this event or the whole series?</source>
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
+        <translation type="vanished">Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
+    </message>
+    <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -935,11 +939,11 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Attachments downloaded to: </source>
+        <source>Error downloading all attachments</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error downloading all attachments</source>
+        <source>Attachments downloaded to: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1155,12 +1159,12 @@ Do you want to forward only this event or the whole series?</source>
 <context>
     <name>EmailDragState</name>
     <message>
-        <source> conversations selected</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>(No subject)</source>
         <translation>(Kein Betreff)</translation>
+    </message>
+    <message>
+        <source>conversations selected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1168,10 +1172,6 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>(DRAFT)</source>
         <translation>(ENTWURF)</translation>
-    </message>
-    <message>
-        <source> on behalf of </source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
@@ -1197,6 +1197,10 @@ Do you want to forward only this event or the whole series?</source>
         <source>When: %1</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>%1 on behalf of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailInput</name>
@@ -1207,10 +1211,6 @@ Do you want to forward only this event or the whole series?</source>
 </context>
 <context>
     <name>EmailList</name>
-    <message>
-        <source> matches found</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Loading…</source>
         <translation type="unfinished"></translation>
@@ -1229,6 +1229,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Get more mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 matches found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1826,23 +1830,23 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>25% off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> if they like it and decide to signup. We&apos;ll give you </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source> too if you send to just 3 people, even if they don&apos;t signup. :)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>if they like it and decide to signup. We&apos;ll give you</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2239,12 +2243,16 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What is &lt;font color=&quot;#e54624&quot;&gt;Delegate&lt;/font&gt;?</source>
+        <source>Delegate is used to forward a task to someone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delegate is used to forward a task to someone.</source>
+        <source>What is</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delegate</source>
+        <translation>Delegieren</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2272,7 +2280,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Checking </source>
-        <translation>Prüfe </translation>
+        <translation type="vanished">Prüfe </translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
@@ -2280,6 +2288,10 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2957,10 +2969,6 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Let them know why you&apos;re </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>accepting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2978,6 +2986,10 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send response</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Let them know why you&apos;re</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3276,7 +3288,7 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> selected</source>
+        <source>%1 selected</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3757,10 +3769,6 @@ Known aliases:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> (Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Close to system tray</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3833,6 +3841,10 @@ This will let you pin Hiri icon to your launcher.</source>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>(Enabled when notifications are switched on)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsSignature</name>
@@ -3878,15 +3890,15 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation>Download</translation>
     </message>
     <message>
-        <source>Attachment downloaded to: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Error downloading attachment</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Attachment downloaded to: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4272,7 +4284,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source> for </source>
-        <translation> für </translation>
+        <translation type="vanished"> für </translation>
     </message>
     <message>
         <source>Were these tasks completed?</source>
@@ -4283,19 +4295,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You marked this message as a task on </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delegated</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source> to </source>
+        <source>Open task</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open task</source>
+        <source>You marked this message as a task on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4528,10 +4544,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you have any questions, please </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>get in touch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4582,6 +4594,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>Send</source>
         <translation>Senden</translation>
+    </message>
+    <message>
+        <source>If you have any questions, please</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4649,7 +4665,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
+        <translation type="vanished">Einige Anhänge konnten nicht gefunden werden und werden entfernt:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4692,10 +4708,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Trial: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ends today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4716,14 +4728,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Due in </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Starts in </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%1 min</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4737,6 +4741,22 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 d</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Due in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starts in</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

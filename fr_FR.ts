@@ -485,11 +485,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help, </source>
-        <translation>Vous ne voyez pas votre fournisseur de messagerie répertorié ici? Actuellement, Hiri travaille avec Office365, Outlook.com (Hotmail/Live/MSN) et Exchange. Si tu as besoin d&apos;aide, </translation>
+        <translation type="vanished">Vous ne voyez pas votre fournisseur de messagerie répertorié ici? Actuellement, Hiri travaille avec Office365, Outlook.com (Hotmail/Live/MSN) et Exchange. Si tu as besoin d&apos;aide, </translation>
     </message>
     <message>
         <source>contact us.</source>
         <translation>Contactez nous.</translation>
+    </message>
+    <message>
+        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -642,7 +646,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Are you sure you want to delete contact: </source>
-        <translation>Êtes-vous sûr de vouloir supprimer le contact: </translation>
+        <translation type="vanished">Êtes-vous sûr de vouloir supprimer le contact: </translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -663,6 +667,10 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>Error creating contact</source>
         <translation>Erreur de création de contact</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete contact:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -693,7 +701,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>In </source>
-        <translation>Dans </translation>
+        <translation type="vanished">Dans </translation>
     </message>
     <message>
         <source>Create contact</source>
@@ -702,6 +710,10 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>Select contact</source>
         <translation>Sélectionnez un contact</translation>
+    </message>
+    <message>
+        <source>In</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -750,7 +762,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>You have no meetings </source>
-        <translation>Vous n&apos;avez pas de réunion </translation>
+        <translation type="vanished">Vous n&apos;avez pas de réunion </translation>
     </message>
     <message>
         <source>today</source>
@@ -771,6 +783,10 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>(no subject)</source>
         <translation>pas de sujet</translation>
+    </message>
+    <message>
+        <source>You have no meetings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -932,9 +948,13 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Désolé, certaines pièces jointes n&apos;ont pas pu être trouvées et seront supprimées:
+        <translation type="vanished">Désolé, certaines pièces jointes n&apos;ont pas pu être trouvées et seront supprimées:
 
 </translation>
+    </message>
+    <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -945,11 +965,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Attachments downloaded to: </source>
-        <translation>Pièces jointes téléchargées sur: </translation>
+        <translation type="vanished">Pièces jointes téléchargées sur: </translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
         <translation>Erreur lors du téléchargement de toutes les pièces jointes</translation>
+    </message>
+    <message>
+        <source>Attachments downloaded to: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1169,11 +1193,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>EmailDragState</name>
     <message>
         <source> conversations selected</source>
-        <translation> conversations sélectionnées</translation>
+        <translation type="vanished"> conversations sélectionnées</translation>
     </message>
     <message>
         <source>(No subject)</source>
         <translation>(Pas de sujet)</translation>
+    </message>
+    <message>
+        <source>conversations selected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1184,7 +1212,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source> on behalf of </source>
-        <translation> de la part de </translation>
+        <translation type="vanished"> de la part de </translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
@@ -1210,6 +1238,10 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <source>When: %1</source>
         <translation>Quand: %1</translation>
     </message>
+    <message>
+        <source>%1 on behalf of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailInput</name>
@@ -1222,7 +1254,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>EmailList</name>
     <message>
         <source> matches found</source>
-        <translation> correspondances trouvées</translation>
+        <translation type="vanished"> correspondances trouvées</translation>
     </message>
     <message>
         <source>Loading…</source>
@@ -1243,6 +1275,10 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>Get more mail</source>
         <translation>Obtenez plus de courrier</translation>
+    </message>
+    <message>
+        <source>%1 matches found</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1838,7 +1874,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get </source>
-        <translation>Invitez vos amis et collègues à essayer Hiri. Les 3 premières personnes que vous invitez </translation>
+        <translation type="vanished">Invitez vos amis et collègues à essayer Hiri. Les 3 premières personnes que vous invitez </translation>
     </message>
     <message>
         <source>25% off</source>
@@ -1846,15 +1882,27 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source> if they like it and decide to signup. We&apos;ll give you </source>
-        <translation> s&apos;ils aiment et décident de s&apos;inscrire. Nous allons vous donner </translation>
+        <translation type="vanished"> s&apos;ils aiment et décident de s&apos;inscrire. Nous allons vous donner </translation>
     </message>
     <message>
         <source> too if you send to just 3 people, even if they don&apos;t signup. :)</source>
-        <translation> aussi si vous envoyez à seulement 3 personnes, même si elles ne sont pas inscrites. :)</translation>
+        <translation type="vanished"> aussi si vous envoyez à seulement 3 personnes, même si elles ne sont pas inscrites. :)</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
         <translation>Vous devriez inviter les gens à qui vous écrivez le plus. Vous allez tous les deux bénéficier des courriels Actionable et FYI.</translation>
+    </message>
+    <message>
+        <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>if they like it and decide to signup. We&apos;ll give you</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2249,7 +2297,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>What is &lt;font color=&quot;#e54624&quot;&gt;Delegate&lt;/font&gt;?</source>
-        <translation>Quel est &lt;font color=&quot;#e54624&quot;&gt;Délégué&lt;/font&gt;?</translation>
+        <translation type="vanished">Quel est &lt;font color=&quot;#e54624&quot;&gt;Délégué&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
@@ -2260,6 +2308,14 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
  That&apos;s why we call it Delegate.</source>
         <translation type="vanished">Si l&apos;e-mail que vous transférez contient une tâche pour vous, chaque destinataire que vous ajoutez à Action aura votre tâche par défaut.
  C&apos;est pourquoi nous l&apos;appelons délégué.</translation>
+    </message>
+    <message>
+        <source>What is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delegate</source>
+        <translation>Déléguer</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2287,7 +2343,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Checking </source>
-        <translation>Vérification </translation>
+        <translation type="vanished">Vérification </translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
@@ -2296,6 +2352,10 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
         <translation>Connexion interrompue lors de l&apos;obtention de votre courrier. Reconnexion…</translation>
+    </message>
+    <message>
+        <source>Checking</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2982,7 +3042,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re </source>
-        <translation>Dites-leur pourquoi vous êtes </translation>
+        <translation type="vanished">Dites-leur pourquoi vous êtes </translation>
     </message>
     <message>
         <source>accepting</source>
@@ -3003,6 +3063,10 @@ email au niveau suivant.</translation>
     <message>
         <source>Send response</source>
         <translation>Envoyer une réponse</translation>
+    </message>
+    <message>
+        <source>Let them know why you&apos;re</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3300,7 +3364,11 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source> selected</source>
-        <translation> sélectionné</translation>
+        <translation type="vanished"> sélectionné</translation>
+    </message>
+    <message>
+        <source>%1 selected</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3796,7 +3864,7 @@ Known aliases:</source>
     </message>
     <message>
         <source> (Enabled when notifications are switched on)</source>
-        <translation> (Activé lorsque les notifications sont activées)</translation>
+        <translation type="vanished"> (Activé lorsque les notifications sont activées)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
@@ -3872,6 +3940,10 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
         <translation>Vous pouvez modifier les paramètres du vérificateur d&apos;orthographe en cliquant avec le bouton droit de la souris dans la fenêtre de réponse et composer Windows.</translation>
     </message>
+    <message>
+        <source>(Enabled when notifications are switched on)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsSignature</name>
@@ -3945,7 +4017,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>Attachment downloaded to: </source>
-        <translation>Pièce jointe téléchargée sur: </translation>
+        <translation type="vanished">Pièce jointe téléchargée sur: </translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
@@ -3954,6 +4026,10 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
         <translation>Yikes! Je ne suis pas sûr de savoir comment ouvrir cette pièce jointe!</translation>
+    </message>
+    <message>
+        <source>Attachment downloaded to: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4336,7 +4412,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source> for </source>
-        <translation> pour </translation>
+        <translation type="vanished"> pour </translation>
     </message>
     <message>
         <source>Were these tasks completed?</source>
@@ -4348,7 +4424,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>You marked this message as a task on </source>
-        <translation>Vous avez marqué ce message comme une tâche sur </translation>
+        <translation type="vanished">Vous avez marqué ce message comme une tâche sur </translation>
     </message>
     <message>
         <source>Delegated</source>
@@ -4356,11 +4432,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source> to </source>
-        <translation> à </translation>
+        <translation type="vanished"> à </translation>
     </message>
     <message>
         <source>Open task</source>
         <translation>Ouvrir la tâche</translation>
+    </message>
+    <message>
+        <source>You marked this message as a task on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4592,10 +4680,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you have any questions, please </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>get in touch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4646,6 +4730,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>Send</source>
         <translation>Envoyer</translation>
+    </message>
+    <message>
+        <source>If you have any questions, please</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4713,7 +4801,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <source>Sorry, some attachments could not be found and will be removed:
 
 </source>
-        <translation>Désolé, certaines pièces jointes n&apos;ont pas pu être trouvées et seront supprimées:
+        <translation type="vanished">Désolé, certaines pièces jointes n&apos;ont pas pu être trouvées et seront supprimées:
 
 </translation>
     </message>
@@ -4759,7 +4847,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial: </source>
-        <translation>Essai: </translation>
+        <translation type="vanished">Essai: </translation>
     </message>
     <message>
         <source>Ends today</source>
@@ -4783,11 +4871,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in </source>
-        <translation>Dû en </translation>
+        <translation type="vanished">Dû en </translation>
     </message>
     <message>
         <source>Starts in </source>
-        <translation>Commence dans </translation>
+        <translation type="vanished">Commence dans </translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -4804,6 +4892,22 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>%1 d</source>
         <translation>%1 j</translation>
+    </message>
+    <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trial:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Due in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starts in</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

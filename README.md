@@ -1,4 +1,4 @@
-# Qt translation files for [Hiri](https://www.hiri.com)
+# Qt translation files for [Hiri](https://www.hiri.com) <a href="https://hosted.weblate.org/engage/hiri/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/hiri/-/translations/svg-badge.svg" alt="Translation status" /></a>
 
 ### How to contribute
 
@@ -24,3 +24,6 @@ You don't have to use Qt Linguist either. Qt translation files are human readabl
 
 ### Contact
 Send questions to [support@hiri.com](mailto:support@hiri.com?subject=Translations).
+
+### Status
+<a href="https://hosted.weblate.org/engage/hiri/?utm_source=widget"><img src="https://hosted.weblate.org/widgets/hiri/-/translations/multi-auto.svg" alt="Translation status" /></a>

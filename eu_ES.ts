@@ -1940,7 +1940,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation>Ireki Actionable sarrerako ontzia</translation>
+        <translation>Ireki Actionable sarrerako ontzia:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
@@ -2586,7 +2586,7 @@ Mesedez, egiaztatu zure internet-konexioa eta saiatu berriz.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation>Ikuskatu gure Gaitasunen Zentroa</translation>
+        <translation>Ikuskatu gure Gaitasunen Zentroa.</translation>
     </message>
     <message>
         <source>Time to take your
@@ -3642,7 +3642,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation>Mesedez, sartu Bulegotik Kanpo nagoenerako mezu bat</translation>
+        <translation>Mesedez, sartu Bulegotik Kanpo nagoenerako mezu bat.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
@@ -3770,7 +3770,7 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation>Bihurtu Hiri posta elektronikorako programa lehenetsia</translation>
+        <translation>Bihurtu Hiri posta elektronikorako programa lehenetsia.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
@@ -4341,7 +4341,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>from</source>
-        <translation>sortu zenuen ataza hau:</translation>
+        <translation>sortu zenuen ataza hau</translation>
     </message>
     <message>
         <source>Open email</source>

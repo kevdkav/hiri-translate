@@ -1551,7 +1551,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <source>Empty contents</source>
@@ -1559,7 +1559,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2104,7 +2104,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <source>Error :(</source>
@@ -2237,7 +2237,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Делегировать</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2389,11 +2389,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Начать</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Завершить</translation>
     </message>
     <message>
         <source>All day</source>
@@ -2401,7 +2401,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть в ново окне</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2445,11 +2445,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите удалить эту встречу?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2667,7 +2667,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Search contacts in Global Address List</source>
@@ -2706,7 +2706,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
 </context>
 <context>
@@ -2803,7 +2803,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Отложить</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2878,7 +2878,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <source>Reply sent.</source>
@@ -3071,7 +3071,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в глобальном адресном списке (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -3250,19 +3250,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как прочитанное</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как непрочитанное</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивировать</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3364,7 +3364,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3414,7 +3414,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -3464,7 +3464,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивировать</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3525,7 +3525,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Оценка качества переписки</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3633,7 +3633,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3676,7 +3676,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивировать</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3835,7 +3835,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4145,7 +4145,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>без темы</translation>
     </message>
 </context>
 <context>
@@ -4172,7 +4172,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
@@ -4290,11 +4290,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Переименовать</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить</translation>
     </message>
 </context>
 <context>
@@ -4319,7 +4319,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить напоминание</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4405,7 +4405,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить</translation>
     </message>
 </context>
 <context>
@@ -4564,7 +4564,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
@@ -4575,11 +4575,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как непрочитанное</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Пометить как прочитанное</translation>
     </message>
 </context>
 <context>
@@ -4630,7 +4630,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Завтра</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4650,19 +4650,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый день</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый рабочий день</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4670,7 +4670,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый последний %1</translation>
     </message>
     <message>
         <source>Ends today</source>
@@ -4690,27 +4690,27 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>сейчас</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 мин</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 мин</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ч</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 д</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Извините, некоторые вложения не могут быть найдены и будут удалены:</translation>
     </message>
     <message>
         <source>Trial:</source>

@@ -607,7 +607,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished">Имејл 2 није валидна имејл адреса</translation>
+        <translation>Имејл 2 није валидна имејл адреса</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
@@ -879,7 +879,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Сутра</translation>
     </message>
     <message>
         <source>Next week</source>
@@ -972,7 +972,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Измени</translation>
     </message>
     <message>
         <source>Cancel series</source>
@@ -2055,7 +2055,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Подешавања</translation>
     </message>
 </context>
 <context>
@@ -2104,7 +2104,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошаљи</translation>
     </message>
     <message>
         <source>Error :(</source>
@@ -2706,7 +2706,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошаљи</translation>
     </message>
 </context>
 <context>
@@ -2878,7 +2878,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошаљи</translation>
     </message>
     <message>
         <source>Reply sent.</source>
@@ -3525,7 +3525,7 @@ Known aliases:</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Оцена из комуникације</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -4172,7 +4172,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошаљи</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
@@ -4564,7 +4564,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Пошаљи</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
@@ -4630,7 +4630,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Сутра</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4690,23 +4690,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>сад</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 минут</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 минута</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ч</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 д</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>

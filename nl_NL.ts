@@ -940,7 +940,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation>Weet je zeker dat je deze vergadering wilt annuleren?</translation>
+        <translation>Weet je zeker dat je deze vergadering wilt afgelasten?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
@@ -964,7 +964,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation>Vergadering annuleren</translation>
+        <translation>Vergadering afgelasten</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1299,7 +1299,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
     <message>
         <source>Action/To</source>
-        <translation>Actie/Aan</translation>
+        <translation>Behandeling/Aan</translation>
     </message>
     <message>
         <source>To</source>
@@ -1472,1881 +1472,1885 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je de map en inhoud van &quot;%1&quot; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je de map &quot;%1&quot; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met verwijderen van map %1</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Map verwijderd</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, verwijderen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, bewaren</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, je kunt geen map legen als je offline bent.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je alle items en submappen in de map &quot;%1&quot; permanent wilt verwijderen?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je alle items in de map &quot;%1&quot; wilt verwijderen?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met legen van map %1</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Map is geleegd.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, verwijderen</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, bewaren</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, je kunt geen mappen verplaatsen als je offline bent.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, je kunt niet markeren als gelezen als je offline bent.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met markeren van alle als gelezen…</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle items zijn gemarkeerd als gelezen.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout bij markeren van items als gelezen.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Submap creëren</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Map creëren</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Naam wijzigen</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles markeren als gelezen</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Lege inhoud</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Oké</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Toegevoegd aan handtekening: &quot;Ik krijg mijn e-mail onder controle &lt;a href=&quot;https://www.hiri.com/&quot;&gt;met behulp van Hiri&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaans - Zuid-Afrika</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgaars</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalaans</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tsjechisch</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Deens</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Duits</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Grieks</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels - Canada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels - Verenigd Koninkrijk</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels - Verenigde Staten</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaans - Spanje</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ests</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Perzisch</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>Faeröers</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Frans</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreeuws</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatisch</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Hongaars</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesisch</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiaans</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreaans</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Litouws</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lets</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Noors (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederlands - Nederland</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Pools</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugees - Brazilië</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugees - Portugal</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Roemeens</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russisch</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Servisch (Latijn)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slowaaks</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sloveens</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Albanees</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Servisch (Cyrillisch)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Zweeds</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tadzjieks</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turks</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Oekraïens</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamees</translation>
     </message>
 </context>
 <context>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie van bestandsafdruk</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, het creëren van een PDF-bestand is mislukt. :(</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdrukken</translation>
     </message>
 </context>
 <context>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bericht verplaatst naar FYI; taak verwijderd.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Samengevoegd Postvak IN</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen naar ongesorteerd</translation>
     </message>
 </context>
 <context>
     <name>Invites</name>
     <message>
         <source>Hi,</source>
-        <translation type="unfinished"></translation>
+        <translation>Hallo,</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation type="unfinished"></translation>
+        <translation>ik wil je graag uitnodigen om Hiri eens te proberen. Het is een nieuwe e-mailapp die je helpt om tijd te besparen, je dag te organiseren en je communicatie te verbeteren. Download Hiri hier:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Als je wilt, kun je 25% korting krijgen middels de volgende link:</translation>
     </message>
     <message>
         <source>Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedankt!</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk Hiri eens…</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation type="unfinished"></translation>
+        <translation>Deel de vreugde!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodig je vrienden en collega&apos;s uit om Hiri te proberen. De eerste 3 mensen die je uitnodigt krijgen</translation>
     </message>
     <message>
         <source>25% off</source>
-        <translation type="unfinished"></translation>
+        <translation>25% korting</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>als ze Hiri fijn vinden en zich registreren. We geven jou</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>ook korting als je 3 mensen uitnodigt, zelfs als ze zich niet registreren.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nodig mensen uit waarmee je het meeste communiceert. Jullie zullen allemaal profiteren van Behandelbare en FYI-e-mails.</translation>
     </message>
     <message>
         <source>Send invites</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitnodigingen versturen</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sneltoetsen</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Door e-mails bladeren</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend/vorig gesprek:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgend/vorig gesprek (indien geopend):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation type="unfinished"></translation>
+        <translation>Omhoog/omlaag scrollen:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bovenkant/onderkant van huidige pagina:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesprek openen:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesprek sluiten:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken openen:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mailacties</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beantwoorden:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Allen beantwoorden:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorsturen:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren als gelezen:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren als ongelezen:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiveren:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Meerdere items selecteren</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesprek selecteren:</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie wissen:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigatie</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe e-mail opstellen:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Samengevoegd Postvak IN openen:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Postvak &apos;Behandelbaar&apos; openen:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI-Postvak IN openen:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Agenda openen:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Contactpersonenlijst openen:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlepaneel openen:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen openen:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedbackvenster openen:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation type="unfinished"></translation>
+        <translation>Opstellen</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail verzenden:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vetgedrukt:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Cursief:</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderstrepen:</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Link creëren:</translation>
     </message>
 </context>
 <context>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe e-mail opstellen</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Postvak IN</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Controleren op nieuwe berichten</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongesorteerd</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen naar ONGESORTEERD</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished"></translation>
+        <translation>Behandelbaar</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen naar POSTVAK &apos;BEHANDELBAAR&apos;</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>Verplaatsen naar FYI-POSTVAK</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkrijg korting op Hiri!</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback versturen</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaardighedencentrum</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Contactpersonen</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlepaneel</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellingen</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Agenda</translation>
     </message>
 </context>
 <context>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontvangers toevoegen</translation>
     </message>
 </context>
 <context>
     <name>LoginWizard</name>
     <message>
         <source>Offline, connect and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline. Verbind met het internet en probeer het opnieuw.</translation>
     </message>
     <message>
         <source>Seems like your network connection was interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het lijkt erop dat je netwerkverbinding is onderbroken.</translation>
     </message>
 </context>
 <context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg een ontvanger toe</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Eén of meer ingevoerde e-mailadressen is/zijn onjuist. Druk op Enter nadat je een e-mailadres hebt ingevoerd</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Vul alle taken in</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een onderwerpregel in</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongeldige ontvanger aangetroffen</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Onderwerp</translation>
     </message>
     <message>
         <source>Error :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout :(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Oorspronkelijke berichtbijlagen toevoegen</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan en sluiten</translation>
     </message>
 </context>
 <context>
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Opstellen</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>bezig met opslaan</translation>
     </message>
     <message>
         <source>saved locally</source>
-        <translation type="unfinished"></translation>
+        <translation>lokaal opgeslagen</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>fout</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept opgeslagen</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout bij opslaan van concept</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorgestuurde e-mail verzonden</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Overdracht verzonden</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout bij verzenden van bericht</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Bericht verzonden</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering doorgestuurd</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout bij doorsturen van vergadering</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je dit concept wilt verwerpen?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, verwerpen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, bewaren</translation>
     </message>
 </context>
 <context>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished"></translation>
+        <translation>Behandeling | Aan</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI | CC</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>CC</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>BCC</translation>
     </message>
 </context>
 <context>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat zijn &lt;font color=&quot;#e54624&quot;&gt;Behandeling&lt;/font&gt; en &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hetzelfde als Aan en CC. Maar als de persoon die e-mailt ook Hiri gebruikt, dan zal de e-mail binnenkomen in zijn/haar Behandelbaar of FYI-Postvak IN.</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer informatie</translation>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation type="unfinished"></translation>
+        <translation>Waarom staat het onderwerp onderaan?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdat je dan een betere onderwerpregel kunt opstellen! Je hebt de inhoud al geschreven, dus je onderwerp zal nauwkeuriger zijn, wat je ontvanger tijd bespaart.</translation>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat is</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Overdragen</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Overdragen wordt gebruikt om een taak door te sturen aan iemand.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als de e-mail die je doorstuurt een taak bevat, dan zal elke ontvanger die je toevoegt aan Behandeling je taak ontvangen.
+ Daarom noemen we het Overdragen.</translation>
     </message>
 </context>
 <context>
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Het lijkt erop dat je offline bent of geen verbinding meer hebt met het internet</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation type="unfinished"></translation>
+        <translation>... en daar zijn we weer</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met controleren op e-mails…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met ophalen van e-mails... %1%</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met controleren</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met optimaliseren van DB; even geduld…</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinding onderbroken tijdens ophalen van e-mail. Bezig met opnieuw verbinden…</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archief doorzoeken</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles doorzoeken</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ en druk op Enter om te zoeken</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ om te zoeken</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoek, of druk op Enter om alle gearchiveerde berichten te tonen</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle berichten worden getoond; typ om te zoeken</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk op Enter om label te kiezen</translation>
     </message>
 </context>
 <context>
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorlopig</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet op kantoor</translation>
     </message>
     <message>
         <source>No availability data</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen beschikbaarheidsgegevens</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrij</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingstitel</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan-assistent</translation>
     </message>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele dag?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation type="unfinished"></translation>
+        <translation>Privé?</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhalen</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Herinnering</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Tonen als</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitnodigen - typ een naam om te beginnen</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is een terugkerende vergadering. Je kunt een bijlage alleen verwijderen uit de oorspronkelijke vergadering</translation>
     </message>
     <message>
         <source>Edit original</source>
-        <translation type="unfinished"></translation>
+        <translation>Oorspronkelijke bewerken</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Begint</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindigt</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele dag</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Openen in nieuw venster</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Zichtbaarheid</translation>
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privé</translation>
     </message>
     <message>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Openbaar</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Tonen als</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Herinnering</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerdere vergadering</translation>
     </message>
     <message>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisator</translation>
     </message>
     <message>
         <source>Attendees</source>
-        <translation type="unfinished"></translation>
+        <translation>Deelnemers</translation>
     </message>
     <message>
         <source>This meeting has been cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Deze vergadering is afgelast</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je deze vergadering wilt verwijderen?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, verwijderen</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, bewaren</translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, deze herinnering kan niet worden genegeerd…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, deze herinnering kan niet worden uitgesteld…</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingsverzoek geaccepteerd.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe tijd voorgesteld: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingsverzoek voorlopig geaccepteerd.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingsverzoek geweigerd.</translation>
     </message>
     <message>
         <source>Meeting request has been canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingsverzoek is geannuleerd.</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponseLegend</name>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Geaccepteerd</translation>
     </message>
     <message>
         <source>Declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Geweigerd</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorlopig geaccepteerd</translation>
     </message>
 </context>
 <context>
     <name>MessageAttachments</name>
     <message>
         <source>1 file attached</source>
-        <translation type="unfinished"></translation>
+        <translation>1 bestand bijgevoegd</translation>
     </message>
     <message>
         <source>%1 files attached</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bestanden bijgevoegd</translation>
     </message>
 </context>
 <context>
     <name>NewMessageNotification</name>
     <message>
         <source>There is a new message in this conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een nieuw bericht in dit gesprek</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Niets doen</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu lezen</translation>
     </message>
 </context>
 <context>
     <name>Notifier</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen taak)</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle herinneringen negeren</translation>
     </message>
 </context>
 <context>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen Office365?</translation>
     </message>
 </context>
 <context>
     <name>OfflineScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps.</translation>
     </message>
     <message>
         <source>We couldn&apos;t authenticate you because of connection problems.
 Please check your internet connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het authenticeren is mislukt vanwege verbindingsproblemen.
+Controleer je internetverbinding en probeer het opnieuw.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorgaan</translation>
     </message>
 </context>
 <context>
     <name>OnboardingCarousel</name>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeter je e-mailvaardigheden in één muisklik.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk ons Vaardighedencentrum.</translation>
     </message>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het is tijd om je e-mailvaardigheden
+naar een hoger niveau te tillen.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemaakt met     door het Hiri-team</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
-        <translation type="unfinished"></translation>
+        <translation>in Dublin, Ierland.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Laten we beginnen!</translation>
     </message>
 </context>
 <context>
     <name>OutlookAuth</name>
     <message>
         <source>Outlook/Hotmail/Live/MSN login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inloggen op Outlook/Hotmail/Live/MSN</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>iemand@jeprovider.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>wachtwoord</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Je wachtwoord is mogelijk onjuist</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende stap</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen Outlook/Hotmail/Live/MSN?</translation>
     </message>
 </context>
 <context>
     <name>Pagination</name>
     <message>
         <source>Go to page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ga naar pagina</translation>
     </message>
 </context>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken naar contactpersonen in globale adreslijst</translation>
     </message>
     <message>
         <source>No contacts found</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen contactpersonen gevonden</translation>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden</translation>
     </message>
     <message>
         <source>Search all contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle contactpersonen doorzoeken</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Voer een naam in om te beginnen met zoeken</translation>
     </message>
     <message>
         <source>Type  to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ  om te zoeken</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mailadres</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation type="unfinished"></translation>
+        <translation>Functietiel</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefoonnummer</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Toevoegen</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeDialog</name>
     <message>
         <source>Propose new time</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe tijd voorstellen</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt de vergaderingstijd niet gewijzigd. Stel een nieuwe tijd voor.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertel ze waarom je een nieuwe tijd voorstelt, of laat dit leeg</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeResponseButtons</name>
     <message>
         <source>New time accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe tijd geaccepteerd</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering bewerken</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorgestelde tijd accepteren</translation>
     </message>
 </context>
 <context>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort maar krachtig</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Goed verwoord</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Behandeling was duidelijk</translation>
     </message>
     <message>
         <source>Good subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Goede onderwerptitel</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation type="unfinished"></translation>
+        <translation>Jip-en-Janneke-taal</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Vraag is duidelijk begrepen</translation>
     </message>
     <message>
         <source>Relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Relevant voor mij</translation>
     </message>
     <message>
         <source>Inappropriate</source>
-        <translation type="unfinished"></translation>
+        <translation>Ongewenst</translation>
     </message>
     <message>
         <source>Too long</source>
-        <translation type="unfinished"></translation>
+        <translation>Te lang</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Teveel FYI&apos;s</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet relevant voor mij</translation>
     </message>
     <message>
         <source>Should have called/met</source>
-        <translation type="unfinished"></translation>
+        <translation>Je had moeten bellen</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Slechte onderwerptitel</translation>
     </message>
     <message>
         <source>Not clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Onduidelijk</translation>
     </message>
     <message>
         <source>Rating…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met waarderen…</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail gewaardeerd. Goed gedaan!</translation>
     </message>
     <message>
         <source>Send rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Waardering verzenden</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt deze e-mail gewaardeerd</translation>
     </message>
 </context>
 <context>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitstellen</translation>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minuten voor het verloopt</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minuten voor het begint</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min voor het verloopt</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min voor het begint</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min voor het verloopt</translation>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min voor het begint</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished"></translation>
+        <translation>1u voor het verloopt</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation type="unfinished"></translation>
+        <translation>1u voor het begint</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Negeren</translation>
     </message>
 </context>
 <context>
     <name>ReplyBox</name>
     <message>
         <source>Reply sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord verzonden.</translation>
     </message>
     <message>
         <source>Sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden mislukt.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hier om dit concept te bewerken</translation>
     </message>
     <message>
         <source>Pop out reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord in nieuw venster</translation>
     </message>
     <message>
         <source>Save draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept opslaan</translation>
     </message>
     <message>
         <source>Discard Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept verwerpen</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Weet je zeker dat je dit concept wilt verwerpen?</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Concept verwerpen</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Doorgaan met bewerken</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Ontvangers bewerken</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>bezig met opslaan</translation>
     </message>
     <message>
         <source>sending</source>
-        <translation type="unfinished"></translation>
+        <translation>bezig met verzenden</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden</translation>
     </message>
 </context>
 <context>
     <name>ReplyToMultiple</name>
     <message>
         <source>Reply to multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Meerdere beantwoorden</translation>
     </message>
     <message>
         <source>Only reply to people who need to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alleen beantwoorden aan mensen die het moeten weten.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation type="unfinished"></translation>
+        <translation>Iemand anders toevoegen - de e-mail zal worden verstuurd als FYI/CC</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je bent ge-BCC&apos;d in deze e-mail - andere ontvangers weten niet dat jij deze e-mail ontvangen hebt. Als je ontvangers toevoegt en de e-mail beantwoordt, dan ben je niet langer verborgen.</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Probeer dit keuzevakje niet te gebruiken</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaar</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eén of meer geselecteerde e-mails is onjuist.</translation>
     </message>
 </context>
 <context>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Reageren op vergadering</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished"></translation>
+        <translation>Reageren op enkele gebeurtenis</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation type="unfinished"></translation>
+        <translation>Reageren op reeks</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertel ze waarom je</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>dit accepteert</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>dit voorlopig accepteert</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation type="unfinished"></translation>
+        <translation>dit weigert</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>of laat leeg.</translation>
     </message>
     <message>
         <source>Send response</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord verzenden</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt deze vergadering geaccepteerd.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt deze vergadering voorlopig geaccepteerd.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt deze vergadering geweigerd.</translation>
     </message>
     <message>
         <source>Propose new</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe voorstellen</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit doorsturen</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord wijzigen aan</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tijd</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorlopig accepteren</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Weigeren</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepteren</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden</translation>
     </message>
 </context>
 <context>
     <name>RightPanel</name>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappen</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Taken</translation>
     </message>
 </context>
 <context>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele dag?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Uitnodigen - voer een naam in om te beginnen</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Locatie</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschikbaar</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Toepassen</translation>
     </message>
 </context>
 <context>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Globale adreslijst doorzoeken (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation type="unfinished"></translation>
+        <translation>1: Selecteer een datum</translation>
     </message>
     <message>
         <source>Exact day</source>
-        <translation type="unfinished"></translation>
+        <translation>Precieze dag</translation>
     </message>
     <message>
         <source>± 1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 dag</translation>
     </message>
     <message>
         <source>± 1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 week</translation>
     </message>
     <message>
         <source>± 1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 maand</translation>
     </message>
     <message>
         <source>± 3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>± 3 maanden</translation>
     </message>
     <message>
         <source>± 1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 jaar</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Bevestigen</translation>
     </message>
     <message>
         <source>On %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Op %1</translation>
     </message>
     <message>
         <source>Between %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tussen %1 en %2</translation>
     </message>
 </context>
 <context>
     <name>SearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archief doorzoeken</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles doorzoeken</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ en druk op Enter om te zoeken</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ om te zoeken</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Zoeken, of druk op Enter om alle gearchiveerde berichten te tonen</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle berichten worden getoond; typ om te zoeken</translation>
     </message>
 </context>
 <context>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik op de labels om je zoekopdracht te verfijnen!</translation>
     </message>
     <message>
         <source>What</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat</translation>
     </message>
     <message>
         <source>When</source>
-        <translation type="unfinished"></translation>
+        <translation>Wanneer</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Waar</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>ongelezen:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation type="unfinished"></translation>
+        <translation>taak:</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation type="unfinished"></translation>
+        <translation>vergadering:</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation type="unfinished"></translation>
+        <translation>bijlage:</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation type="unfinished"></translation>
+        <translation>datum:</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation type="unfinished"></translation>
+        <translation>vandaag:</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation type="unfinished"></translation>
+        <translation>deze week:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation type="unfinished"></translation>
+        <translation>deze maand:</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>map:</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>behandelbaar:</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation type="unfinished"></translation>
+        <translation>fyi:</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation type="unfinished"></translation>
+        <translation>verzonden:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet gevonden waar je naar zocht?</translation>
     </message>
     <message>
         <source>Sync more</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer synchroniseren</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>of</translation>
     </message>
     <message>
         <source>Search locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokaal zoeken</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archief doorzoeken</translation>
     </message>
 </context>
 <context>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filteropties</translation>
     </message>
 </context>
 <context>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles de-selecteren</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren als gelezen</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren als ongelezen</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiveren</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 geselecteerd</translation>
     </message>
 </context>
 <context>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Je profielafbeelding</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Wijzigen</translation>
     </message>
     <message>
         <source>Subscription status</source>
-        <translation type="unfinished"></translation>
+        <translation>Abonnementsstatus</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Actief</translation>
     </message>
     <message>
         <source>Trialing</source>
-        <translation type="unfinished"></translation>
+        <translation>Proefperiode</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambassador-abonnement</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het ophalen van je abonnementsgegevens is mislukt.
+Je kunt Hiri gebruiken totdat de serververbinding tot stand gekomen is.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu kopen</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>Synchronisatie</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies hoeveel e-mails Hiri moet downloaden:</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>1 maand</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>3 maanden</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation type="unfinished"></translation>
+        <translation>6 maanden</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>1 jaar</translation>
     </message>
     <message>
         <source>2 years</source>
-        <translation type="unfinished"></translation>
+        <translation>2 jaar</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles</translation>
     </message>
     <message>
         <source>Start downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloaden starten</translation>
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met ophalen van e-mails…</translation>
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliassen</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
@@ -3731,11 +3735,11 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderings- en taakherinneringen</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderings- en taakherinneringen en nieuwe e-mails</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
@@ -3902,7 +3906,7 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Overdragen aan</translation>
     </message>
     <message>
         <source>Question for</source>
@@ -3948,15 +3952,15 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Behandeling/FYI splitsen</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Scheidt je e-mails door Behandeling en FYI te splitsen.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit voegt Behandeling- en FYI-filters toe aan het donkergrijze vak links.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
@@ -3984,7 +3988,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mails overdragen</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
@@ -3992,7 +3996,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voegt een knop &apos;Overdragen&apos; toe aan de e-mailwerkbalk.</translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4004,7 +4008,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voegt een knop &apos;Herinnering&apos; toe aan de e-mailwerkbalk. Dit stelt je in staat om herinneringen in te stellen voor specifieke gesprekken.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
@@ -4028,11 +4032,11 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereist Behandeling/FYI splitsen</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stelt je in staat om Postvak IN Nul te verkrijgen. Normaal gesproken, als je Behandeling/FYI splitsen inschakelt (zie die vaardigheid voor meer informatie), blijven e-mails die naar deze filters verplaatst worden in het algemene Postvak IN, maar zijn ze gemarkeerd met een kleur. Het inschakelen van Postvak IN Nul betekent dat deze e-mails verplaatst worden naar de Behandeling-/FYI-filters. Dit houdt je Postvak IN netjes.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
@@ -4481,7 +4485,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesprek verplaatst naar het postvak &apos;Behandelbaar&apos;.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>

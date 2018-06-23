@@ -22,6 +22,9 @@ If you don't like the Webplate UI you can use Qt Linguist desktop application. Q
 #### Any text editor
 You don't have to use Qt Linguist either. Qt translation files are human readable XML files, so you can edit them in any text editor. Then you can upload them to Webplate or commit changes with git. Just be careful that you properly quote special characters inside translation tags and to update type attribute from unfinished to finished.
 
+#### Previewing your translation in progress
+You can preview the translation you are working on in Hiri. Go to Settings, Languages and load the .qm file of your translation in the advanced section. To get the .qm file you have to load the translation (.ts file) in Qt Linguist then choose "File -> Release..." from the menu.
+
 ### Contact
 Send questions to [support@hiri.com](mailto:support@hiri.com?subject=Translations).
 

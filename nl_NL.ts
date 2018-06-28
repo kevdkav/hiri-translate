@@ -4447,46 +4447,46 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation>Sorry,  je kunt geen afgeronde taken verplaatsen</translation>
+        <translation>Sorry, je kunt geen afgeronde taken verplaatsen</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, je kunt geen verzonden taken verplaatsen</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het laden van de taaklijsten is mislukt…</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het laden van de taken is mislukt…</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het creëren van de taak is mislukt…</translation>
     </message>
     <message>
         <source>Oops, updating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het bijwerken van de taak is mislukt…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Je hebt deze taak verplaatst naar &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Oops, moving task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het verplaatsen van de taak is mislukt…</translation>
     </message>
     <message>
         <source>Oops, deleting task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het verwijderen van de taak is mislukt…</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het verwijderen van de taakmap is mislukt…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
@@ -4494,374 +4494,375 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps, het creëren van een opvolging is mislukt…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, je kunt geen taak toevoegen aan de verzonden taaklijst</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak verplaatst naar Vandaag - verloopdatum ingesteld (Vandaag, 18:00)</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak verplaatst naar Deze week - verloopdatum ingesteld (Vrijdag, 18:00)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, je kunt deze taak niet verplaatsen naar de verzonden taaklijst</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, de proefperiode is voorbij :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen zorgen: je kunt een licentie aanschaffen om Hiri te gebruiken.</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>Als je vragen hebt, neem</translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>dan contact op.</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu kopen</translation>
     </message>
     <message>
         <source>I paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ik heb al betaald</translation>
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met controleren van abonnement…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, we kunnen je betaling niet vinden.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Schrijf een feedbackbericht</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezig met versturen van feedback…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Proefperiodevraag: %1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback verstuurd. Bedankt!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout bij versturen van feedback</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>De e-mail wordt verstuurd naar:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Heb je vragen over de proefperiode of feedback die je wilt delen?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Verzenden</translation>
     </message>
 </context>
 <context>
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren als ongelezen</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeren als gelezen</translation>
     </message>
 </context>
 <context>
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Zondag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Maandag</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Dinsdag</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Woensdag</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>Donderdag</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrijdag</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaterdag</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Jij</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Zojuist</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Gisteren</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Morgen</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, sommige bijlagen kunnen niet worden gevonden en worden verwijderd:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bijlagen toegevoegd.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijlage toegevoegd.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit bestand is al bijgevoegd.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sommige bestanden zijn al bijgevoegd.</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke dag</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke werkdag</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke laatste %1</translation>
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proefperiode:</translation>
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindigt vandaag</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dag resterend</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dagen resterend</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehele dag</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>nu</translation>
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Verloopt over</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Begint over</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minuten</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 u</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link openen</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Linkadres kopiëren</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding kopiëren</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding opslaan</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knippen</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëren</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Plakken zonder opmaak</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Alles selecteren</translation>
     </message>
     <message>
         <source>Unselect</source>
-        <translation type="unfinished"></translation>
+        <translation>De-selecteren</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Spelling controleren</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Afbeelding opgeslagen naar je Downloads-map</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Welkom bij Hiri!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Het is tijd om je e-mails
+onder controle te krijgen.</translation>
     </message>
 </context>
 <context>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wanneer: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekende beschikbaarheid</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Je bent %1</translation>
     </message>
     <message>
         <source>Where: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Waar: %1</translation>
     </message>
 </context>
 <context>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
 </context>
 <context>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden tijdens het downloaden van de bijlage</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan is niet mogelijk: </translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>voor</translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout tijdens opslaan van bericht. Sommige wijzigingen zijn wellicht niet doorgevoerd; controleer ze.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps! Er is iets misgegaan</translation>
     </message>
 </context>
 <context>
@@ -4875,25 +4876,25 @@ under control.</source>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> op naam van </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>De verbinding met de server is onderbroken</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai! Er is iets misgegaan</translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Interpolatie {} testen</translation>
     </message>
 </context>
 </TS>

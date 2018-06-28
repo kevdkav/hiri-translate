@@ -982,15 +982,15 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serientermin absagen</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serientermin löschen</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Serientermin bearbeiten</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
@@ -1190,7 +1190,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
@@ -1290,7 +1290,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht wurde in FYI verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
     </message>
 </context>
 <context>

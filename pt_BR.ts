@@ -5,30 +5,30 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar nova conta</translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Calendários Públicos</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Calendários Compartilhados</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Caso não encontre o calendário que está procurando, verifique se o compartilhamento já foi aceito.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Não encontramos novos calendários públicos</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
@@ -39,47 +39,47 @@
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oops, não encontramos seu email…</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Anexos</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Procurar em Catálogo de Endereços (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalando…</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Fechar</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>

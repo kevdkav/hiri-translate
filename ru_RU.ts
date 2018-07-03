@@ -1775,7 +1775,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение перемещено в категорию &quot;Для вашего сведения&quot;. Задача удалена.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -2062,7 +2062,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить получателей</translation>
     </message>
 </context>
 <context>
@@ -2194,15 +2194,15 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Список рассылки</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Для</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Копия</translation>
     </message>
 </context>
 <context>
@@ -2385,7 +2385,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без темы)</translation>
     </message>
     <message>
         <source>Start</source>
@@ -2464,7 +2464,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без темы)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2479,23 +2479,23 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение на встречу принято.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Предложено новое время: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос на встречу предварительно принят.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение на встречу отклонено.</translation>
     </message>
     <message>
         <source>Meeting request has been canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Приглашение на встречу было отменено.</translation>
     </message>
 </context>
 <context>
@@ -2547,7 +2547,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без темы)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2613,11 +2613,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ктото&gt;@&lt;адрессервера&gt;.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>пароль</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
@@ -2625,7 +2625,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Следующий шаг</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -3624,6 +3624,14 @@ Don&apos;t worry, your emails are still safe on the server!</source>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsOof</name>
@@ -3853,7 +3861,7 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить получателей</translation>
     </message>
 </context>
 <context>
@@ -4796,7 +4804,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Когда: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

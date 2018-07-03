@@ -1101,7 +1101,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished">someone@yourprovider.com</translation>
+        <translation>someone@yourprovider.com</translation>
     </message>
     <message>
         <source>Next step</source>
@@ -1326,7 +1326,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>someone@yourprovider.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -1394,7 +1394,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Следећи корак</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
@@ -2062,7 +2062,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Додај примаоце</translation>
     </message>
 </context>
 <context>
@@ -2237,7 +2237,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Делегирај</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2385,15 +2385,15 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без наслова)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Почетак</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Крај</translation>
     </message>
     <message>
         <source>All day</source>
@@ -2401,7 +2401,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Отвори у новом прозору</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2449,7 +2449,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Да ли сте сигурни да желите да обришете овај састанак?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2464,7 +2464,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без наслова)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2479,23 +2479,23 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Састанак прихваћен.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Предложено ново време: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Састанак начелно прихваћен.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Захтев за састанак одбијен.</translation>
     </message>
     <message>
         <source>Meeting request has been canceled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Захтев за састанак је отказан.</translation>
     </message>
 </context>
 <context>
@@ -2547,7 +2547,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Без наслова)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2613,7 +2613,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>someone@yourprovider.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -2625,7 +2625,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Следећи корак</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -2803,7 +2803,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Одложи</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -3250,11 +3250,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Означи као прочитано</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Означи као непрочитано</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3262,7 +3262,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивирај</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3464,7 +3464,7 @@ Known aliases:</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивирај</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3624,6 +3624,14 @@ Known aliases:</source>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsOof</name>
@@ -3680,7 +3688,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивирај</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
@@ -3853,7 +3861,7 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Додај примаоце</translation>
     </message>
 </context>
 <context>
@@ -4319,7 +4327,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Подеси подсетник</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4575,11 +4583,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Означи као непрочитано</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Означи као прочитано</translation>
     </message>
 </context>
 <context>
@@ -4710,7 +4718,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажалост неки прилози не постоје и биће уклоњени:</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4796,7 +4804,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Када: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

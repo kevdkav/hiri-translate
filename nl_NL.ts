@@ -2242,8 +2242,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Als de e-mail die je doorstuurt een taak bevat, dan zal elke ontvanger die je toevoegt aan Behandeling je taak ontvangen.
- Daarom noemen we het Overdragen.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3632,6 +3631,14 @@ Geen zorgen: je e-mails staan nog steeds op de server!</translation>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
         <translation>Als de geselecteerde vertaling onvolledig is, dan worden delen in het Engels getoond. Als je wilt meehelpen met vertalen (of een nieuwe vertaling wilt creëren), &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;klik dan hier&lt;/a&gt; om bij te dragen! Bedankt.</translation>
     </message>
+    <message>
+        <source>Advanced</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsOof</name>
@@ -4836,65 +4843,65 @@ onder controle te krijgen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Er is een fout opgetreden tijdens het downloaden van de bijlage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Opslaan is niet mogelijk: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation>Van</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
-        <translation>voor</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation>Fout tijdens opslaan van bericht. Sommige wijzigingen zijn wellicht niet doorgevoerd; controleer ze.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oeps! Er is iets misgegaan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation>De Hiri-server is offline. Je kunt de e-mails van je collegae niet beoordelen of je communicatiescore bekijken.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> op naam van </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>De verbinding met de server is onderbroken</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Ai! Er is iets misgegaan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation>Interpolatie {} testen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

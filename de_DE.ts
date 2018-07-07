@@ -1745,11 +1745,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamilisch</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tadschikisch</translation>
     </message>
     <message>
         <source>Turkish</source>
@@ -1783,7 +1783,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Nachricht wurde in FYI verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
+        <translation type="unfinished">Nachricht wurde in FYI verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -1830,7 +1830,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sie sollten Leute,  mit denen sie am meisten kommunizieren dazu einladen. Beide werden profitieren, wenn Sie Actionable und FYI  E-mails erhalten</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
@@ -1932,7 +1932,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation>Auswahl leeren:</translation>
+        <translation>Auswahl löschen:</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -1952,7 +1952,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI Posteingang öffnen</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -1960,43 +1960,43 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakte öffnen</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard  öffnen</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen öffnen:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Feedback Dialog öfnen:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation type="unfinished"></translation>
+        <translation>verfassen</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Email senden:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fett:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursiv:</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Unterstreichen:</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Link anlegen:</translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2015,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation>Verschieben in ACTION</translation>
+        <translation>Verschieben in ACTIONABLE</translation>
     </message>
     <message>
         <source>FYI</source>
@@ -2023,7 +2023,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation>Verschieben: FYI</translation>
+        <translation>Verschiebennach  FYI</translation>
     </message>
     <message>
         <source>Unsorted</source>
@@ -2043,15 +2043,15 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Posteingang</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation type="unfinished"></translation>
+        <translation>Erhalten Sie heute  Rabatt auf Hiri</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Kompetenzzentrum</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -2077,11 +2077,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>LoginWizard</name>
     <message>
         <source>Offline, connect and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Offline, verbinden Sie sich erneut</translation>
     </message>
     <message>
         <source>Seems like your network connection was interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihre Netzwerkverbindung scheint unterbrochen zu sein</translation>
     </message>
 </context>
 <context>
@@ -2089,7 +2089,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>Please add a recipient</source>
         <translatorcomment>not need for &quot;please&quot;in German :-)</translatorcomment>
-        <translation>Empfänger hinzufügen</translation>
+        <translation>Bitte Empfänger hinzufügen</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
@@ -2098,7 +2098,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>Please fill all tasks</source>
         <translatorcomment>context!</translatorcomment>
-        <translation>Bitte alle Aufgaben ausfüllen</translation>
+        <translation>Bitte alle Angaben ausfüllen</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
@@ -2106,7 +2106,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation>Ungültiger Empfänger</translation>
+        <translation>Ungültiger Empfänger gefunden</translation>
     </message>
     <message>
         <source>Subject</source>
@@ -2122,18 +2122,18 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>die Anhänge der Originalnachricht anhängen</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichern und schließen</translation>
     </message>
 </context>
 <context>
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen</translation>
     </message>
     <message>
         <source>saving</source>
@@ -2141,11 +2141,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>saved locally</source>
-        <translation type="unfinished"></translation>
+        <translation>lokal speichern</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Draft saved</source>
@@ -2153,23 +2153,23 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim speichern des Entwurfs</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation type="unfinished"></translation>
+        <translation>weiterfeitung gesendet</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Weiterleitung gesendet</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim senden der Nachricht</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachricht gesendet</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>

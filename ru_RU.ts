@@ -1868,162 +1868,162 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть переписку:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть переписку:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть поиск:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия с электронной почтой</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответить:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ответить всем:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Удалить:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Переслать:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить как прочитанное:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отметить как непрочитанное:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Архивировать:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Режим множественного выбора</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать переписку:</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать все:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Снять все отметки:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Навигация</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание нового письма:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть единую папку Входящих:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть единую папку действий:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть единую папку Для сведений:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть календарь:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть контакты:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть панель мониторинга:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть настройки:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть диалоговое окно Обратной связи:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation type="unfinished"></translation>
+        <translation>Составление</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправка письма:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Жирный шрифт:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Курсив:</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Подчеркнутый:</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Создать ссылку:</translation>
     </message>
 </context>
 <context>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Создание нового письма</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить новые сообщения</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished"></translation>
+        <translation>Требующие действий</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в ТРЕБУЮЩИЕ ДЕЙСТВИЙ</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>К Вашему Сведению</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в К Вашему сведению</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Несортированные</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить в Несортированное</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2031,11 +2031,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить обратную связь</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Входящие</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
@@ -2043,7 +2043,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Центр Навыков</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -2051,7 +2051,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель мониторинга</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2069,18 +2069,18 @@ Do you want to forward only this event or the whole series?</source>
     <name>LoginWizard</name>
     <message>
         <source>Offline, connect and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>В автономном режиме, подключитесь и повторите попытку.</translation>
     </message>
     <message>
         <source>Seems like your network connection was interrupted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, что ваше сетевое подключение было разорвано.</translation>
     </message>
 </context>
 <context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, добавьте получателя</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
@@ -2088,19 +2088,19 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, заполните все задачи</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"></translation>
+        <translation>Пожалуйста, укажите тему</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"></translation>
+        <translation>Найден недействительный адрес получателя</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2108,89 +2108,89 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Error :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка :(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Включать вложения исходного сообщения</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить и закрыть</translation>
     </message>
 </context>
 <context>
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Составить</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>сохранение</translation>
     </message>
     <message>
         <source>saved locally</source>
-        <translation type="unfinished"></translation>
+        <translation>сохранено локально</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>ошибка</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Черновик сохранен</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка сохранения черновика</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Пересылка отправлена</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Делегирование отправлено</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка отправки сообщения</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Сообщение отправлено</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Встреча перенаправлена</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ошибка переадресации встречи</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уверены, что хотите удалить черновик?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation type="unfinished"></translation>
+        <translation>Да, удалить</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет, оставьте</translation>
     </message>
 </context>
 <context>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished"></translation>
+        <translation>Действия | Кому</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Для информации/Копия</translation>
     </message>
     <message>
         <source>Bcc</source>
@@ -2217,11 +2217,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Дополнительная информация</translation>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation type="unfinished"></translation>
+        <translation>Почему тема внизу?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
@@ -2233,7 +2233,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Что такое</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -2249,23 +2249,23 @@ Do you want to forward only this event or the whole series?</source>
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Похоже, вы находитесь в автономном режиме или разорвано соединение по сети</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation type="unfinished"></translation>
+        <translation>... и мы вернулись в сеть</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка ваших электронных писем…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Получение ваших писем... %1%</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
-        <translation type="unfinished"></translation>
+        <translation>Оптимизация БД, пожалуйста, будьте терпеливы…</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
@@ -2273,18 +2273,18 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверка</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в архиве</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск везде</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>

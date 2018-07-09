@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Einen weiteren Account hinzufügen</translation>
+        <translation>Einen weiteres Konto hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -46,7 +46,7 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Es wurde ein neuer nVidia-Treiber erkannt der Abstürze verursachen kann. Bitte starten Sie Hiri erneut um das Software-Rendering zu aktivieren.</translation>
+        <translation>Es wurde der nVidia-nouveau-Treiber erkannt der Abstürze verursachen kann. Bitte starten Sie Hiri erneut um das Software-Rendering zu erzwingen.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
@@ -1645,7 +1645,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Farsi</source>
-        <translation>Farsi</translation>
+        <translation>Persisch</translation>
     </message>
     <message>
         <source>Faroese</source>
@@ -1783,7 +1783,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished">Nachricht wurde in FYI verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
+        <translation>Nachricht wurde in &quot;zur Kenntnis&quot; verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -1830,7 +1830,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished">Sie sollten Leute,  mit denen sie am meisten kommunizieren dazu einladen. Beide werden profitieren, wenn Sie Actionable und FYI  E-mails erhalten</translation>
+        <translation>Sie sollten Leute,  mit denen sie am meisten kommunizieren einladen. Beide werden profitieren, wenn Sie E-mails zur Bearbeitung und zur Kenntnis erhalten.</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
@@ -1944,7 +1944,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation>Universellen Posteingang öffnen:</translation>
+        <translation type="unfinished">Gemeinsamen Posteingang öffnen:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
@@ -4850,7 +4850,7 @@ under control.</source>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gab einen Fehler beim Herunterladen des Anhangs.</translation>
     </message>
     <message>
         <source>Unable to save: </source>
@@ -4872,7 +4872,7 @@ under control.</source>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Speichern Ihrer Nachricht. Überprüfen Sie Ihre Änderungen, da einige davon möglicherweise nicht wirksam geworden sind.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
@@ -4901,7 +4901,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Huch, etwas ist schief gelaufen.</translation>
     </message>
 </context>
 <context>

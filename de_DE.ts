@@ -2019,7 +2019,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>FYI</source>
-        <translation>FYI</translation>
+        <translation>FYI ( z.K.) zur Kenntnisnahme</translation>
     </message>
     <message>
         <source>Move to FYI</source>

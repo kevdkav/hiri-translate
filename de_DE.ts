@@ -1952,7 +1952,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>FYI Posteingang öffnen</translation>
+        <translation>FYI Posteingang öffnen:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -2047,7 +2047,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation>Erhalten Sie heute  Rabatt auf Hiri</translation>
+        <translation>Erhalten Sie heute einen Rabatt auf Hiri!</translation>
     </message>
     <message>
         <source>Skills Center</source>

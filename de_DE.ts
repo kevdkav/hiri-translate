@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Oops, wir können Ihre Mails nicht finden...</translation>
+        <translation>Ups, wir können Ihre Mails nicht finden…</translation>
     </message>
 </context>
 <context>
@@ -88,7 +88,7 @@
     <message>
         <source>Updating… %1%</source>
         <translatorcomment>I would use the English here. There is a word for updating in German, but it is not used in this context.</translatorcomment>
-        <translation>Updating… %1%</translation>
+        <translation>Aktualisieren… %1%</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -1944,7 +1944,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished">Gemeinsamen Posteingang öffnen:</translation>
+        <translation>Gemeinsamen Posteingang öffnen:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
@@ -2077,11 +2077,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>LoginWizard</name>
     <message>
         <source>Offline, connect and try again.</source>
-        <translation>Offline, verbinden Sie sich erneut</translation>
+        <translation>Offline, Verbindung wiederherstellen und erneut versuchen.</translation>
     </message>
     <message>
         <source>Seems like your network connection was interrupted.</source>
-        <translation>Ihre Netzwerkverbindung scheint unterbrochen zu sein</translation>
+        <translation>Ihre Netzwerkverbindung scheint unterbrochen zu sein.</translation>
     </message>
 </context>
 <context>
@@ -2173,19 +2173,19 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Termin weitergeleitet</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler bei der Terminweiterleitung</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie diesen Entwurf verwerfen wollen?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, verwerfen</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -2219,31 +2219,31 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Was sind &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; und &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das selbe, wie &quot;An&quot; und &quot;Cc&quot;. Nutzt die Person jedoch ebenfalls Hiri, wird Ihre Mail in deren Actionable oder FYI Posteingang landen.</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Weitere Infos</translation>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation type="unfinished"></translation>
+        <translation>Warum kommt der Betreff zum Schluss?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weil Sie eine bessere Betreffzeile schreiben! Sie haben bereits den Inhalt verfasst, daher wird der Betreff umso präziser, was Zeit für den Empfänger spart.</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegieren wird verwendet, um eine Aufgabe an jemanden weiterzuleiten.</translation>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Was ist</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -2252,7 +2252,8 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn die E-Mail, die Sie weiterleiten, eine Aufgabe für Sie enthält, hat jeder Empfänger, den Sie zur Aktion hinzufügen, standardmäßig Ihre Aufgabe.
+ Deshalb nennen wir es Delegieren.</translation>
     </message>
 </context>
 <context>
@@ -2267,30 +2268,30 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">E-Mails werden überprüft…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mails werden abgerufen... %1%</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenbank wird optimiert, bitte warten…</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verbindung wurde während des Abrufens der Mails unterbrochen. Wiederverbinden…</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Überprüfe</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Suche im Archiv</translation>
     </message>
     <message>
         <source>Search everything</source>
@@ -2298,7 +2299,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchbegriff eingeben und Enter drücken</translation>
     </message>
     <message>
         <source>Type to search</source>
@@ -2306,7 +2307,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Suchen, oder drücken Sie die Eingabetaste, um alle Archivnachrichten anzuzeigen</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
@@ -2314,18 +2315,18 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Press Return to choose tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Drücken Sie die Eingabetaste, um einen Tag auszuwählen</translation>
     </message>
 </context>
 <context>
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Beschäftigt</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Vorbehalt</translation>
     </message>
     <message>
         <source>Out of office</source>
@@ -2333,58 +2334,58 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>No availability data</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Verfügbarkeitsdaten</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Kostenlos</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished"></translation>
+        <translation>Besprechungstitel</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminplanungs-Assistent</translation>
     </message>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ganztägig?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat?</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiederholung</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Erinnerung</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigen als</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Einladen - Geben Sie einen Namen ein</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Dies ist ein wiederkehrendes Treffen. Sie können nur einen Anhang aus der ursprünglichen Besprechung entfernen</translation>
     </message>
     <message>
         <source>Edit original</source>
-        <translation type="unfinished"></translation>
+        <translation>Original bearbeiten</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2415,35 +2416,35 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Sichtbarkeit</translation>
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat</translation>
     </message>
     <message>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffentlich</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzeigen als</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Erinnerung</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
-        <translation type="unfinished"></translation>
+        <translation>vergangene Besprechung</translation>
     </message>
     <message>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisator</translation>
     </message>
     <message>
         <source>Attendees</source>
@@ -2451,7 +2452,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>This meeting has been cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Besprechung wurde abgesagt</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2478,11 +2479,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, Erinnerung kann nicht verworfen werden.…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, Erinnerung kann nicht verzögert werden…</translation>
     </message>
 </context>
 <context>
@@ -2512,7 +2513,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>MeetingResponseLegend</name>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Akzeptiert</translation>
     </message>
     <message>
         <source>Declined</source>
@@ -3352,7 +3353,7 @@ You can still use Hiri until connection with the server has been established.</s
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto und Einstellungen löschen</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
@@ -3366,7 +3367,9 @@ You can still use Hiri until connection with the server has been established.</s
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass Sie dieses Konto aus Hiri entfernen möchten?
+Alle Einstellungen und die LOKALE E-Mail Datenbank werden entfernt.
+Keine Sorge, Ihre E-Mails sind weiterhin auf dem Server gespeichert!</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3722,11 +3725,11 @@ Known aliases:</source>
     </message>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Einstellungen für</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Globale Einstellungen</translation>
     </message>
     <message>
         <source>for all accounts</source>
@@ -3838,7 +3841,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sie können die Einstellungen für die Rechtschreibüberprüfung mittels Rechtsklick öffnen.</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
@@ -4850,7 +4853,7 @@ under control.</source>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Es gab einen Fehler beim Herunterladen des Anhangs.</translation>
+        <translation>Es gab einen Fehler beim Herunterladen des Anhangs</translation>
     </message>
     <message>
         <source>Unable to save: </source>
@@ -4901,7 +4904,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Huch, etwas ist schief gelaufen.</translation>
+        <translation>Huch, etwas ist schief gelaufen</translation>
     </message>
 </context>
 <context>

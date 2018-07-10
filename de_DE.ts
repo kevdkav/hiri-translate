@@ -2517,7 +2517,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgelehnt</translation>
     </message>
     <message>
         <source>Tentative</source>
@@ -2532,7 +2532,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>%1 files attached</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Dateien angehangen</translation>
     </message>
 </context>
 <context>
@@ -2554,7 +2554,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>Notifier</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Keine Aufgabe)</translation>
     </message>
     <message>
         <source>(No subject)</source>
@@ -2562,30 +2562,31 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Erinnerungen ablehnen</translation>
     </message>
 </context>
 <context>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nicht Office365?</translation>
     </message>
 </context>
 <context>
     <name>OfflineScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppla.</translation>
     </message>
     <message>
         <source>We couldn&apos;t authenticate you because of connection problems.
 Please check your internet connection and try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wir konnten Dich wegen Verbindungsproblemen nicht authentifizieren.
+Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -2601,7 +2602,7 @@ Please check your internet connection and try again.</source>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist Zeit, Deine E-Mails auf die nächste Ebene zu bringen.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
@@ -3841,7 +3842,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished">Sie können die Einstellungen für die Rechtschreibüberprüfung mittels Rechtsklick öffnen.</translation>
+        <translation>Sie können die Einstellungen für Rechtschreibprüfung ändern, indem Sie mit der rechten Maustaste auf Antworten  und Fenster erstellen klicken.</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>

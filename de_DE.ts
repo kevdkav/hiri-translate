@@ -1960,11 +1960,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation>Kontakte öffnen</translation>
+        <translation>Kontakte öffnen:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation>Dashboard  öffnen</translation>
+        <translation>Dashboard  öffnen:</translation>
     </message>
     <message>
         <source>Open settings:</source>

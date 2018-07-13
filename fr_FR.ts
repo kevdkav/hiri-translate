@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un autre compte</translation>
     </message>
 </context>
 <context>
@@ -489,7 +489,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne voyez pas votre fournisseur d&apos;email?  Pour le moment, Hiri fonctionne avec Office365, Outlook.com (Hotmail/Live/MSN) et Exchange. Si vous avez besoin d&apos;aide,</translation>
     </message>
 </context>
 <context>
@@ -655,7 +655,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Êtes vous sur de vouloir supprimer ce contact :</translation>
     </message>
 </context>
 <context>
@@ -694,7 +694,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>dans</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous n&apos;avez aucun rendez-vous</translation>
     </message>
 </context>
 <context>

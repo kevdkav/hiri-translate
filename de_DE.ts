@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Ups, wir können Ihre E-mails nicht finden...</translation>
+        <translation>Oh, wir können Ihre Post nicht finden...</translation>
     </message>
 </context>
 <context>
@@ -2597,7 +2597,7 @@ Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</tra
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schauen Sie sich unser &quot;Skills Center&quot; an.</translation>
     </message>
     <message>
         <source>Time to take your
@@ -2683,7 +2683,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation>Suche nach Kontakten in der globalen Adressliste</translation>
+        <translation>Suche nach Kontakten in der übergeordneten Adressliste</translation>
     </message>
     <message>
         <source>An error has occurred</source>
@@ -2710,7 +2710,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation>Sie haben die Besprechungszeit nicht geändert. Bitte schlagen Sie eine neue Zeit vor.</translation>
+        <translation>Sie haben den Besprechungstermin nicht geändert. Bitte schlagen Sie einen neuen Termin vor.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
@@ -2725,15 +2725,15 @@ email to the next level.</source>
     <name>ProposeNewTimeResponseButtons</name>
     <message>
         <source>New time accepted</source>
-        <translation>Neue Zeit akzeptiert</translation>
+        <translation>Neuer Termin akzeptiert</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation>Besprechung bearbeiten</translation>
+        <translation>Termin bearbeiten</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
-        <translation>Akzeptieren Sie die vorgeschlagene Zeit</translation>
+        <translation>Akzeptieren Sie den vorgeschlagenen Termin</translation>
     </message>
 </context>
 <context>
@@ -2821,19 +2821,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation>5 Minuten vor Fälligkeit</translation>
+        <translation>5 min vor Fälligkeit</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation>5 Minuten vor Beginn</translation>
+        <translation>5 min vor Beginn</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation>10 Minuten vor Fälligkeit</translation>
+        <translation>10 min vor Fälligkeit</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation>10 min vor Beginn</translation>
+        <translation>10 Minuten vor Beginn</translation>
     </message>
     <message>
         <source>30 mins before due</source>
@@ -3037,7 +3037,7 @@ email to the next level.</source>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>30 Minuten vor Fälligkeit</translation>
     </message>
 </context>
 <context>
@@ -3093,7 +3093,7 @@ email to the next level.</source>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation>1: Wählen Sie ein Datum aus</translation>
+        <translation>1: Wähle ein Datum aus</translation>
     </message>
     <message>
         <source>Exact day</source>
@@ -3164,7 +3164,7 @@ email to the next level.</source>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation>Klicken Sie auf die Stichworte, um Ihre Suche zu verfeinern!</translation>
+        <translation>Klicken Sie auf die Markierungen, um Ihre Suche zu verfeinern!</translation>
     </message>
     <message>
         <source>What</source>
@@ -3188,7 +3188,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>meeting:</source>
-        <translation>Besprechung:</translation>
+        <translation>Treffen:</translation>
     </message>
     <message>
         <source>attachment:</source>
@@ -3212,11 +3212,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>folder:</source>
-        <translation>Ordner:</translation>
+        <translation>Mappe:</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>bearbeitbar:</translation>
     </message>
     <message>
         <source>fyi:</source>
@@ -3228,7 +3228,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation>Haben Sie nicht gefunden, wonach Sie gesucht haben?</translation>
+        <translation>Nicht gefunden, wonach Du gesucht hast?</translation>
     </message>
     <message>
         <source>Sync more</source>
@@ -4880,14 +4880,14 @@ under control.</source>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Oh! Etwas lief schief.</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Hiri-Server ist offline. Sie werden nicht in der Lage sein, die E-Mails Ihrer Mitarbeiter zu bewerten oder Ihren Kommunikations-Score zu sehen.</translation>
     </message>
 </context>
 <context>
@@ -4901,7 +4901,7 @@ under control.</source>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Verbindung zum Server wurde unterbrochen</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>

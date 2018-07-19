@@ -1307,7 +1307,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>FYI/Cc</source>
         <translatorcomment>Need to be defined could be &quot;Zur Info&quot; / &quot;Nur Info&quot;</translatorcomment>
-        <translation>Kopie</translation>
+        <translation>FYI/Kopie</translation>
     </message>
     <message>
         <source>Bcc</source>
@@ -2576,7 +2576,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>OfflineScreen</name>
     <message>
         <source>Oops.</source>
-        <translation>Hoppla</translation>
+        <translation>Hoppla.</translation>
     </message>
     <message>
         <source>We couldn&apos;t authenticate you because of connection problems.
@@ -4905,7 +4905,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Huch, etwas ist schief gelaufen</translation>
+        <translation>Huch, irgendwas ist nicht in Ordnung.</translation>
     </message>
 </context>
 <context>

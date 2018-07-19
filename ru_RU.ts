@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation>Календари с совместным доступом</translation>
+        <translation>Совместные календари</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
@@ -1582,7 +1582,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить в подпись &quot;Я использую почтовый клиент &lt;a href=&quot;https://www.hiri.com/&gt;&quot;Hiri&quot;&lt;/a&gt;</translation>
     </message>
 </context>
 <context>

@@ -489,7 +489,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Zure posta elektronikoaren hornitzailea ez dago zerrenda honetan? Hirik Office365, Outlook.com (Hotmail/Live/MSN) eta Exchange hornitzaileekin lan egiten du. Laguntza behar baduzu,</translation>
     </message>
 </context>
 <context>
@@ -655,7 +655,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziur zaude kontaktu hau ezabatu nahi duzula:</translation>
     </message>
 </context>
 <context>
@@ -694,7 +694,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemen</translation>
     </message>
 </context>
 <context>
@@ -763,7 +763,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ez duzu hitzordurik</translation>
     </message>
 </context>
 <context>
@@ -918,7 +918,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barkatu, eranskin batzuk ezin izan dira aurkitu eta kendu egingo dira:</translation>
     </message>
 </context>
 <context>
@@ -933,7 +933,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eranskinak hemen deskargatu dira: %1</translation>
     </message>
 </context>
 <context>
@@ -1109,11 +1109,11 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gehitu beste kontu bat.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zure pasahitza aldatu edo iraungi egin da.</translation>
     </message>
 </context>
 <context>
@@ -1153,7 +1153,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>hautatutako elkarrizketak</translation>
     </message>
 </context>
 <context>
@@ -1188,7 +1188,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2ren izenean</translation>
     </message>
 </context>
 <context>
@@ -1222,7 +1222,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>Bat datozen %1 aurkitu dira</translation>
     </message>
 </context>
 <context>
@@ -1826,15 +1826,15 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Gonbidatu zure lagunei eta lankideei Hiri probatzera. Gonbidatzen dituzun lehen 3 pertsonek</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>gogoko badute eta kontratatzea erabakitzen badute. Zuri ere emango dizugu,</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>gonbidapena 3 pertsonei bidaltzen badiezu, baita kontratatzen ez badute ere.</translation>
     </message>
 </context>
 <context>
@@ -2233,7 +2233,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Zein da</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -2242,7 +2242,8 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Birbidaltzen ari zaren mezuak zuretzako ataza bat gaineratzen badu, Ekintzara gehitzen duzun hartzaile bakoitzak zure ataza jasoko du. 
+Horregatik deitzen diogu Eskuordetu.</translation>
     </message>
 </context>
 <context>
@@ -2273,7 +2274,7 @@ Hitzordu hau bakarrik birbidali nahi duzu edo multzo osoa?</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Egiaztatzen</translation>
     </message>
 </context>
 <context>
@@ -2970,7 +2971,7 @@ hurrengo mailara eramateko unea iritsi da.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Jakinaraz iezaiezu zergatik</translation>
     </message>
 </context>
 <context>
@@ -3268,7 +3269,7 @@ hurrengo mailara eramateko unea iritsi da.</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hautatu da</translation>
     </message>
 </context>
 <context>
@@ -3381,21 +3382,23 @@ Ez kezkatu, zure mezuak oraindik gordeta daude zerbitzarian!</translation>
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias helbideak</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta elektronikoko aliasa helbide elektronikoak birbidaltzea da. Kontu horretan, behean zerrendatutako helbideetara bidalitako mezu elektroniko guztiak jasotzen dira. Muga teknikoak direla eta, Hirik posta-zerbitzarian zehaztutako 3 alias bakarrik identifikatzen ditu. 3 alias baino gehiago badituzu, eskuz gaineratu ditzakezu hemen behean. Horrela, Hirik ez ditu modu okerrean kategorizatuko zuzenean edo posta-zerrenden bitartez jasotako zure mezu elektronikoak. 
+
+Alias ezagunak:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Edozein alias pertsonalizatu sar dezakezu hemen (bat lerro bakoitzeko):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(mesedez, gogoratu lehendik dauden aliasak izan behar dutela, hau da, Hirin aliasik sor ezin dezakezula)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3403,19 +3406,19 @@ Known aliases:</source>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Gordetako aliasak</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehenetsi</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri abiaraztean kontu hau lehenengo ager dadila.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziur zaude kontu hau lehenetsi nahi duzula?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -3607,35 +3610,35 @@ Known aliases:</source>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Hizkuntzak</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Aukeratu erabiltzaile-interfazeko hizkuntza:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Gordeta</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Honek Hiri berrekitean bakarrik izango ditu ondorioak.</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesedez, gogoratu:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hautatu duzun itzulpena amaitu gabe badago, hitz batzuk ingelesez agertuko dira. Itzulpenekin laguntza behar baduzu (edo beste hizkuntza baterako itzulpena nahi baduzu), &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;1sartu hemen &lt;/a&gt;2 laguntzeko! Eskerrik asko.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Aurreratua</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Kargatu</translation>
     </message>
 </context>
 <context>
@@ -3713,23 +3716,23 @@ Known aliases:</source>
     </message>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarpenak</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ezarpen orokorrak</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>kontu guztietarako</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontua</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Hizkuntzak</translation>
     </message>
 </context>
 <context>
@@ -3834,7 +3837,7 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Aktibatuta jakinarazpenak piztuta daudenean)</translation>
     </message>
 </context>
 <context>
@@ -3890,7 +3893,7 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     </message>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eranskinak hemen deskargatu dira: %1</translation>
     </message>
 </context>
 <context>
@@ -4088,14 +4091,27 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bertsio laburra: Zure mezuak sailkatzeak mezu erabilgarriak eta ez erabilgarriak bereizten lagunduko dizu. Sarrerako ontzia ondo antolatuta izateak adimena osasuntsuago mantentzen lagunduko dizu. &lt;br /&gt;1&lt;br /&gt;2
+Mezuak iritsi ahala bereiztea ─egin edo jakin beharreko gauzetan─ zure sarrerako ontzia sailkatzeko modu ezin hobea da. Sarrerako ontzia modu eraginkorrean sailkatzen duzunean, konturatuko zara hasiera batean pentsatzen zenuena baino gauza gutxiago dituzula egiteko. Izan ere, jasotzen dituzun mezu elektroniko guztien % 20 inguruk baino ez dute zuretzako ataza bat. Gainerako mezuak honela banatzen dira:&lt;br /&gt;3
+&lt;ul&gt;4
+&lt;li&gt;5Jasotako mezuen % 16 garrantzirik gabeko kopiak dira&lt;/li&gt;6
+&lt;li&gt;7Jasotako mezuen % 13 ez dira garrantzitsuak edo ez dute jomugarik&lt;/li&gt;8
+&lt;li&gt;9Jasotako mezuen % 41ek informazioa ematea baino ez dute helburu&lt;/li&gt;0
+&lt;/ul&gt;
+&lt;br /&gt;
+Zure posta elektronikoa sailkatzen ez baduzu, ez duzu jakingo zein mezu den garrantzitsua eta zein ez. Horrenbestez, zure sarrerako ontziak lan-kantitate jasanezina gaineratzen duela irudituko zaizu. Gainezka dagoen sarrerako ontzi bat izatea nahiko estresagarria izan daiteke. Eta, estresatuta gaudenean, zokoratuta uzten ditugu gauza garrantzitsuak.&lt;br /&gt;&lt;br /&gt;Aplikazioko beste zati batzuetan ere agertzen da Ekintza/FYI kontzeptua. Ataza-zerrenda gaitzen baduzu, adibidez, ataza-zerrendara arrastatzen dituzun mezu guztiak Actionable iragazkian agertuko dira automatikoki. &lt;br /&gt;&lt;br /&gt;
+
+Ekintza / FYI iragazkiari buruz gehiago jakiteko, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;kontsulta ezazu gure euskarri-artikulua&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta elektronikoarekin lotutako ohiturarik suntsigarriena? Zure posta elektronikoa gehiegitan ikuskatzea. Batez beste, egunean 96 aldiz edo 5 minuturo ikuskatzen dugu gure posta elektronikoa. Dena den, ez da beharrezkoa. Inork ez du espero zure posta elektronikoa horrenbeste aldiz ikuskatzea (eta hala bada, jota daude). &lt;br/&gt;1&lt;br/&gt;2
+Posta elektronikoa ez da denbora errealeko komunikazio-protokolo bat. Erantzun azkar bat behar duzu? Saiatu deitzen, idazten, bat-bateko mezuak bidaltzen, edo pasatu zuzenean kasuan kasuko pertsonaren mahaitik. Posta elektronikoa oso ona da komunikazio asinkrono eta garbi baterako. Edo, sinple esanda, berehalako erantzun bat behar ez duzun gauzetarako, erantzuna argia denean. Zergatik? Zure mezu elektronikoak mezu ugari eragin ditzakeenean, hobe duzu telefonoa hartzea. Inork ez du gogoko mezu elektronikoekin tenisean ibiltzea.&lt;br /&gt;3&lt;br /&gt;4
+Zure posta elektronikoa gutxiago ikuskatzeak denbora asko aurrezten lagunduko dizu. Zure posta ikuskatzen duzun bakoitzean, gutxienez minutu bat galtzen duzu (ikerketa batzuen arabera, 20 minutu izan daitezke, zure eginkizunaren arabera). Izan ere, egiten ari zinena eteten duzunean, ez da mezua irakurtzeko behar duzun denbora bakarrik galtzen. Postara jo aurretik egiten ari zinenaren erritmoa berreskuratzeko behar duzun denbora ere hartu behar da kontuan.&lt;br /&gt;5&lt;br /&gt;6
+Posta elektronikoaren sarbidea mugatzeak parte-hartzaileen bihotz-taupadetan eta kontzentratzeko gaitasunean nola eragiten zuen aztertu zuen Kaliforniako Irvine Unibertsitateko eta Estatu Batuetako Armadako ikerlari-talde batek. Posta elektronikora sarbidea mugatzeak estresa izugarri murrizten duela frogatu zuten parte-hartzaileen bihotz-taupadak aztertuz. Posta elektronikora sartzerik ez zuten parte-hartzaileek 18 aldiz aldatzen zuten leihoz orduko, eta postara sarbidea zuten parte-hartzaileek, berriz, 37 aldiz. Aginte-taulako gaitasun horrek ez dizu posta elektronikoan sartzea galarazten, baina frogatuta dago zure posta ikuskatzen duzun aldi-kopurua murrizten duela.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4104,7 +4120,11 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Noizbait ahaztu duzu mezu elektroniko garrantzitsu bati erantzutea? Bai. Mezu horiek ataza-zerrendara eramaten badituzu, ziur egon zaitezke ez duzula ezer garrantzitsurik ahaztuko. Edo ez duzu zure mezuen zerrenda osoa arakatzen ibili beharrik izango zer egin behar duzun gogoratzeko.&lt;br /&gt;1&lt;br /&gt;2
+Ataza-zerrendak oso ezaugarri interesgarriak ditu. Esaterako, atazarekin lotutako mezua ataza-zerrendatik bertatik ireki ahal izango duzu. Eta alderantziz - mezu batekin lotuta dagoen edozein ataza ireki ahal izango duzu edozein mezu elektronikotatik.&lt;br /&gt;3&lt;br /&gt;4
+Era berean, atazak zerrendatan antolatu ahal izango dituzu. Dagoeneko eginda dauden zerrenda batzuk ditugu – gaur egin behar diren eta beste pertsona batzuei bidali dizkiezun atazak, adibidez, baina zure zerrenda pertsonalizatuak ere sor ditzakezu.&lt;br /&gt;5&lt;br /&gt;6
+Atazak MS Outlook eta Microsoft sistemen aplikazioekin dira bateragarriak.&lt;br /&gt;7&lt;br /&gt;8
+Ataza-zerrendaren inguruan gehiago jakiteko, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;9bisita ezazu gure euskarri-orria&lt;/a&gt;0.</translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4126,7 +4146,24 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Entzun al duzu inoiz lau irizpideen inguruko zerbait? Ez? Ondo da.&lt;br /&gt;1
+Microsoft Research-ek sortu zituen eta honako hauek dira:&lt;br /&gt;2
+
+&lt;ol&gt;3
+&lt;li&gt;4Garrantzitsua ez bada, &lt;strong&gt;5ezabatu&lt;/strong&gt;6.&lt;/li&gt;7
+&lt;li&gt;82 minututan edo gutxiagoan egin badaiteke, &lt;strong&gt;9egin&lt;/strong&gt;0.&lt;/li&gt;
+&lt;li&gt;Zuretzako ez bada edo egin badezakezu, &lt;strong&gt;eskuordetu&lt;/strong&gt; it.&lt;/li&gt;
+&lt;li&gt;Nahitaez egin behar baduzu, baina 2 minutu baino gehiago behar badituzu (irakurketa barne), &lt;strong&gt;atzeratu&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+Jasotzen dituzun mezu elektronikoak lau irizpideen metodologia erabiliz aktiba daitezke. Hirin oso gogoko ditugu lau irizpideak. Baina eskuordetzeari dagokion irizpidea gehixeago ikusarazi nahiko genuke. Horregatik, eskuordetzeko botoi bat gehitu dugu.&lt;br /&gt;&lt;br /&gt;
+
+Eskuordetzeko botoiak mezuak birbidaltzeko botoiaren antzera jarduten du, baina baditu desberdintasun batzuk. Eskuordetzeko botoia erabiltzen duzunean, ataza-eremu bat gaineratzen da birbidalitako mezuaren hasieran eta, beraz, mezuarekin zer egitea nahi duzun jakinarazten diezu erabiltzaileei. Hori oso garrantzitsua da, erabiltzaileek jasotzen dituzten mezu elektronikoen % 40ek ez baitute ekintza garbirik gaineratzen, eta horrek argitze-mezuak eragiten ditu.&lt;br /&gt;&lt;br /&gt;
+
+Aldaketa txiki bat da, baina, haren bitartez, Hirik zure komunikazioa hobetzen lagunduko dizu.&lt;br /&gt;&lt;br /&gt;
+
+Bada eskuordetzeko botoia erabiltzeak eskaintzen duen beste “abantaila” bat. Hiriren beste erabiltzaile bati atzeratutako mezu bat bidaltzen badiozu, mezua haren Actionable sarrerako ontzira bideratuko da automatikoki, ondo baitakigu harentzako ekintza bat barne hartzen duela.</translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4138,7 +4175,14 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Jasotzen dituzun mezu elektronikoak lau irizpideen metodologia erabiliz aktiba daitezke:&lt;br /&gt;1&lt;br /&gt;2
+
+1. Garrantzitsua ez bada, &lt;strong&gt;3ezabatu&lt;/strong&gt;4.&lt;br /&gt;5
+2. 2 minututan edo gutxiagoan egin badaiteke, &lt;strong&gt;6egin&lt;/strong&gt;7.&lt;br /&gt;8
+3. Zuretzako ez bada edo egin badezakezu, &lt;strong&gt;9eskuordetu&lt;/strong&gt;0.&lt;br /&gt;
+4. Nahitaez egin behar baduzu, baina 2 minutu baino gehiago behar badituzu (irakurketa barne), &lt;strong&gt;atzeratu&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
+
+Atzeratzeko botoia da zerrendako laugarren irizpidea. Batzuetan ezin diozu mezu bati berehala erantzun, baina egun jakin batean edo egun jakin bat baino lehen gauzatu behar da. Ohartarazpenaren botoia sakatuz gero, mezu jakin baten ohartarazpena noiz jaso nahiko zenukeen aukera dezakezu. Oso sinplea da!</translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4147,12 +4191,17 @@ Horrela, zure abiarazlean ezarri ahal izango duzu Hiriren ikonoa.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Mezuaren edukia idatzi ondoren hobeto idatziko duzu gaiaren lerroa.&lt;br /&gt;1&lt;br /&gt;2
+
+Hori oso garrantzitsua da. Gaiaren lerroa hobeto erabiltzen bada, errazago balora daiteke mezuaren garrantzia. Mezuaren gaiak mezuaren edukia ondo islatzen badu, errazagoa da mezu osoa ulertzea.&lt;br /&gt;3&lt;br /&gt;4
+
+Arrazoi horiek direla eta, Hirik ez dizu gai-lerrorik gabeko mezurik bidaltzen utziko.</translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zero sarrerako ontzia mezu elektronikoak kudeatzeko modu zehatz bat da eta sarrerako ontzia hutsik ─edo ia hutsik─ mantentzea du helburu.&lt;br /&gt;1&lt;br /&gt;2
+Zero sarrerako ontzia produktibitatean aditua den Merlin Mann jaunak garatu zuen. Mann-en ustez, zerok ez dio erreferentzia egiten sarrerako ontzian ditugun mezuen kopuruari; “langileek beren sarrerako ontzian pentsatzen igarotzen duten denbora izango litzateke.” Mann-en arabera, denbora eta arreta mugatuak dira, eta sarrerako ontzia “egin beharreko gauzen” zerrenda batekin nahasten denean, produktibitateak behera egiten du. Sarrerako ontzia garbituz gero, denbora gutxiago galduko duzu posta elektronikoan. Sarrerako ontzi garbi batek adimena osasuntsu eta emankor mantentzen laguntzen du – edo hala dio teoriak.</translation>
     </message>
 </context>
 <context>
@@ -4289,15 +4338,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ataza honekin lotutako mezu gisa markatu duzu mezua: %1</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>nori</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>norentzat</translation>
     </message>
 </context>
 <context>
@@ -4582,7 +4631,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>Galderaren bat baduzu, mesedez</translation>
     </message>
 </context>
 <context>
@@ -4724,19 +4773,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Barkatu, eranskin batzuk ezin izan dira aurkitu eta kendu egingo dira:</translation>
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proba:</translation>
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Epemuga</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Noiz hasten da</translation>
     </message>
 </context>
 <context>
@@ -4841,65 +4890,65 @@ kontrolatzeko unea iritsi da.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea gertatu da eranskina deskargatzean</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ezin da gorde: </translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Nork</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>norentzat</translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errorea gertatu da zure mezua gordetzean. Egiaztatu aldaketak, horietako batzuek ez baitute ondoriorik izango.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Hara! Akats bat gertatu da</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri zerbitzaria offline dago. Ezin izango dituzu zure lankideen mezuak baloratu edo zure komunikazioaren kalifikazioa ikusi.</translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> noren izenean </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Zerbitzariko konexioa eten egin da</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Arraioa! Akats bat gertatu da</translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Probako {} interpolazioa</translation>
     </message>
 </context>
 </TS>

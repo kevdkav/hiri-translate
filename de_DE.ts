@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Einen weiteres Konto hinzufügen</translation>
+        <translation>Füge einen anderen Account hinzu</translation>
     </message>
 </context>
 <context>
@@ -1783,7 +1783,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Nachricht wurde in &quot;zur Kenntnis&quot; verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
+        <translation>Die Nachricht wurde in &quot;Zur Kenntnis&quot; verschoben. Die dazugehörige Aufgabe wurde entfernt.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -1791,7 +1791,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation>Nach Unsortiert verschoben</translation>
+        <translation>Nach Unsortiert verschieben</translation>
     </message>
 </context>
 <context>
@@ -1830,7 +1830,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation>Sie sollten Leute,  mit denen sie am meisten kommunizieren einladen. Beide werden profitieren, wenn Sie E-mails zur Bearbeitung und zur Kenntnis erhalten.</translation>
+        <translation>Sie sollten Leute,  mit denen sie am meisten kommunizieren einladen. Beide werden davon profitieren, wenn Sie E-mails zur Bearbeitung und zur Kenntnisnahme erhalten.</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>

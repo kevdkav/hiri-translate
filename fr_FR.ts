@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Ajouter un autre compte</translation>
+        <translation>Ajouter un compte</translation>
     </message>
 </context>
 <context>
@@ -1012,7 +1012,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Delete</source>
-        <translation>Effacer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
@@ -1075,7 +1075,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Forward</source>
-        <translation>Vers l&apos;avant</translation>
+        <translation>Transférer</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>

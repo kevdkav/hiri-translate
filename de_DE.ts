@@ -1810,7 +1810,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation>Wenn es Ihnen gefällt, können Sie über den folgenden Link 25% sparen:</translation>
+        <translation>Wenn Sie möchten, können Sie über den folgenden Link 25% sparen:</translation>
     </message>
     <message>
         <source>Thanks!</source>
@@ -1860,11 +1860,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation>Nächste/Vorherige Unterhaltung:</translation>
+        <translation>Nächster/Vorheriger Faden</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation>Nächste/Vorherige Unterhaltung (geöffnet):</translation>
+        <translation>Nächster/Vorheriger Faden (wenn geöffnet):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
@@ -1944,7 +1944,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation>Gemeinsamen Posteingang öffnen:</translation>
+        <translation>Vereinheitlichten Posteingang öffnen:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>

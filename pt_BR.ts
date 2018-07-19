@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Não foi possível encontrar novos calendários compartilhados</translation>
     </message>
 </context>
 <context>
@@ -46,7 +46,7 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation type="unfinished">nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</translation>
+        <translation>O driver nVidia nouveau foi detectado, o mesmo é conhecido por causar falhas. Por favor, reinicie o Hiri para forçar a renderização do software.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
@@ -83,44 +83,44 @@
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualização completa. Por favor reiniciar o Hiri…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizando… %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Esconder</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mais</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation type="unfinished"></translation>
+        <translation>reiniciar</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Desculpe-nos. Não foi possível carregar sua agenda</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>O anexo &apos;%1&apos; será baixado</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Anexo &apos;%1&apos; baixado</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
@@ -144,23 +144,23 @@
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluindo agendamento</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Agendamento deletado</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Agendamento removido</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao remover o agendamento</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Renomear agendamento</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
@@ -186,26 +186,26 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Minhas agendas</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tem certeza de que deseja excluir este evento?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>

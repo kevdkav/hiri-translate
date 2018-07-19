@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation>Wir konnten keine geteilten Kalender finden</translation>
+        <translation>Wir konnten keine neuen freigegebenen Kalender finden</translation>
     </message>
 </context>
 <context>
@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Ups, wir können Ihre Mails nicht finden…</translation>
+        <translation>Ups, wir können Ihre E-mails nicht finden...</translation>
     </message>
 </context>
 <context>
@@ -1307,11 +1307,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>FYI/Cc</source>
         <translatorcomment>Need to be defined could be &quot;Zur Info&quot; / &quot;Nur Info&quot;</translatorcomment>
-        <translation>FYI/Cc</translation>
+        <translation>Kopie</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation>Bcc</translation>
+        <translation>Blindkopie</translation>
     </message>
     <message>
         <source>On behalf of</source>
@@ -1952,7 +1952,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>FYI Posteingang öffnen:</translation>
+        <translation>&quot;Zur Kenntnis&quot; öffnen</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -2019,7 +2019,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>FYI</source>
-        <translation>FYI ( z.K.) zur Kenntnisnahme</translation>
+        <translation>zur Kenntnis</translation>
     </message>
     <message>
         <source>Move to FYI</source>
@@ -2200,11 +2200,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation>FYI | Cc</translation>
+        <translation>Zur Kenntnis | Kopie</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation>Bcc</translation>
+        <translation>Blindkopie</translation>
     </message>
     <message>
         <source>To</source>
@@ -2280,11 +2280,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished">Verbindung wurde während des Abrufens der Mails unterbrochen. Wiederverbinden…</translation>
+        <translation>Verbindung wurde während des Abrufens der E-Mails unterbrochen. Wiederverbindung…</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished">Überprüfe</translation>
+        <translation>Überprüfung</translation>
     </message>
 </context>
 <context>
@@ -2521,7 +2521,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Vorbehaltlich</translation>
     </message>
 </context>
 <context>
@@ -2576,7 +2576,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>OfflineScreen</name>
     <message>
         <source>Oops.</source>
-        <translation>Hoppla.</translation>
+        <translation>Hoppla</translation>
     </message>
     <message>
         <source>We couldn&apos;t authenticate you because of connection problems.

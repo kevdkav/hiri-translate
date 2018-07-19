@@ -5,18 +5,18 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントの追加</translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>パブリックカレンダー</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>共有カレンダー</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
@@ -4760,15 +4760,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>貼り付け</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>書式なしで貼り付け</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>全てを選択</translation>
     </message>
     <message>
         <source>Unselect</source>
@@ -4791,7 +4791,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri へようこそ！</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
@@ -4822,11 +4822,11 @@ under control.</source>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>はい</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>いいえ</translation>
     </message>
 </context>
 <context>

@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Oh, wir können Ihre Post nicht finden...</translation>
+        <translation>Oh, wir können Ihre Post nicht finden…</translation>
     </message>
 </context>
 <context>
@@ -1860,7 +1860,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation>Nächster/Vorheriger Faden</translation>
+        <translation>Nächster/Vorheriger Faden:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
@@ -1952,7 +1952,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>&quot;Zur Kenntnis&quot; öffnen</translation>
+        <translation>&quot;Zur Kenntnis&quot; öffnen:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -3776,7 +3776,7 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished">Schließe den Infobereich</translation>
+        <translation>Schließe in das System Tray</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
@@ -4046,19 +4046,19 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewege die Betreffzeile nach unten im E-Mail-Verfassen Fenster.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Leeres Postfach</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die, die die Kunst des leeren Postfaches praktizieren.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Benötigt Aktion/FYI Aufteilung</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
@@ -4884,7 +4884,7 @@ under control.</source>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oh! Etwas lief schief.</translation>
+        <translation>Oh! Etwas lief schief</translation>
     </message>
 </context>
 <context>
@@ -4909,7 +4909,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Huch, irgendwas ist nicht in Ordnung.</translation>
+        <translation>Huch, irgendwas ist nicht in Ordnung</translation>
     </message>
 </context>
 <context>

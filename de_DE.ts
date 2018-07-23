@@ -2268,7 +2268,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished">E-Mails werden überprüft…</translation>
+        <translation>E-Mails werden überprüft…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
@@ -2593,7 +2593,7 @@ Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</tra
     <name>OnboardingCarousel</name>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbessere Dein E-Mail-Erlebnis mit nur einem Schalter.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
@@ -2841,19 +2841,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min vor Start</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Stunde vor Fälligkeit</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Stunde vor Start</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Abweisen</translation>
     </message>
 </context>
 <context>
@@ -2900,15 +2900,15 @@ email to the next level.</source>
     </message>
     <message>
         <source>Sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senden fehlgeschlagen.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier klicken, um den Entwurf zu bearbeiten</translation>
     </message>
     <message>
         <source>sending</source>
-        <translation type="unfinished"></translation>
+        <translation>sende gerade</translation>
     </message>
 </context>
 <context>
@@ -2936,93 +2936,93 @@ email to the next level.</source>
     </message>
     <message>
         <source>Reply to multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwort an mehrere</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du wurdest BCC&apos;t auf dieser E-Mail - andere Empfänger wissen nicht, dass du diese E-Mail erhalten hast. Wenn du Empfänger hinzufügst bist du nicht mehr versteckt.</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine oder mehrere der E-Mail-Adressen, die Du ausgewählt hast, ist falsch.</translation>
     </message>
 </context>
 <context>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Antworte auf Meeting</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished"></translation>
+        <translation>Antworte auf einzelnes Event</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation type="unfinished"></translation>
+        <translation>Antworte auf Serie</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>nehme gerade an</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>nehme vorläufig an</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation type="unfinished"></translation>
+        <translation>lehne ab</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>oder lasse frei.</translation>
     </message>
     <message>
         <source>Send response</source>
-        <translation type="unfinished"></translation>
+        <translation>Sende Antwort</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Lasse sie wissen warum DU</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du hast dieses Meeting angenommen.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du hast dieses Meeting vorläufig angenommen.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du hast dieses Meeting abgelehnt.</translation>
     </message>
     <message>
         <source>Propose new</source>
-        <translation type="unfinished"></translation>
+        <translation>Schlage neues vor</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation type="unfinished"></translation>
+        <translation>Leite dieses weiter</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändere Antwort auf</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Meeting</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>vorläufig</translation>
     </message>
     <message>
         <source>Decline</source>
@@ -3297,16 +3297,17 @@ email to the next level.</source>
     </message>
     <message>
         <source>Trialing</source>
-        <translation type="unfinished"></translation>
+        <translation>Erprobung</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Botschafter Abonnement</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Deine Abonnementdaten nicht laden.
+Du kannst Hiri weiter benutzen bis eine Verbindung zum Server hergestellt werden kann.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
@@ -3400,15 +3401,17 @@ Keine Sorge, Ihre E-Mails sind weiterhin auf dem Server gespeichert!</translatio
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein E-Mail Alias ist einfach eine Weiterleitungs-E-Mail Adresse. Dein Account wird alle E-Mails erhalten, die an die unten aufgelisteten E-Mail Adressen gesendet werden. Wegen technischen Beschränkungen kennt Hiri nur bis zu 3 Aliase, die auf dem E-Mail Server gesetzt sind. Wenn Du mehr als 3 Aliase gesetzt hast, kannst Du diese unten manuell hinzufügen. Dies verhindert, dass Hiri E-Mails falsch kategorisiert, die Du direkt oder über eine Mailing Liste empfangen hast.
+
+Bekannte Aliase:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Hier kannst du eigene Aliase hinzufügen (einen pro Zeile):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(diese Aliase müssen schon existieren, Du kannst keine Aliase in Hiri erstellen)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3416,7 +3419,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliase gespeichert</translation>
     </message>
     <message>
         <source>Make default</source>
@@ -3424,11 +3427,11 @@ Known aliases:</source>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige diesen Account als erstes an, wenn Hiri startet.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicher, dass du diesen Account als Standard verwenden möchtest?</translation>
     </message>
     <message>
         <source>Yes</source>
@@ -3439,43 +3442,43 @@ Known aliases:</source>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Layout</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle wie deine E-Mails dargestellt werden sollen.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedrige Dichte</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weniger E-Mails, mehr Textvorschau.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>Hohe Dichte</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr E-Mails, weniger Textvorschau.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>Zwei-Panel Ansicht</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mail Liste oben und Vorschau unten.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>Größe der Benutzeroberfläche</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Änderung tritt erst nach einem Neustart von Hiri in Effekt</translation>
     </message>
 </context>
 <context>
@@ -3486,7 +3489,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Archiv Button in der E-Mail Toolbar</translation>
     </message>
     <message>
         <source>Settings saved</source>
@@ -3494,18 +3497,18 @@ Known aliases:</source>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Zielordner</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender Zeitzone</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Erster Tag der Woche</translation>
     </message>
     <message>
         <source>Sunday</source>
@@ -3517,26 +3520,26 @@ Known aliases:</source>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Änderung wird erst in Effekt treten, wenn du Hiri neu startest</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitformat</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Änderung wird in Effekt treten sobald Du Deinen Posteingang aktualisierst</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Dashboard wenn inaktiv</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Dashboard, wenn Du nicht mit Hiri interagierst für:</translation>
     </message>
 </context>
 <context>
@@ -3547,45 +3550,45 @@ Known aliases:</source>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiviere E-Mail Bewertung und Kommunikationsbewertung</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Sende Bewertungslink in der Signatur</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Changelog</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Optimize performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimiere Performance</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erhöhe Arbeitsgeschwindigkeit von Hiri und gebe Speicherplatz frei. Dies kann ein paar Minuten dauern.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimere die Datenbank…</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimiere jetzt</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es kann sein, dass Hiri aussieht als wäre es eingefroren, aber gib ihm ein paar Minuten.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fertig!</translation>
     </message>
     <message>
         <source>Check for update</source>
@@ -3597,7 +3600,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Sehe Changelog an</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
@@ -3620,35 +3623,35 @@ Known aliases:</source>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprachen</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wähle Sprache der Benutzeroberfläche:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Gespeichert</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dies wird erst in Effekt treten wenn du Hiri neu startest.</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte beachte:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn die Übersetzung, die du auswählst unvollständig ist, werden einige Wörter auf Englisch angezeigt. Wenn Du bei der Übersetzung helfen willst (oder eine für eine neue Sprache erstellen willst) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;klicke hier&lt;/a&gt; um zu Helfen! Danke.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortgeschritten</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade</translation>
     </message>
 </context>
 <context>
@@ -3663,26 +3666,26 @@ Known aliases:</source>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte gib eine Out of Office Nachricht ein.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Out of Office gespeichert</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Speicher der Out of Office</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Generell</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Einstellungen</translation>
     </message>
     <message>
         <source>Signature</source>
@@ -3694,7 +3697,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Darstellung</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -3702,7 +3705,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3714,7 +3717,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastaturkürzel (Strg + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -3722,11 +3725,11 @@ Known aliases:</source>
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaufe Hiri</translation>
     </message>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished">Einstellungen für</translation>
+        <translation>Einstellungen für</translation>
     </message>
     <message>
         <source>Global settings</source>
@@ -3734,75 +3737,76 @@ Known aliases:</source>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>für alle Accounts</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Benutzerkonto</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprachen</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktop Notifications</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere Benachrichtigungen</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Meeting und Aufgaben Erinnerungen</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Meetingerinnerungen, Aufgabenerinnerungen und neue E-Mails</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktopintegration</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Hiri im System Tray</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahe dem System Tray</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzeuge Desktop Verknüpfung und füge es zum Applikationsmenü hinzu.
+Damit kannst Du Hiri an deinen Launcher pinnen.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Erzeuge Desktopverknüpfung</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fertig!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Setze Hiri als Standardapplikation für E-Mail.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>Registriere als Standardanwendung für E-Mail</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler bei der Registrierung</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibe &amp; Antworte</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>

@@ -3760,11 +3760,11 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation>Meeting und Aufgaben Erinnerungen</translation>
+        <translation>Erinnerungen für Meetings und Aufgaben</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation>Meetingerinnerungen, Aufgabenerinnerungen und neue E-Mails</translation>
+        <translation>Erinnerungen für Meetings und Aufgaben sowie neue E-Mails</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
@@ -3772,21 +3772,21 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation>Zeige Hiri im System Tray</translation>
+        <translation>Zeige Hiri im System Tray an</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation>Nahe dem System Tray</translation>
+        <translation type="unfinished">Schließe den Infobereich</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation>Erzeuge Desktop Verknüpfung und füge es zum Applikationsmenü hinzu.
-Damit kannst Du Hiri an deinen Launcher pinnen.</translation>
+        <translation>Erzeuge eine Desktopverknüpfung und füge es zum Anwendungsmenü hinzu.
+Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation>Erzeuge Desktopverknüpfung</translation>
+        <translation>Erzeuge eine Desktopverknüpfung</translation>
     </message>
     <message>
         <source>Done!</source>
@@ -3794,11 +3794,11 @@ Damit kannst Du Hiri an deinen Launcher pinnen.</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation>Setze Hiri als Standardapplikation für E-Mail.</translation>
+        <translation>Lege Hiri als Standardanwendung für E-Mail fest.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation>Registriere als Standardanwendung für E-Mail</translation>
+        <translation>Als Standardanwendung für E-Mail registrieren</translation>
     </message>
     <message>
         <source>Error registering</source>
@@ -3806,11 +3806,11 @@ Damit kannst Du Hiri an deinen Launcher pinnen.</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation>Schreibe &amp; Antworte</translation>
+        <translation>Schreiben &amp; Antworten</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation>Schließe Konversation nach Senden einer Antwort</translation>
+        <translation>Die Konversation schliessen nachdem geantwortet wurde</translation>
     </message>
     <message>
         <source>Attachments</source>

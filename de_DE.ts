@@ -3818,11 +3818,11 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Frage immer wohin Anhänge heruntergeladen werden</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>Herunterladen nach</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3830,19 +3830,19 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Ordner auswählen. Versuche einen anderen Ordner.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibüberprüfung</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibüberprüfung aktiviert</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
@@ -3850,7 +3850,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Aktiviert wenn Notifications aktiviert sind)</translation>
     </message>
 </context>
 <context>
@@ -3861,7 +3861,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge &quot;--&quot; oben bei der Signatur ein</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3869,7 +3869,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur gespeichert</translation>
     </message>
 </context>
 <context>
@@ -3898,15 +3898,15 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Herunterladen des Anhangs</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups! Ich weiß nicht wie dieser Anhang geöffnet werden kann!</translation>
     </message>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhang heruntergeladen nach: %1</translation>
     </message>
 </context>
 <context>
@@ -3921,11 +3921,11 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne Aufgabe</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge Aufgabe hinzu</translation>
     </message>
 </context>
 <context>
@@ -3940,109 +3940,109 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegiere zu</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>Frage für</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe für</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Skill aktiviert</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Skill deaktiviert</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Was tut es?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wie sieht es aus?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Warum?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktion/FYI Aufteilung</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teile Deine E-Mails mit der Aktion/FYI Aufteilung.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es fügt Aktion und FYI Filter zu der dunkelgrauen Box auf der linken Seite hinzu.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Dashboard</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>Höre auf deine E-Mails so oft anzusehen.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Dashboard wird aufgehen nach 90 Sekunden Inaktivität, um Dich erinnern nicht so oft deine E-Mails anzusehen. Dies hilft dir fokussiert zu bleiben und Zeit zu sparen.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabenliste</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wandle deine E-Mails durch einen Klick in Aufgaben um.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügt eine Aufgabenliste auf der rechten Seite hinzu. Du kannst einfach E-Mails in dieses Panel ziehen, um eine Aufgabe zu erstellen.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegiere E-Mails</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige es deutlich, dass die Aufgabe delegiert wurde.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügt einen Delegieren Button zur E-Mail Aktionsleiste hinzu.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Erinnerungen</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergiss nie wieder eine wichtige E-Mail</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fügt einen Erinnerungen Button zur E-Mail Aktionsleiste hinzu. Dies erlaubt Dir eine Erinnerung für eine spezifische Konversation zu setzen.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibe bessere Betreffe</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbessere deine Betreffe, indem Du sie als letztes schreibst.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>

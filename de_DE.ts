@@ -3810,7 +3810,7 @@ Damit kannst Du Hiri an deinen Launcher pinnen.</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Schließe Konversation nach Senden einer Antwort</translation>
     </message>
     <message>
         <source>Attachments</source>

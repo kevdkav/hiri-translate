@@ -4069,7 +4069,7 @@ Zo kun je Hiri vastmaken aan je paneel of andere starter.</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation>Geeft anderen de mogelijkheid om je e-mails te beoordelen met behulp van de vier fundaties van goede communicatie: duidelijkheid, bondigheid, toon en gedrag. Hiri geeft je een score op basis van de feedback en aanbevelingen voor het verbeteren van je communicatievaardigheden. De score wordt niet met anderen gedeeld. Beoordelingen zijn anoniem - je weet niet wie je beoordeelt heeft.</translation>
+        <translation>Geef anderen de mogelijkheid om je e-mails te beoordelen met behulp van de vier fundamenten van goede communicatie: duidelijkheid, bondigheid, toon en gedrag. Hiri geeft je een score op basis van de feedback van anderen en aanbevelingen voor het verbeteren van je communicatievaardigheden. De score wordt niet met anderen gedeeld. Beoordelingen zijn anoniem - je weet niet wie je beoordeelt heeft.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
@@ -4077,7 +4077,7 @@ Zo kun je Hiri vastmaken aan je paneel of andere starter.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation>Verbeter je gedrag met behulp van deze productiviteitstrucjes.</translation>
+        <translation>Verbeter je vaardigheden met behulp van deze productiviteitstrucjes.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4091,7 +4091,18 @@ Zo kun je Hiri vastmaken aan je paneel of andere starter.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Korte versie: Het categoriseren van je emails helt je de kaf van het koren te scheiden. Een georganiseerde inbox leidt tot een gezondere geest.&lt;br /&gt;&lt;br /&gt;
+  Het scheiden van emails waar je dingen voor moet doen en waar je dingen voor moet weten is een goede manier om je inbox te categoriseren.  Wanneer je je inbox effectief categoriseert, besef je dat je bij lange na niet zoveel niet zo veel hoeft te doen dan je dacht dat je zou moeten doen. In werkelijkheid bevat slechts 20% van de mail die je ontvangt ook werkelijk een taak voor jezelf. De overige mails zijn:&lt;br /&gt;
+  &lt;ul&gt;
+  &lt;li&gt;16% van de ontvangen mails zijn onnodige CC&apos;s&lt;/li&gt;
+  &lt;li&gt;13% van de ontvangen mails zijn niet relevant of niet gericht&lt;/li&gt;
+  &lt;li&gt;41% van de ontvangen mails zijn slechts ter informatie&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;br /&gt; . 
+Wanneer je je mail niet categoriseert kun je niet bepalen welke mails je aandacht nodig hebben en welke niet. Dit betekent dat het een onbeklimbare berg werk is. Het zien van een overvolle mailbox kan namelijk als stressvol worden ervaren. En wanneer je gestresst bent krijgen belangrijke zaken niet de aandacht die ze verdienen.&lt;br /&gt;&lt;br /&gt;
+Het Actie/FYI concept wordt door de gehele app gebruikt. Bijvoorbeeld: wanneer je de Takenlijst skill activeert worden alle mails die je erheen sleept automatisch zichtbaar in de Actonable filter.&lt;br /&gt;&lt;br /&gt;
+
+  Om meer te weten over Actie / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;bekijk ons support artikel&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
@@ -4185,11 +4196,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation>De feedback is verstuurd. Bedankt!</translation>
+        <translation>De feedback is verzonden. Bedankt!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation>Fout bij versturen van feedback</translation>
+        <translation>Fout bij verzenden van feedback</translation>
     </message>
     <message>
         <source>Error attaching logs</source>

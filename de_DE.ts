@@ -1842,7 +1842,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auch wenn Sie es nur drei Personen senden,  sogar wenn sich diese nicht anmelden.</translation>
     </message>
 </context>
 <context>

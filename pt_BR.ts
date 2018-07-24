@@ -1181,30 +1181,30 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação de reunião aceita provisoriamente.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação de reunião negada.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 em nome de% 2</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A solicitação de reunião foi cancelada.</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar destinatários</translation>
     </message>
 </context>
 <context>
@@ -1532,7 +1532,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation>Pasta esvaziada</translation>
+        <translation>Pasta vazia</translation>
     </message>
     <message>
         <source>Yes, delete them</source>

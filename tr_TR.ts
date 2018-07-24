@@ -834,7 +834,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarih:</translation>
     </message>
     <message>
         <source>at</source>
@@ -846,145 +846,145 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatırlatmayı iptal et</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Başla</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitir</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatırlatma ekle</translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu akşam</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Yarın</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Haftaya</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Özelleştirilmiş tarih ve saat</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni bir Hiri sürümü mevcut. Güncellemek ister misiniz?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Şimdi güncelle</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha sonra hatırlat</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya seç</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Farklı kaydet</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüz, bazı eklentileriniz bulunamadı ve silinecekler:</translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm eklentileri indir</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Attachments downloaded to: %1</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm eklentiler indirilirken hata oluştu</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu toplantıyı iptal etmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet, iptal et</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, iptal etme</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu toplantıyı silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet, sil</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplatıyı iptal et</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriyi iptal et</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriyi sil</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriyi düzenle</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
@@ -1003,292 +1003,292 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken hatırlatma ekleyemezsiniz.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantıyı kabul et</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantıyı reddet</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Cevapla</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü cevapla</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Temsilci</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu mesaj için zaten bir taslak mevcut</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arşivle</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Ertele</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sıl</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu konuşma taslak iceriyor. Silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet,sil</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni pencerede aç</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Okunmamış olarak işaretle</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Okunmuş olarak işaretle</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu mesaj için zaten bir taslak mevcut</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>İlet</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazdır / PDF olarak kaydet</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereksiz işaretini kaldır</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereksiz olarak işaretle</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüz, %1 desteklenmiyor. Hiri sadece Exchange/Office 365 eposta adreslerıyle calışıyor.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta adresinizi girin</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>birisi@servissağlayıcı.com</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet, bana ayda bir defa eposta gönderebilirsiniz.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gizlilik hakkında görüşlerimizi &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;buradan&lt;/a&gt; okuyabilirsiniz.</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki adım</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir hesap ekleyelim.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Şifre değişmis ya da zaman aşımına uğramış.</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SİLİNDİ)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(TASLAKLAR)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SİLİNDİ)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(TASLAKLAR)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatırlatma eklenirken hata oluştu</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>konuşmalar seçildi</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Başlık yok)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(TASLAK)</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 adına %1</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi kabul edildi.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni zaman teklif edildi %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı geçici olarak kabul edildi.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi reddedildi.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ne zaman: %1</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi iptal edildi</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Alıcıları ekle</translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 uyan bulundu</translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Yükleniyor...</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümü bu</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Postalarınızı alıyoruz...</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bazı epostalarınızı hala göremiyor musunuz?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha fazla eposta al</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu toplantı güncellendi</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj gereksiz olarak işaretlenmiş</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj artık gereksiz değil. Gelen kutusuna taşındı.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereksiz olarak işaretlendi</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gereksiz değil. Gelen kutusuna taşındı.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi kabul edildi</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi reddedildi</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj karşıya yüklenirken hata oluştu.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu mesaj sunucunun izin verdiğinden daha büyük.</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönderilmeyen mesaj giden kutunuzda. Eklentilerinizi birkaç parçaya bölüp göndermeyi deneyin.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Çevrimdışısınız. Posta giden kutunuza taşındı.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesajınızı gönderemedik- hatalı alıcılar var</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aman! Bir şeyler ters gitti!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>

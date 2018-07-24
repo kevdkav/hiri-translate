@@ -883,1067 +883,1067 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste uge</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg selv dag og klokkeslet</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation type="unfinished"></translation>
+        <translation>En ny version af Hiri er tilgængelig! Vil du opdatere?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdater nu</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Mind mig om det senere</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg fil</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem som</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, nogle vedhæftede filer kunne ikke findes, og vil bliver fjernet:</translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent alle vedhæftede filer</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedhæftede filer gemt i: %1</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under hentning af alle vedhæftede filer</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil aflyse dette møde?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, aflys det</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, aflys det ikke</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette dette møde?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar det</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflys møde</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd møderække</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet møderække</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér møderække</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflys forekomst</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet forekomst</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér forekomst</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke se påmindelser når du ikke er forbundet til internettet.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepter Møde</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Afvis Møde</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar til alle</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegér</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har allerede skrevet et udkast til denne meddelelse</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivér</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Udskyd</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne samtale indeholder udkast. Er du sikker på at du vil slette den?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet den</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar den</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn i nyt vindue</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér som ulæst</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér som læst</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har allerede et udkast tilknyttet denne meddelelse</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Videresend</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Udskriv / Gem som PDF</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér som ikke-spam</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér som spam</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Undskyld, vi understøtter ikke %1. Hiri virker kun med en Exchange/Office 365 e-mail adresse.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast din e-mail adresse</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>enelleranden@dinudbyder.dk</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, I må gerne sende mig en mail én gang om måneden.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se vores tanker om privatliv &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;1her&lt;/a&gt;2.</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste skridt</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lad os tilføje en konto.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adgangskode er blevet ændret, eller er forældet.</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SLETTET)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UDKAST)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SLETTET)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UDKAST)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under oprettelse af påmindelse…</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>samtaler valgt</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Intet emne)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UDKAST)</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 på vegne af %2</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning accepteret.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nyt tidspunkt foreslået: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning tentativt accepteret.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning afvist.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvornår: %1</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning er blevet tilbagekaldt.</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj modtagere</translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 match fundet</translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlæser…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished"></translation>
+        <translation>Det er det hele</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi er ved at hente dine mail…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mangler der nogle e-mail?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent flere mail</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette møde er blevet opdateret</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Besked markeret som spam</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besked er ikke længere spam. Flyttet til Indboks.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Markeret som spam</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke længere spam. Flyttet til Indboks.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning accepteret</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning afvist</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under overførsel af besked.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besked var større end serveren tillader.</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den usendte besked er i din Udboks-mappe. Prøv at fordele de vedhæftede filer over flere beskeder.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du er ikke forbundet til internettet. Din mail er blevet flyttet til Udboks.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunne ikke sende din besked - den indeholder ugyldige modtagere</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>Helledusseda! Der var noget der gik galt!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besked flyttet til FYI. Opgave fjernet.</translation>
     </message>
 </context>
 <context>
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Fra</translation>
     </message>
     <message>
         <source>On behalf of</source>
-        <translation type="unfinished"></translation>
+        <translation>På vegne af</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling/Til</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>TIl</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI/Cc</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bcc</translation>
     </message>
 </context>
 <context>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsæt</translation>
     </message>
 </context>
 <context>
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange log-ind</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>enelleranden@dinudbyder.dk</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>adgangskode</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>brugernavn (valgfrit)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>Problemer med at logge ind? Klik her</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Find automatisk serverindstillinger</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>server (fx ser.domæne.dk)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Godkendelse</translation>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basal</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation type="unfinished"></translation>
+        <translation>Server version</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2010</translation>
     </message>
     <message>
         <source>Exchange 2013</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2013</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokol</translation>
     </message>
     <message>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft SSL-certifikat</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste skridt</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke Exchange?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Slip filer her</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis eksterne billeder én gang</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis altid eksterne billeder fra denne afsender</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg venligst en fil</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedhæft</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg mappe</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke oprette en mappe, uden at være forbundet til internettet.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Opretter mappe %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe oprettet</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke omdøbe en mappe, uden at være forbundet til internettet.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe omdøbt</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke slette en mappe, uden at være forbundet til internettet.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på, at du permanent vil slette mappen &quot;%1&quot;, og dens indhold?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette mappen &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sletter mappen %1</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe slettet</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet den</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar den</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke tømme en mappe, uden at være forbundet til internettet.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på, at du permanent vil slette alt i mappen &quot;%1&quot;, inklusive dennes undermapper?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på, at du vil slette alt i mappen &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Tømmer mappe %1</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe tømt.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet det</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar det</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke flytte mapper, uden at være forbundet til internettet.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, du kan ikke markere som læst, uden at være forbundet til internettet.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerer alle som læst…</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle markeret som læst.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under markering som læst.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret undermappe</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret mappe</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Marker alle som læst</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Tøm for indhold</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføjet til underskrift: &quot;Jeg har min mail under kontrol &lt;a href=&quot;https://www.hiri.com/&quot;&gt;med Hiri&lt;/a&gt;2&quot;</translation>
     </message>
 </context>
 <context>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaans - Sydafrika</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgarsk</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Kattelandsk</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjekkisk</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Dansk</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Tysk</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Græsk</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelsk - Canada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelsk - Storbritannien</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelsk - De Forenede Stater</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Spansk - Spanien</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estland</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Farsi</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>Færøsk</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Fransk</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebraisk</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatisk</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungarsk</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesisk</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiensk</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreansk</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lithuaisk</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Letlandsk</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Norsk (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Hollandsk - Holland</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Polsk</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugisisk - Brasilien</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugisisk - Portugal</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumænsk</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russisk</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbisk (Latin)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovakisk</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovensk</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Albansk</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbisk (Kyrillisk)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Svensk</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tajik</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyrkisk</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainsk</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamesisk</translation>
     </message>
 </context>
 <context>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Udskriv filplacering</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Undskyld, oprettelse af PDF slog fejl. :-(</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Udskriv</translation>
     </message>
 </context>
 <context>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besked flyttet til FYI. Opgave fjernet.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Forenet indboks</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt til Usorteret</translation>
     </message>
 </context>
 <context>
     <name>Invites</name>
     <message>
         <source>Hi,</source>
-        <translation type="unfinished"></translation>
+        <translation>Hej,</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeg vil gerne invitere dig til at prøve Hiri. Det er et nyt stykke e-mail programmel der hjælper dig med at spare tid, organisere din dag og kommunikere bedre. Hent det her:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis du kan lide det, kan du spare 25% ved at bruge det her link:</translation>
     </message>
     <message>
         <source>Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak!</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøv Hiri…</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation type="unfinished"></translation>
+        <translation>Del med andre!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviter dine venner og kolleger til at prøve Hiri. De første 3 du inviterer får</translation>
     </message>
     <message>
         <source>25% off</source>
-        <translation type="unfinished"></translation>
+        <translation>25% rabat</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>hvis de kan lide Hiri, og beslutter sig for at købe det. Vi giver dig</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>25% også bare for at sende en invitation til 3 mennesker, selv hvis de ikke vælger at købe det.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviter dem, du sender flest mail til. Så kan I begge nyde godt af at få &quot;Actionable&quot; og &quot;FYI&quot; e-mail.</translation>
     </message>
     <message>
         <source>Send invites</source>
-        <translation type="unfinished"></translation>
+        <translation>Send invitationer</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastaturgenveje</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Visning af e-mail</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste/foregående samtale:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste/foregående samtale (når den er åben):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rul op/ned:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Top/bund af nuværende side:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn samtale:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk samtale:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn søgning:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail handlinger</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar alle:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Videresend:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér som læst:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markér som ulæst:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivér:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg flere</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg samtale:</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg alle:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fravælg alle:</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -1951,118 +1951,118 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ny e-mail:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åben Forenet indboks:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn Actionable indboks:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn FYI indboks:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn kalender:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn kontakter:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn dashboard:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn indstillinger:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn feedback-dialog:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivning</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Send en mail:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fed skrift:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skråskrift:</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Streg under:</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Lav link:</translation>
     </message>
 </context>
 <context>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ny mail</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Indboks</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjek efter nye beskeder</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Usorteret</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt til USORTERET</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished"></translation>
+        <translation>Actionable</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt til ACTIONABLE</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyt til FYI</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation type="unfinished"></translation>
+        <translation>Få Hiri til nedsat pris nu!</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Send feedback</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Evnecenter</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakter</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -2070,1997 +2070,2005 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
 </context>
 <context>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj modtagere</translation>
     </message>
 </context>
 <context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj venligst en modtager</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flere af de adresser du indtastede er forkert. Sørg for at trykke på Enter, når du har indtastet en adresse</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Udfyld venligst alle opgaver</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"></translation>
+        <translation>Udfyld venligst emnelinje</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ugyldig modtager</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Emne</translation>
     </message>
     <message>
         <source>Error :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl :-(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkluder vedhæftede filer fra den oprindelige besked</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Send</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem og luk</translation>
     </message>
 </context>
 <context>
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ny</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>gemmer</translation>
     </message>
     <message>
         <source>saved locally</source>
-        <translation type="unfinished"></translation>
+        <translation>gemt lokalt</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>fejl</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Udkast gemt</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under lagring af udkast</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Videresendelse sendt</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegering sendt</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under sending af besked</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Besked sendt</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Møde videresendt</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under videresendelse af møde</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil forkaste dette udkast?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, forkast det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar det</translation>
     </message>
 </context>
 <context>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling | Til</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Til</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI | Cc</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bcc</translation>
     </message>
 </context>
 <context>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>What are &lt;font color=&quot;#e54624&quot;&gt;1Handling&lt;/font&gt;2 and &lt;font color=&quot;#29abe2&quot;&gt;3FYI&lt;/font&gt;4?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Egentlig det samme so Til og Cc. Men hvis den person du skriver til bruger Hiri, vil din mail ankomme i deres Actionable- eller FYI-indboks.</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Lær mere</translation>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvorfor er emnelinjen i bunden?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fordi det lader dig angive et bedre emne! Du har allerede skrevet indholdet, så det emne du vælger vil være mere retvisende, hvilket sparer modtagerens tid.</translation>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvad er</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegér</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegér bruges til at videresende en opgave til nogen.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis den mail du videresender indeholder en opgave til dig, vil hver modtager du tilføjer til &quot;Action&quot; få din opgave som standard.
+ Derfor kalder vi det delegering.</translation>
     </message>
 </context>
 <context>
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Det ser ud som om, at du ikke er forbundet til internettet</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation type="unfinished"></translation>
+        <translation>...ooog vi er tilbage</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjekker din mail…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter din mail... %1%</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjekker</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimerer database, vent venligst…</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Forbindelse afbrudt under hentning af din mail. Genopretter forbindelse…</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i Arkivet</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg overalt</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast og tryk på Enter for at søge</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast for at søge</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg, eller tryk på Enter for at vise alle Arkiv-meddelelser</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Viser alle meddelelser, skriv for at søge</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryk Enter for at vælge tag</translation>
     </message>
 </context>
 <context>
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Optaget</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativ</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke på kontoret</translation>
     </message>
     <message>
         <source>No availability data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen tilgængelighedsdata tilgængelige</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Fri</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødetitel</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Planlægningsassistent</translation>
     </message>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat?</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Gentag</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Påmindelse</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis som</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Sted</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviter - skriv et navn for at begynde</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette er et tilbagevendende møde. Du kan kun fjerne en vedhæftet fil fra det oprindelige møde</translation>
     </message>
     <message>
         <source>Edit original</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediger original</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Intet emne)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn i nyt vindue</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Sted</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighed</translation>
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat</translation>
     </message>
     <message>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Offentlig</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis som</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Påmindelse</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
-        <translation type="unfinished"></translation>
+        <translation>Møder i fortiden</translation>
     </message>
     <message>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisator</translation>
     </message>
     <message>
         <source>Attendees</source>
-        <translation type="unfinished"></translation>
+        <translation>Deltagere</translation>
     </message>
     <message>
         <source>This meeting has been cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette møde er blevet aflyst</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette dette møde?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar det</translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Intet emne)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ups, ude af stand til at afvise påmindelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ude af stand til at udskyde påmindelsen…</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning accepteret.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny tid foreslået: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning tentativt accepteret.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning afvist.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mødeanmodning er blevet fjernet.</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponseLegend</name>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepteret</translation>
     </message>
     <message>
         <source>Declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Afvist</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativ</translation>
     </message>
 </context>
 <context>
     <name>MessageAttachments</name>
     <message>
         <source>1 file attached</source>
-        <translation type="unfinished"></translation>
+        <translation>1 fil vedhæftet</translation>
     </message>
     <message>
         <source>%1 files attached</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 filer vedhæftet</translation>
     </message>
 </context>
 <context>
     <name>NewMessageNotification</name>
     <message>
         <source>There is a new message in this conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er en ny besked i samtalen</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Gør intet</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation type="unfinished"></translation>
+        <translation>Læs nu</translation>
     </message>
 </context>
 <context>
     <name>Notifier</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ingen opgave)</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Intet emne)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fjern alle påmindelser</translation>
     </message>
 </context>
 <context>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke Ofiice365?</translation>
     </message>
 </context>
 <context>
     <name>OnboardingCarousel</name>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bliv bedre til e-mail med et tryk på en knap.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besøg vore Evnecenter.</translation>
     </message>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det er tid til at oppe
+dine e-mail.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation type="unfinished"></translation>
+        <translation>Lavet med     af Hiri-holdet</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
-        <translation type="unfinished"></translation>
+        <translation>i Dublin, Irland.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Lad os komme igang!</translation>
     </message>
 </context>
 <context>
     <name>OutlookAuth</name>
     <message>
         <source>Outlook/Hotmail/Live/MSN login</source>
-        <translation type="unfinished"></translation>
+        <translation>Outlook/Hotmail/Live/MSN log-ind</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>enelleranden@dinudbyder.dk</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>adgangskode</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Din adgangskode kan være forkert</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Næste skridt</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke Outlook/Hotmail/Live/MSN?</translation>
     </message>
 </context>
 <context>
     <name>Pagination</name>
     <message>
         <source>Go to page</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til side</translation>
     </message>
 </context>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i kontakter i den Globale Adresseliste</translation>
     </message>
     <message>
         <source>No contacts found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen kontakter fundet</translation>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er sket en fejl</translation>
     </message>
     <message>
         <source>Search all contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i alle kontakter</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv et navn for at søge</translation>
     </message>
     <message>
         <source>Type  to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv  for at søge</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobtitel</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontor</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeDialog</name>
     <message>
         <source>Propose new time</source>
-        <translation type="unfinished"></translation>
+        <translation>Foreslå ny tid</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har ikke ændret mødetiden. Foreslå venligst en ny tid.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Lad dem vide hvorfor du foreslår en ny tid, eller efterlad det tomt</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Send</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeResponseButtons</name>
     <message>
         <source>New time accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny tid accepteret</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér møde</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepter foreslået tid</translation>
     </message>
 </context>
 <context>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort og godt</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation type="unfinished"></translation>
+        <translation>God tone</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling var klar</translation>
     </message>
     <message>
         <source>Good subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Godt emne</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpelt sprog</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Forstod hvad der blev skrevet</translation>
     </message>
     <message>
         <source>Relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Relevant for mig</translation>
     </message>
     <message>
         <source>Inappropriate</source>
-        <translation type="unfinished"></translation>
+        <translation>Upassende</translation>
     </message>
     <message>
         <source>Too long</source>
-        <translation type="unfinished"></translation>
+        <translation>For lang</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>For mange &quot;FYI&quot;s</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke relevant for mig</translation>
     </message>
     <message>
         <source>Should have called/met</source>
-        <translation type="unfinished"></translation>
+        <translation>Skulle have ringet/mødtes</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Dårligt emne</translation>
     </message>
     <message>
         <source>Not clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Uklart</translation>
     </message>
     <message>
         <source>Rating…</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedømmelse…</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail bedømt. Godt arbejde!</translation>
     </message>
     <message>
         <source>Send rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Send bedømmelse</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har bedømt denne e-mail</translation>
     </message>
 </context>
 <context>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Udskyd</translation>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>5 min før frist</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>5 min før start</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min før frist</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min før start</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min før frist</translation>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min før start</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished"></translation>
+        <translation>1t før frist</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation type="unfinished"></translation>
+        <translation>1t før start</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul</translation>
     </message>
 </context>
 <context>
     <name>ReplyBox</name>
     <message>
         <source>Reply sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar sendt.</translation>
     </message>
     <message>
         <source>Sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afsendelse slog fejl.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik her før at redigere denne kladde</translation>
     </message>
     <message>
         <source>Pop out reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Pop-ud svar</translation>
     </message>
     <message>
         <source>Save draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem kladde</translation>
     </message>
     <message>
         <source>Discard Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Forkast Kladde</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil forkaste din kladde?</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Forkast kladde</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsæt med at redigere</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Rediger Modtagere</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>gemmer</translation>
     </message>
     <message>
         <source>sending</source>
-        <translation type="unfinished"></translation>
+        <translation>sender</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Send</translation>
     </message>
 </context>
 <context>
     <name>ReplyToMultiple</name>
     <message>
         <source>Reply to multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar til flere</translation>
     </message>
     <message>
         <source>Only reply to people who need to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar kun dem der har brug for at vide det.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj en anden - din mail vil blive sendt som FYI/Cc</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du blev BCCet på denne mail - andre modtagere ved ikke, at du har modtaget den. Hvis du tilføjer modtagere og svarer, vil dette ikke længere være tilfældet.</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg alle</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøv at lade være med at bruge denne</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Færdig</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flere af de adresser du valgte er ugyldig.</translation>
     </message>
 </context>
 <context>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar på møde</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar på enkelt forekomst</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar på hele rækken</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Lad dem vide hvorfor du</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>accepterer</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>tentativt accepterer</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation type="unfinished"></translation>
+        <translation>afviser</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>eller efterlad blank.</translation>
     </message>
     <message>
         <source>Send response</source>
-        <translation type="unfinished"></translation>
+        <translation>Send svar</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har accepteret dette møde.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har tentativt accepteret dette møde.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har afvist dette møde.</translation>
     </message>
     <message>
         <source>Propose new</source>
-        <translation type="unfinished"></translation>
+        <translation>Foreslå nyt</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation type="unfinished"></translation>
+        <translation>Videresend dette</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændr svar til</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Møde</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativ</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Afvis</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepter</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Der er sket en fejl</translation>
     </message>
 </context>
 <context>
     <name>RightPanel</name>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapper</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Opgaver</translation>
     </message>
 </context>
 <context>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Inviter - skriv et navn for at begynder</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Sted</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilgængelig</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Travl</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Anvend</translation>
     </message>
 </context>
 <context>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i Global Adresseliste (%1 + Tabulator)</translation>
     </message>
 </context>
 <context>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation type="unfinished"></translation>
+        <translation>1:Vælg en dato</translation>
     </message>
     <message>
         <source>Exact day</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksakt dag</translation>
     </message>
     <message>
         <source>± 1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 dag</translation>
     </message>
     <message>
         <source>± 1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 uge</translation>
     </message>
     <message>
         <source>± 1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 måned</translation>
     </message>
     <message>
         <source>± 3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>± 3 måneder</translation>
     </message>
     <message>
         <source>± 1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 år</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekræft</translation>
     </message>
     <message>
         <source>On %1</source>
-        <translation type="unfinished"></translation>
+        <translation>På %1</translation>
     </message>
     <message>
         <source>Between %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mellem %1 og %2</translation>
     </message>
 </context>
 <context>
     <name>SearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i Arkivet</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg i alt</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast og tryk Enter for at søge</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Indtast for at søge</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg, eller tryk Enter for at vise alle Arkivmeddelelser</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Viser alle meddelelser, skriv for at søge</translation>
     </message>
 </context>
 <context>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik på &quot;tags&quot; for at præcisere din søgning!</translation>
     </message>
     <message>
         <source>What</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvad</translation>
     </message>
     <message>
         <source>When</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvornår</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvor</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>ulæst:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation type="unfinished"></translation>
+        <translation>opgave:</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation type="unfinished"></translation>
+        <translation>møde:</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation type="unfinished"></translation>
+        <translation>vedhæftet fil:</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation type="unfinished"></translation>
+        <translation>dato:</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation type="unfinished"></translation>
+        <translation>i dag:</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation type="unfinished"></translation>
+        <translation>denne uge:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation type="unfinished"></translation>
+        <translation>denne måned:</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>mappe:</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;actionable&quot;:</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation type="unfinished"></translation>
+        <translation>fyi:</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation type="unfinished"></translation>
+        <translation>sendt:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation type="unfinished"></translation>
+        <translation>Fandt du ikke hvad du ledte efter?</translation>
     </message>
     <message>
         <source>Sync more</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkroniser flere</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>eller</translation>
     </message>
     <message>
         <source>Search locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg lokalt</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg Arkivet</translation>
     </message>
 </context>
 <context>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtreringsmuligheder</translation>
     </message>
 </context>
 <context>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Fravælg alle</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg alle</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Marker som læst</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Marker som ulæst</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivér</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 valgt</translation>
     </message>
 </context>
 <context>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Din avatar</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændr</translation>
     </message>
     <message>
         <source>Subscription status</source>
-        <translation type="unfinished"></translation>
+        <translation>Abonnementstatus</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Trialing</source>
-        <translation type="unfinished"></translation>
+        <translation>Prøve</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambassadørabonnement</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ude af stand til at hente din abonnementstatus.
+Du kan fortsætte med at bruge Hiri indtil forblindelsen til serveren genoprettes.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
-        <translation type="unfinished"></translation>
+        <translation>Køb Hiri nu</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisering</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg hvor mange mail du vil have Hiri til at hente:</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>1 måned</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>3 måneder</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation type="unfinished"></translation>
+        <translation>6 måneder</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>1 år</translation>
     </message>
     <message>
         <source>2 years</source>
-        <translation type="unfinished"></translation>
+        <translation>2 år</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle</translation>
     </message>
     <message>
         <source>Start downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Påbegynd hentning</translation>
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Henter din mail…</translation>
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias-adresser</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>Et e-mail alias er ganske enkelt en adresse til videresendelse. Denne konto vil modtage al mail sendt til adresserne herunder. Grundet tekniske begrænsninger kan Hiri kun se op til 3 aliaser på mail-serveren. Hvis du har flere end 3 kan du vælge at tilføje dem herunder Dette vil forhindre Hiri i at fejlkategorisere mails du modtager direkte eller via maillister.
+
+Kendte alias:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan indtaste brugerdefineret aliasser her (ét per linje):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(bemærk at disse må være eksisterende aliasser. Du kan ikke oprette aliasser i Hiri)</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliasser gemt</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation>Sæt som standard</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis denne konto først når Hiri starter.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil vælge denne konto som standard?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne ændring vil først træde i kraft efter genstart af Hiri</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet konto og indstillinger</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern al kontospecifik information fra Hiri.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet konto</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette denne konto fra Hiri?
+Dette vil slette alle dine indstillinger og den LOKALE e-mail databse.
+Bare rolig, din e-mail er stadigvæk i sikkerhed på serveren!</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg udseende</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg hvordan du gerne vil have din mail til at blive vist.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>Lav tæthed</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Færre mail, større forhåndsvisning.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>Høj tæthed</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flere mail. mindre forhåndsvisning.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>To-rude visning</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mailliste på toppen, og forhåndsvisning i bunden.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>Brugerfladestørrelse</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne ændring vil først træde i kraft efter genstart af Hiri</translation>
     </message>
 </context>
 <context>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis arkivknap i e-mail værktøjslinjen</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger gemt</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Valgt mappe</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalendertidszone</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Første dag i ugen</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Søndag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Mandag</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne ændring vil først træde i kraft efter genstart af Hiri</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsformat</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne ændring vil først træde i kraft efter du opdaterer din indboks</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis &quot;dashboard&quot; når inaktiv</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis &quot;dashboard&quot; efter du ikke har interageret med Hiri i:</translation>
     </message>
 </context>
 <context>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikationsbedømmelse</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilvælg mail- og kommunikationsbedømmelse</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkluder vurderingslink i underskriften</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændringslog</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Optimize performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimer ydelse</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gør Hiri hurtigere og få mere plads på din datamat. Dette kan tage lidt tid.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimerer databasen…</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimér nu</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Programmet kan se ud som om at det er gået i stå i løbet af denne proces, men giv det et par minutter.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Færdig!</translation>
     </message>
     <message>
         <source>Check for update</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjek efter opdateringer</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kører Hiri version %1</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Se ændringslog</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan ikke tjekke efter opdateringer lige nu</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Fandt ny version</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kører den seneste version</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under tjek efter opdateringer</translation>
     </message>
 </context>
 <context>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprog</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg grænsefladesprog:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemt</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bemærk:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis oversættelsen du har valgt er ufuldstændigt, vil nogle ord blive vist på Engelsk. Har du løst til at hjælpe med oversættelser (eller starten en for et nyt sprog), så &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;1klik her&lt;/a&gt;2 for at hjælpe! Tak.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Advanceret</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlæs</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Denne ændring vil først træde i kraft efter genstart af Hiri.</translation>
     </message>
 </context>
 <context>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke på kontoret</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv venligst en besked til når du ikke er på kontoret.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Ikke på kontoret&quot; gemt</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under lagring af indstillinger for &quot;Ikke på kontoret&quot;</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger for</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Globale indstillinger</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>for alle konti</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Underskrift</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Ikke på kontoret</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Køb Hiri</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Generelt</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Udseende</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastaturgenveje</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tastaturgenveje (Ctrl + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprog</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivebordsunderretninger</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Slå underretninger fra</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Møde- og opgavepåmindelser</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Møde- og opgavepåmindelser, og ny mail</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrivebordsintegration</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Vis Hiri i systembakken</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Slået til når underretninger er slået til)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk til systembakken</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret en skrivebordskontering og tilføj den til din programmenu.
+Dette lader dig fastgøre Hiri til din &quot;launcher&quot;.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret skrivebordskontering</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Færdig!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg Hiri som mit standardprogrammel til e-mail.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrer som standard</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under registrering</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Komponer og svar</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk samtale efter afsendelse af svar</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedhæftede filer</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Spørg altid hvor vedhæftede filer skal hentes til</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent til</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ændr</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under mappevalg. Prøv en anden mappe.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavekontrol</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavekontrol aktiv</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprog</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ændre indstillingerne for stavekontrol ved at højreklikke i svar- og komponeringsvinduer.</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Underskrift</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkluder &quot;--&quot; i toppen af underskriften</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Underskrift gemt</translation>
     </message>
 </context>
 <context>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg en mulighed</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj modtagere</translation>
     </message>
 </context>
 <context>
     <name>SingleAttachment</name>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fil hentet til: %1</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under filhentning</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Du søde milde! Jeg er ikke sikker på hvordan jeg skal åbne den her fil!</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Åbn</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Hent</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern opgave</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj opgave</translation>
     </message>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>IKKE PÅ KONTORET</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Ikke på kontoret&quot;-besked</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Deleger til</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>Spørgsmål til</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>Opgave til</translation>
     </message>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil spørgsmål her</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskriv opgave her</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Evne aktiveret</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Evne deaktiveret</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvad gør den?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvordan ser den ud?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvorfor?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Action&quot;/FYI Split</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdel din mail efter &quot;Action&quot;/FYI.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføjer &quot;Action&quot;- og FYI-filtre til den mørkegrå boks på venstre side.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hold op med at tjekke din mail så tit.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Et &quot;Dashboard&quot; vil poppe op foran Hiri efter 90 sekunders inaktivitet for at minde dig om ikke at tjekke din mail så tit. Det hjælper dig med at fokusere, og sparer dig tid.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>Opgavelist</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lav din mail til opgaver ved at klikke.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføjer en Opgaveliste til højre side. Du kan oprette en Opgaveliste ved at trække mail ind i dette panel.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Deleger mail</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gør det klart at du har delegeret en opgave.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføjer en &quot;Deleger&quot;-knap til &quot;Email Action Bar&quot;.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Påmindelser</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Glem aldrig en vigtig mail igen</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>TIlføjer til Påmindelsesknap til &quot;Email Action Bar&quot;. Denne lader dig sætte påmindelser for specifikke samtaler.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv Bedre Emnelinjer</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forbedr dine emnelinjer ved at skrive dem til sidst.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytter emnelinjen til bunden af mailkomponeringsvinduet.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Nulindboks</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>For udøvere af Zen-disciplinen kendt som Nulindboks.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Kræver &quot;Action&quot;/FYI Split</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade dig opnå Nulindboks. Normalt forbliver mail der er flyttet til &quot;Action&quot;/FYI-filtrene i indboksen når &quot;Action/FYI Split-evnen er aktiv, men farvekodede. Ved at slå Nulindboks-evnen til er dette ikke længere tilfældet, og det er muligt at gøre indboksen tom.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Bedøm mail</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bliv bedre til at kommunikere.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommer snart!</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Den bedste måde at forbedre dine kommunikationsevner er ærlig feedback, og hvad bedre end at spørge modtagerne af dine beskeder?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lader andre bedømme dine beskeder efter de fire søjler for god kommunikation: Klarhed, kortfattethed, tone og opførsel. Hiri giver dig et pointtal baseret på feedback fra dem du skriver med, og anbefalinger til hvad du kan gøre for at blive bedre. Denne bedømmelse bliver ikke delt med andre. Bedømmelser er anonymiserede - du får ikke at vide, hvem der bedømte dig.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid til at evne op.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bliv bedre til e-mail med disse produktivitetshacks.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;

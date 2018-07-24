@@ -716,18 +716,18 @@ Do you want to forward only this event or the whole series?</source>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Indstillinger</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>I dag</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>I morgen</translation>
     </message>
     <message>
         <source>Go to calendar</source>

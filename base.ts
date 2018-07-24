@@ -1178,7 +1178,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
+        <source>Meeting request has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2493,7 +2493,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
+        <source>Meeting request has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

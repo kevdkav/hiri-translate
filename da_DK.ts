@@ -731,7 +731,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til kalender</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>

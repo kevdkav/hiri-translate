@@ -259,417 +259,418 @@
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1 daha</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm gün</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>başlık yok</translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Takviminize bir isim verin</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugüne git</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir hata oluştu, lütfen tekrar deneyin</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu tekrar eden bir toplantı.
+Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Tek seferlik toplantı</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm seriler</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Organizatör siz olmadığınız için bu toplantıyı iptal edemezsiniz. Bunun yerıne toplantıyı silmek ister misiniz?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet, sil.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekrar yok</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hergün</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Her iş günü</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Her %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>Her 2 hafta</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Her son %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Her %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Her %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiçbiri</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>0 dakika</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 dakika</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 dakika</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 dakika</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 dakika</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 saat</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>2 saat</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 saat</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>4 saat</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>8 saat</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 saat</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 gün</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation type="unfinished"></translation>
+        <translation>2 gün</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation type="unfinished"></translation>
+        <translation>3 gün</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>1 hafta</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>2 hafta</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm gün</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>şimdi</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dk</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dk</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 s</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 g</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation type="unfinished"></translation>
+        <translation>tüm gün</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlık-yok</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüz, ne tip bir eposta kullandığınızı anlayamadık.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta saglayıcınız nedir?</translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen seçin...</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta sağlayıcınızı bu listede göremiyor musunuz? Şimdilik Hiri Offıce365, Outlook.com(Hotmail/Live/MSN) ve Exchange ile calışıyor. Eger yardıma ihtiyacınız varsa,</translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>bizimle iletişime geçin.</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Anlaşılırlık</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation type="unfinished"></translation>
+        <translation>Özlük</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ton</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Davranış</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation type="unfinished"></translation>
+        <translation>skorunuz</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı silinirken hata oluştu</translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation type="unfinished"></translation>
+        <translation>Görünen isim</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Şirket</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Departman</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Baglantı</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Soyad</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta %1</translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation type="unfinished"></translation>
+        <translation>İş telefonu</translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cep telefonu</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Hitap</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ofis konumu</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Cadde</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Şehir</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Eyalet</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Bölge</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Posta Kodu</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notlar</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenle</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta 1 gecerli bir eposta adresi değil</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Eposta 2 gecerli bir eposta adresi değil</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantının ad ya da eposta adresi olmalıdır</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı güncellenirken hata oluştu</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 daha önceden bağlantı olarak eklenmiş</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı yaratılırken hata oluştu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantıyı silmek istediğinizden emin misiniz:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet, sil.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantılarına ekle</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>bağlantılarınıza eklendı</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı oluştururken hata oldu</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Ara</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm bağlantılar gösteriliyor, arama yapmak için yazmaya başlayın</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Bağlantılar</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -677,45 +678,45 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ad yok&gt;</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;eposta yok&gt;</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı oluştur</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı seç</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenlemeyi iptal et</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönder</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar</translation>
     </message>
 </context>
 <context>
@@ -730,15 +731,15 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Takvime git</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantılarınız yükleniyor...</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantınız yok</translation>
     </message>
     <message>
         <source>today</source>
@@ -750,83 +751,83 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantılar yüklenemedi:(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantılarınız tekrar çevrimiçi olduğunuzda güncellenecek</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(başlık yok)</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm gün</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Profili düzenle</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selam %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"></translation>
+        <translation>Selam!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"></translation>
+        <translation>yeni</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation type="unfinished"></translation>
+        <translation>son baktığınızdan bu yana</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation type="unfinished"></translation>
+        <translation>bugün gelen epostalar</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Takviminiz</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>İletişim Skoru</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkadaşlarınızı davet edin</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation type="unfinished"></translation>
+        <translation>bekle</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation type="unfinished"></translation>
+        <translation>dk</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Denetle</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni eposta yok</translation>
     </message>
 </context>
 <context>

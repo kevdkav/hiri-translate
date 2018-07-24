@@ -675,34 +675,34 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation type="unfinished"></translation>
+        <translation>LGE</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;sem nome&gt;</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;sem e-mail&gt;</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar contato</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar contato</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>Em</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar edição</translation>
     </message>
     <message>
         <source>Save</source>
@@ -710,53 +710,53 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoje</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amanhã</translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir para o calendário</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished"></translation>
+        <translation>Carregando seus compromissos…</translation>
     </message>
     <message>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>hoje</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>amanhã</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation>não consegui carregar seus compromissos :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Seus compromissos serão atualizados assim que você conectar na internet</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(sem assunto)</translation>
     </message>
     <message>
         <source>All day</source>
@@ -764,83 +764,83 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>você não possui compromissos</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar perfil</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Olá %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"></translation>
+        <translation>Olá!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"></translation>
+        <translation>novo</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation type="unfinished"></translation>
+        <translation>desde a última atualização</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation type="unfinished"></translation>
+        <translation>e-mails de hoje</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>seu calendário</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>pontuação de comunicação</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation type="unfinished"></translation>
+        <translation>convidar seus amigos</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation type="unfinished"></translation>
+        <translation>aguarde</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Validar</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem novos e-mails</translation>
     </message>
 </context>
 <context>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Data:</translation>
     </message>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
 </context>
 <context>
@@ -851,67 +851,67 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar lembrete</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Final</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar lembrete</translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta tarde</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amanhã</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Próxima semana</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Data e hora customizadas</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Uma nova versão do Hiri está disponível!! Você deseja atualizar?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Atualizar agora</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Lembre-me mais tarde</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione o arquivo</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar como</translation>
     </message>
     <message>
         <source>Save</source>
@@ -919,41 +919,41 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desculpe, alguns anexos não foram encontrados e serão removidos:</translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Baixar todos os anexos</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao baixar todos os anexos</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Anexos baixados em: %1</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza que deseja cancelar esta reunião?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Sim, pode cantelar</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Não. Não cancele</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza que deseja excluir esta reunião?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -965,7 +965,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar reunião</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -973,70 +973,70 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar séries</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Deletar séries</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar séries</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar ocorrência</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Excluir ocorrência</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar ocorrência</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinto muito, não é possível criar lembretes enquanto estiver offline.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceitar reunião</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Recusar reunião</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder a todos</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegar</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Você já tem um rascunho nesta mensagem</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivar</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Alarme</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1044,7 +1044,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conversa possui rascunhos. Você tem certeza que deseja excluir?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1056,128 +1056,128 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir em uma nova janela</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como não lido</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como lido</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Você já possui um rascunho nesta mensagem</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir/Salvar em PDF</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover da lixeira</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como lixo</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinto muito, nós não suportamos %1. Hiri somente trabalha com endereços de e-mail do Exchange/Office 365.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe o seu endereço de e-mail</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>alguém@seuprovedor.com</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Próximo</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vamos adicionar uma conta.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha mudou ou expirou.</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sim, você pode me enviar um e-mail por mês.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veja o que pensamos sobre privacidade &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;aqui&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(EXCLUIR)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RASCUNHOS)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(REMOVER)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RASCUNHOS)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao criar um lembrete…</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sem assunto)</translation>
     </message>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>conversas selecionadas</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RASCUNHO)</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunião aceita.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo horário proposto: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>

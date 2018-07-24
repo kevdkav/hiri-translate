@@ -5,18 +5,18 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj ny konto</translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Offentlige kalendere</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Delte kalendere</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
@@ -24,652 +24,653 @@
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunne ikke finde nogen nye offentlige kalendere</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunne ikke finde nogen nye delte kalendere</translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation type="unfinished"></translation>
+        <translation>nVidia nouveau driver opfanget. Denne er kendt til at forårsage nedbrud. Genstart venligst Hiri for at skifte til brug af CPU-baseret rendering.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, vi kan ikke finde din mail…</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedhæftede filer</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Se global adresseliste (%1 + Tabulator)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerer…</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Handling fejlet!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdatering gennemført. Genstart venligst Hiri…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Opdaterer... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Skjul</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 flere</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation type="unfinished"></translation>
+        <translation>tilbage til start</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Undskyld. Vi er ikke i stand til at indlæse din kalender</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedhæftet fil &apos;%1&apos; vil blive hentet</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Vedhæftet fil &apos;%1&apos; hentet</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Hentning af vedhæftet fil &apos;%1&apos; slog fejl</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation type="unfinished"></translation>
+        <translation>Møde oprettet</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under sletning af vedhæftet fil</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved oprettelse af offentlig kalender</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl ved tilføjelse af delt kalender</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sletter kalender</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender slettet</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender fjernet</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under fjernelse af kalender</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøber kalender</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender omdøbt</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg et tidspunkt:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Giv din kalender et navn</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Mine kalendere</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette denne kalender?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet den</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar den</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Offentlige kalendere</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil fjerne kalender %1? Du kan altid tilføje den igen senere.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, fjern den</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behold den</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Delte kalendere</translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret</translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbejdsuge</translation>
     </message>
     <message>
         <source>Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Uge</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Måned</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1 mere</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>intet emne</translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Giv din kalender et navn</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå til i dag</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Der opstod en fejl. Prøv igen</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation type="unfinished"></translation>
+        <translation>Dette er et tilbagevendende møde.
+Ønsker du kun at fremsende kun denne ene forekomst, eller hele rækken?</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkeltstående møde</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele rækken</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ikke aflyse dette møde da du ikke er organisatoren. Vil du slette det fra din kalender i stedet?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet det.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behold det.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen gentagelser</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver dag</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver arbejdsdag</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver anden uge</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Den sidste %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>0 minutter</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minutter</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minutter</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 minutter</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minutter</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 time</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>2 timer</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 timer</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>4 timer</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>8 timer</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 timer</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dag</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation type="unfinished"></translation>
+        <translation>2 dage</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation type="unfinished"></translation>
+        <translation>3 dage</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>1 uge</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>2 uger</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>nu</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 t</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation type="unfinished"></translation>
+        <translation>hele dagen</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Intet emne</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Undskyld, vi kunne ikke regne ud hvilken slags mail du bruge.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvad er din e-mail udbyder?</translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg venligst…</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Ser du ikke din e-mail udbyder på listen? Lige nu virker Hiri med Office 365, Outlook.com (Hotmail/Live/MSN) og Exchange. Hvis du har brug for hjælp,</translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>kontakt os.</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Klarhed</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation type="unfinished"></translation>
+        <translation>Kortfattethed</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Tone</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Opførsel</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation type="unfinished"></translation>
+        <translation>din bedømmelse</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under sletning af kontakt</translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation type="unfinished"></translation>
+        <translation>Vist navn</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Firma</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdeling</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktperson</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Fornavn</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Efternavn</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail %1</translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbejdstelefon</translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Mobiltelefon</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontorlokation</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adresse</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Gade</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>By</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Stat</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Land</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Postnummer</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Noter</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail 1 er ikke en valid e-mail adresse</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail 2 er ikke en valid e-mail adresse</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>En kontakt skal have et navn eller en e-mail adresse</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under opdatering af kontakt</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 er allerede i din kontaktliste</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under oprettelse af en kontakt</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Er du sikker på at du vil slette kontakt:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, slet den.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, bevar den.</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilføj til dine kontakter</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>tilføjet til din kontaktmappe</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fejl under oprettelse af kontakt</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Søg</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Viser alle kontakter, skriv for at søge</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Kontakter</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -677,38 +678,38 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;intet navn&gt;</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ingen post&gt;</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>I</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Opret kontakt</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg kontakt</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd redigering</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Send</translation>
     </message>
 </context>
 <context>

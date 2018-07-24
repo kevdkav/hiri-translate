@@ -71,169 +71,169 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation type="unfinished"></translation>
+        <translation>מתקין…</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>נכשל!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation type="unfinished"></translation>
+        <translation>העדכון הושלם. אנא הפעל את Hiri מחדש…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>מעדכן... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>הסתר</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 עוד</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation type="unfinished"></translation>
+        <translation>חזור להתחלה</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>מצטערים. אנחנו לא מצליחים לטעון את לוח השנה שלך</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>הקובץ &apos;%1&apos; יחל בתהליך ההורדה</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>הקובץ &apos;%1&apos; ירד בהצלחה</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ההורדה של הקובץ &apos;%1&apos; נכשלה</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation type="unfinished"></translation>
+        <translation>הפגישה נוצרה</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בעת מחיקת הקובץ המצורף</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהוספת לוח שנה פומבי</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהוספת לוח שנה משותף</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>מחיקת לוח שנה</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>לוח שנה נמחק</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation type="unfinished"></translation>
+        <translation>לוח שנה הוסר</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהסרת לוח שנה</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>משנה את שם לוח השנה</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>שם לוח השנה שונה</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר זמן:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר שם עבור לוח השנה</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>שנה שם</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>לוחות השנה שלי</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation type="unfinished"></translation>
+        <translation>האם אתה בטוח שתרצה למחוק את לוח השנה הזה?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>כן, מחק אותו</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>לוחות שנה פומביים</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation type="unfinished"></translation>
+        <translation>האם אתה בטוח שברצונך להסיר את לוח השנה %1? תוכל תמיד להוסיף אותו מאוחר יותר.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation type="unfinished"></translation>
+        <translation>כן הסר אותו</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא השאר אותו</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>לוחות שנה משותפים</translation>
     </message>
 </context>
 <context>

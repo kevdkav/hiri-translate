@@ -1202,7 +1202,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besprechungsanfrage wurde abgesagt.</translation>
     </message>
 </context>
 <context>
@@ -2513,7 +2513,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Besprechungsanfrage wurde abgesagt.</translation>
     </message>
 </context>
 <context>
@@ -4158,7 +4158,8 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>„Inbox Zero“ bezeichnet eine rigorose Herangehensweise an Emailverwaltung, die darauf abzielt das Postfach so leer - oder fast leer - wie möglich zu halten.&lt;br /&gt;&lt;br /&gt;
+„Inbox Zero“ wurde vom Produktivitätsexperten Merlin Mann entwickelt. Nach Mann bezieht sich „Zero“ nicht auf die Anzahl der Nachrichten im Postfach; viel mehr bezieht es sich „auf die Zeit, die der Verstand eines Angestellten im Postfach verbringt“. Zeit und Aufmerksamkeit sind laut Mann endlich und wenn das Postfach mit einer „Todo“-Liste verwechselt wird, sinkt die Produktivität. Durch Aufräumen des Postfachs wird weniger Zeit mit dem Suchen und Stöbern in Emails verbracht. Ein aufgeräumtes Postfach führt zu einem gesunden und aufgeräumten Verstand, so zumindest in der Theorie.</translation>
     </message>
 </context>
 <context>
@@ -4218,7 +4219,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>Fall Sie eine Anregung für uns haben</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
@@ -4226,15 +4227,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Je mehr Details Sie uns zukommen lassen, desto besser kann Ihnen von uns geholfen werden.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen Sie uns mit welchen Teil der Anwendung Ihre Idee/Ihr Problem betrifft.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte hängen Sie Logs/Protokolle an dieses Ticket</translation>
     </message>
 </context>
 <context>
@@ -4281,11 +4282,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wurden diese Aufgaben erledigt?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wurde diese Aufgabe erledigt?</translation>
     </message>
     <message>
         <source>Delegated</source>
@@ -4293,11 +4294,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Offene Aufgabe</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Nachricht wurde als Aufgabe zu %1 markiert</translation>
     </message>
     <message>
         <source>to</source>
@@ -4323,11 +4324,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Aufgaben</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Liste</translation>
     </message>
 </context>
 <context>
@@ -4349,7 +4350,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Setze Fälligkeitsdatum</translation>
     </message>
     <message>
         <source>you created this task</source>
@@ -4357,39 +4358,39 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>Von</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Email</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstelle eine Erinnerung</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne Erinnerung</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne Fälligkeitsdatum</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe löschen</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiz anhängen</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiz bearbeiten</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiz entfernen</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
@@ -4397,7 +4398,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, Notiz entfernen</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -4412,7 +4413,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>alle</translation>
     </message>
 </context>
 <context>
@@ -4449,7 +4450,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Tasks</name>
     <message>
         <source>Create a new task</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Aufgabe erstellen</translation>
     </message>
 </context>
 <context>
@@ -4479,11 +4480,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, creating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Erstellen der Aufgabe fehlgeschlagen…</translation>
     </message>
     <message>
         <source>Oops, updating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualisieren der Aufgabe fehlgeschlagen…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
@@ -4491,15 +4492,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, moving task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Verschieben der Aufgabe fehlgeschlagen…</translation>
     </message>
     <message>
         <source>Oops, deleting task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen der Aufgabe fehlgeschlagen…</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Löschen des Aufgabenordners fehlgeschlagen…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
@@ -4538,7 +4539,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontaktieren Sie uns.</translation>
     </message>
     <message>
         <source>Buy now</source>
@@ -4660,15 +4661,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anhang hinzugefügt.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Datei ist bereits angehangen.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einige Dateien sind bereits angehangen.</translation>
     </message>
     <message>
         <source>Every day</source>
@@ -4696,7 +4697,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Endet heute</translation>
     </message>
     <message>
         <source>1 day left</source>
@@ -4740,46 +4741,46 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Fällig in</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginnt in</translation>
     </message>
 </context>
 <context>
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffne Link</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere Linkadresse</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiere Bild</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichere Bild</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Ausschneiden</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopieren</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohne Formatierung einfügen</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -4787,11 +4788,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Unselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Nichts auswählen</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechtschreibprüfung</translation>
     </message>
     <message>
         <source>Language</source>
@@ -4806,7 +4807,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen zu Hiri!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
@@ -4859,7 +4860,7 @@ under control.</source>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Von</translation>
     </message>
     <message>
         <source>for</source>

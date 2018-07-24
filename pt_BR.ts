@@ -318,118 +318,118 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você não pode cancelar esta reunião pois você não é o organizador. Você deseja excluir?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sim, pode excluir.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não, mantenha-o.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Não repetir</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os dias</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os dia úteis</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada 2 semanas</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada último %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenhum</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>0 minutos</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minutos</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minutos</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 minutos</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minutos</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 hora</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>2 horas</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 horas</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>4 horas</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>8 horas</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 horas</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dia</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation type="unfinished"></translation>
+        <translation>2 dias</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation type="unfinished"></translation>
+        <translation>3 dias</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>1 semana</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>2 semanas</translation>
     </message>
     <message>
         <source>All day</source>
@@ -437,162 +437,162 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>agora</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation type="unfinished"></translation>
+        <translation>o dia inteiro</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Sem assunto</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desculpe-nos, não conseguimos identificar o tipo de e-mail que você usa.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation type="unfinished"></translation>
+        <translation>Qual é o seu provedor de e-mail?</translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor escolha…</translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entre em contato.</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Não viu o seu provedor de e-mail? Atualmente Hiri trabalha com Office365, Outlook.com (Hotmail/Live/MSN) e Exchange. Se precisar de ajuda,</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Clareza</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation type="unfinished"></translation>
+        <translation>Brevidade</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Comportamento</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation type="unfinished"></translation>
+        <translation>sua pontuação</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao excluir contato</translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Empresa</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Departamento</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Contato</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeiro nome</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Último nome</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail %1</translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefone de Trabalho</translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Celular</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Local de Trabalho</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Endereço</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Rua</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Cidade</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>País</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>CEP</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Anotações</translation>
     </message>
     <message>
         <source>Save</source>
@@ -600,27 +600,27 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail 1 não é um endereço válido</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-mail 2 não é um endereço válido</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Um contato precisa ter um nome ou um endereço de e-mail</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao atualizar contato</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 já pertence a sua lista de contatos</translation>
     </message>
     <message>
         <source>Error creating a contact</source>

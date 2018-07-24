@@ -735,147 +735,147 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished"></translation>
+        <translation>Indlæser dine møder…</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har ingen møder</translation>
     </message>
     <message>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>i dag</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>i morgen</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunne ikke indlæse møder :-(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Dine møder vil bliver opdateret når du er online igen</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(intet emne)</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Redigér profil</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hej %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hej!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"></translation>
+        <translation>ny</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation type="unfinished"></translation>
+        <translation>siden sidste tjek</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation type="unfinished"></translation>
+        <translation>e-mail i dag</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Din kalender</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikationsvurdering</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation type="unfinished"></translation>
+        <translation>Invitér dine venner</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation type="unfinished"></translation>
+        <translation>vent</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjek</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen ny mail</translation>
     </message>
 </context>
 <context>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dato:</translation>
     </message>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation type="unfinished"></translation>
+        <translation>kl.</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fjern påmindelse</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Set påmindelse</translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished"></translation>
+        <translation>I aften</translation>
     </message>
     <message>
         <source>Tomorrow</source>

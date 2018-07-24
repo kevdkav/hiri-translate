@@ -5,1928 +5,1929 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>Vog nog &apos;n rekening by</translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Openbare Kalenders</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedeelde Kalenders</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation type="unfinished"></translation>
+        <translation>As jy nie die kalender kry wat jy soek nie, maak seker dat jy die deel versoek aanvaar het.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg By</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Ons kon nie enige nuwe openbare kalenders ondek nie</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Ons kon nie enige nuwe gedeelde kalenders vind nie</translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Reg</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation type="unfinished"></translation>
+        <translation>nVidia nouveau is ondek wat probleme veroorsaak. Maak die program toe en weer oop om sagteware teken te aktiveer.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oops, ons kon nie jou mail vind nie…</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsels</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Deursoek Globale Adres Lys (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai…</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak Toe</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gefaal!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai voltooi. Maak Hiri toe en weer oop…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Steek Weg</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 meer</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation type="unfinished"></translation>
+        <translation>terug na begin</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer. Ons kan nie jou kalender laai nie</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsel &apos;%1&apos; sal afgelaai word</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsel &apos;%1&apos; afgelaai</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Aflaai van aanhegsel &apos;%1&apos; gefaal</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering gestoor</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Iets het foutgegaan met aanhegsel uitvee</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie publieke kalender byvoeg nie</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie gedeelde kalender byvoeg nie</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee kalender uit</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender uitgevee</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender verwyder</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie kalender verwyder nie</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem kalender</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender se naam is verander</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies &apos;n tyd:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Gee jou kalender &apos;n naam</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>My kalenders</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker jy wil hierdie kalender uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee uit</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Publieke kalenders</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker dat jy kalender %1 wil verwyder? Jy kan dit altyd later weer byvoeg.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja verwyder dit</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee hou dit</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedeelde kalenders</translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep</translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation type="unfinished"></translation>
+        <translation>Werksweek</translation>
     </message>
     <message>
         <source>Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Week</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Maand</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1 meer</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Heeldag</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>geen onderwerp</translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Gee jou kalender &apos;n naam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansileer</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaan vandag toe</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Iets het foutgegaan probeer asb weer</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierdie is &apos;n herhalende vergadering.
+Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Net hierdie een</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele reeks</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy kan nie die vergadering kansileer nie omdat jy nie die persoon is wat dit gereël het nie. Wil jy dit liewer utivee?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee dit uit.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen herhalings</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke dag</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke werksdag</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke 2 weke</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke laaste %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Niks</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>0 minute</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minute</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minute</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 minute</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minute</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 uur</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>2 ure</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 ure</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>4 ure</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>8 ure</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 ure</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dag</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation type="unfinished"></translation>
+        <translation>2 dae</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation type="unfinished"></translation>
+        <translation>3 dae</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>1 week</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>2 weke</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Heeldag</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>nou</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mins</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 u</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation type="unfinished"></translation>
+        <translation>heeldag</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen onderwerp</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, ons kon nue uitwerk watter soort email jy gebruik nie.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat is jou email verskaffer?</translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies asb…</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Jou verskaffer nie hier nie? Op die oomblik werk Hiri met Office365, Outlook.com (Hotmail/Live/MSN) en Exchange. As jy hulp nodig het,</translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>kontak ons.</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Duidelikheid</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation type="unfinished"></translation>
+        <translation>Bondigheid</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Toon</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedrag</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation type="unfinished"></translation>
+        <translation>jou punte</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie kontak uitvee nie</translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertoon naam</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Maatskappy</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Afdeling</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontak</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste Naam</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Laaste Naam</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation type="unfinished"></translation>
+        <translation>E-Pos %1</translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Werk foon</translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Selfoon</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kantoor Adres</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Straat</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Stad</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Provinsie</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Land</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Poskode</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-pos 1 is nie &apos;n regte e-pos adres nie</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>E-pos 2 is nie &apos;n regte e-pos adres nie</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;n Kontak moet &apos;n naam of e-pos he</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie die kontak verander nie</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 is reeds in jou kontak lys</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie &apos;n kontak maak nie</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansileer</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker dat jy kontak wil uitvee:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee uit.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg by my kontakte</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>bygevoeg by jou kontakte</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Iets het foutgegaan met kontak stoor</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Soek</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys alle kontakte, tik om te soek</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle kontakte</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation type="unfinished"></translation>
+        <translation>GAL</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;geen naam&gt;</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;geen e-pos&gt;</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak kontak</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies kontak</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansileer verandering</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellings</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Vandag</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>More</translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaan na kalender</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai jou vergaderings…</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy het nie vergaderings nie</translation>
     </message>
     <message>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>vandag</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>more</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie vergaderings laai nie :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Jou vergaderings sal laai sodra jy weer aanlyn is</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(geen onderwerp)</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Heeldag</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander profiel</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"></translation>
+        <translation>nuwe</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation type="unfinished"></translation>
+        <translation>van die laaste keer af</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation type="unfinished"></translation>
+        <translation>e-pos vandag</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Jou kalender</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikasie punte</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation type="unfinished"></translation>
+        <translation>Nooi jou maatjies</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation type="unfinished"></translation>
+        <translation>wag</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak seker</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen nuwe e-pos</translation>
     </message>
 </context>
 <context>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum:</translation>
     </message>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation type="unfinished"></translation>
+        <translation>by</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansilleer herhindering</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Begin</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindig</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel alarm</translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Vanaand</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>More</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende week</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Spesiale tyd en datum</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;n Nuwe weergawe van Hiri is beskikbaar! Wil jy dalk opgradeer?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Upgradeer nou</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Herhinder my later</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies leêr</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor as</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, van die aanhegsels kon nie gevind word nie en sal verwyder word:</translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai alle aanhegsels af</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsels afgelaai na: %1</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie alle aanhegsels aflaai nie</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker dat jy die vergadering wil kansilleer?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, kansileeer dit</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, moenie dit kansileer nie</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker dat jy die vergadering wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee dit uit</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansilleer vergadering</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansileer reeks</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee reeks uit</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander reeks</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Kansileer die een</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee die een uit</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander die een</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie alarms stel as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanvaar Vergadering</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Weier vergadering</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord aan almal</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeer</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy het al klaar &apos;n sigkopie van die boodskap gemaak</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor in argief</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Wag &apos;n bietjie</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierdie gesprek bevat ongestuurde bootskappe. Is jy seker jy wil dit uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee dit uit</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak in nuwe venster oop</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as ongelees</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as gelees</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy het al klaar &apos;n sigkopie van die boodskap gemaak</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur aan</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk uit / Stoor as PDF</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as nie gemors nie</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as gemors</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, ons werk nog nie met %1 nie. Hiri werk net met &apos;n Exchange/Office 365 e-pos address.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Vul jou e-pos adres in</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>iemand@verskaffer.com</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, julle kan my een keer &apos;n maand &apos;n boodskap stuur.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sien ons gedagtes oor privaatheid  &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;1hier&lt;/a&gt;2.</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende stap</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kom ons voeg &apos;n rekening by.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wagwoord het verander of verval.</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UITGEVEE)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SIGKOPIEË)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UITGEVEE)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SIGKOPIEË)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie alarm stel nie…</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>gesprekke gekies</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(SIGKOPIE)</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 namens %2</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering aanvaar.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuwe tyd voorgestel: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering voorlopig aanvaar.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering verwerp.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wanneer: %1</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering is gekansilleer.</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg ontvangers by</translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 gekry wat pas</translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished"></translation>
+        <translation>Dis alaml</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ons ontvang jou e-posse…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sien nog steeds nie sekere e-pos nie?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Kry nog e-pos</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Die vergadering is verander</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Booskap is gemerk as gemors</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boodskap is nie meer gemors nie. Geskyf na inbox toe.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Gemerk as gemors</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie meer gemors nie. Geskyf na inbox.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering aanvaar</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering verwerp</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Booskap stuur het nie gewerk nie.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boodskap was groter as wat die server toelaat.</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die ongestuurde boodskap is in jou Outbox houer. Probeer die aanhegsels opdeel oor &apos;n paar boodskappe.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy is nie aanlyn nie. Die bootskap is na jou Outbox toe geskuif.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Ons kon nie jou boodskap stuur nie - dit bevat ongeldige ontvangers</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>Argh! Iets het verkeerd gegaan!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Booskap geskuif na FYI toe. Werkstuk verwyder.</translation>
     </message>
 </context>
 <context>
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>On behalf of</source>
-        <translation type="unfinished"></translation>
+        <translation>Namens</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation>Aksie/Aan</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI/Cc</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bcc</translation>
     </message>
 </context>
 <context>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaan voort</translation>
     </message>
 </context>
 <context>
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange gebruikersnaam</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>iemand@verskaffer.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>wagwoord</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>gebruikersnaam (opsioneel)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie inlog nie? Druk hier</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Werk self server se stellings uit</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>server (bv. server.domain.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Identitiet</translation>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basies</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation type="unfinished"></translation>
+        <translation>Server weergawe</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2010</translation>
     </message>
     <message>
         <source>Exchange 2013</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2013</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokol</translation>
     </message>
     <message>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifieer SSL sertifikaat</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende stap</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie Exchange Nie?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Los leêrs hier</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys externe prenties een keer</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys altyd externe prentjies van die persoon af</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies asb &apos;n leêr</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg by</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies &apos;n opsie</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies leêr</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie &apos;n leer maak as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak leêr %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Leêr gemaak</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie &apos;n leêr hernoem as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Leêr hernoem</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie &apos;n leêr uitvee as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker day jy permanent die leêr en die inhoud van &quot;%1&quot; wil uitvee?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker jy wil die leêr &quot;%1&quot; uitvee?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee leêr %1 uit</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Leêr uitgevee</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee dit uit</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie &apos;n leêr leegmaak as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker jy wil alle items en subvouers in vouer &quot;%1&quot; permanent uitvee?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker jy wil alle items in die vouer &quot;%1&quot; uitvee?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak vouer %1 leeg</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vouer leeggemaak.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, vee hulle uit</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou hulle</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie vouers skuif terwyl jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie dit merk as gelees terwyl jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk alles as gelees…</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle items gemerk as gelees.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie als merk as gelees nie.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak subvouer</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep vouer</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk almal as gelees</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Leë inhoud</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Reg</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>By handtekening gevoeg: &quot;Ek kry my e-pos onder beheer &lt;a href=&quot;https://www.hiri.com/&quot;&gt; met behulp van Hiri&lt;/a&gt; kry&quot;</translation>
     </message>
 </context>
 <context>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaans - Suid-Afrika</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgaars</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalaans</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tsjeggies</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Deens</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Duits</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Grieks</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels - Kanada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels - Verenigde Koninkryk</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>Engels - Verenigde State van Amerika</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Spaans - Spanje</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estnies</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Farsi</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>Faroëes</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Frans</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreeus</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroaties</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Hongaars</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesies</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiaans</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreaans</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Litous</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Letties</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Noors (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Nederlands - Nederland</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Pools</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugees (Brasilië)</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugees - Portugal</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Roemeens</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russies</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwies (Latyn)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slowaaks</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sloveens</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Albanees</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwies (Cyrilic)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Sweeds</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tajik</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkse</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukranian</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Viëtnamese</translation>
     </message>
 </context>
 <context>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk lêer ligging</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, kon nie PDF maak nie. :(</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Druk</translation>
     </message>
 </context>
 <context>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Boodskap na FYI geskuif. Taak verwyder.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Verenigde inbox</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuif na Ongesorteerde</translation>
     </message>
 </context>
 <context>
     <name>Invites</name>
     <message>
         <source>Hi,</source>
-        <translation type="unfinished"></translation>
+        <translation>Hi,</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ek wil graag nooi om Hiri &apos;n probeerslag te gee. Dit is &apos;n nuwe e-pos program wat help tyd herwin, jou dag organiseer en kommunikasie verbeter. Laai dit hier af:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation type="unfinished"></translation>
+        <translation>As jy daarvan hou, kan jy 25% afkry met behulp van die volgende skakel:</translation>
     </message>
     <message>
         <source>Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dankie!</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kyk na Hiri…</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation type="unfinished"></translation>
+        <translation>Deel die liefde!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Nooi jou vriende en kollegas om Hiri te probeer. Die eerste 3 mense wat jy nooi kry</translation>
     </message>
     <message>
         <source>25% off</source>
-        <translation type="unfinished"></translation>
+        <translation>25% af</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>as hulle daarvan hou en besluit om opteteken dan gee ons jou</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>ook as jy dit net na 3 mense toe stuur, al teken hulle nie op nie.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy moet mense wat jy die meeste e-pos nooi. Dan as albei van julle baat vind om Actionable en FYI e-posse te kry.</translation>
     </message>
     <message>
         <source>Send invites</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur uitnodigings</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleutelbordkortpaaie</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Blaai deur e-posse</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende/vorige gesprek:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende/vorige gesprek (wanneer oop):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rol op / af:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bo / onderkant van die huidige bladsy:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oop gesprek:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit gesprek:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Oop soektog:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished"></translation>
+        <translation>E-pos aksies</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Antwoord Almal:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur aan:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as gelees:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as ongelees:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Argief:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>

@@ -1116,6 +1116,14 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <source>Password has changed or expired.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
@@ -1180,15 +1188,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>Demande de réunion refusée.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>La demande de réunion a été annulée.</translation>
-    </message>
-    <message>
         <source>When: %1</source>
         <translation>Quand: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Meeting request has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1317,6 +1325,17 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>Cc</source>
         <translation>Cc</translation>
+    </message>
+</context>
+<context>
+    <name>ErrorScreen</name>
+    <message>
+        <source>Oops.</source>
+        <translation>Oops.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Continuer</translation>
     </message>
 </context>
 <context>
@@ -2067,17 +2086,6 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
 </context>
 <context>
-    <name>LoginWizard</name>
-    <message>
-        <source>Offline, connect and try again.</source>
-        <translation>Hors connexion, connectez-vous et réessayez.</translation>
-    </message>
-    <message>
-        <source>Seems like your network connection was interrupted.</source>
-        <translation>On dirait que votre connexion réseau a été interrompue.</translation>
-    </message>
-</context>
-<context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
@@ -2495,8 +2503,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
         <translation>Demande de réunion refusée.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>La demande de réunion a été annulée.</translation>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2560,23 +2568,6 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <message>
         <source>Not Office365?</source>
         <translation>Pas Office365?</translation>
-    </message>
-</context>
-<context>
-    <name>OfflineScreen</name>
-    <message>
-        <source>Oops.</source>
-        <translation>Oops.</translation>
-    </message>
-    <message>
-        <source>We couldn&apos;t authenticate you because of connection problems.
-Please check your internet connection and try again.</source>
-        <translation>Nous n&apos;avons pas pu vous authentifier à cause de problèmes de connexion.
-S&apos;il vous plaît, vérifiez votre connexion internet et réessayez.</translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation>Continuer</translation>
     </message>
 </context>
 <context>

@@ -1115,6 +1115,14 @@ Do you want to forward only this event or the whole series?</source>
         <source>Password has changed or expired.</source>
         <translation>Лозинка је промењена или је истекла.</translation>
     </message>
+    <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
@@ -1179,16 +1187,16 @@ Do you want to forward only this event or the whole series?</source>
         <translation>Захтев за састанак одбијен.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Захтев за састанак је отказан.</translation>
-    </message>
-    <message>
         <source>When: %1</source>
         <translation>Када: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
         <translation>%1 у име %2</translation>
+    </message>
+    <message>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1315,6 +1323,17 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cc</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ErrorScreen</name>
+    <message>
+        <source>Oops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2066,17 +2085,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
 </context>
 <context>
-    <name>LoginWizard</name>
-    <message>
-        <source>Offline, connect and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Seems like your network connection was interrupted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
@@ -2494,8 +2502,8 @@ Do you want to forward only this event or the whole series?</source>
         <translation>Захтев за састанак одбијен.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Захтев за састанак је отказан.</translation>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2558,22 +2566,6 @@ Do you want to forward only this event or the whole series?</source>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OfflineScreen</name>
-    <message>
-        <source>Oops.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>We couldn&apos;t authenticate you because of connection problems.
-Please check your internet connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

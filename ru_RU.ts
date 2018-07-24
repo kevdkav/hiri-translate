@@ -1115,6 +1115,14 @@ Do you want to forward only this event or the whole series?</source>
         <source>Password has changed or expired.</source>
         <translation>Пароль был изменён или истёк его срок действия.</translation>
     </message>
+    <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
@@ -1179,16 +1187,16 @@ Do you want to forward only this event or the whole series?</source>
         <translation>Приглашение на встречу отклонено.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Приглашение на встречу было отменено.</translation>
-    </message>
-    <message>
         <source>When: %1</source>
         <translation>Когда: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
         <translation>%1 от имени %2</translation>
+    </message>
+    <message>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1316,6 +1324,17 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>Cc</source>
         <translation>Копия</translation>
+    </message>
+</context>
+<context>
+    <name>ErrorScreen</name>
+    <message>
+        <source>Oops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2066,17 +2085,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
 </context>
 <context>
-    <name>LoginWizard</name>
-    <message>
-        <source>Offline, connect and try again.</source>
-        <translation>В автономном режиме, подключитесь и повторите попытку.</translation>
-    </message>
-    <message>
-        <source>Seems like your network connection was interrupted.</source>
-        <translation>Похоже, что ваше сетевое подключение было разорвано.</translation>
-    </message>
-</context>
-<context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
@@ -2494,8 +2502,8 @@ Do you want to forward only this event or the whole series?</source>
         <translation>Приглашение на встречу отклонено.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Приглашение на встречу было отменено.</translation>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2558,22 +2566,6 @@ Do you want to forward only this event or the whole series?</source>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OfflineScreen</name>
-    <message>
-        <source>Oops.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>We couldn&apos;t authenticate you because of connection problems.
-Please check your internet connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2846,7 +2838,7 @@ email to the next level.</source>
     <name>ReplyBox</name>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>сохранение</translation>
     </message>
     <message>
         <source>Pop out reply</source>
@@ -3129,11 +3121,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск везде</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в архиве</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
@@ -3228,7 +3220,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Поиск в архиве</translation>
     </message>
 </context>
 <context>
@@ -3712,7 +3704,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячие клавиши</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
@@ -3720,7 +3712,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель мониторинга</translation>
     </message>
     <message>
         <source>Languages</source>
@@ -4192,7 +4184,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Отправить обратную связь</translation>
     </message>
     <message>
         <source>Error attaching logs</source>

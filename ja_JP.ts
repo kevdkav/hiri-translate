@@ -1114,6 +1114,14 @@ Do you want to forward only this event or the whole series?</source>
         <source>Password has changed or expired.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
@@ -1178,15 +1186,15 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>When: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Meeting request has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1314,6 +1322,17 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Bcc</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ErrorScreen</name>
+    <message>
+        <source>Oops.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2065,17 +2084,6 @@ Do you want to forward only this event or the whole series?</source>
     </message>
 </context>
 <context>
-    <name>LoginWizard</name>
-    <message>
-        <source>Offline, connect and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Seems like your network connection was interrupted.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
@@ -2493,7 +2501,7 @@ Do you want to forward only this event or the whole series?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
+        <source>Meeting request has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2557,22 +2565,6 @@ Do you want to forward only this event or the whole series?</source>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>OfflineScreen</name>
-    <message>
-        <source>Oops.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>We couldn&apos;t authenticate you because of connection problems.
-Please check your internet connection and try again.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Continue</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2916,7 +2908,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>全てを選択</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
@@ -3245,7 +3237,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>全てを選択</translation>
     </message>
     <message>
         <source>Mark as read</source>
@@ -3383,7 +3375,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>はい</translation>
     </message>
     <message>
         <source>Cancel</source>

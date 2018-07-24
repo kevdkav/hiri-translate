@@ -1121,6 +1121,14 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
         <source>Password has changed or expired.</source>
         <translation>Passwort hat sich geändert oder ist abgelaufen.</translation>
     </message>
+    <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
@@ -1185,16 +1193,16 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
         <translation>Besprechungsanfrage abgelehnt.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Besprechungsanfrage wurde abgesagt.</translation>
-    </message>
-    <message>
         <source>When: %1</source>
         <translation>Wenn: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
         <translation>%1 im Namen von %2</translation>
+    </message>
+    <message>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1324,6 +1332,17 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>Cc</source>
         <translation>Cc</translation>
+    </message>
+</context>
+<context>
+    <name>ErrorScreen</name>
+    <message>
+        <source>Oops.</source>
+        <translation>Hoppla.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -2074,17 +2093,6 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
 </context>
 <context>
-    <name>LoginWizard</name>
-    <message>
-        <source>Offline, connect and try again.</source>
-        <translation>Offline, Verbindung wiederherstellen und erneut versuchen.</translation>
-    </message>
-    <message>
-        <source>Seems like your network connection was interrupted.</source>
-        <translation>Ihre Netzwerkverbindung scheint unterbrochen zu sein.</translation>
-    </message>
-</context>
-<context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
@@ -2252,8 +2260,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Wenn die E-Mail, die Sie weiterleiten, eine Aufgabe für Sie enthält, hat jeder Empfänger, den Sie zur Aktion hinzufügen, standardmäßig Ihre Aufgabe.
- Deshalb nennen wir es Delegieren.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2505,8 +2512,8 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
         <translation>Besprechungsanfrage abgelehnt.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Besprechungsanfrage wurde abgesagt.</translation>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2570,23 +2577,6 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>Not Office365?</source>
         <translation>Nicht Office365?</translation>
-    </message>
-</context>
-<context>
-    <name>OfflineScreen</name>
-    <message>
-        <source>Oops.</source>
-        <translation>Hoppla.</translation>
-    </message>
-    <message>
-        <source>We couldn&apos;t authenticate you because of connection problems.
-Please check your internet connection and try again.</source>
-        <translation>Wir konnten Dich wegen Verbindungsproblemen nicht authentifizieren.
-Bitte überprüfen Sie Ihre Internetverbindung und versuchen Sie es erneut.</translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation>Fortsetzen</translation>
     </message>
 </context>
 <context>
@@ -3776,7 +3766,7 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished">Schließe den Infobereich</translation>
+        <translation>Schließe den Infobereich</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
@@ -4444,11 +4434,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Keine Aufgabe)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, Erinnerung kann nicht verworfen werden.…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4466,7 +4456,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Keine Aufgabe)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
@@ -4805,7 +4795,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
@@ -4858,7 +4848,7 @@ under control.</source>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Es gab einen Fehler beim Herunterladen des Anhangs</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
@@ -4880,18 +4870,18 @@ under control.</source>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation>Fehler beim Speichern Ihrer Nachricht. Überprüfen Sie Ihre Änderungen, da einige davon möglicherweise nicht wirksam geworden sind.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oh! Etwas lief schief.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation>Der Hiri-Server ist offline. Sie werden nicht in der Lage sein, die E-Mails Ihrer Mitarbeiter zu bewerten oder Ihren Kommunikations-Score zu sehen.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4905,11 +4895,11 @@ under control.</source>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>Die Verbindung zum Server wurde unterbrochen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Huch, irgendwas ist nicht in Ordnung.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

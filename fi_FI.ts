@@ -1,320 +1,318 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="pt_BR" sourcelanguage="en_GB">
+<TS version="2.1" language="fi_FI" sourcelanguage="en_GB">
 <context>
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Adicionar nova conta</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation>Calendários Públicos</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation>Calendários Compartilhados</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Caso não encontre o calendário que está procurando, verifique se o compartilhamento já foi aceito.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Novo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation>Não encontramos novos calendários públicos</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation>Não foi possível encontrar novos calendários compartilhados</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation>Ok</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>O driver nVidia nouveau foi detectado, o mesmo é conhecido por causar falhas. Por favor, reinicie o Hiri para forçar a renderização do software.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Oops, não encontramos seu email…</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Anexos</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Procurar em Catálogo de Endereços (%1 + Tab)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Instalando…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fechar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Falha!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Atualização completa. Por favor reiniciar o Hiri…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation>Atualizando… %1%</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Esconder</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation>%1 mais</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation>reiniciar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation>Desculpe-nos. Não foi possível carregar sua agenda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation>O anexo &apos;%1&apos; será baixado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation>Anexo &apos;%1&apos; baixado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation>Download do anexo &apos;%1&apos; falhou</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation>Reunião criada</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation>Erro ao deletar o anexo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation>Erro ao adicionar calendário público</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation>Erro ao adicionar calendário compartilhado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation>Excluindo agendamento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation>Agendamento deletado</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation>Agendamento removido</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation>Erro ao remover o agendamento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation>Renomear agendamento</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation>Agenda renomeada</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Selecione um horário:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Dê um nome à sua agenda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Renomear</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation>Minhas agendas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation>Tem certeza de que deseja excluir este evento?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Sim, exclua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation>Agendas públicas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation>Tem certeza que deseja remover a agenda %1?
-Você pode adiciona-la mais tarde.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation>Sim, remova</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation>Agendas compartilhadas</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation>Criar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation>Semana de trabalho</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Week</source>
-        <translation>Semana</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Month</source>
-        <translation>Mês</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation>+ mais %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation>Todo o dia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation>Sem assunto</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Dê um nome a sua agenda</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation>Vá para hoje</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation>Ocorreu um erro, por favor, tente novamente</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation>Este é um encontro recorrente.
-Deseja encaminhar somente esse evento ou todos os eventos?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation>Encontro único</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation>Série inteira</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
@@ -433,7 +431,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Todo o dia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>now</source>
@@ -485,11 +483,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>contact us.</source>
+        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
+        <source>contact us.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -596,7 +594,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -628,11 +626,15 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete contact:</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -640,7 +642,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to your contacts</source>
@@ -652,10 +654,6 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Are you sure you want to delete contact:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -686,15 +684,15 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Create contact</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>In</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -706,7 +704,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
@@ -739,6 +737,10 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You have no meetings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -760,10 +762,6 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Todo o dia</translation>
-    </message>
-    <message>
-        <source>You have no meetings</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -847,7 +845,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel reminder</source>
@@ -915,7 +913,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
@@ -929,11 +927,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Error downloading all attachments</source>
+        <source>Attachments downloaded to: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Attachments downloaded to: %1</source>
+        <source>Error downloading all attachments</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -957,11 +955,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Sim, exclua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel meeting</source>
@@ -969,7 +967,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1040,7 +1038,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
@@ -1048,11 +1046,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Sim, exclua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -1105,6 +1103,14 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Next step</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1114,14 +1120,6 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1157,11 +1155,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
 <context>
     <name>EmailDragState</name>
     <message>
-        <source>(No subject)</source>
+        <source>conversations selected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>conversations selected</source>
+        <source>(No subject)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1169,6 +1167,10 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 on behalf of %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1192,10 +1194,6 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Meeting request has been cancelled.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1209,6 +1207,10 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
 </context>
 <context>
     <name>EmailList</name>
+    <message>
+        <source>%1 matches found</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Loading…</source>
         <translation type="unfinished"></translation>
@@ -1227,10 +1229,6 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 matches found</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1508,11 +1506,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Sim, exclua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
@@ -1575,7 +1573,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Renomear</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark all as read</source>
@@ -1587,11 +1585,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ok</source>
@@ -1833,19 +1831,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>25% off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send invites</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>25% off</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1854,6 +1844,14 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send invites</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2188,7 +2186,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2237,15 +2235,15 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delegate is used to forward a task to someone.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>What is</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delegate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delegate is used to forward a task to someone.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2273,15 +2271,15 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Optimizing DB, please be patient…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Checking</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2387,7 +2385,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2406,7 +2404,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Todo o dia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -2454,7 +2452,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
@@ -2462,11 +2460,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Sim, exclua</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2676,11 +2674,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Novo</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2940,6 +2938,10 @@ email to the next level.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Let them know why you&apos;re</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>accepting</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2957,10 +2959,6 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send response</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Let them know why you&apos;re</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3053,7 +3051,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3064,7 +3062,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Procurar em Catálogo de Endereços (%1 + Tab)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3251,7 +3249,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3357,7 +3355,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3381,7 +3379,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3407,7 +3405,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3606,10 +3604,6 @@ Don&apos;t worry, your emails are still safe on the server!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please note:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3625,6 +3619,10 @@ Don&apos;t worry, your emails are still safe on the server!</source>
         <source>Load</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This will take effect only after you restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsOof</name>
@@ -3634,7 +3632,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3747,6 +3745,10 @@ Don&apos;t worry, your emails are still safe on the server!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>(Enabled when notifications are switched on)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close to system tray</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3785,7 +3787,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Anexos</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3819,10 +3821,6 @@ This will let you pin Hiri icon to your launcher.</source>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SettingsSignature</name>
@@ -3836,7 +3834,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -3860,6 +3858,10 @@ This will let you pin Hiri icon to your launcher.</source>
 <context>
     <name>SingleAttachment</name>
     <message>
+        <source>Attachment downloaded to: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error downloading attachment</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3873,10 +3875,6 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Attachment downloaded to: %1</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4146,7 +4144,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation>Sem assunto</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4239,6 +4237,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You marked this message as a task on %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>you</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4271,14 +4273,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Open task</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>to</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4286,16 +4280,20 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <source>for</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Open task</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation>Renomear</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Excluir</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4324,7 +4322,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4380,7 +4378,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Não, mantenha</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4402,11 +4400,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation>Fechar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Salvar</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4516,6 +4514,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>If you have any questions, please</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>get in touch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4565,10 +4567,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If you have any questions, please</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4634,6 +4632,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Sorry, some attachments could not be found and will be removed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 attachments added.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4674,6 +4676,10 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Trial:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Ends today</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4687,10 +4693,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation>Todo o dia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Due in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starts in</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4707,22 +4721,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Trial:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Due in</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Starts in</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

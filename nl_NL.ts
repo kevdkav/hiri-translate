@@ -1115,6 +1115,14 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
         <source>Password has changed or expired.</source>
         <translation>Het wachtwoord is gewijzigd of verlopen.</translation>
     </message>
+    <message>
+        <source>Yes, you can send me an email once per month.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
@@ -1183,12 +1191,12 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
         <translation>Vergaderingsverzoek geweigerd.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Het vergaderingsverzoek is geannuleerd.</translation>
-    </message>
-    <message>
         <source>When: %1</source>
         <translation>Wanneer: %1</translation>
+    </message>
+    <message>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1316,6 +1324,17 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     <message>
         <source>Bcc</source>
         <translation>BCC</translation>
+    </message>
+</context>
+<context>
+    <name>ErrorScreen</name>
+    <message>
+        <source>Oops.</source>
+        <translation>Oeps.</translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation>Doorgaan</translation>
     </message>
 </context>
 <context>
@@ -2066,17 +2085,6 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
 </context>
 <context>
-    <name>LoginWizard</name>
-    <message>
-        <source>Offline, connect and try again.</source>
-        <translation>Offline. Verbind met het internet en probeer het opnieuw.</translation>
-    </message>
-    <message>
-        <source>Seems like your network connection was interrupted.</source>
-        <translation>Het lijkt erop dat je netwerkverbinding is onderbroken.</translation>
-    </message>
-</context>
-<context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
@@ -2242,8 +2250,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Als de e-mail die je doorstuurt een taak voor jou bevat, dan ontvangt iedere ontvanger die je toevoegt aan Actie ook die taak.
- Daarom noemen we het Overdragen.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2495,8 +2502,8 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
         <translation>Vergaderingsverzoek geweigerd.</translation>
     </message>
     <message>
-        <source>Meeting request has been canceled.</source>
-        <translation>Vergaderingsverzoek is geannuleerd.</translation>
+        <source>Meeting request has been cancelled.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2560,23 +2567,6 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     <message>
         <source>Not Office365?</source>
         <translation>Geen Office365?</translation>
-    </message>
-</context>
-<context>
-    <name>OfflineScreen</name>
-    <message>
-        <source>Oops.</source>
-        <translation>Oeps.</translation>
-    </message>
-    <message>
-        <source>We couldn&apos;t authenticate you because of connection problems.
-Please check your internet connection and try again.</source>
-        <translation>Het authenticeren is mislukt vanwege verbindingsproblemen.
-Controleer je internetverbinding en probeer het opnieuw.</translation>
-    </message>
-    <message>
-        <source>Continue</source>
-        <translation>Doorgaan</translation>
     </message>
 </context>
 <context>
@@ -4844,65 +4834,65 @@ onder controle te krijgen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Er is een fout opgetreden tijdens het downloaden van de bijlage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Opslaan niet mogelijk: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation>Van</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
-        <translation>voor</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation>Fout tijdens opslaan van bericht. Controleer je wijzigingen; sommige zijn wellicht niet doorgevoerd.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oeps! Er is iets misgegaan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation>De Hiri-server is offline. Je kunt e-mails van je collegae niet beoordelen en je communicatiescore niet bekijken.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> namens </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>De verbinding met de server is onderbroken</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Ai! Er is iets misgegaan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation>Interpolatie {} testen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

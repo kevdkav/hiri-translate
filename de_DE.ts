@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Oh, wir können Ihre Post nicht finden...</translation>
+        <translation>Oh, wir können Ihre Post nicht finden…</translation>
     </message>
 </context>
 <context>
@@ -1879,7 +1879,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation>Nächster/Vorheriger Faden</translation>
+        <translation>Nächster/Vorheriger Faden:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
@@ -1971,7 +1971,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>&quot;Zur Kenntnis&quot; öffnen</translation>
+        <translation>&quot;Zur Kenntnis&quot; öffnen:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -3808,7 +3808,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation>Frage immer wohin Anhänge heruntergeladen werden</translation>
+        <translation>Immer fragen, wohin Anhänge heruntergeladen werden soll</translation>
     </message>
     <message>
         <source>Download to</source>
@@ -3820,7 +3820,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation>Fehler beim Ordner auswählen. Versuche einen anderen Ordner.</translation>
+        <translation>Fehler bei der Auswahl den Ordners. Probieren Sie einen anderen Ordner.</translation>
     </message>
     <message>
         <source>Spell check</source>
@@ -3828,7 +3828,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation>Rechtschreibüberprüfung aktiviert</translation>
+        <translation>Rechtschreibprüfung aktiviert</translation>
     </message>
     <message>
         <source>Language</source>
@@ -3840,7 +3840,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation>(Aktiviert wenn Notifications aktiviert sind)</translation>
+        <translation>(Aktiviert wenn Benachrichtigungen eingeschaltet sind)</translation>
     </message>
 </context>
 <context>
@@ -3851,7 +3851,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation>Füge &quot;--&quot; oben bei der Signatur ein</translation>
+        <translation>Füge &quot;--&quot; über der Signatur ein</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3896,7 +3896,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation>Anhang heruntergeladen nach: %1</translation>
+        <translation>Anhang wurde nach %1 heruntergeladen</translation>
     </message>
 </context>
 <context>
@@ -3911,11 +3911,11 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Remove task</source>
-        <translation>Entferne Aufgabe</translation>
+        <translation>Entferne die Aufgabe</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation>Füge Aufgabe hinzu</translation>
+        <translation>Füge eine Aufgabe hinzu</translation>
     </message>
 </context>
 <context>
@@ -3972,11 +3972,11 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Teile Deine E-Mails mit der Aktion/FYI Aufteilung.</translation>
+        <translation type="unfinished">Trenne Deine E-Mails mit der Aktion/FYI split.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation>Es fügt Aktion und FYI Filter zu der dunkelgrauen Box auf der linken Seite hinzu.</translation>
+        <translation>Es fügt Aktion und einen FYI Filter zu der dunkelgrauen Box auf der linken Seite hinzu.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
@@ -3988,7 +3988,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation>Ein Dashboard wird aufgehen nach 90 Sekunden Inaktivität, um Dich erinnern nicht so oft deine E-Mails anzusehen. Dies hilft dir fokussiert zu bleiben und Zeit zu sparen.</translation>
+        <translation>Ein Dashboard wird nach 90 Sekunden Inaktivität aufgehen, um Dich daran zu erinnern, deine E-Mails nicht so oft zu prüfen. Dies hilft dir dabei, fokussiert zu bleiben und Zeit zu sparen.</translation>
     </message>
     <message>
         <source>Task List</source>
@@ -4000,7 +4000,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation>Fügt eine Aufgabenliste auf der rechten Seite hinzu. Du kannst einfach E-Mails in dieses Panel ziehen, um eine Aufgabe zu erstellen.</translation>
+        <translation>Fügt eine Aufgabenliste auf der rechten Seite hinzu. Du kannst einfach E-Mails in dieses Panel ziehen, um eine Aufgabenliste zu erstellen.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
@@ -4036,51 +4036,51 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewege die Betreffzeile nach unten im E-Mail-Verfassen Fenster.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Leeres Postfach</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die, die die Kunst des leeren Postfaches praktizieren.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Benötigt Aktion/FYI Aufteilung</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erlaubt Dir einen leeren Posteingang zu erreichen. Normalerweise wenn du den Aktionen/FYI split Skill (mehr dazu im Aktionen/FYI split Skill) aktivierst, bleiben gefilterte E-Mails im Posteingang, sind aber farblich markiert. Wenn  der &quot;Inbox Zero Skill&quot; aktiviert ist, werden diese E-Mails in den jeweiligen Filter verschoben. Diese erlaubt dir, deinen Posteingang zu entleeren.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Bewerte E-Mails</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Werde besser im Kommunizieren.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Demnächst!</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Der beste Weg deine Kommunikationsfähigkeiten zu verbessern sind ehrliche Rückmeldungen und wo wäre denn ein besserer Ort um danach zu fragen als in einer E-Mail?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erlaube Anderen deine E-Mails anhand der vier Säulen guter Kommunikation - Deutlichkeit, Kürze, Umgangston und Benehmen - zu bewerten. Basieren auf den Rückmeldungen deiner Kollegen wird Hiri wird dir eine  Punktzahl geben zusammen mit Vorschlägen, wie du deine Kommunikationsfähigkeiten verbessern kannst. Diese Punktzahl ist für niemanden sonst sichtbar. Bewertungen sind anonym - du kannst nicht wissen, wer dich bewertet hat.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist Zeit, sich zu verbessern.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Steiger deine Produktivität mit diesen E-Mail Produktivitäts Tricks.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4210,11 +4210,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Anhängen der Protokolle</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieh Dir die FAQ in unserem Hilfecenter an</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
@@ -4222,7 +4222,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Oder tritt direkt mit Team Hiri in Kontakt</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
@@ -4874,7 +4874,7 @@ under control.</source>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Oh! Etwas lief schief</translation>
     </message>
 </context>
 <context>
@@ -4899,7 +4899,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Huch, irgendwas ist nicht in Ordnung</translation>
     </message>
 </context>
 <context>

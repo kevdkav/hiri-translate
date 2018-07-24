@@ -1215,11 +1215,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished"></translation>
+        <translation>Este é o lote</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Estamos baixando seus e-mails…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
@@ -1227,29 +1227,29 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar mais e-mails</translation>
     </message>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 encontrados</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta reunião foi atualizada</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem marcada como lixo</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem não esta mais na lixeira. Foi movida para caixa de entrada.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
@@ -1257,15 +1257,15 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Não está mais na lixeira. Foi movida para caixa de entrada.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação de reunião aceita</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação de reunião não foi aceita</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
@@ -1273,19 +1273,19 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem maior do que o servidor permite.</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>A mensagem não enviada esta na sua caixa de e-mails a enviar. Tente dividir os anexos em múltiplas mensagens.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você está offline. O e-mail foi movido para a ciaxa de saída.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Não pudemos enviar a sua mensagem - ela contém destinatários inválidos</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
@@ -1293,7 +1293,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem movida para caixa importante. Atividade removida.</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1308,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation>Ação/Para</translation>
     </message>
     <message>
         <source>To</source>
@@ -1331,22 +1331,22 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noossa.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar</translation>
     </message>
 </context>
 <context>
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Login Exchange</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>alguém@seuprovedor.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -1378,7 +1378,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -1418,7 +1418,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Não é Exchange?</translation>
     </message>
 </context>
 <context>
@@ -1536,19 +1536,19 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Sim, remova-os</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Não, mantenha-os</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desculpe, você não pode remover pastas euquanto estiver offline.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Desculpe, você não pode marcar como lida enquanto estiver offline.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>

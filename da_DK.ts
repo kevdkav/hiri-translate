@@ -879,7 +879,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>I morgen</translation>
     </message>
     <message>
         <source>Next week</source>

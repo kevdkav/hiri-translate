@@ -57,7 +57,7 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>קבצים מצורפים</translation>
     </message>
 </context>
 <context>

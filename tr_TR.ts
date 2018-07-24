@@ -1299,11 +1299,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönderen</translation>
     </message>
     <message>
         <source>On behalf of</source>
-        <translation type="unfinished"></translation>
+        <translation>Adına</translation>
     </message>
     <message>
         <source>Action/To</source>
@@ -1311,7 +1311,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Alıcı</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
@@ -1334,274 +1334,274 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Devam et</translation>
     </message>
 </context>
 <context>
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange kullanıcı girişi</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>birisi@servissağlayıcı.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>şifre</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>kullanıcı adı (isteğe baglı)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>Kullanıcı girişi yaparken sorun mu yaşıyorsunuz? Buraya tıklayın</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunucu ayarlarını otomatik algıla</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunucu</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>sunucu (örn. sunucu.alanadı.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Doğrulama</translation>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Temel</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation type="unfinished"></translation>
+        <translation>Sunucu sürümü</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2010</translation>
     </message>
     <message>
         <source>Exchange 2013</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2013</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protocol</translation>
     </message>
     <message>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>SSL sertıfıkasını doğrula</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki adım</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange değil mi?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosyaları buraya bırakın</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"></translation>
+        <translation>Dışarıdan gelen imajları bir defalık göster</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu gönderenden gelen imajları her zaman göster</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen bir dosya seçin</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekle</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir seçenek seçin</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör seçin</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken klasör oluşturamazsınız.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör oluşturuluyor %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör oluşturuldu</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken klasörleri yeniden adlandıramazsınız.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör yeniden adlandırıldı</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken klasörleri silemezsiniz.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot;isimli klasörü ve tüm içeriğini kalıcı olarak silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; isimli klasörü silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 klasörü siliniyor</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör silindi</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet,sil</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken klasörlerin içini boşaltamazsınız.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; isimli klasör ve ona ait tüm içerik ve alt klasörleri kalıcı olarak silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; klasörüne ait tüm içeriği silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 klasörü boşaltılıyor</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör boşaltıldı.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet. onları sil</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, onları silme</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken klasörleri taşıyamazsınız.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, çevrimdışıyken okundu olarak işaretleyemezsiniz.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümü okundu olarak işaretleniyor...</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm nesneler okundu olarak işaretlendi.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesneler okundu olarak işaretlenirken hata oluştu.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt klasör oluştur</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Klasör oluştur</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniden adlandır</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü okundu olarak işaretle</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>İçeriği boşalt</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamam</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>İmzaya eklendi: &quot;Epostalarımı kontrol altına alıyorum * &lt;a href=&quot;https://www.hiri.com/&quot;&gt;Hiri kullanıyorum&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
@@ -1612,7 +1612,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgarca</translation>
     </message>
     <message>
         <source>Catalan</source>
@@ -1628,87 +1628,87 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Almanca</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Yunanca</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>İngilizce * Kanada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>İngilizce * Birleşik Krallık</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>İngilizce *Birleşik Devletler</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>İspanyolca * İspanya</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estonian</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Farsça</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>Faroese</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Fransızca</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>İbranice</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hintçe</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Croatian</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Macarca</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesian</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>İtalyanca</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Korece</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Litvanyaca</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Leton</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Norveççe (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Flemenkçe * Hollanda</translation>
     </message>
     <message>
         <source>Polish</source>
@@ -1716,23 +1716,23 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portekizce * Brezilya</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portekizce * Portekiz</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Romence</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rusça</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sırpça (Latin)</translation>
     </message>
     <message>
         <source>Slovak</source>
@@ -1744,7 +1744,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Arnavutça</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
@@ -1752,7 +1752,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>İsveççe</translation>
     </message>
     <message>
         <source>Tamil</source>
@@ -1764,7 +1764,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Türkçe</translation>
     </message>
     <message>
         <source>Ukranian</source>
@@ -1779,15 +1779,15 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Dosya konumunu yazdır</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Üzgünüm, PDF yaratılması başarısız oldu :(</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazdır</translation>
     </message>
 </context>
 <context>
@@ -1798,11 +1798,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Birleştirilmis gelen kutusu</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Düzenlenmemişe taşındı</translation>
     </message>
 </context>
 <context>

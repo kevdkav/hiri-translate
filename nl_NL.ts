@@ -1117,11 +1117,11 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, je mag me eenmaal per maand een e-mail sturen.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekijk onze mening over privacy op &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1196,7 +1196,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingsverzoek is geannuleerd.</translation>
     </message>
 </context>
 <context>
@@ -2503,7 +2503,7 @@ Wil je alleen deze gebeurtenis doorsturen of alle gebeurtenissen in de reeks?</t
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergaderingsverzoek is geannuleerd.</translation>
     </message>
 </context>
 <context>

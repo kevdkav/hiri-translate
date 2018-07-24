@@ -624,7 +624,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao criar o contato</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -636,7 +636,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sim, pode excluir.</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -644,34 +644,34 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar aos contatos</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>adicionado a sua pasta de contatos</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Erro ao criar um contato</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza que quer excluir este contato:</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Pesquisar</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrando todos os contatos, digite algo para filtrar</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os contatos</translation>
     </message>
     <message>
         <source>GAL</source>

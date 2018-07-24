@@ -46,11 +46,11 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Çökmelere sebep olduğu bilinen nVidia nouveau sürücüleri bulundu. Lütfen Hiri&apos;yi yeniden baslatarak software rendering kullanmaya zorlayın.</translation>
+        <translation>Çökmelere sebep olduğu bilinen nVidia nouveau sürücüleri bulundu. Lütfen Hiri&apos;yi yeniden başlatarak yazılımsal görüntülemeyi kullanmaya zorlayın.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Eyvah, postanızı bulamıyoruz...</translation>
+        <translation>Eyvah, postanızı bulamıyoruz…</translation>
     </message>
 </context>
 <context>
@@ -64,14 +64,14 @@
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Küresel Adres Lıstesini Ara (%1 + Tab)</translation>
+        <translation>Küresel Adres Listesinde Ara (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Yükleniyor...</translation>
+        <translation>Yükleniyor…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Güncelleme bitti. Lütfen Hiri&apos;yi yeniden başlatın...</translation>
+        <translation>Güncelleme bitti. Lütfen Hiri&apos;yi yeniden başlatın…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation>Eklentı &apos;%1&apos; indirilemedi</translation>
+        <translation>Eklenti &apos;%1&apos; indirilemedi</translation>
     </message>
     <message>
         <source>Meeting created</source>
@@ -136,11 +136,11 @@
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation>Herkese açık takvime eklenirken hata oluştu</translation>
+        <translation>Herkese açık takvim eklenirken hata oluştu</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation>Paylaşılan takvime eklenirken hata oluştu</translation>
+        <translation>Paylaşılan takvim eklenirken hata oluştu</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
@@ -481,7 +481,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation>Lütfen seçin...</translation>
+        <translation>Lütfen seçin…</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
@@ -674,7 +674,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation type="unfinished"></translation>
+        <translation>KAL</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
@@ -723,11 +723,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugün</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Yarın</translation>
     </message>
     <message>
         <source>Go to calendar</source>
@@ -735,7 +735,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation>Toplantılarınız yükleniyor...</translation>
+        <translation>Toplantılarınız yükleniyor…</translation>
     </message>
     <message>
         <source>You have no meetings</source>
@@ -743,11 +743,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>bugün</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>yarın</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
@@ -839,7 +839,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation type="unfinished"></translation>
+        <translation>de</translation>
     </message>
 </context>
 <context>
@@ -929,7 +929,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation>Attachments downloaded to: %1</translation>
+        <translation>Eklenti şuraya indirildi: %1</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
@@ -988,15 +988,15 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Yinelemeyi iptal et</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Yinelemeyi sil</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Yinelemeyi düzenle</translation>
     </message>
 </context>
 <context>
@@ -1150,7 +1150,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation>Hatırlatma eklenirken hata oluştu</translation>
+        <translation>Hatırlatma eklenirken hata oluştu…</translation>
     </message>
 </context>
 <context>
@@ -1196,7 +1196,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation>Toplantı talebi iptal edildi</translation>
+        <translation>Toplantı talebi iptal edildi.</translation>
     </message>
 </context>
 <context>
@@ -1214,7 +1214,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation>Yükleniyor...</translation>
+        <translation>Yükleniyor…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
@@ -1222,7 +1222,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation>Postalarınızı alıyoruz...</translation>
+        <translation>Postalarınızı alıyoruz…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
@@ -1292,7 +1292,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj Bilgi&apos;ye taşındı. Görev kaldırıldı.</translation>
     </message>
 </context>
 <context>
@@ -1307,7 +1307,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation>Eylem/Hedef</translation>
     </message>
     <message>
         <source>To</source>
@@ -1315,22 +1315,22 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgi/Cc</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgi</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Gizli Bilgi</translation>
     </message>
 </context>
 <context>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüh.</translation>
     </message>
     <message>
         <source>Continue</source>
@@ -1345,7 +1345,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>birisi@servissağlayıcı.com</translation>
+        <translation>birisi@servissağlayıcın.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -1551,7 +1551,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation>Tümü okundu olarak işaretleniyor...</translation>
+        <translation>Tümü okundu olarak işaretleniyor…</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
@@ -1608,7 +1608,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikanca - Güney Afrika</translation>
     </message>
     <message>
         <source>Bulgarian</source>
@@ -1616,15 +1616,15 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalonca</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Çekçe</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Danca</translation>
     </message>
     <message>
         <source>German</source>
@@ -1712,7 +1712,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Lehçe</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
@@ -1736,11 +1736,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovakça</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovence</translation>
     </message>
     <message>
         <source>Albanian</source>
@@ -1748,7 +1748,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sırpça (Kiril)</translation>
     </message>
     <message>
         <source>Swedish</source>
@@ -1756,11 +1756,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamilce</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tacik</translation>
     </message>
     <message>
         <source>Turkish</source>
@@ -1768,11 +1768,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukraynaca</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamca</translation>
     </message>
 </context>
 <context>
@@ -1794,7 +1794,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mesaj Bilgi&apos;ye aktarıldı. Görev kaldırıldı.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -1813,11 +1813,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seni Hiri&apos;yi denemeye davet ediyorum. Zaman kazandıran, gününü organize eden ve iletişimi iyileştiren bir e-posta uygulaması. Buradan indirebilirsin:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğer beğendiyseniz, bağlantıyı takip ederek %25 indirim alabilirsiniz:</translation>
     </message>
     <message>
         <source>Thanks!</source>
@@ -1825,19 +1825,19 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation>Hiri&apos;yi dene...</translation>
+        <translation>Hiri&apos;yi dene…</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sevgi paylaştıkça çoğalır!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel ve çalışma arkadaşlarınızı Hiri&apos;yi denemeye davet edin. Davet ettiğiniz ilk 3 kişi</translation>
     </message>
     <message>
         <source>25% off</source>
-        <translation type="unfinished"></translation>
+        <translation>%25 indirim</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>

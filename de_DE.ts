@@ -4220,11 +4220,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Anhängen der Protokolle</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieh Dir die FAQ in unserem Hilfecenter an</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
@@ -4232,7 +4232,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Oder tritt direkt mit Team Hiri in Kontakt</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>

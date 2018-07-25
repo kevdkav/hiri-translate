@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvis du ikke kan finde den kalender du leder efter, så dobbelttjek om du har accepteret delingsanmodningen.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -674,7 +674,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>GAL</source>
-        <translation type="unfinished"></translation>
+        <translation>GAL</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>

@@ -1118,11 +1118,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oui, vous pouvez m&apos;envoyer un email par mois.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consultez notre avis sur la vie privée &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;ici&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1197,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>La demande de réunion a été annulée.</translation>
     </message>
 </context>
 <context>
@@ -2251,7 +2251,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si l&apos;email que vous transférez contient une tâche qui vous est attribuée, chaque destinataire que vous ajoutez à l&apos;Action se verra attribué vos tâches par défaut.
+C&apos;est pour cela que nous l&apos;appelons Déléguer.</translation>
     </message>
 </context>
 <context>
@@ -2504,7 +2505,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>La demande de réunion a été annulée.</translation>
     </message>
 </context>
 <context>
@@ -2856,7 +2857,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer votre brouillon ?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer votre brouillon ?</translation>
     </message>
     <message>
         <source>Discard draft</source>
@@ -3034,7 +3035,7 @@ email au niveau suivant.</translation>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation>Toute la journée?</translation>
+        <translation>Toute la journée ?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
@@ -3142,7 +3143,7 @@ email au niveau suivant.</translation>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation>Cliquez sur les tags pour affiner votre recherche!</translation>
+        <translation>Cliquez sur les tags pour affiner votre recherche !</translation>
     </message>
     <message>
         <source>What</source>
@@ -3158,55 +3159,55 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation>non lu:</translation>
+        <translation>non lu :</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation>tâche:</translation>
+        <translation>tâche :</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation>réunion:</translation>
+        <translation>réunion :</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation>attachement:</translation>
+        <translation>pièce-jointe :</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation>date:</translation>
+        <translation>date :</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation>aujourd&apos;hui:</translation>
+        <translation>aujourd&apos;hui :</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation>cette semaine:</translation>
+        <translation>cette semaine :</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation>ce mois-ci:</translation>
+        <translation>ce mois-ci :</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation>dossier:</translation>
+        <translation>dossier :</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation>actionable:</translation>
+        <translation>actionnable :</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation>fyi:</translation>
+        <translation>fyi :</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation>envoyé:</translation>
+        <translation>envoyé :</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation>Vous n&apos;avez pas trouvé ce que vous cherchiez?</translation>
+        <translation>Vous n&apos;avez pas trouvé ce que vous cherchiez ?</translation>
     </message>
     <message>
         <source>Sync more</source>
@@ -3297,7 +3298,7 @@ Vous pouvez toujours utiliser Hiri jusqu&apos;à ce que la connexion avec le ser
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation>Choisissez le nombre d&apos;emails que vous voulez télécharger:</translation>
+        <translation>Choisissez le nombre d&apos;emails que vous voulez télécharger :</translation>
     </message>
     <message>
         <source>1 month</source>
@@ -3347,9 +3348,9 @@ Vous pouvez toujours utiliser Hiri jusqu&apos;à ce que la connexion avec le ser
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation>Êtes-vous sûr de vouloir supprimer ce compte de Hiri?
+        <translation>Êtes-vous sûr-e de vouloir supprimer ce compte de Hiri ?
 Ceci effacera tous les paramètres et la base de données d&apos;email LOCAL.
-Ne vous inquiétez pas, vos emails restent en sécurité sur le serveur!</translation>
+Ne vous inquiétez pas, vos emails restent en sécurité sur le serveur !</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3517,7 +3518,7 @@ Alias connus :</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation>Afficher le tableau de bord lorsqu&apos;il n&apos;interagit pas avec Hiri pour:</translation>
+        <translation>Afficher le tableau de bord lorsqu&apos;il n&apos;interagit pas avec Hiri pour :</translation>
     </message>
 </context>
 <context>
@@ -3566,7 +3567,7 @@ Alias connus :</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation>Fini!</translation>
+        <translation>Terminé !</translation>
     </message>
     <message>
         <source>Check for update</source>
@@ -3768,7 +3769,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>Done!</source>
-        <translation>Fini!</translation>
+        <translation>Terminé !</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
@@ -3880,7 +3881,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation>Yikes! Je ne suis pas sûr de savoir comment ouvrir cette pièce jointe!</translation>
+        <translation>Oups ! Je ne suis pas sûr de savoir comment ouvrir cette pièce jointe !</translation>
     </message>
     <message>
         <source>Attachment downloaded to: %1</source>
@@ -3941,15 +3942,15 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>What does it do?</source>
-        <translation>Qu&apos;est ce que ça fait?</translation>
+        <translation>Qu&apos;est ce que ça fait ?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation>A quoi ressemble-t-il?</translation>
+        <translation>A quoi ressemble-t-il ?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation>Pourquoi?</translation>
+        <translation>Pourquoi ?</translation>
     </message>
 </context>
 <context>
@@ -4040,7 +4041,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous permet de réussir l&apos;objectif de Boîte Vide. Normalement, quand vous activez la séparation &quot;Action / FYI&quot; (consultez la compétence &quot;Action / FYI&quot; pour plus d&apos;informations), les emails déplacés vers ces filtres restent dans votre boîte de réception, mais une couleur leur est assortie. Activer la compétence Boîte Vide signifie que ces emails seront déplacés dans les filtres &quot;Action / FYI&quot;. Cela vous permet de vider votre boîte principale.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
@@ -4267,11 +4268,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Were these tasks completed?</source>
-        <translation>Ces tâches ont-elles été accomplies?</translation>
+        <translation>Ces tâches ont-elles été accomplies ?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation>Cette tâche était-elle terminée?</translation>
+        <translation>Cette tâche était-elle terminée ?</translation>
     </message>
     <message>
         <source>Delegated</source>
@@ -4792,7 +4793,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation>Bienvenue à Hiri!</translation>
+        <translation>Bienvenue sur Hiri !</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email

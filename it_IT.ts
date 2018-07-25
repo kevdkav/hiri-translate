@@ -1357,7 +1357,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>Problemi nel Login? Clicca qui</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>

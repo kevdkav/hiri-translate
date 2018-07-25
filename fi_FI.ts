@@ -887,7 +887,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished"></translation>
+        <translation>Mukautettu päivä ja aika</translation>
     </message>
 </context>
 <context>
@@ -918,7 +918,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitettavasti joitain liitteitä ei löytynyt ja ne poistetaan:</translation>
     </message>
 </context>
 <context>
@@ -1284,7 +1284,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Viestiäsi ei voitu lähettää - se sisältää virheellisiä vastaanottajia</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
@@ -2941,23 +2941,23 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Saata tiedoksi, että sinä</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>hyväksyt</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>hyväksyt alustavasti</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation type="unfinished"></translation>
+        <translation>kieltäydyt</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>tai jätä tyhjäksi.</translation>
     </message>
     <message>
         <source>Send response</source>
@@ -3141,7 +3141,7 @@ postisi seuraavalle tasolle.</translation>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation type="unfinished"></translation>
+        <translation>Napsauta tunnisteita määrittääksesi haun uudelleen!</translation>
     </message>
     <message>
         <source>What</source>
@@ -3157,11 +3157,11 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>lukematon:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation type="unfinished"></translation>
+        <translation>tehtävä:</translation>
     </message>
     <message>
         <source>meeting:</source>
@@ -3169,7 +3169,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation type="unfinished"></translation>
+        <translation>liite:</translation>
     </message>
     <message>
         <source>date:</source>
@@ -3235,7 +3235,7 @@ postisi seuraavalle tasolle.</translation>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Älä valitse mitään</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -3291,7 +3291,8 @@ postisi seuraavalle tasolle.</translation>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tilauksesi tietoja ei voitu noutaa.
+Voit käyttää Hiriä siihen saakka, kunnes yhteys palvelimeen on muodostettu.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
@@ -3509,11 +3510,11 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kojelauta kun käyttämättä</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä kojelauta kun Hiri on ollut käyttämättä:</translation>
     </message>
 </context>
 <context>
@@ -3759,11 +3760,12 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo työpöytätietue ja lisää se sovellusvalikkoosi.
+Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo työpöytätietue</translation>
     </message>
     <message>
         <source>Done!</source>
@@ -3783,7 +3785,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähettäminen ja vastaaminen</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
@@ -3834,7 +3836,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisällytä &quot;--&quot; allekirjoituksen yläosaan</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3871,7 +3873,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Voi! Ei tietoa miten tämä liite tulisi avata!</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3921,7 +3923,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvaile tehtävä tässä</translation>
     </message>
 </context>
 <context>
@@ -3983,7 +3985,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää tehtävälistan ikkunan oikeaan laitaan. Voit vetää sähköpostiviestit tähän paneeliin, jolloin niistä muodostuu tehtävälista.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
@@ -4043,7 +4045,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Terästäydy entistä paremmaksi viestijäksi.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
@@ -4199,11 +4201,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Auta meitä auttamaan sinua</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitä enemmän yksityiskohtia kerrot meille, sen paremmin pystymme auttaa sinua.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
@@ -4234,11 +4236,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Task</name>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Suoritettiinko nämä tehtävät?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Suoritettiinko tämä tehtävä?</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
@@ -4286,7 +4288,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tehtävä</translation>
     </message>
 </context>
 <context>
@@ -4415,15 +4417,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ei tehtävää)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hups, muistutusta ei voitu hylätä…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hups, tehtävän muistutuksen torkuttaminen ei onnistunut…</translation>
     </message>
 </context>
 <context>
@@ -4437,11 +4439,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ei tehtävää)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitettavasti suoritettua tehtävää ei voi siirtää</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
@@ -4637,7 +4639,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Valittevasti joitain liitteitä ei löytynyt ja ne poistetaan:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>

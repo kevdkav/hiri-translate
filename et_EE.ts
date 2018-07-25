@@ -894,23 +894,23 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri uus versioon on saadaval! Kas Sa soovid uuendada?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Uuenda kohe</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuleta mulle hiljem meelde</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali fail</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta vormingus</translation>
     </message>
     <message>
         <source>Save</source>
@@ -918,41 +918,41 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, mõnda faili ei leitud ja need eemaldatakse:</translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Lae alla kõik failid</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail alla laetud kataloogi: %1</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekkis viga failide salvestamisel</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kindel et tahad selle sündmuse tühistada?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, tühista</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei ära tühista</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kindel et tahad seda sündmust kustutada?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -964,7 +964,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista koosolek</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -976,66 +976,66 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista kõik</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta kõik</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda kõiki</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista see</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta see</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, Sa ei saa lisada meeldetuletusi kui ei ole ühendatud.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kinnita koosolek</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Lükka koosolek tagasi</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Vasta</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vasta kõigile</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeeri</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Sul juba on selle sõnumi mustand</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhiveeri</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Lükka edasi</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1043,7 +1043,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>See vestlus sisaldab mustandeid. Kas oled kindel et tahad seda kustutada?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1055,144 +1055,144 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava uues aknas</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi mitte loetuks</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi loetuks</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Sul juba on selle sõnumi mustand</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Edasta</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Prindi / Salvesta PDF-iks</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi et see ei ole rämpspost</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi rämpspostiks</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, me ei toeta %1. Hiri töötab ainult Exchange/Office 365 emaili aadressidega.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisesta emaili aadress</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>keegi@sinumeil.com</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, võid saata mulle emaili korra kuus.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata meie privaatsus reegleid &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;siin&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgmine samm</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisame konto.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Salasõna on muudetud või aegunud.</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(KUSTUTATUD)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(MUSTANDID)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(KUSTUTATUD)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(MUSTANDID)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga meeldetuletuse loomisel…</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>vestlused valitud</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(pealkiri puudub)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(MUSTAND)</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, %2 poolt</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosoleku ettepanek aktsepteeritud.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakutud uus aeg: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosoleku ettepanek esialgselt vastu võetud.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosoleku ettepanek tagasi lükatud.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Millal: %1</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>

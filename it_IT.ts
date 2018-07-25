@@ -1361,7 +1361,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Individuazione automatica delle impostazioni del server</translation>
     </message>
     <message>
         <source>Server</source>
@@ -1369,11 +1369,11 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>server (ad es. server.dominio.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticazione</translation>
     </message>
     <message>
         <source>NTLM</source>

@@ -1128,7 +1128,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(נמחק)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>

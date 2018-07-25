@@ -4827,7 +4827,7 @@ zurück zu erlangen!</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie sind %1</translation>
     </message>
     <message>
         <source>Where: %1</source>
@@ -4849,11 +4849,11 @@ zurück zu erlangen!</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Herunterladen des Anhangs fehlgeschlagen</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern fehlgeschlagen:</translation>
     </message>
 </context>
 <context>
@@ -4864,7 +4864,7 @@ zurück zu erlangen!</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>für</translation>
     </message>
 </context>
 <context>
@@ -4889,7 +4889,7 @@ zurück zu erlangen!</translation>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation>im Namen von</translation>
     </message>
 </context>
 <context>

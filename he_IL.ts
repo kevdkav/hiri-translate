@@ -240,37 +240,37 @@
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>צור</translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation type="unfinished"></translation>
+        <translation>שבוע עבודה</translation>
     </message>
     <message>
         <source>Week</source>
-        <translation type="unfinished"></translation>
+        <translation>שבוע</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>חודש</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1 עוד</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>כל היום</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>ללא נושא</translation>
     </message>
 </context>
 <context>

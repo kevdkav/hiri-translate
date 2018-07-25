@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Échoué!</translation>
+        <translation>Échoué !</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
@@ -171,7 +171,7 @@
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Sélectionnez une heure:</translation>
+        <translation>Sélectionnez une heure :</translation>
     </message>
 </context>
 <context>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer ce calendrier?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer ce calendrier ?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -305,7 +305,7 @@
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
         <translation>C&apos;est une réunion récurrente.
-Voulez-vous transmettre uniquement cet événement ou toute la série?</translation>
+Voulez-vous transmettre uniquement cet événement ou toute la série ?</translation>
     </message>
     <message>
         <source>Single meeting</source>
@@ -317,7 +317,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Vous ne pouvez pas annuler cette réunion parce que vous n&apos;êtes pas l&apos;organisateur. Voulez-vous le supprimer à la place?</translation>
+        <translation>Vous ne pouvez pas annuler cette réunion parce que vous n&apos;êtes pas l&apos;organisateur. Voulez-vous la supprimer à la place ?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -444,7 +444,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 mins</translation>
+        <translation>%1 minutes</translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -477,7 +477,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation>Quel est votre fournisseur de messagerie?</translation>
+        <translation>Quel est votre fournisseur de messagerie ?</translation>
     </message>
     <message>
         <source>Please choose…</source>
@@ -774,11 +774,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Hi!</source>
-        <translation>Salut!</translation>
+        <translation>Salut !</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation>Salut %1!</translation>
+        <translation>Salut %1 !</translation>
     </message>
 </context>
 <context>
@@ -834,7 +834,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation>Date:</translation>
+        <translation>Date :</translation>
     </message>
     <message>
         <source>at</source>
@@ -895,7 +895,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation>Une nouvelle version de Hiri est disponible! Voulez-vous mettre à jour?</translation>
+        <translation>Une nouvelle version de Hiri est disponible! Voulez-vous mettre à jour ?</translation>
     </message>
     <message>
         <source>Update now</source>
@@ -941,7 +941,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation>Êtes-vous sûr de vouloir annuler cette réunion?</translation>
+        <translation>Êtes-vous sûr-e de vouloir annuler cette réunion ?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
@@ -953,7 +953,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer cette réunion?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer cette réunion ?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1040,11 +1040,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Snooze</source>
-        <translation>Snooze</translation>
+        <translation>Mettre en sommeil</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation>Cette conversation contient des brouillons. Es-tu sûr de vouloir la supprimer?</translation>
+        <translation>Cette conversation contient des brouillons. Êtes-vous sûr-e de vouloir la supprimer ?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1223,7 +1223,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation>Vous ne voyez toujours pas d&apos;e-mails?</translation>
+        <translation>Vous ne voyez toujours pas d&apos;e-mails ?</translation>
     </message>
     <message>
         <source>Get more mail</source>
@@ -1289,11 +1289,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation>Yikes! Quelque chose s&apos;est mal passé!</translation>
+        <translation>Oups ! Quelque chose s&apos;est mal passé !</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Message déplacé à FYI. Tâche supprimée</translation>
+        <translation>Message déplacé à FYI. Tâche supprimée.</translation>
     </message>
 </context>
 <context>
@@ -1418,7 +1418,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation>Pas Exchange?</translation>
+        <translation>Pas Exchange ?</translation>
     </message>
 </context>
 <context>
@@ -1492,11 +1492,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer définitivement le dossier et le contenu de &quot;%1&quot;?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer définitivement le dossier et le contenu de &quot;%1&quot; ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer le dossier &quot;%1&quot;?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer le dossier &quot;%1&quot; ?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
@@ -1520,11 +1520,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer définitivement tous les éléments et sous-dossiers du dossier &quot;%1&quot;?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer définitivement tous les éléments et sous-dossiers du dossier &quot;%1&quot; ?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer tous les éléments du dossier &quot;%1&quot;?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer tous les éléments du dossier &quot;%1&quot; ?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
@@ -1818,15 +1818,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation>Je voudrais vous inviter à essayer Hiri. C&apos;est une nouvelle application de messagerie qui vous permet de gagner du temps, d&apos;organiser votre journée et d&apos;améliorer la communication. Télécharger les ici:</translation>
+        <translation>Je voudrais vous inviter à essayer Hiri. C&apos;est une nouvelle application de messagerie qui vous permet de gagner du temps, d&apos;organiser votre journée et d&apos;améliorer la communication. Télécharger-le ici :</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation>Si vous l&apos;aimez, vous pouvez obtenir 25% de réduction en utilisant le lien suivant:</translation>
+        <translation>Si vous l&apos;appréciez, vous pouvez obtenir 25% de réduction en utilisant le lien suivant :</translation>
     </message>
     <message>
         <source>Thanks!</source>
-        <translation>Merci!</translation>
+        <translation>Merci !</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
@@ -1834,7 +1834,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Share the love!</source>
-        <translation>Partager l&apos;amour!</translation>
+        <translation>Partagez !</translation>
     </message>
     <message>
         <source>25% off</source>
@@ -1872,31 +1872,31 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation>Conversation suivante / précédente:</translation>
+        <translation>Conversation suivante / précédente :</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation>Conversation suivante / précédente (lorsqu&apos;elle est ouverte):</translation>
+        <translation>Conversation suivante / précédente (lorsqu&apos;elle est ouverte) :</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation>Faites défiler vers le haut / bas:</translation>
+        <translation>Faites défiler vers le haut / bas :</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation>Haut / bas de la page actuelle:</translation>
+        <translation>Haut / bas de la page actuelle :</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation>Ouvrir la conversation:</translation>
+        <translation>Ouvrir la conversation :</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation>Fermer la conversation:</translation>
+        <translation>Fermer la conversation :</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation>Ouvrir la recherche:</translation>
+        <translation>Ouvrir la recherche :</translation>
     </message>
     <message>
         <source>Email actions</source>
@@ -1904,11 +1904,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série?</translat
     </message>
     <message>
         <source>Reply:</source>
-        <translation>Répondre:</translation>
+        <translation>Répondre :</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation>Répondre à tous:</translation>
+        <translation>Répondre à tou-te-s :</translation>
     </message>
     <message>
         <source>Delete:</source>

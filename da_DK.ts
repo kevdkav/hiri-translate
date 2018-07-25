@@ -643,7 +643,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Nej, bevar den.</translation>
+        <translation>Nej, bevar den</translation>
     </message>
     <message>
         <source>Add to your contacts</source>

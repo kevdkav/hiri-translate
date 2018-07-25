@@ -4896,7 +4896,7 @@ zurück zu erlangen.</translation>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindung zum Server wurde unterbrochen</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>

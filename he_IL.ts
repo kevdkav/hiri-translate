@@ -285,21 +285,21 @@
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמירה</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation type="unfinished"></translation>
+        <translation>קפוץ להיום</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation type="unfinished"></translation>
+        <translation>קרתה שגיאה אנא נסה שוב</translation>
     </message>
     <message>
         <source>This is a recurring meeting.

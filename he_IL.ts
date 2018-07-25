@@ -1117,11 +1117,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>בואו נוסיף חשבון.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>הסיסמה שונתה או שהתוקף שלה פג.</translation>
     </message>
 </context>
 <context>

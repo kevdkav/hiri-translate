@@ -1912,23 +1912,23 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Delete:</source>
-        <translation>Effacer:</translation>
+        <translation>Effacer :</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation>Vers l&apos;avant:</translation>
+        <translation>Transférer :</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation>Marquer comme lu:</translation>
+        <translation>Marquer comme lu :</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation>Marquer comme non lu:</translation>
+        <translation>Marquer comme non lu :</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation>Archiver:</translation>
+        <translation>Archiver :</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
@@ -1936,15 +1936,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation>Sélectionnez la conversation:</translation>
+        <translation>Sélectionnez la conversation :</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation>Tout sélectionner:</translation>
+        <translation>Tout sélectionner :</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation>Effacer la sélection:</translation>
+        <translation>Effacer la sélection :</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -1952,39 +1952,39 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation>Composer un nouveau mail:</translation>
+        <translation>Composer un nouveau mail :</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation>Ouvrir la boîte de réception unifiée:</translation>
+        <translation>Ouvrir la boîte de réception unifiée :</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation>Ouvrir la boîte de réception Actionable:</translation>
+        <translation>Ouvrir la boîte de réception Actionnable :</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>Ouvrez la boîte de réception FYI:</translation>
+        <translation>Ouvrir la boîte de réception FYI :</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation>Ouvrir calendrier:</translation>
+        <translation>Ouvrir le calendrier :</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation>Ouvrir contacts:</translation>
+        <translation>Ouvrir les contacts :</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation>Ouvrir le tableau de bord:</translation>
+        <translation>Ouvrir le tableau de bord :</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation>Ouvrir Options:</translation>
+        <translation>Ouvrir les Options :</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation>Ouvrir la boîte de commentaire:</translation>
+        <translation>Ouvrir la boîte de commentaires :</translation>
     </message>
     <message>
         <source>Composing</source>
@@ -1992,7 +1992,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation>Envoyer un mail:</translation>
+        <translation>Envoyer un mail :</translation>
     </message>
     <message>
         <source>Bold:</source>
@@ -2000,15 +2000,15 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Italic:</source>
-        <translation>Italique:</translation>
+        <translation>Italique :</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation>Souligner:</translation>
+        <translation>Souligner :</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation>Créer un lien:</translation>
+        <translation>Créer un lien :</translation>
     </message>
 </context>
 <context>
@@ -2023,7 +2023,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Actionable</source>
-        <translation>Actionable</translation>
+        <translation>Actionnable</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
@@ -2059,7 +2059,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation>Obtenez un rabais sur Hiri aujourd&apos;hui!</translation>
+        <translation>Bénéficiez d&apos;une promo sur Hiri aujourd&apos;hui !</translation>
     </message>
     <message>
         <source>Skills Center</source>
@@ -2180,7 +2180,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer ce brouillon?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer ce brouillon ?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
@@ -2218,7 +2218,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation>Quels sont &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; et &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
+        <translation>Que sont &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; et &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt; ?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
@@ -2230,7 +2230,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation>Pourquoi le sujet est-il en bas?</translation>
+        <translation>Pourquoi le sujet est-il en bas ?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
@@ -2351,11 +2351,11 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>All day?</source>
-        <translation>Toute la journée?</translation>
+        <translation>Toute la journée ?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation>Privé?</translation>
+        <translation>Privé ?</translation>
     </message>
     <message>
         <source>Repeat</source>
@@ -2458,7 +2458,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer cette réunion?</translation>
+        <translation>Êtes-vous sûr-e de vouloir supprimer cette réunion ?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2567,7 +2567,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation>Pas Office365?</translation>
+        <translation>Pas Office365 ?</translation>
     </message>
 </context>
 <context>
@@ -2596,7 +2596,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation>Allons-y!</translation>
+        <translation>Allons-y !</translation>
     </message>
 </context>
 <context>
@@ -2623,7 +2623,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
-        <translation>Pas Outlook/Hotmail/Live/MSN?</translation>
+        <translation>Pas Outlook/Hotmail/Live/MSN ?</translation>
     </message>
 </context>
 <context>
@@ -2782,7 +2782,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation>Email évalué. Bon travail!</translation>
+        <translation>Email évalué. Bon travail !</translation>
     </message>
     <message>
         <source>Send rating</source>
@@ -2797,7 +2797,7 @@ email au niveau suivant.</translation>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation>Snooze</translation>
+        <translation>Reporter</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2856,7 +2856,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation>Êtes-vous sûr de vouloir supprimer votre brouillon?</translation>
+        <translation>Êtes-vous sûr de vouloir supprimer votre brouillon ?</translation>
     </message>
     <message>
         <source>Discard draft</source>

@@ -1150,7 +1150,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהגדרת תזכורת…</translation>
     </message>
 </context>
 <context>

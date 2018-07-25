@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fallito!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
@@ -489,18 +489,18 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Non riesci a trovare il tuo provider email? Al momento Hiri funziona con Office365, Outlook.com (Hotmail/Live/MSN) ed Exchange. Se ti serve aiuto</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiarezza</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation type="unfinished"></translation>
+        <translation>Brevità</translation>
     </message>
     <message>
         <source>Tone</source>

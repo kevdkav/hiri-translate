@@ -883,7 +883,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Prossima Settimana</translation>
     </message>
     <message>
         <source>Custom date and time</source>

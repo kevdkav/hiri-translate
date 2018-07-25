@@ -4301,11 +4301,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>zu</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>für</translation>
     </message>
 </context>
 <context>
@@ -4353,7 +4353,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Aufgabe wurde von Ihnen erstellt</translation>
     </message>
     <message>
         <source>from</source>
@@ -4393,7 +4393,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sind Sie sicher, dass sie die Notiz entfernen wollen?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
@@ -4419,7 +4419,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Notiz bearbeiten</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4460,22 +4460,22 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, dass verschieben einer erledigten Aufgabe ist nicht möglich</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, das Verschieben einer gesendeten Aufgabe ist nicht möglich</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden der Aufgabenliste fehlgeschlagen</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laden der Aufgaben fehlgeschlagen</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
@@ -4542,7 +4542,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Jetzt bestellen</translation>
     </message>
     <message>
         <source>I paid</source>
@@ -4550,11 +4550,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation type="unfinished"></translation>
+        <translation>Prüfe Lizenz...</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorry, wir konnten Ihre Zahlung nicht finden.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4590,7 +4590,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>Falls sie Fragen haben, bitte</translation>
     </message>
 </context>
 <context>
@@ -4656,7 +4656,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Anhänge hinzugefügt.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
@@ -4688,7 +4688,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle %1.%2</translation>
     </message>
     <message>
         <source>Every last %1</source>
@@ -4700,11 +4700,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Tag verbleibend</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Tage verbleibend</translation>
     </message>
     <message>
         <source>All day</source>
@@ -4799,7 +4799,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bild wurde in Ihren Downloadordner heruntergeladen</translation>
     </message>
 </context>
 <context>
@@ -4811,7 +4811,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit die Kontrolle über Emails zurück zu erlangen!</translation>
     </message>
 </context>
 <context>

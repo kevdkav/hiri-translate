@@ -1157,53 +1157,53 @@ Do you want to forward only this event or the whole series?</source>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>שיחות נבחרו</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ללא נושא)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(טיוטא)</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 בשם %2</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>הבקשה לפגישה אושרה.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>הצעת זמן חדש: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>הבקשה לפגישה התקבלה באופן זמני.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>הבקשה לפגישה נדחתה.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>מתי: %1</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>הבקשה לפגישה בוטלה.</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסף נמענים</translation>
     </message>
 </context>
 <context>

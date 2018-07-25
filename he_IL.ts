@@ -1210,7 +1210,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>EmailList</name>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>נמצאו %1 התאמות</translation>
     </message>
     <message>
         <source>Loading…</source>

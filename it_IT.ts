@@ -1381,7 +1381,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Di base</translation>
     </message>
     <message>
         <source>Server version</source>

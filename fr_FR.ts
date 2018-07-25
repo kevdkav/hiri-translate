@@ -2251,8 +2251,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Si l&apos;email que vous transférez contient une tâche qui vous est attribuée, chaque destinataire que vous ajoutez à l&apos;Action se verra attribué vos tâches par défaut.
-C&apos;est pour cela que nous l&apos;appelons Déléguer.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

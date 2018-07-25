@@ -2476,7 +2476,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hups, muistutusta ei voitu hylätä…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
@@ -2551,7 +2551,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>Notifier</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ei tehtävää)</translation>
     </message>
     <message>
         <source>(No subject)</source>
@@ -4832,11 +4832,11 @@ takaisin hallintaan.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Liitettä ladattaessa tapahtui virhe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Tallentaminen ei onnistu: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4858,7 +4858,7 @@ takaisin hallintaan.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Hups! Jokin meni pieleen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4879,11 +4879,11 @@ takaisin hallintaan.</translation>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>Yhteys palvelimeen keskeytettiin</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Voi ei, jokin meni pieleen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

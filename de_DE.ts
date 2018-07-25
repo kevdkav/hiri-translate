@@ -4849,11 +4849,11 @@ zurück zu erlangen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Herunterladen des Anhangs fehlgeschlagen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Speichern fehlgeschlagen: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4864,7 +4864,7 @@ zurück zu erlangen.</translation>
     </message>
     <message>
         <source>for</source>
-        <translation>für</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4889,14 +4889,14 @@ zurück zu erlangen.</translation>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> im Namen von </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>Verbindung zum Server wurde unterbrochen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>

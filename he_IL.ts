@@ -431,7 +431,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>כל היום</translation>
     </message>
     <message>
         <source>now</source>
@@ -762,7 +762,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>כל היום</translation>
     </message>
 </context>
 <context>
@@ -2404,7 +2404,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>כל היום</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -4144,7 +4144,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>ללא נושא</translation>
     </message>
 </context>
 <context>
@@ -4693,7 +4693,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>כל היום</translation>
     </message>
     <message>
         <source>now</source>

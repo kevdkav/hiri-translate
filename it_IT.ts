@@ -1361,7 +1361,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished">Individuazione automatica delle impostazioni del server</translation>
+        <translation>Individuazione automatica delle impostazioni del server</translation>
     </message>
     <message>
         <source>Server</source>
@@ -1794,7 +1794,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Messaggio spostato su FYI. Attività rimossa.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -2081,7 +2081,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi destinatari</translation>
     </message>
 </context>
 <context>
@@ -2198,7 +2198,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2206,11 +2206,11 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>CC</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>BCC</translation>
     </message>
 </context>
 <context>
@@ -2503,7 +2503,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>La richiesta di riunione è stata annullata.</translation>
     </message>
 </context>
 <context>
@@ -2609,7 +2609,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
@@ -3853,7 +3853,7 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi destinatari</translation>
     </message>
 </context>
 <context>
@@ -4796,7 +4796,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

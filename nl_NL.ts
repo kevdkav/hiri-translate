@@ -4834,65 +4834,65 @@ onder controle te krijgen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Er is een fout opgetreden tijdens het downloaden van de bijlage</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Opslaan niet mogelijk: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation>Van</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
-        <translation>voor</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation>Fout tijdens opslaan van bericht. Controleer je wijzigingen, want het kan zijn dat sommige niet zijn doorgevoerd.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oeps! Er is iets misgegaan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation>De Hiri-server is offline. Je kunt geen e-mails van collegae waarderen en je communicatiescore niet bekijken.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> namens </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>De verbinding met de server is onderbroken</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Ai! Er is iets misgegaan</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation>Interpolatie {} testen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

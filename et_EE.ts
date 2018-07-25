@@ -1345,7 +1345,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>keegi@sinumeil.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -1413,7 +1413,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgmine samm</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
@@ -2241,7 +2241,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeeri</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
@@ -2393,7 +2393,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(pealkiri puudub)</translation>
     </message>
     <message>
         <source>Start</source>
@@ -2409,7 +2409,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava uues aknas</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2457,7 +2457,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kindel et tahad seda sündmust kustutada?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2472,7 +2472,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(pealkiri puudub)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2487,19 +2487,19 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosoleku ettepanek aktsepteeritud.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakutud uus aeg: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosoleku ettepanek esialgselt vastu võetud.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosoleku ettepanek tagasi lükatud.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
@@ -2555,7 +2555,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(pealkiri puudub)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2605,7 +2605,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>keegi@sinumeil.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -2617,7 +2617,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Järgmine samm</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -2795,7 +2795,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Lükka edasi</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -3242,11 +3242,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi loetuks</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi mitte loetuks</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3254,7 +3254,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhiveeri</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3456,7 +3456,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhiveeri</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3676,7 +3676,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arhiveeri</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -4575,11 +4575,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi mitte loetuks</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi loetuks</translation>
     </message>
 </context>
 <context>
@@ -4634,7 +4634,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, mõnda faili ei leitud ja need eemaldatakse:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4796,7 +4796,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Millal: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

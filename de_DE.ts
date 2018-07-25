@@ -4811,7 +4811,8 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation>Zeit die Kontrolle über Emails zurück zu erlangen!</translation>
+        <translation>Zeit die Kontrolle über Emails
+zurück zu erlangen!</translation>
     </message>
 </context>
 <context>

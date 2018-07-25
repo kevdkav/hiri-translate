@@ -4830,11 +4830,11 @@ takaisin hallintaan.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitettä ladattaessa tapahtui virhe</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tallentaminen ei onnistu: </translation>
     </message>
 </context>
 <context>
@@ -4856,7 +4856,7 @@ takaisin hallintaan.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Hups! Jokin meni pieleen</translation>
     </message>
 </context>
 <context>
@@ -4877,11 +4877,11 @@ takaisin hallintaan.</translation>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhteys palvelimeen keskeytettiin</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Voi ei, jokin meni pieleen</translation>
     </message>
 </context>
 <context>

@@ -563,244 +563,244 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione dell&apos;ufficio</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Indirizzo</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Strada</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>CIttà</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Paese</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice Postale (CAP)</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;email 1 non è un indirizzo email valido</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Email 2 non è un indirizzo email valido</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Un contatto deve avere un nome o un indirizzo email</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nell&apos;aggiornamento del contatto</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 è già tra i tuoi contatti</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nella creazione del contatto</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sì, elimina.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>No mantienilo</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi ai tuoi contatti</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiunto alla cartella dei tuoi contatti</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nella creazione del contatto</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sicuro di voler eliminare il contatto:</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Visualizzando tutti i contatti, digita per cercare</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti i contatti</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation type="unfinished"></translation>
+        <translation>GAL</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;nessun nome&gt;</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;nessuna email&gt;</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea contatto</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un contatto</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>In</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla le modifiche</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Oggi</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Domani</translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai al calendario</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished"></translation>
+        <translation>Stiamo caricando le tue riunioni…</translation>
     </message>
     <message>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>oggi</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>domani</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile caricare le tue riunioni :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Le tue riunioni saranno aggiornate quando sarai di nuovo online</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(nessun soggetto)</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutto il giorno</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Non hai riunioni</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica profilo</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciao %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciao!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"></translation>
+        <translation>nuovo</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation type="unfinished"></translation>
+        <translation>dall&apos;ultimo controllo</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation type="unfinished"></translation>
+        <translation>email oggi</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo calendario</translation>
     </message>
     <message>
         <source>Communication score</source>

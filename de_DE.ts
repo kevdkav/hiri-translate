@@ -4471,11 +4471,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation>Laden der Aufgabenliste fehlgeschlagen</translation>
+        <translation>Laden der Aufgabenliste fehlgeschlagen…</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation>Laden der Aufgaben fehlgeschlagen</translation>
+        <translation>Laden der Aufgaben fehlgeschlagen…</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
@@ -4550,7 +4550,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation>Prüfe Lizenz...</translation>
+        <translation>Prüfe Lizenz…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
@@ -4812,7 +4812,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <source>It&apos;s time to get your email
 under control.</source>
         <translation>Zeit die Kontrolle über Emails
-zurück zu erlangen!</translation>
+zurück zu erlangen.</translation>
     </message>
 </context>
 <context>
@@ -4853,7 +4853,7 @@ zurück zu erlangen!</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Speichern fehlgeschlagen:</translation>
+        <translation>Speichern fehlgeschlagen: </translation>
     </message>
 </context>
 <context>
@@ -4889,7 +4889,7 @@ zurück zu erlangen!</translation>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation>im Namen von</translation>
+        <translation> im Namen von </translation>
     </message>
 </context>
 <context>

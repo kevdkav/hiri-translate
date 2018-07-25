@@ -914,7 +914,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
@@ -956,11 +956,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, kustuta</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, jäta alles</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
@@ -968,11 +968,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda</translation>
     </message>
     <message>
         <source>Cancel series</source>
@@ -1039,7 +1039,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
@@ -1047,11 +1047,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, kustuta</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, jäta alles</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -1507,11 +1507,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, kustuta</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, jäta alles</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
@@ -1574,7 +1574,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda nime</translation>
     </message>
     <message>
         <source>Mark all as read</source>
@@ -1586,11 +1586,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -2070,7 +2070,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Seaded</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2120,7 +2120,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Saada</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2187,7 +2187,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, jäta alles</translation>
     </message>
 </context>
 <context>
@@ -2386,7 +2386,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista</translation>
     </message>
 </context>
 <context>
@@ -2397,15 +2397,15 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Alusta</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Lõpeta</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Terve päev</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -2453,7 +2453,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
@@ -2461,11 +2461,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, kustuta</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, jäta alles</translation>
     </message>
 </context>
 <context>
@@ -2675,11 +2675,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa</translation>
     </message>
 </context>
 <context>
@@ -2698,7 +2698,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Saada</translation>
     </message>
 </context>
 <context>
@@ -2886,7 +2886,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Saada</translation>
     </message>
 </context>
 <context>
@@ -3052,7 +3052,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3063,7 +3063,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsi globaalsest aadressi nimekirjast (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -3250,7 +3250,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3356,7 +3356,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3380,7 +3380,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3406,7 +3406,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
 </context>
 <context>
@@ -3517,7 +3517,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikatsiooni tase</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3633,7 +3633,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3788,7 +3788,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisatud failid</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3835,7 +3835,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4145,7 +4145,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>pealkiri puudub</translation>
     </message>
 </context>
 <context>
@@ -4212,7 +4212,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Saada</translation>
     </message>
 </context>
 <context>
@@ -4290,11 +4290,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda nime</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta</translation>
     </message>
 </context>
 <context>
@@ -4319,11 +4319,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sea meeldetuletus</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4379,7 +4379,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, jäta alles</translation>
     </message>
 </context>
 <context>
@@ -4401,11 +4401,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Sule</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta</translation>
     </message>
 </context>
 <context>
@@ -4568,7 +4568,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Saada</translation>
     </message>
 </context>
 <context>
@@ -4630,7 +4630,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Homme</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
@@ -4654,19 +4654,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga päev</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga tööpäev</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4674,7 +4674,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga viimane %1</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4694,11 +4694,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Terve päev</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>praegu</translation>
     </message>
     <message>
         <source>Due in</source>
@@ -4710,19 +4710,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 p</translation>
     </message>
 </context>
 <context>

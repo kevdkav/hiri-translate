@@ -3972,7 +3972,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished">Trenne Deine E-Mails mit der Aktion/FYI split.</translation>
+        <translation>Trenne Deine E-Mails mit der Aktion/FYI split.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
@@ -4158,8 +4158,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation>„Inbox Zero“ bezeichnet eine rigorose Herangehensweise an Emailverwaltung, die darauf abzielt das Postfach so leer - oder fast leer - wie möglich zu halten.&lt;br /&gt;&lt;br /&gt;
-„Inbox Zero“ wurde vom Produktivitätsexperten Merlin Mann entwickelt. Nach Mann bezieht sich „Zero“ nicht auf die Anzahl der Nachrichten im Postfach; viel mehr bezieht es sich „auf die Zeit, die der Verstand eines Angestellten im Postfach verbringt“. Zeit und Aufmerksamkeit sind laut Mann endlich und wenn das Postfach mit einer „Todo“-Liste verwechselt wird, sinkt die Produktivität. Durch Aufräumen des Postfachs wird weniger Zeit mit dem Suchen und Stöbern in Emails verbracht. Ein aufgeräumtes Postfach führt zu einem gesunden und aufgeräumten Verstand, so zumindest in der Theorie.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4860,7 +4859,7 @@ under control.</source>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation>Von</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
@@ -4875,7 +4874,7 @@ under control.</source>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oh! Etwas lief schief</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4900,7 +4899,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Huch, irgendwas ist nicht in Ordnung</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

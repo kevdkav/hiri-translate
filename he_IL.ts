@@ -277,15 +277,15 @@
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר שם עבור לוח השנה</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
 </context>
 <context>
@@ -594,7 +594,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -626,11 +626,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
@@ -642,7 +642,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
@@ -704,7 +704,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Send</source>
@@ -845,7 +845,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
@@ -913,7 +913,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
@@ -955,11 +955,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>כן, מחק אותו</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
@@ -967,7 +967,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1038,7 +1038,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
@@ -1046,11 +1046,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>כן, מחק אותו</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -1506,11 +1506,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>כן, מחק אותו</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
@@ -1573,7 +1573,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>שנה שם</translation>
     </message>
     <message>
         <source>Mark all as read</source>
@@ -1585,11 +1585,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -2186,7 +2186,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
 </context>
 <context>
@@ -2385,7 +2385,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
 </context>
 <context>
@@ -2452,7 +2452,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
@@ -2460,11 +2460,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>כן, מחק אותו</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
 </context>
 <context>
@@ -2674,11 +2674,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסף</translation>
     </message>
 </context>
 <context>
@@ -3051,7 +3051,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3249,7 +3249,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3355,7 +3355,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3379,7 +3379,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3405,7 +3405,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
 </context>
 <context>
@@ -3632,7 +3632,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3787,7 +3787,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>קבצים מצורפים</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3834,7 +3834,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4289,11 +4289,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>שנה שם</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק</translation>
     </message>
 </context>
 <context>
@@ -4322,7 +4322,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4378,7 +4378,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>לא, השאר אותו</translation>
     </message>
 </context>
 <context>
@@ -4400,11 +4400,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>סגור</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>שמור</translation>
     </message>
 </context>
 <context>

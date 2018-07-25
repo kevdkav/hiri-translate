@@ -1795,7 +1795,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensagem movida para caixa importante. Atividade removida.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -2071,7 +2071,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurações</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2082,7 +2082,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar destinatários</translation>
     </message>
 </context>
 <context>
@@ -2121,7 +2121,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2199,7 +2199,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Para</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2207,11 +2207,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cco</translation>
     </message>
 </context>
 <context>
@@ -2246,7 +2246,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegar</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2394,15 +2394,15 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sem assunto)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Final</translation>
     </message>
     <message>
         <source>All day</source>
@@ -2410,7 +2410,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir em uma nova janela</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2458,7 +2458,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Você tem certeza que deseja excluir esta reunião?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2473,7 +2473,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sem assunto)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2488,23 +2488,23 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunião aceita.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Novo horário proposto: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação de reunião aceita provisoriamente.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitação de reunião negada.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>A solicitação de reunião foi cancelada.</translation>
     </message>
 </context>
 <context>
@@ -2556,7 +2556,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sem assunto)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2606,11 +2606,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>alguém@seuprovedor.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>senha</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
@@ -2699,7 +2699,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
 </context>
 <context>
@@ -2796,7 +2796,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Alarme</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2887,7 +2887,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
 </context>
 <context>
@@ -3243,11 +3243,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como lido</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como não lido</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3255,7 +3255,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivar</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3457,7 +3457,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivar</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3518,7 +3518,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>pontuação de comunicação</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3677,7 +3677,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arquivar</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3847,14 +3847,14 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Escolha uma opção</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Adicionar destinatários</translation>
     </message>
 </context>
 <context>
@@ -4213,7 +4213,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
 </context>
 <context>
@@ -4320,7 +4320,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurar lembrete</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4565,7 +4565,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
@@ -4576,11 +4576,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como não lido</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como lido</translation>
     </message>
 </context>
 <context>
@@ -4631,7 +4631,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Amanhã</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4651,19 +4651,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os dias</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos os dia úteis</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4671,7 +4671,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>A cada último %1</translation>
     </message>
     <message>
         <source>Ends today</source>
@@ -4691,27 +4691,27 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>agora</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Desculpe, alguns anexos não foram encontrados e serão removidos:</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4797,7 +4797,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Quando: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

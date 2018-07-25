@@ -1035,7 +1035,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Torkku</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1086,7 +1086,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished">Merkitse roskapostiksi</translation>
+        <translation>Merkitse roskapostiksi</translation>
     </message>
 </context>
 <context>
@@ -1203,7 +1203,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää vastaanottajat</translation>
     </message>
 </context>
 <context>
@@ -1244,7 +1244,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished">Viesti merkitty roskapostiksi</translation>
+        <translation>Viesti merkitty roskapostiksi</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
@@ -1252,7 +1252,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished">Merkitty roskapostiksi</translation>
+        <translation>Merkitty roskapostiksi</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
@@ -2206,11 +2206,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopio</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Piilokopio</translation>
     </message>
 </context>
 <context>
@@ -2323,7 +2323,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Alustava</translation>
     </message>
     <message>
         <source>Out of office</source>
@@ -2996,7 +2996,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aika</translation>
     </message>
     <message>
         <source>Tentative</source>
@@ -3064,7 +3064,7 @@ postisi seuraavalle tasolle.</translation>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi kaikkien vastaanottajien listasta (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -3520,7 +3520,7 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikaatiopisteytys</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -4665,11 +4665,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Joka %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Joka %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4677,7 +4677,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Joka viimeinen %1</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4713,19 +4713,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minuutti</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pv</translation>
     </message>
 </context>
 <context>
@@ -4830,11 +4830,11 @@ takaisin hallintaan.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Liitettä ladattaessa tapahtui virhe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Tallentaminen ei onnistu: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4856,7 +4856,7 @@ takaisin hallintaan.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Hups! Jokin meni pieleen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4877,11 +4877,11 @@ takaisin hallintaan.</translation>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>Yhteys palvelimeen keskeytettiin</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Hups, jokin meni pieleen</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

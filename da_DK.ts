@@ -2066,7 +2066,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2250,8 +2250,7 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Hvis den mail du videresender indeholder en opgave til dig, vil hver modtager du tilføjer til &quot;Action&quot; få din opgave som standard.
- Derfor kalder vi det delegering.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2477,7 +2476,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished">Ups, ude af stand til at afvise påmindelsen…</translation>
+        <translation>Ups, ude af stand til at afvise påmindelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
@@ -2560,7 +2559,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation type="unfinished">Fjern alle påmindelser</translation>
+        <translation>Fjern alle påmindelser</translation>
     </message>
 </context>
 <context>
@@ -4153,14 +4152,14 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>intet emne</translation>
     </message>
 </context>
 <context>
     <name>SupportDialog</name>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Send feedback</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4220,7 +4219,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Send</translation>
     </message>
 </context>
 <context>
@@ -4298,11 +4297,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Omdøb</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Slet</translation>
     </message>
 </context>
 <context>
@@ -4327,11 +4326,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Set påmindelse</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortryd</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4409,22 +4408,22 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Luk</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Gem</translation>
     </message>
 </context>
 <context>
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ingen opgave)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ude af stand til at afvise påmindelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4442,7 +4441,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ingen opgave)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
@@ -4576,7 +4575,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Send</translation>
     </message>
 </context>
 <context>
@@ -4594,11 +4593,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Søndag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Mandag</translation>
     </message>
     <message>
         <source>Tuesday</source>
@@ -4638,11 +4637,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>I morgen</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Beklager, nogle vedhæftede filer kunne ikke findes, og vil bliver fjernet:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4662,19 +4661,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver dag</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver arbejdsdag</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hver %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4682,7 +4681,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Den sidste %1</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4702,11 +4701,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hele dagen</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>nu</translation>
     </message>
     <message>
         <source>Due in</source>
@@ -4718,19 +4717,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 t</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
@@ -4769,7 +4768,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vælg alle</translation>
     </message>
     <message>
         <source>Unselect</source>
@@ -4781,7 +4780,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprog</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
@@ -4804,7 +4803,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Hvornår: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
@@ -4823,7 +4822,7 @@ under control.</source>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>

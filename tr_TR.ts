@@ -2070,7 +2070,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarlar</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2120,7 +2120,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönder</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2187,7 +2187,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
 </context>
 <context>
@@ -2198,7 +2198,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Alıcı</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2206,11 +2206,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilgi</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Gizli Bilgi</translation>
     </message>
 </context>
 <context>
@@ -2241,7 +2241,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Temsilci</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
@@ -2386,30 +2386,30 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Başlık yok)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Başla</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitir</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm gün</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni pencerede aç</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2457,7 +2457,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bu toplantıyı silmek istediğinizden emin misiniz?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2465,7 +2465,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
 </context>
 <context>
@@ -2487,23 +2487,23 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi kabul edildi.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni zaman teklif edildi %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı geçici olarak kabul edildi.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi reddedildi.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Toplantı talebi iptal edildi.</translation>
     </message>
 </context>
 <context>
@@ -2555,7 +2555,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Başlık yok)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2609,7 +2609,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>şifre</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
@@ -2617,7 +2617,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki adım</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -2643,7 +2643,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir hata oluştu</translation>
     </message>
     <message>
         <source>Search all contacts</source>
@@ -2675,11 +2675,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekle</translation>
     </message>
 </context>
 <context>
@@ -2698,7 +2698,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönder</translation>
     </message>
 </context>
 <context>
@@ -2795,7 +2795,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Ertele</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2886,7 +2886,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönder</translation>
     </message>
 </context>
 <context>
@@ -2909,7 +2909,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü seç</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
@@ -3052,7 +3052,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3238,7 +3238,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü seç</translation>
     </message>
     <message>
         <source>Mark as read</source>
@@ -3254,7 +3254,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arşivle</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3356,7 +3356,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3376,11 +3376,11 @@ Known aliases:</source>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Evet</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3456,7 +3456,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arşivle</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3483,11 +3483,11 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Pazar</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Pazartesi</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
@@ -3517,7 +3517,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>İletişim Skoru</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3633,7 +3633,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3676,7 +3676,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arşivle</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3704,7 +3704,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Klavye kısayollaır</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
@@ -3788,7 +3788,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Eklentiler</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3816,7 +3816,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Dil</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
@@ -3835,7 +3835,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4212,7 +4212,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönder</translation>
     </message>
 </context>
 <context>
@@ -4290,7 +4290,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeniden adlandır</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4319,11 +4319,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Hatırlatma ekle</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>İptal</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4379,7 +4379,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Hayır, silme</translation>
     </message>
 </context>
 <context>
@@ -4401,11 +4401,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapat</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Kaydet</translation>
     </message>
 </context>
 <context>
@@ -4568,7 +4568,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönder</translation>
     </message>
 </context>
 <context>
@@ -4827,18 +4827,18 @@ almanın tam zamanı.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Eklentiyi indirirken bir hata oluştu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Kaydedilemedi: </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation>Gönderen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
@@ -4867,18 +4867,18 @@ almanın tam zamanı.</translation>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> adına </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>Sunucu bağantısı kesildi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Aman! Bir şeyler ters gitti</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -1193,7 +1193,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished">%1 de la part de %2</translation>
+        <translation>%1 de la part de %2</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
@@ -2251,8 +2251,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished">Si l’email que vous transférez contient une tâche qui vous est attribuée, chaque destinataire que vous ajoutez à l’Action se verront attribuer votre tâche par défaut.
-C’est ce que nous appelons Déléguer.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3261,7 +3260,7 @@ email au niveau suivant.</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished">%1 sélectionné(s)</translation>
+        <translation>%1 sélectionné(s)</translation>
     </message>
 </context>
 <context>
@@ -3374,7 +3373,7 @@ Ne vous inquiétez pas, vos emails restent en sécurité sur le serveur!</transl
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished">Adresses alias</translation>
+        <translation>Adresses alias</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
@@ -3402,7 +3401,7 @@ Alias connus :</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished">Enregistrer comme option par défaut</translation>
+        <translation>Enregistrer comme option par défaut</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
@@ -3618,7 +3617,7 @@ Alias connus :</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished">Notez :</translation>
+        <translation>Notez :</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
@@ -4161,7 +4160,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoi de la réaction …</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4836,65 +4835,65 @@ sous contrôle.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Une erreur est survenue lors du téléchargement de la pièce-jointe</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation>Impossible de sauvegarder : </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation>De la part de</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>for</source>
-        <translation>pour</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation>Erreur lors de la sauvegarde de votre message. Vérifiez vos modifications au cas où certaines n&apos;auraient pas été prises en compte.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oups, une erreur s&apos;est produite</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation>Le serveur Hiri est hors-ligne. Vous ne pourrez pas noter les emails de vos collègue ni voir votre score de communication.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> - de la part de - </translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>La connexion au serveur a été interrompue</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Oups, quelque chose n&apos;a pas fonctionné</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation>Test {} Interpolation</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

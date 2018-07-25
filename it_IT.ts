@@ -259,7 +259,7 @@
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation type="unfinished">+ %1 più</translation>
+        <translation>+ %1 più</translation>
     </message>
 </context>
 <context>
@@ -504,7 +504,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation type="unfinished">Tono</translation>
+        <translation>Tono</translation>
     </message>
     <message>
         <source>Behaviour</source>
@@ -1345,7 +1345,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>qualcuno@iltuoprovider.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -1413,7 +1413,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Prossimo passo</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
@@ -1574,7 +1574,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <source>Mark all as read</source>
@@ -1586,11 +1586,11 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -2070,7 +2070,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2120,7 +2120,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2245,7 +2245,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegato</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2386,30 +2386,30 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nessun Soggetto)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Inizia</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Fine</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutto il giorno</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri in una nuova finestra</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2453,11 +2453,11 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare questa riunione?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2472,7 +2472,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nessun Soggetto)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2487,19 +2487,19 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>richiesta di riunione accettata.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo orario proposto: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>La richiesta di riunione è provvisoriamente accettata.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesta di riunione rifiutata.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
@@ -2555,7 +2555,7 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Nessun Soggetto)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2605,7 +2605,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>qualcuno@iltuoprovider.com</translation>
     </message>
     <message>
         <source>password</source>
@@ -2617,7 +2617,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Prossimo passo</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -2675,11 +2675,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiungi</translation>
     </message>
 </context>
 <context>
@@ -2698,7 +2698,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
 </context>
 <context>
@@ -2795,7 +2795,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Silenzia</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2886,7 +2886,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
 </context>
 <context>
@@ -3052,7 +3052,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3063,7 +3063,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricerca in Lista Globale degli Indirizzi (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -3242,19 +3242,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Segna come già letto</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Segna come non letto</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivia</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3356,7 +3356,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3380,7 +3380,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3406,7 +3406,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
 </context>
 <context>
@@ -3456,7 +3456,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivia</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3517,7 +3517,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Punteggio di comunicazione</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3633,7 +3633,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3676,7 +3676,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivia</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3784,7 +3784,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Allegati</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3835,7 +3835,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4145,7 +4145,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun oggetto</translation>
     </message>
 </context>
 <context>
@@ -4212,7 +4212,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
 </context>
 <context>
@@ -4290,11 +4290,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Elimina</translation>
     </message>
 </context>
 <context>
@@ -4319,11 +4319,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposta promemoria</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4401,11 +4401,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Salva</translation>
     </message>
 </context>
 <context>
@@ -4564,7 +4564,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
@@ -4575,11 +4575,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Segna come non letto</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Segna come già letto</translation>
     </message>
 </context>
 <context>
@@ -4630,7 +4630,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Domani</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4650,19 +4650,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni giorno</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni giorno feriale</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4670,7 +4670,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogni ultimo %1</translation>
     </message>
     <message>
         <source>Ends today</source>
@@ -4686,31 +4686,31 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutto il giorno</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>adesso</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minuti</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ora</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 giorni</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ci dispiace, alcuni allegati non possono essere trovati e verranno rimossi:</translation>
     </message>
     <message>
         <source>Trial:</source>

@@ -2070,7 +2070,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Stellings</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2081,7 +2081,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg ontvangers by</translation>
     </message>
 </context>
 <context>
@@ -2120,7 +2120,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2187,7 +2187,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
 </context>
 <context>
@@ -2198,7 +2198,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2206,11 +2206,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Bcc</translation>
     </message>
 </context>
 <context>
@@ -2241,7 +2241,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeer</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
@@ -2393,23 +2393,23 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Begin</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindig</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Heeldag</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak in nuwe venster oop</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2453,11 +2453,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker dat jy die vergadering wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2465,14 +2465,14 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2487,23 +2487,23 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering aanvaar.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuwe tyd voorgestel: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering voorlopig aanvaar.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering verwerp.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering is gekansilleer.</translation>
     </message>
 </context>
 <context>
@@ -2555,7 +2555,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen onderwerp)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2605,11 +2605,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>iemand@verskaffer.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>wagwoord</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
@@ -2617,7 +2617,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Volgende stap</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -2679,7 +2679,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg By</translation>
     </message>
 </context>
 <context>
@@ -2698,7 +2698,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur</translation>
     </message>
 </context>
 <context>
@@ -2795,7 +2795,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Wag &apos;n bietjie</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2886,7 +2886,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur</translation>
     </message>
 </context>
 <context>
@@ -3063,7 +3063,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Deursoek Globale Adres Lys (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -3242,19 +3242,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as gelees</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as ongelees</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor in argief</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3356,7 +3356,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3406,7 +3406,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
 </context>
 <context>
@@ -3456,7 +3456,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor in argief</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3517,7 +3517,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikasie punte</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3633,7 +3633,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3676,7 +3676,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor in argief</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3704,7 +3704,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleutelbordkortpaaie</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
@@ -3788,7 +3788,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsels</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3835,7 +3835,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -3846,14 +3846,14 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies &apos;n opsie</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg ontvangers by</translation>
     </message>
 </context>
 <context>
@@ -4145,7 +4145,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>geen onderwerp</translation>
     </message>
 </context>
 <context>
@@ -4212,7 +4212,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur</translation>
     </message>
 </context>
 <context>
@@ -4290,11 +4290,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Hernoem</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee uit</translation>
     </message>
 </context>
 <context>
@@ -4319,7 +4319,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel alarm</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4379,7 +4379,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee, hou dit</translation>
     </message>
 </context>
 <context>
@@ -4401,11 +4401,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak Toe</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
 </context>
 <context>
@@ -4568,18 +4568,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur</translation>
     </message>
 </context>
 <context>
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as ongelees</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Merk as gelees</translation>
     </message>
 </context>
 <context>
@@ -4630,11 +4630,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>More</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, van die aanhegsels kon nie gevind word nie en sal verwyder word:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4654,19 +4654,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke dag</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke werksdag</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4674,7 +4674,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke laaste %1</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4694,11 +4694,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Heeldag</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>nou</translation>
     </message>
     <message>
         <source>Due in</source>
@@ -4710,19 +4710,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mins</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 u</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
@@ -4796,7 +4796,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wanneer: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

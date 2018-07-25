@@ -4823,7 +4823,7 @@ zurück zu erlangen!</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Verfügbarkeitsstatus</translation>
     </message>
     <message>
         <source>You are %1</source>

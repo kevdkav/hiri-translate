@@ -2929,7 +2929,7 @@ postisi seuraavalle tasolle.</translation>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Vastaa kokoukseen</translation>
     </message>
     <message>
         <source>Respond to single event</source>
@@ -2968,11 +2968,11 @@ postisi seuraavalle tasolle.</translation>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet hyväksynyt tämän kokouksen.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet hyväksynyt tämän kokouksen alustavasti.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
@@ -2992,7 +2992,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokous</translation>
     </message>
     <message>
         <source>Time</source>
@@ -3165,7 +3165,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation type="unfinished"></translation>
+        <translation>kokous:</translation>
     </message>
     <message>
         <source>attachment:</source>
@@ -3201,7 +3201,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation type="unfinished"></translation>
+        <translation>lähetetty:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
@@ -3735,11 +3735,11 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokous- ja tehtävämuistutukset</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokousmuistutukset, tehtävämuistutukset ja uudet viestit</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
@@ -3900,7 +3900,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>Poissaoloviesti</translation>
     </message>
 </context>
 <context>
@@ -4384,7 +4384,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei, säilytä se</translation>
     </message>
 </context>
 <context>
@@ -4832,11 +4832,11 @@ takaisin hallintaan.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Liitettä ladattaessa ilmeni virhe</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Tallentaminen ei onnistu: </translation>
     </message>
 </context>
 <context>
@@ -4858,7 +4858,7 @@ takaisin hallintaan.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Hups! Jokin meni pieleen</translation>
     </message>
 </context>
 <context>
@@ -4879,11 +4879,11 @@ takaisin hallintaan.</translation>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhteys palvelimeen keskeytettiin</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Voi ei, jokin meni pieleen</translation>
     </message>
 </context>
 <context>

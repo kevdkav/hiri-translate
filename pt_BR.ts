@@ -1567,11 +1567,11 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar subpasta</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Criar pasta</translation>
     </message>
     <message>
         <source>Rename</source>

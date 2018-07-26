@@ -1123,11 +1123,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, Sie können mir einmal pro Monat eine E-Mail senden.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsere Gedanken zum Datenschutz finden Sie &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;hier&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -4289,7 +4289,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Delegated</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegiert</translation>
     </message>
     <message>
         <source>Open task</source>
@@ -4487,7 +4487,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben diese Aufgabe zum &quot;%1&quot; verschoben</translation>
     </message>
     <message>
         <source>Oops, moving task failed…</source>
@@ -4534,7 +4534,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Sorge! Sie können eine Lizenz kaufen um Hiri weiterhin zu nutzen.</translation>
     </message>
     <message>
         <source>get in touch.</source>
@@ -4546,19 +4546,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>I paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ich habe bezahlt</translation>
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation>Prüfe Lizenz…</translation>
+        <translation>Prüfe Abonnement…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation>Sorry, wir konnten Ihre Zahlung nicht finden.</translation>
+        <translation>Entschuldigung, wir konnten Ihre Zahlung nicht finden.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation>Bitte Feedback-Mitteilung schreiben</translation>
+        <translation>Bitte eine Feedback-Mitteilung schreiben</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
@@ -4566,7 +4566,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Testfrage:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
@@ -4574,7 +4574,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation>Fehler beim verschicken vom Feedback</translation>
+        <translation>Fehler beim verschicken des Feedback</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
@@ -4831,7 +4831,7 @@ zurück zu erlangen.</translation>
     </message>
     <message>
         <source>Where: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort: %1</translation>
     </message>
 </context>
 <context>
@@ -4849,22 +4849,22 @@ zurück zu erlangen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Beim Herunterladen des Anhangs ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kann nicht gespeichert werden: </translation>
     </message>
 </context>
 <context>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Von</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>für</translation>
     </message>
 </context>
 <context>
@@ -4896,7 +4896,7 @@ zurück zu erlangen.</translation>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindung zum Server wurde unterbrochen</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>

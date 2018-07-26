@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Ουπς, δεν μπορούμε να βρούμε το mail σας...</translation>
+        <translation>Ουπς, δεν μπορούμε να βρούμε το mail σας…</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Εγκατάσταση...</translation>
+        <translation>Εγκατάσταση…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Η ενημέρωση ολοκληρώθηκε. Παρακαλούμε επανεκκινήστε την εφαρμογή Hiri...</translation>
+        <translation>Η ενημέρωση ολοκληρώθηκε. Παρακαλούμε επανεκκινήστε την εφαρμογή Hiri…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>

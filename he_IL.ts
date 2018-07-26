@@ -1214,7 +1214,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation>טוען...</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>

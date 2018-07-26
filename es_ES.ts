@@ -12,7 +12,7 @@
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Calendarios en lista negra</translation>
     </message>
     <message>
         <source>Shared Calendars</source>

@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>Añade otra cuenta</translation>
     </message>
 </context>
 <context>

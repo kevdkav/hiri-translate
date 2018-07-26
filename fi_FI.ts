@@ -751,11 +751,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouksia ei voitu ladata</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouksesi päivitetään, kun olet seuraavan kerran yhteydessä verkkoon</translation>
     </message>
     <message>
         <source>(no subject)</source>
@@ -940,7 +940,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti perua tämän kokouksen?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
@@ -952,7 +952,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti poistaa tämän kokouksen?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -964,7 +964,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Peruuta kokous</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1007,7 +1007,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyväksy kokous</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
@@ -1176,15 +1176,15 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouspyyntö hyväksytty.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Uusi aika ehdotettu: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouspyyntö hyväksytty alustavasti.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
@@ -1196,7 +1196,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouspyyntö on peruutettu.</translation>
     </message>
 </context>
 <context>
@@ -1237,7 +1237,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä kokous on päivitetty</translation>
     </message>
 </context>
 <context>
@@ -1260,7 +1260,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouspyyntö hyväksytty</translation>
     </message>
     <message>
         <source>Meeting request declined</source>

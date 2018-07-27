@@ -4900,7 +4900,7 @@ zurück zu erlangen.</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Huch, etwas ist schief gelaufen</translation>
     </message>
 </context>
 <context>

@@ -5,18 +5,18 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ett annat konto</translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Publika kalendrar</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Delade kalendrar</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>

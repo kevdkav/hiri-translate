@@ -57,619 +57,620 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifogade filer</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök i Global Adresslista (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation type="unfinished"></translation>
+        <translation>Installerar…</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Misslyckades!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatering klar. Var god starta om Hiri…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdaterar... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation>Göm</translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 mer</translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation type="unfinished"></translation>
+        <translation>tillbaka till början</translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursäkta. Vi kan inte ladda din kalender</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Den bifogade filen &apos;%1&apos; kommer att laddas ner</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Den bifogade filen &apos;%1&apos; är nedladdad</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedladdning av den bifogade filen &apos;%1&apos; misslyckades</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation type="unfinished"></translation>
+        <translation>Möte skapat</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fel vid borttagning av bifogad fil</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fel när publik kalender skulle läggas till</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fel när delad kalender skulle läggas till</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tar bort kalender</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender raderad</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender borttagen</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fel när kalender skulle tas bort</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Döp om kalender</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalenderns namn har ändrats</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj en tid:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ge din kalender ett namn</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Döp om</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Mina kalendrar</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera denna kalender?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera den</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll den</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Publika kalendrar</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort kalender %1? Du kan alltid lägga till den igen senare.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja ta bort den</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej behåll den</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Delade kalendrar</translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skapa</translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetsvecka</translation>
     </message>
     <message>
         <source>Week</source>
-        <translation type="unfinished"></translation>
+        <translation>Vecka</translation>
     </message>
     <message>
         <source>Month</source>
-        <translation type="unfinished"></translation>
+        <translation>Månad</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation type="unfinished"></translation>
+        <translation>+ %1 ytterligare</translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen</translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget ämne</translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Ge din kalender ett namn</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till Idag</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel har inträffat, vad god försök igen senare</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta är ett återkommande möte.
+Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Enstaka möte</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela serien</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan inte avbryta detta möte för att du inte är organisatör. Vill du radera det istället?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera det.</translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll det.</translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen repetition</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje arbetsdag</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje %1</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>Var 2 vecka</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje sista %1</translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Var %1 %3</translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Var %1 %2</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingen</translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>0 minuter</translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minuter</translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minuter</translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>15 minuter</translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minuter</translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation type="unfinished"></translation>
+        <translation>1 timme</translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>2 timmar</translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>3 timmar</translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>4 timmar</translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>8 timmar</translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation type="unfinished"></translation>
+        <translation>12 timmar</translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dag</translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation type="unfinished"></translation>
+        <translation>2 dagar</translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation type="unfinished"></translation>
+        <translation>3 dagar</translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>1 vecka</translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation type="unfinished"></translation>
+        <translation>2 veckor</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nu</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation type="unfinished"></translation>
+        <translation>hela dagen</translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget ämne</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursäka, vi kunde inte lista ut vilket form av epost du använder.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vilken är din epost leverantör?</translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation type="unfinished"></translation>
+        <translation>Var god välj…</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan du inte se din epost leverantör i listan? Just nu stödjer Hiri Office365, Outlook.com (Hotmail/Live/MSN) samt Exchange. Om du behöver hjälp,</translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>kontakta oss.</translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klarhet</translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation type="unfinished"></translation>
+        <translation>Korthet</translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Ton</translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation type="unfinished"></translation>
+        <translation>Beteende</translation>
     </message>
     <message>
         <source>your score</source>
-        <translation type="unfinished"></translation>
+        <translation>din poäng</translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när kontakt skulle tas bort</translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation type="unfinished"></translation>
+        <translation>Visningsnamn</translation>
     </message>
     <message>
         <source>Company</source>
-        <translation type="unfinished"></translation>
+        <translation>Företag</translation>
     </message>
     <message>
         <source>Department</source>
-        <translation type="unfinished"></translation>
+        <translation>Avdelning</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakt</translation>
     </message>
     <message>
         <source>First name</source>
-        <translation type="unfinished"></translation>
+        <translation>Förnamn</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation>Efternam</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Epost %1</translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Arbetstelefon</translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Mobiltelefon</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Titel</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontorsaddress</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Adress</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation type="unfinished"></translation>
+        <translation>Gata</translation>
     </message>
     <message>
         <source>City</source>
-        <translation type="unfinished"></translation>
+        <translation>Stad</translation>
     </message>
     <message>
         <source>State</source>
-        <translation type="unfinished"></translation>
+        <translation>Län</translation>
     </message>
     <message>
         <source>Country</source>
-        <translation type="unfinished"></translation>
+        <translation>Land</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation type="unfinished"></translation>
+        <translation>Postkod</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Anteckningar</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Epost 1 är inte en giltig epostadress</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Epost 2 är inte en giltig epostadress</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>En kontakt måste ha ett namn eller en epostadress</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid uppdatering av kontakt</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 är redan i din kontaktlista</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapande av kontakt</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera kontakt:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera den.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll den</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till kontakt</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation type="unfinished"></translation>
+        <translation>lades till i din kontaktlista</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapande av kontakt</translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar alla kontakter, skriv för att söka</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla Kontakter</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -677,985 +678,985 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;inget namn&gt;</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;ingen epostadress&gt;</translation>
     </message>
     <message>
         <source>In</source>
-        <translation type="unfinished"></translation>
+        <translation>I</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa kontakt</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj kontakt</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt editering</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Idag</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Imorgon</translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till kalender</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Läser in dina möten…</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har inga möten</translation>
     </message>
     <message>
         <source>today</source>
-        <translation type="unfinished"></translation>
+        <translation>idag</translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>imorgon</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunde inte läsa in möten :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation type="unfinished"></translation>
+        <translation>Dina möten kommer uppdateras när du är tillbaka online</translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(inget ämne)</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen</translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera profil</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hej %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hej!</translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation type="unfinished"></translation>
+        <translation>ny</translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation type="unfinished"></translation>
+        <translation>sedan senaste kontrollen</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation type="unfinished"></translation>
+        <translation>epost idag</translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Din kalender</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kommunikationspoäng</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation type="unfinished"></translation>
+        <translation>Bjud in dina vänner</translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation type="unfinished"></translation>
+        <translation>vänta</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation type="unfinished"></translation>
+        <translation>min</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verifiera</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen ny post</translation>
     </message>
 </context>
 <context>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum:</translation>
     </message>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation type="unfinished"></translation>
+        <translation>vid</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort påminnelse</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sätt påminnelse</translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eftermiddagen</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Imorgon</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa vecka</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Annat datum och tid</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation type="unfinished"></translation>
+        <translation>En ny version av Hiri finns tillgänglig! Vill du uppdatera?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppdatera nu</translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation type="unfinished"></translation>
+        <translation>Påminn mig senare</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj fil</translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara som</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursäkta, några bifogade filer kunde inte hittas och kommer att tas bort:</translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner alla bifogade filer</translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifogade filer nedladdade till: %1</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid nedladdning av alla bifogade filer</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill ta bort detta möte?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, ta bort det</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>No, ta inte bort det</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera detta möte?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll det</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Avboka möte</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Avboka serien</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort serien</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera serien</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Avboka händelse</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort händelse</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera händelse</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursäkta, du kan inte sätta påminnelser när du är offline.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptera Möte</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Avböj Möte</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara Alla</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegera</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har redan ett utkast av detta meddelande</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivera</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snooze</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna konverstation innehåller ett utkast. Är du säker på att du vill radera det?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll det</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i nytt fönster</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som oläst</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som läst</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har redan ett utkast av detta meddelande</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidarebefodra</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ut / Spara som PDF</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som inte skräppost</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som skräppost</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursäkta, vi stödjer inte %1. Hiri fungerar bara med en Exchange/Office 365 epostadress.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv in din epostadress</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">någon@dinepostleverantör.se</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, du kan skicka mig ett epostmeddelande en gång per månad.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>See våra tankar om integritet &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;här&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa steg</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till ett konto.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lösenordet har ändrats eller gått ut.</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RADERAT)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UTKAST)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(RADERAT)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UTKAST)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när påminnelse skulle sättas…</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>konversationer markerade</translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Inget ämne)</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(UTKAST)</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ombud för %2</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan accepterad.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt tidsförslag: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan preliminärt accepterad.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan avböjd.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan har avbokats.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>När: %1</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till mottagare</translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 träffar hittades</translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Det var det hela</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi hämtar dina epostmeddelanden…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation type="unfinished"></translation>
+        <translation>Saknar du fortfarande några meddelanden?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Fler epostmeddelanden</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta möte har uppdaterats</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande markerat som skräppost</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandet inte längre skräppost. Flyttat till inkorgen.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerat som skräppost</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte längre skräppost. Flyttad till Inkorgen.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan accepterad</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan avböjd</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppladdning av meddelande misslyckades.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandet var större än vad servern accepterar.</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det oskickade meddelandet finns i din Utkorg. Försök dela upp de bifigade filerna i flera meddelanden.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du är offline. Ditt meddelande har flyttats till Utkorg.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunde inte skicka ditt meddelande - det innehåller ogilitiga mottagare</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan! Nått gick fel!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Meddelandet flyttat till FYI. Att göra raderad.</translation>
     </message>
 </context>
 <context>
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Från</translation>
     </message>
     <message>
         <source>On behalf of</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombud för</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Handling/Till</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Till</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI/Kopia</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopia</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hemlig kopia</translation>
     </message>
 </context>
 <context>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt</translation>
     </message>
 </context>
 <context>
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchangeinloggning</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>någon@dinepostleverantör.se</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>lösenord</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>användarnamn (ej obligatoriskt)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem med att logga in? Klicka här</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Hänta serverinställningar automatiskt</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Server</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>server (t.ex. server.domän.se)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autentisering</translation>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Enkel</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation type="unfinished"></translation>
+        <translation>serverversion</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2010</translation>
     </message>
     <message>
         <source>Exchange 2013</source>
-        <translation type="unfinished"></translation>
+        <translation>Exchange 2013</translation>
     </message>
     <message>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protokoll</translation>
     </message>
     <message>
         <source>HTTPS</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTPS</translation>
     </message>
     <message>
         <source>HTTP</source>
-        <translation type="unfinished"></translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifiera TLS/SSL certifikat</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa steg</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte Exchange?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Drag filer hit</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa externa bilder en gång</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa alltid externa bilder från denna avsändare</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj fil</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifoga</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett alternativ</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj katalog</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan tyvärr inte skapa en katalog när du är offline.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapar katalog %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog skapad</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan tyvärr inte döpa om en katalog när du är offline.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalogen har döpts om</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan tyvärr inte radera en katalog när du är offline.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill permanent radera katalogen och dess innehåll &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera katalog &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Raderar katalog %1</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog raderad</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera den</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll den</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan tyvärr inte tömma en katalog när du är offline.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du permanent vill ta bort alla object och underkataloger i katalog &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera alla object i katalog &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensar katalog %1</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalog rensad.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera dom</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll dem</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan tyvärr inte flytta kataloger när du är offline.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan tyvärr inte markera som läst när du är offline.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation type="unfinished"></translation>
+        <translation>Markerar alla som lästa…</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla object markerade som lästa.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid markerade av object som lästa.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa underkatalog</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>SKapa katalog</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Döp om</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera alla som lästa</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Töm innehåll</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lade till i signatur: &quot;Jag tar kontroll på min epost med hjälp&lt;a href=&quot;https://www.hiri.com/&quot;&gt;av Hiri.&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaans - Sydafrika</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgariska</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalanska</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tjeckiska</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Danska</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyska</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Grekiska</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelska - Kanada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelska - Storbritannien</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelska - USA</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Spanska - Spanien</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estländska</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Persiska</translation>
     </message>
     <message>
         <source>Faroese</source>
@@ -1667,7 +1668,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Hebreiska</translation>
     </message>
     <message>
         <source>Hindi</source>
@@ -1675,11 +1676,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatiska</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungerska</translation>
     </message>
     <message>
         <source>Indonesian</source>
@@ -1687,11 +1688,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italienska</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreanska</translation>
     </message>
     <message>
         <source>Lithuanian</source>
@@ -1703,55 +1704,55 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Norska (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Holländska</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Polska</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugisiska - Brasilien</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugisiska - Portugal</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumänska</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ryska</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbiska (Latin)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovakiska</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovenska</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Albanska</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbiska (Krylliska)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Svenska</translation>
     </message>
     <message>
         <source>Tamil</source>
@@ -1763,88 +1764,88 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkiska</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukrainska</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamesiska</translation>
     </message>
 </context>
 <context>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skriv ut katalogens plats</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid skapande av PDF fil. :(</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ut</translation>
     </message>
 </context>
 <context>
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelandet flyttat till FYI. Att göra borttagen.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Samlad inkorg</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta till Osorterat</translation>
     </message>
 </context>
 <context>
     <name>Invites</name>
     <message>
         <source>Hi,</source>
-        <translation type="unfinished"></translation>
+        <translation>Hej,</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jag skulle vilja buda in dig att testa på Hiri. Det är en ny epostklient som hjälper dig spara tid, organisera din dag samt förbättra kommunikation. Ladda ner den här:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du gillar den, så kan du få 25% rabatt om du använder följande länk:</translation>
     </message>
     <message>
         <source>Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tack!</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolla på Hiri här…</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprid kärleken!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Bjud in dina vänner och kollegor att testa på Hiri. Dom 3 första personerna som du bjuder in får</translation>
     </message>
     <message>
         <source>25% off</source>
-        <translation type="unfinished"></translation>
+        <translation>25% rabatt</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>om dom gillar det och bestämmer sig för att bli en medlem. Så ger vi dig</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>också om du skickar till endast 3 personer, även om dom inte blir medlemmar.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
@@ -1852,113 +1853,113 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Send invites</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka inbjudningar</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tangentbordsgenvägar</translation>
     </message>
 </context>
 <context>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Bläddra epost</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa/föregående konversation:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa/föregående konversation (när öppnad):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrolla upp/ner:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Topp/botten av nuvarande sida:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna konversation:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng konversation:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna sök:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Epoståtgärder</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara Alla:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidarebefordra:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som läst:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som oläst:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivera:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Flervalsalternativ</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj konversation:</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välja alla:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa urval:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigering</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv nytt epostmeddelande:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna samlad inkorg:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öppna Add göra inkorgen</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
@@ -1966,132 +1967,132 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna kalender:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna kontakter:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öppna  dashboard:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna inställningar:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Öppna feedbackdialogen:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriva</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka ett epostmeddelande:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Fet stil:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursiv stil</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Betona:</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa länk:</translation>
     </message>
 </context>
 <context>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv nytt epostmeddelande</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkorg</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämta nya meddelanden</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Osorterat</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta till OSORTERAT</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Att göra</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation type="unfinished"></translation>
+        <translation>Flytta till ATT GÖRA</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">För kännedom</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Flytta till FÖR KÄNNEDOM</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation type="unfinished"></translation>
+        <translation>Få rabatt på Hira idag!</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka feedback</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kunskapscenter</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontakter</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
 </context>
 <context>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till mottagare</translation>
     </message>
 </context>
 <context>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Var god lägg till en mottagare</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flera av dina epostadresser är felaktiga. Se till att du trycker på Enter när du har skrivit in en epostadress</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
@@ -2099,94 +2100,94 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen skriv nått i ämnesraden</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ogiltig mottagare påträffad</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Ämne</translation>
     </message>
     <message>
         <source>Error :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel :(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera bifogade filer från orginalmeddelandet</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara &amp; stäng</translation>
     </message>
 </context>
 <context>
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>sparar</translation>
     </message>
     <message>
         <source>saved locally</source>
-        <translation type="unfinished"></translation>
+        <translation>sparad lokalt</translation>
     </message>
     <message>
         <source>error</source>
-        <translation type="unfinished"></translation>
+        <translation>ett fel har inträffat</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Utkast sparat</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sparande av utkast</translation>
     </message>
     <message>
         <source>Forward sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidarebefordrar skickat</translation>
     </message>
     <message>
         <source>Delegate sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegat skickat</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när meddelande skulle skickas</translation>
     </message>
     <message>
         <source>Message sent</source>
-        <translation type="unfinished"></translation>
+        <translation>Meddelande skickat</translation>
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Möte vidarebefordrat</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid vidarebefordran av ett möte</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill slänga detta utkast?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, släng det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll det</translation>
     </message>
 </context>
 <context>
@@ -2197,285 +2198,286 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Till</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI | Kopia</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopia</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished"></translation>
+        <translation>Hemlig kopia</translation>
     </message>
 </context>
 <context>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad är &lt;font color=&quot;#e54624&quot;&gt;Att göra&lt;/font&gt; och &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Samma som Till och Kopia egentligen. Men om personen du skicka epostmeddelandet till använder Hiri, så kommer det hamna i deras Att göra eller FYI inkorg.</translation>
     </message>
     <message>
         <source>Learn more</source>
-        <translation type="unfinished"></translation>
+        <translation>Lär dig mer</translation>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation type="unfinished"></translation>
+        <translation>Varför är ämnesraden i botten?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation type="unfinished"></translation>
+        <translation>För att du kommer skriva en bättre ämnesrad! Du har redan skrivit innehållet, så ditt ämne kommer vara mera relevant, vilket sparar din mottagares tid.</translation>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad är</translation>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegera</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegering är till för att vodarebefordra en Att göra uppgift till någon.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Om ett epostmeddelande du vidarebefordrar innehåller en Att göra uppgift till dig, så kommer varje mottagare du lägger till i Action också att få den uppgiften automatiskt.
+Det är därför vi kallar det Delegera.</translation>
     </message>
 </context>
 <context>
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Det verkar som att du är offline eller inte har någon anslutning</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation type="unfinished"></translation>
+        <translation>...och vi är tillbaka</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar dina epostmeddelanden…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Hämtar dina epostmeddelanden... %1%</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollerar</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimerar databasen, var god dröj…</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Anslutningen avbröts vid hämtning av dina epostmeddelanden. Återansluter…</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök i Arkivet</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök överallt</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv och tryck Enter för att söka</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv för att söka</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök, eller tryck ENter för att visa alla Arkiv meddelanden</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar alla meddelande, skriv för att söka</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryck på Enter för att välja tag</translation>
     </message>
 </context>
 <context>
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptagen</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Preliminärt</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte på kontoret</translation>
     </message>
     <message>
         <source>No availability data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingen information om tillgänglighet</translation>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Ledig</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötestitel</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Schemaläggare</translation>
     </message>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat?</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Återkommande</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Påminnelse</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa som</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Bjud in - skriv ett namn för att påbörja</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta är ett återkommande möte. Du kan endast ta bort en bifogad fil från ursprungsmötet</translation>
     </message>
     <message>
         <source>Edit original</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera ursprung</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avboka</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Inget ämne)</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Slut</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna i nytt fönster</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats</translation>
     </message>
     <message>
         <source>Visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Synlighet</translation>
     </message>
     <message>
         <source>Private</source>
-        <translation type="unfinished"></translation>
+        <translation>Privat</translation>
     </message>
     <message>
         <source>Public</source>
-        <translation type="unfinished"></translation>
+        <translation>Publik</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa som</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Påminnelse</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
-        <translation type="unfinished"></translation>
+        <translation>Föregående möten</translation>
     </message>
     <message>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Organisatör</translation>
     </message>
     <message>
         <source>Attendees</source>
-        <translation type="unfinished"></translation>
+        <translation>Deltagare</translation>
     </message>
     <message>
         <source>This meeting has been cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta möte har blivit avbokat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera detta mötet?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, radera det</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll det</translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Inget ämne)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsa, kan inte avfärda påminnelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
@@ -2486,64 +2488,64 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesförfrågan accepterad.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nytt tidsförslag: %1 - %2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan accepterades preliminärt.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan avfärdades.</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötesinbjudan har avbokats.</translation>
     </message>
 </context>
 <context>
     <name>MeetingResponseLegend</name>
     <message>
         <source>Accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Accepterad</translation>
     </message>
     <message>
         <source>Declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Avböjd</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Preliminär</translation>
     </message>
 </context>
 <context>
     <name>MessageAttachments</name>
     <message>
         <source>1 file attached</source>
-        <translation type="unfinished"></translation>
+        <translation>1 fil bifogad</translation>
     </message>
     <message>
         <source>%1 files attached</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 filer bifogade</translation>
     </message>
 </context>
 <context>
     <name>NewMessageNotification</name>
     <message>
         <source>There is a new message in this conversation</source>
-        <translation type="unfinished"></translation>
+        <translation>Det finns nya meddelanden i denna konversation</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör inget</translation>
     </message>
     <message>
         <source>Read now</source>
-        <translation type="unfinished"></translation>
+        <translation>Läs nu</translation>
     </message>
 </context>
 <context>
@@ -2554,18 +2556,18 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Inget ämne)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Avfärda alla påminnelser</translation>
     </message>
 </context>
 <context>
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget Office 365?</translation>
     </message>
 </context>
 <context>
@@ -2576,154 +2578,155 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolla in vårat Kunskapscenter.</translation>
     </message>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dags att ta din
+epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation type="unfinished"></translation>
+        <translation>Bygg med...av Hiri teamet</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
-        <translation type="unfinished"></translation>
+        <translation>i Dublin, Irland.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nu kör vi!</translation>
     </message>
 </context>
 <context>
     <name>OutlookAuth</name>
     <message>
         <source>Outlook/Hotmail/Live/MSN login</source>
-        <translation type="unfinished"></translation>
+        <translation>Outlook/Hotmail/Live/MSN inloggning</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>någon@dinepostleverantör.se</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>lösenord</translation>
     </message>
     <message>
         <source>Your password might be wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ditt lösenord kan vara felaktigt</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Nästa steg</translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte Outlook/Hotmail/Live/MSN?</translation>
     </message>
 </context>
 <context>
     <name>Pagination</name>
     <message>
         <source>Go to page</source>
-        <translation type="unfinished"></translation>
+        <translation>Gå till sida</translation>
     </message>
 </context>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök kontakter i den Globala Adresslistan</translation>
     </message>
     <message>
         <source>No contacts found</source>
-        <translation type="unfinished"></translation>
+        <translation>Inga kontakter funna</translation>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel har inträffat</translation>
     </message>
     <message>
         <source>Search all contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök alla kontakter</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv ett namn för att starta sökning</translation>
     </message>
     <message>
         <source>Type  to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv..för att söka</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Epost</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation type="unfinished"></translation>
+        <translation>Jobtitel</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Telefon</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontor</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeDialog</name>
     <message>
         <source>Propose new time</source>
-        <translation type="unfinished"></translation>
+        <translation>Föreslå ny tid</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har inte ändrat tiden för mötet. var god föreslå en ny tid.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Ge dem en motivation till varför du föreslår en ny tid, eller lämna blankt</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
 </context>
 <context>
     <name>ProposeNewTimeResponseButtons</name>
     <message>
         <source>New time accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny tid accepterad</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera möte</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptera föreslagen tid</translation>
     </message>
 </context>
 <context>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort och koncist</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Bra ton</translation>
     </message>
     <message>
         <source>Action was clear</source>
@@ -2731,63 +2734,63 @@ email to the next level.</source>
     </message>
     <message>
         <source>Good subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Bra ämne</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation type="unfinished"></translation>
+        <translation>Simpelt språk</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Förstod vad som frågades</translation>
     </message>
     <message>
         <source>Relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Relevant för mig</translation>
     </message>
     <message>
         <source>Inappropriate</source>
-        <translation type="unfinished"></translation>
+        <translation>Olämpligt</translation>
     </message>
     <message>
         <source>Too long</source>
-        <translation type="unfinished"></translation>
+        <translation>För långt</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>För många FYIs</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte relevant för mig</translation>
     </message>
     <message>
         <source>Should have called/met</source>
-        <translation type="unfinished"></translation>
+        <translation>Borde ha ringt/mött</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Dålig ämnesrad</translation>
     </message>
     <message>
         <source>Not clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Otydligt</translation>
     </message>
     <message>
         <source>Rating…</source>
-        <translation type="unfinished"></translation>
+        <translation>Betyg…</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation type="unfinished"></translation>
+        <translation>Epost betygsatt. Bra jobbat!</translation>
     </message>
     <message>
         <source>Send rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka betyg</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har betygsatt detta epostmeddelande</translation>
     </message>
 </context>
 <context>
@@ -2798,260 +2801,260 @@ email to the next level.</source>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>5 min före</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>5 min före start</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">10 min före</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min före start</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">30 min before förfall</translation>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min före start</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1h före</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation type="unfinished"></translation>
+        <translation>1h före start</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Avfärda</translation>
     </message>
 </context>
 <context>
     <name>ReplyBox</name>
     <message>
         <source>Reply sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Svar skickat.</translation>
     </message>
     <message>
         <source>Sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades att skicka.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka här för att editera detta utkast</translation>
     </message>
     <message>
         <source>Pop out reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna svar i nytt fönster</translation>
     </message>
     <message>
         <source>Save draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara utkast</translation>
     </message>
     <message>
         <source>Discard Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Avfärda Utkast</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill avfärda ditt utkast?</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Avfärda utkast</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Fortsätt editera</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera mottagare</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>sparar</translation>
     </message>
     <message>
         <source>sending</source>
-        <translation type="unfinished"></translation>
+        <translation>skickar</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
 </context>
 <context>
     <name>ReplyToMultiple</name>
     <message>
         <source>Reply to multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara till flera</translation>
     </message>
     <message>
         <source>Only reply to people who need to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara bara till personer som behöver veta.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till någon annan - epostmeddelandet kommer skickas som FYI/Kopia</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du fick en hemligt kopia på detta epostmeddelandet - andra mottagare vet inte om att du fått detta meddelande. Om du lägger till mottagare och svarar, så kommer du inte längre vara hemlig.</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj alla</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Försök att inte använda denna valruta</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Färdig</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>En eller flera av de epostmeddelanden du valt är felaktiga.</translation>
     </message>
 </context>
 <context>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara på mötesinbjudan</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Svara till singelt möte</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation type="unfinished"></translation>
+        <translation>Svara till mötesserien</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Låt dom veta varför du</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>accepterar</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>preliminärt accepterar</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation type="unfinished"></translation>
+        <translation>avböjer</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>eller lämnar blankt.</translation>
     </message>
     <message>
         <source>Send response</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka svar</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har accepterar detta möte.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har svarat på detta möte som preliminärt.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har avböjt detta möte.</translation>
     </message>
     <message>
         <source>Propose new</source>
-        <translation type="unfinished"></translation>
+        <translation>Föreslå ny</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation type="unfinished"></translation>
+        <translation>Vidarebefordra detta</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra svar till</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Möte</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tid</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Preliminärt</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Avböj</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptera</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett fel har inträffat</translation>
     </message>
 </context>
 <context>
     <name>RightPanel</name>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Kataloger</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Att göra</translation>
     </message>
 </context>
 <context>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hela dagen?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Bjud in - skriv för att påbörja</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Plats</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillgänglighet</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Upptagen</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avböj</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3062,132 +3065,132 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök Global Adresslista (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation type="unfinished"></translation>
+        <translation>1: Välj ett datum</translation>
     </message>
     <message>
         <source>Exact day</source>
-        <translation type="unfinished"></translation>
+        <translation>Exakt dag</translation>
     </message>
     <message>
         <source>± 1 day</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">± 1 dag</translation>
     </message>
     <message>
         <source>± 1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 vecka</translation>
     </message>
     <message>
         <source>± 1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 månad</translation>
     </message>
     <message>
         <source>± 3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>± 3 månader</translation>
     </message>
     <message>
         <source>± 1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 år</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Bekräfta</translation>
     </message>
     <message>
         <source>On %1</source>
-        <translation type="unfinished"></translation>
+        <translation>På %1</translation>
     </message>
     <message>
         <source>Between %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mellan %1 och %2</translation>
     </message>
 </context>
 <context>
     <name>SearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök Arkivet</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök allt</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv och tryck Enter för att söka</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Påbörja sökningen genom att skriva</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök, eller tryck Enter för att visa alla Arkivmeddelanden</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Visar alla meddelanden, skriv för att söka</translation>
     </message>
 </context>
 <context>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka på taggarna för att omdefinera din sökning!</translation>
     </message>
     <message>
         <source>What</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad</translation>
     </message>
     <message>
         <source>When</source>
-        <translation type="unfinished"></translation>
+        <translation>När</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Vart</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>olästa:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation type="unfinished"></translation>
+        <translation>att göra:</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation type="unfinished"></translation>
+        <translation>möte:</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation type="unfinished"></translation>
+        <translation>bifogad fil:</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation type="unfinished"></translation>
+        <translation>datum:</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation type="unfinished"></translation>
+        <translation>idag:</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation type="unfinished"></translation>
+        <translation>denna vecka:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation type="unfinished"></translation>
+        <translation>denna månad:</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>katalog:</translation>
     </message>
     <message>
         <source>actionable:</source>
@@ -3195,88 +3198,88 @@ email to the next level.</source>
     </message>
     <message>
         <source>fyi:</source>
-        <translation type="unfinished"></translation>
+        <translation>fyi:</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation type="unfinished"></translation>
+        <translation>skickat:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hittade du inte det du letade efter?</translation>
     </message>
     <message>
         <source>Sync more</source>
-        <translation type="unfinished"></translation>
+        <translation>Synka mera</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>eller</translation>
     </message>
     <message>
         <source>Search locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök lokalt</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök Arkivet</translation>
     </message>
 </context>
 <context>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter inställningar</translation>
     </message>
 </context>
 <context>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Avmarkera allt</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera allt</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som läst</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Markera som oläst</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkivera</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 markerad</translation>
     </message>
 </context>
 <context>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Din avatar</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra</translation>
     </message>
     <message>
         <source>Subscription status</source>
-        <translation type="unfinished"></translation>
+        <translation>Abonnemangsstatus</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv</translation>
     </message>
     <message>
         <source>Trialing</source>
@@ -3284,247 +3287,252 @@ email to the next level.</source>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Ambasadörabonnemang</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte komma åt din abonnemangsinformation.
+Du kan fortfarande använda Hiri tills anslutningen till servers är återställd.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
-        <translation type="unfinished"></translation>
+        <translation>Köp Hiri nu</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>Synkronisera</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj hur många epostmeddelanden du vill att Hira laddar ner:</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>1 månad</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>3 månader</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation type="unfinished"></translation>
+        <translation>6 månader</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>1 år</translation>
     </message>
     <message>
         <source>2 years</source>
-        <translation type="unfinished"></translation>
+        <translation>2 år</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Allt</translation>
     </message>
     <message>
         <source>Start downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Starta nedladdning</translation>
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Laddar ner dina epostmeddelanden…</translation>
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliasadresser</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ett epostalias är en enkel vidarebefordran till en annan adress. Detta konto får all epost som skickas till adresserna i listan nedanför. På grund av tekniska begränsningar så känner Hiri endast till upp till tre alias som är konfigurerade på epostservern. Om du har mer än 3 så behöver du troligtvis konfigurera manuellt nedanför. Detta för att förhindre Hiri från att felaktigt kategorisera epost som du får direct eller via epostlistor.
+
+Kända alias:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ange dina anpassade alias här (en per rad):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(notera att det måste vara redan existerande alias, du kan inte skapa nya alias med Hiri)</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias sparade</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sätt som standard</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sätt detta konto som första konto när Hiri startar.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill sätta detta konto som standardval?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningarna kommer aktiveras efter att du startat om Hiri</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera konto och inställningar</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort all kontospecifik information från Hiri.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera konto</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill radera detta konto från Hiri?
+Detta kommer radera alla inställnigar och den LOKALA epostdatabasen.
+Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern!</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj layout</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj hur du vill att dina epostmeddelanden skall se ut.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>Låg densitet</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mindre epost, mera förhandsvisningstext.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>Hög densitet</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fler epostmeddelande, mindre förhandsvisningstext.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>Tvåpanelsvy</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Epostlista på top och en förhandsvisningpanel på botten.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>Gränssnittsstorlek</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Du måste starta om Hira för att detta skall aktiveras</translation>
     </message>
 </context>
 <context>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkiv</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa Akrivknappen i verktygsfältet för epost</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inställningar sparade</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Målkatalog</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kalendertidszon</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Första dagen i veckan</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Söndag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Måndag</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna ändring kommer aktiveras när du startar om Hiri</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tidsformat</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Denna förändring kommer aktiveras när du uppdaterar din inbox</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa dashboard vid inaktivitet</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Visa dashboarden när ingen interaktion med Hiri inom:</translation>
     </message>
 </context>
 <context>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikationspoäng</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktivera betyg på epost och kommunikationspoäng</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera rankningslänk i signaturen</translation>
     </message>
 </context>
 <context>

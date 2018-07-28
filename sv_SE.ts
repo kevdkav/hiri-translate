@@ -20,19 +20,19 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Om du inte kan hitta den kalender du letar efter, var god kontrollera så att du har accepterad delningsbegäran.</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunde inte hitta några nya publika kalendrar</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Vi kunde inte hitta några nya delade kalendrar</translation>
     </message>
 </context>
 <context>

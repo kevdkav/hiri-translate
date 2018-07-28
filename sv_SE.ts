@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oj, kan inte hitta ditt mejl…</translation>
     </message>
 </context>
 <context>

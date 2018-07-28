@@ -46,7 +46,7 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nVidia nouveau drivrutin detekterad som kan orsaka systemkrasher. Var god starta om Hiri för att tvinga fram en mjukvarurendering.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>

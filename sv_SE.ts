@@ -3550,11 +3550,11 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör Hiri snabbare och frigör lite diskutrymme. Detta kan ta en minut.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation>Optimerar databas…</translation>
+        <translation>Optimerar databasen…</translation>
     </message>
     <message>
         <source>Optimize now</source>
@@ -3562,7 +3562,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri kan verka frusen just nu, men det några få minuter.</translation>
     </message>
     <message>
         <source>Done!</source>
@@ -3574,15 +3574,15 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Du använder Hiri version %1</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolla på förändringsloggen</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kan inte kolla efter uppdateringar just nu</translation>
     </message>
     <message>
         <source>Found new version</source>
@@ -3594,7 +3594,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när kontrol av ny version genomfördes</translation>
     </message>
 </context>
 <context>
@@ -3605,7 +3605,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj gränssnittsspråk:</translation>
     </message>
     <message>
         <source>Saved</source>
@@ -3613,11 +3613,11 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen notera:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om översättningen du valt är ofullständig, kommer några ord visas på Engelska. Om du vill hjälpa till med översättningen (eller skapa en för ett nytt språk) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;klicka här&lt;/a&gt; för att bidra! Tack.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -3625,18 +3625,18 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detta kommer aktiveras efter du har startat om Hiri.</translation>
     </message>
 </context>
 <context>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte på kontoret</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3644,15 +3644,15 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vänligen ange ett meddelande för Inte på kontoret.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte på kontoret sparat</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid sparade av Inte på kontoret</translation>
     </message>
 </context>
 <context>
@@ -3679,7 +3679,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte på kontoret</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3691,7 +3691,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Allmäna</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -3719,7 +3719,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Languages</source>
@@ -3738,268 +3738,269 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Påminnelser för Möten och Att göra</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Mötespåminnelser, Att görapåminnelser och ny epost</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Desktopsintegrering</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Visa Hiri i systemfältet</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Aktivera när notifieringar är påslagna)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimera till systemfältet</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en skrivbordsgenväg och lägg till den till din applikationsmeny.
+Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa skrivbordsikon</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klart!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gör Hiri till din standard epostapplikation.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrera som standard epost app</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid registrering</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Skriv &amp; svara</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng konversationen efter svar har skickats</translation>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifogade filer</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga alltid vart nedladdade filer skall sparas</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ner till</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid val av katalog. Försök med en annan katalog.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavningskontroll</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Stavningskontroll aktiv</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Språk</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan ändra inställningar för stavningskontrollen genom att högerklicka i ett svar- och skrivfönster.</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkludera &quot;--&quot; i toppen av signaturen</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Signatur sparad</translation>
     </message>
 </context>
 <context>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Välj ett alternativ</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till mottagare</translation>
     </message>
 </context>
 <context>
     <name>SingleAttachment</name>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nedladdning av bifogade filer är: %1</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel vid nedladdning av bifogade filer</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan! Jag är inte säker på hur man öppnar denna bifogade fil!</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Ladda ned</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort Att göra</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till Att göra</translation>
     </message>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>INTE PÅ KONTORET</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>Inte på kontoret meddelande</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegera till</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga till</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>Att göra till</translation>
     </message>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"></translation>
+        <translation>Ställa fråga här</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskriv Att göra här</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Talang aktiverad</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Talang inaktiverad</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vad gör denna?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vad ser det ut som?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Varför?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Dela Att göra/FYI</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Separera dina epostmeddelanden med dela Att göra/FYI.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till ett filter för Att göra och FYI i den mörkgråa boxen på vänster sida.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Dashboard</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluta kolla din epost så ofta.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>En dashboard kommer dyka upp framför Hiri efter 90 sekunders inaktivitet för att påminna dig om att inte kolla epost för ofta. Detta hjälper dig att fokusera and sparar dig tid.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>Att göra lista</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förvandla dina epost till Att göra genom att klicka.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till en Att göra lista på den högra sidan. Du kan enkelt dra och släppa epostmeddelanden på denna panel för att skapa en Att göra lista.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Delegera Epostmeddelanden</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klargör att du har delegerad en Att göra uppgift.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till en Delegera knapp till åtgärdsfältet för Epost.</translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4007,35 +4008,35 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Glöm aldrig ett viktigt epostmeddelande igen</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägger till en Påminnelseknapp till åtgärdsfätet för epost. Detta gör att du kan sätta påminnelser för specifika konversationer.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation>Skriv bättre rubriker</translation>
+        <translation>Skriv bättre ämnesrubriker</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbättra dina ämnesrubriker genom att skriva dom sist.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Flyttar ämnesraden till botten av skrivfönstret.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom Inkorg</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>För dom som praktiserar Zenkonsten av en Tom Inkorg.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Kräver delning av Att göra/FYI</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
@@ -4043,11 +4044,11 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Betygsätt Epostmeddelanden</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bli en bättre kommunikatör.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
@@ -4055,19 +4056,19 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Det bästa sättet att förbättra din kommunikationförmåga är ärlig feedback, och vad är bättre än att fråga med ett epostmeddelande?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Låter andra betygsätta dina epostmeddelande med hjälp av dom fyra pelarna för bra kommunikation - tydlighet, korthet, ton samt beteende. Hiri kommer att ge dig ett betyg baserad på feedback och rekommendationer på vad du kan göra för att förbättra din kommunikationsförmåga. Betyget delas inte med någon annan. Betyg är anonymiserade - du kommer inte veta vem som betygsatte dig.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dags att förbättra dina kunskaper.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Förbättra ditt epostspel med dessa produktivitetshacks.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4081,7 +4082,7 @@ This will let you pin Hiri icon to your launcher.</source>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort version: Att hantera din epost hjälper dig skilja agnarna från vetet. En organiserad Inkorg leder till ett hälsosammare sinne.&lt;br /&gt;&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;

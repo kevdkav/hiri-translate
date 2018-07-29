@@ -485,7 +485,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation>Etkö näe sähköpostitarjoajaasi tässä listassa? Tällä hetkellä Hiri toimii Office365, Outlook.com (Hotmail/Live/MSN) ja Exchange -palveluiden kanssa. Jos tarvitset apua,</translation>
+        <translation>Etkö näe sähköpostitarjoajaasi? Tällä hetkellä Hiri toimii Office365:n, Outlook.comin (Hotmail/Live/MSN) ja Exchange-palvelimien kanssa. Jos tarvitset apua,</translation>
     </message>
     <message>
         <source>contact us.</source>

@@ -3131,7 +3131,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsi või vajuta Enter et näha kõiki arhiveeritud sõnumeid</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>

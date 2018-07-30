@@ -3135,112 +3135,112 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Kuvan kõiki sõnumeid, trüki et otsida</translation>
     </message>
 </context>
 <context>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliki tagidel et täpsustada otsingut!</translation>
     </message>
     <message>
         <source>What</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <source>When</source>
-        <translation type="unfinished"></translation>
+        <translation>Millal</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Kus</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>lugemata:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation type="unfinished"></translation>
+        <translation>ülesanne:</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation type="unfinished"></translation>
+        <translation>koosolek:</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation type="unfinished"></translation>
+        <translation>lisa:</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation type="unfinished"></translation>
+        <translation>kuupäev:</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation type="unfinished"></translation>
+        <translation>täna:</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation type="unfinished"></translation>
+        <translation>käesolev nädal:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation type="unfinished"></translation>
+        <translation>käesolev kuu:</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>kaust:</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>tegevus:</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation type="unfinished"></translation>
+        <translation>informatiivne:</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation type="unfinished"></translation>
+        <translation>saadetud:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei leidnud mida otsisid?</translation>
     </message>
     <message>
         <source>Sync more</source>
-        <translation type="unfinished"></translation>
+        <translation>Sünkroniseeri rohkem</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>või</translation>
     </message>
     <message>
         <source>Search locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsi lokaalselt</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Otsi arhiivist</translation>
     </message>
 </context>
 <context>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtreeri valikuid</translation>
     </message>
 </context>
 <context>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista kõik valikud</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali kõik</translation>
     </message>
     <message>
         <source>Mark as read</source>
@@ -3260,47 +3260,48 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 valitud</translation>
     </message>
 </context>
 <context>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinu avatar</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda</translation>
     </message>
     <message>
         <source>Subscription status</source>
-        <translation type="unfinished"></translation>
+        <translation>Tellimuse staatus</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiivne</translation>
     </message>
     <message>
         <source>Trialing</source>
-        <translation type="unfinished"></translation>
+        <translation>Proovin</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Saadiku tellimus</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei saanud tellimuse andmeid
+Saad siiski Hirit kasutada kuni ühendus serveriga on loodud.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
-        <translation type="unfinished"></translation>
+        <translation>Osta Hiri kohe</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>Sünkroniseerimine</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>

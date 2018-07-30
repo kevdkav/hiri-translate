@@ -12,15 +12,15 @@
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημόσια ημερολόγια</translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Κοινόχρηστα ημερολόγια</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αν δεν μπορείτε να βρείτε το ημερολόγιο που ψάχνετε σιγουρευτείτε οτι έχετε αποδεχτεί το αίτημα κοινής χρήσης.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -28,11 +28,11 @@
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορέσαμε να βρούμε κανένα νέο δημόσιο ημερολόγιο</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν μπορέσαμε να βρούμε κανένα νέο κοινόχρηστο ημερολόγιο</translation>
     </message>
 </context>
 <context>
@@ -64,7 +64,7 @@
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση παγκόσμιας λίστας διευθύνσεων (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -105,7 +105,7 @@
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation type="unfinished"></translation>
+        <translation>επιστροφή στο αρχικό μενού</translation>
     </message>
 </context>
 <context>
@@ -136,49 +136,49 @@
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατά την διάρκεια προσθήκης δημόσιου ημερολογίου</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατά την διάρκεια προσθήκης κοινόχρηστου ημερολογίου</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή ημερολογίου</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Το ημερολόγιο διεγράφει</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation type="unfinished"></translation>
+        <translation>Το ημερολόγιο αφαιρέθηκε</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα κατα την αφαίρεση του ημερολογίου</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία ημερολογίου</translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Το ημερολόγιο μετονομάστηκε</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Επιλογή ώρας:</translation>
+        <translation>Επιλέξτε μια ώρα:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Δώστε στο ημερολόγιό σας ένα όνομα</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -201,11 +201,11 @@
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Τα ημερολόγιά μου</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το ημερολόγιο;</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -213,15 +213,15 @@
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημόσια ημερολόγια</translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε βέβαιοι ότι θέλετε να καταργήσετε το ημερολόγιο %1; Μπορείτε πάντα να το προσθέσετε αργότερα.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
@@ -229,11 +229,11 @@
     </message>
     <message>
         <source>No keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι κράτησέ το</translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation type="unfinished"></translation>
+        <translation>Κοινόχρηστα ημερολόγια</translation>
     </message>
 </context>
 <context>
@@ -277,7 +277,7 @@
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Δώστε στο ημερολόγιό σας ένα όνομα</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -292,23 +292,24 @@
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετάβαση στο σήμερα</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation>Προέκυψε σφάλμα, παρακαλώ δοκιμάστε ξανά</translation>
+        <translation>Παρουσιάστηκε κάποιο σφάλμα. Παρακαλούμε δοκιμάστε ξανά</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation type="unfinished"></translation>
+        <translation>Πρόκειται για μια περιοδική σύσκεψη.
+Θέλετε να προωθήσετε μόνο αυτό το γεγονός ή όλη τη σειρά;</translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation>Μοναδική σύσκεψη</translation>
+        <translation>Μεμονωμένη σύσκεψη</translation>
     </message>
     <message>
         <source>Entire series</source>
@@ -363,7 +364,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Κανένα</translation>
     </message>
     <message>
         <source>0 minutes</source>

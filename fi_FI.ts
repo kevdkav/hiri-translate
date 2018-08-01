@@ -1011,7 +1011,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Hylkää kokous</translation>
     </message>
     <message>
         <source>Reply</source>
@@ -1188,7 +1188,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouspyyntö hylätty.</translation>
     </message>
     <message>
         <source>When: %1</source>
@@ -1264,7 +1264,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouspyyntö hylätty</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>

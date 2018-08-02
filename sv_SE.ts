@@ -674,7 +674,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation type="unfinished"></translation>
+        <translation>Flicka</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
@@ -1035,7 +1035,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation>Snooze</translation>
+        <translation>Skjut upp</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1660,11 +1660,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>Färöiska</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Franska</translation>
     </message>
     <message>
         <source>Hebrew</source>
@@ -1672,7 +1672,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
@@ -1684,7 +1684,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesiska</translation>
     </message>
     <message>
         <source>Italian</source>
@@ -1696,11 +1696,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Litauiska</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettiska</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
@@ -1756,11 +1756,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tadzjikiska</translation>
     </message>
     <message>
         <source>Turkish</source>
@@ -1849,7 +1849,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Du borde bjuda in personer som du skickar epost till mest. Ni kommer alla att dra nytta av Att Göra och FYI epost.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -1959,11 +1959,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation>Öppna Add göra inkorgen</translation>
+        <translation>Öppna Att Göra inkorgen:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna FYI inkorgen:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -1999,7 +1999,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation>Kursiv stil</translation>
+        <translation>Kursiv stil:</translation>
     </message>
     <message>
         <source>Underline:</source>
@@ -2096,7 +2096,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Fyll i alla uppgifter</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
@@ -2194,7 +2194,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppgift | Till</translation>
     </message>
     <message>
         <source>To</source>
@@ -2250,7 +2250,8 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om epostmeddelandet du vidarebeordrar innehåller en Att Göra uppgift till dig så kommer varje mottagare du lägger till som i Att Göra att få din Uppgift automatiskt.
+ Det är därför vi kallar det för Delegera.</translation>
     </message>
 </context>
 <context>
@@ -2480,7 +2481,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, kunde inte skjuta upp påminnelsen…</translation>
     </message>
 </context>
 <context>
@@ -2551,7 +2552,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>Notifier</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ingen uppgift)</translation>
     </message>
     <message>
         <source>(No subject)</source>
@@ -2573,7 +2574,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>OnboardingCarousel</name>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Förbättra din eposthantering med en knapptryckning.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
@@ -2729,7 +2730,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppgiften var klar</translation>
     </message>
     <message>
         <source>Good subject</source>
@@ -2796,7 +2797,7 @@ epost till nästa nivå.</translation>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation>Snooze</translation>
+        <translation>Skjut upp</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -3057,7 +3058,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Tillämpa</translation>
     </message>
 </context>
 <context>
@@ -3193,7 +3194,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>att göra:</translation>
     </message>
     <message>
         <source>fyi:</source>
@@ -3282,7 +3283,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Trialing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ledande</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
@@ -4039,7 +4040,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Låter dig uppnå Inkorg Noll. Normalt när du aktiverar färdigheten Att Göra / FYI (kolla upp färdigheten Att Göra / FYI  för mera info=, epostmeddelande som flyttas till dessa filer kommer finnas kvar i huvudinkorgen, men dom ändrar färg. Att aktivera färdigheten Inkorg Noll innebär att dessa eposetmeddanden nu flyttas till Att Göra / FYI filterna. Detta tillåter dig att tömma ut din huvudinkorg.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
@@ -4081,14 +4082,28 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort version: Att prioritera din epost hjälper dig separera agnarna från vetet. An organiserad Inkorg leder till ett hälsosammare sinne.&lt;br /&gt;&lt;br /&gt;
+   Att dela upp eposten i vad du behöver göra och vad du endast behöver ha kännedom om är ett bra sätt att prioritera din inkorg. När du prioriterar din inkorg effektivt, så börjar du inse att det inte är när så mycket som behöver göras som du först trodde. Faktum är att det endast är runt 20% av den epost du får som innehåller en handling som behöver utföras. Huvudanledningarna för resterande är nedbrutet enligt följande:&lt;br /&gt;
+   &lt;ul&gt;
+   &lt;li&gt;16% av mottagna epostmeddelanden är onödiga koior&lt;/li&gt;
+   &lt;li&gt;13% av mottagna epostmeddelanden irrelevanta eller inte riktade&lt;/li&gt;   
+   &lt;li&gt;41% av mottagna epostmeddelanden är endast för i informationssyfte&lt;/li&gt;
+   &lt;/ul&gt;
+   &lt;br /&gt;
+   Om du inte prioriterar din epost kan du inte få en uppfattning om vilka epostmeddelanden som behöver din uppmärksamhet och vilka som inte behöver det. Detta betyder att din inbox ser ut att innehålla en svåröverkommen mängd av arbete. Det kan vara väldigt stressfullt att se en överfylld inkorg. Och när du är stressad så faller lätt viktiga saker mellan sprickorna.&lt;br /&gt;&lt;br /&gt; Att göra/FYI konceptet finns även i andra delar av programmet. Som exempel, om du aktiverar färdigheten Att göra listan, alla epostmeddelanden du drar till Att göra listan dyker automatiskt upp i ditt Att göra filter.
+&lt;br /&gt;&lt;br /&gt;
+
+   För att lära dig mera om Att göra/FYI i detalj &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;besök våran supportartikel på engelska&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det mest destriktiva epostbeteenden av dom alla? All kolla din epost för ofta. I genomsnitt så kollar vi våran epost 96 gånger under en dag, eller var 5:e minut. Det är helt onödigt. Ingen förväntar sig att du skall kolla din epost så ofta. (gör dom det så är dom galna.)&lt;br/&gt;&lt;br/&gt;
+   Epost är inte ett realtidskommuikationsprotokoll. Behöver du ett snabbt svar? Försök att ringa, SMS, skicka direktmeddelanden - eller rumpa över till deras skrivbord. Epost är väldigt bra för asynkron, entydig kommunikation. Eller på ren Svenska, saker som du inte behöver ha svar på omedelbart när svaret är klart. Varför klart? Jo för att om ditt epostmeddelande kommer att resultera i ytterligare meddelanden så är det bättre att du ringer. Ingen gillar eposttennis.&lt;br /&gt;&lt;br /&gt;
+   Att kolla eposten mer sällan can resultera i märkbara tidsbesparingar. Varje gång ti kollar din epost, kostar det dig misnt en minut (några studier säger 20 minuter beroende din befattning). Anledningen är att du blir störd, det är inte bara tiden det tar att läsa eposten. Det är också tiden det tar dig att komma tillbaka till det du gjorde innan du blev störd.&lt;br /&gt;&lt;br /&gt;
+   En grupp av forskare vid UC Irvine och U.S. Army studerade effekterna av att begränsa åtkomsten till epost på deltagarnas hjärtfrekvens och möjlighet att fokusera. Dom fann att begränsa epoståtkomst dramatiskt reducerar stress genom att observera deltagarnas hjärtfrekvens. Deltagarna utan åtkomst till post bytte kontext 18 gånger per timma mot 37 gånger i timman för deltagare som have åtkomst till epost. Dashboard färdigheten stoppar dig inte från din epost, men är bevisar att reducera antalet gånger du kollar din epost.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4097,7 +4112,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Någonsin glömt ett viktigt epostmeddelande? Jomenvisst. Genom att fånga dessa meddelanden i Att göra listan, kan du vara säker på att du inte kommer glömma nått viktigt. Eller skrolla dig igenom ett meddelande för att påminna dig om vad det var du behövde göra.&lt;br /&gt;&lt;br /&gt;
+    Att göra listan har några riktigt häftiga funktioner. Som exemepl så kan du öppna epostmeddelanden som är associerade med en Att göra uppgift direkt från listan. Och vice-versa - du kan öppna en Att göra uppgift associerad till ett epostmeddelande från vilken epostmeddelande som helst. Vi har några färdiggjorda - som exempel, uppgifter som måste göras idag, och uppgifter som du skickat till andra personer, men du kan också skapa egna Att göra listor.&lt;br /&gt;&lt;br /&gt;
+    Att göra uppgifter är fullt kompatibel med MS Outlook och Microsofts Att göra applikation.&lt;br /&gt;&lt;br /&gt;
+    För att lära dig mera om Att göra listor, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;besök våran supportsida på engelska&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4119,7 +4138,24 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Någonsin hört om Dom Fyra D:na? Inte? Det är helt OK.&lt;br /&gt;
+   Det kommer from Microsofts Forskningsavdelning och fungerar enligt följande:&lt;br /&gt;
+
+&lt;ol&gt;
+   &lt;li&gt;Om det inte är viktigt, &lt;strong&gt;delete&lt;/strong&gt; it. (radera det)&lt;/li&gt;
+   &lt;li&gt;Om det kan göras på 2 minuter eller kortare tid, &lt;strong&gt;do&lt;/strong&gt; it. (gör det)&lt;/li&gt;
+   &lt;li&gt;Om det inte är till dig, eller om du kan, &lt;strong&gt;delgate&lt;/strong&gt; it. (delegera det)&lt;/li&gt;
+   &lt;li&gt;Om du behöver göra det, men det tar längre tid än 2 minuter (inkluderar att läsa), &lt;strong&gt;defer&lt;/strong&gt; it.(Skjut upp det)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+   Du kan hantera all din epost med hjälp av Dom Fyra D:na metodologin. Hos Hiri älskar vi Dom Fyra D:na. Men vi vill understryka Delegate (delegera). Så vi lade till en Delegera knapp).&lt;br /&gt;&lt;br /&gt;
+
+   Delegeringsknappen fungerar i princip som en vidarebefordraknapp, med några få skillnader. När du använder Delegeringsknappen, kommer ett Att Göra fält läggas till i början på det vidarebefordrade epostmeddelandet så att du kan göra användare uppmärksammade på vad du vill att dom skall göra med epostmeddelandet. Detta är viktigt, eftersom 40% av all epost användare får inte innehåller en tydlig handling, vilket leter till ytterlige epost för att tydliggöra uppgiften.&lt;br /&gt;&lt;br /&gt;
+
+   Det är en mindre förändring, men det är ytterligare ett sätt som Hiri hjälper dig förbättra din kommunikation på.&lt;br /&gt;&lt;br /&gt;
+
+   Det finns ytterligare en &apos;bonus&apos; med att använda Delgeringsknappen. Om du skickar ett delegerat meddelande till en annan användare av Hiri, så kommer det epostmeddelandet automatiskt att hämna i deras Att Göra Inkorg, eftersom vi vet att det innehåller en Att Göra uppgift till dem.
+    </translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4131,7 +4167,15 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Epostmeddelanden som du tar emot kan behandlas genom De Fyra D:na metodologin:&lt;br /&gt;&lt;br /&gt;
+
+   1.      Om det inte är viktigt, &lt;strong&gt;delete&lt;/strong&gt; it. (radera det)&lt;br /&gt;
+   2.      Om det kan göras på 2 minuter eller kortare tid, &lt;strong&gt;do&lt;/strong&gt; it. (gör det)&lt;br /&gt;
+   3.      Om det inte är till dig, eller om du kan, &lt;strong&gt;delgate&lt;/strong&gt; it. (delegera det)&lt;br /&gt;
+   4.      Om du behöver göra det, men det tar längre tid än 2 minuter (inkluderar att läsa), &lt;strong&gt;defer&lt;/strong&gt; it.(Skjut upp det)&lt;br /&gt;&lt;br /&gt;
+
+   Deferknappen (Skjuta upp) är det fjärde &apos;D:t&apos; i listan. Ibland kan du inte hantera ett epostmeddelande direkt, utan det måste bli till en uppgift på eller före ett specifikt datum. Genom att trycka på Påminnelseknappen så kan du välja att få en påminnelse om en speciell eposttråd. Så enkelt är det!
+    </translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4140,12 +4184,18 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Du kommer att skriva en bättre ämnesrad när du har skrivit klart epostmeddelandet.&lt;br /&gt;&lt;br /&gt;
+
+   Detta är viktigt. Bättre användning av ämnesraden gör det märkbart enklare för någon att uppskatta hur viktigt ett epostmeddelande är. Är ämnesraden är relevant till ditt meddelande, så gör det också sjävla meddelandet enklare att ta in.&lt;br /&gt;&lt;br /&gt;
+
+   Av samma aneldning så kommer du också märka att Hira inte kommer att tillåta dig skicka ett meddelande utan en ämnesran.
+    </translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inkorg Noll är ett rigoröst tillvägagångssätt till eposthantering med sikte på att hålla inkorgen tom - eller nästan tom - under alla omständigheter.&lt;br /&gt;&lt;br /&gt;
+Inkorg Noll är utvecklat av produktivitetsexperten Merlin Mann. Enligt Mann så är Noll inte en referens till antalet meddelande i en inkorg, utan till &quot;tiden som en anställds uppmärksamhet spenderas i sin inkorg&quot;. Manns poäng är att tid och uppmärksamhet är en begränsad resurs och när en inkorg är förvirrad med en att göra&quot; lista så blir produktiviteten lidande. Genom att rensa ut din inkorg, så kommer du spendera mindre tid att kolla igneom din epost. En ren inkorg leder till ett mera hälsosamt, och produktivt sinne - åtminstone enligt teorin.</translation>
     </message>
 </context>
 <context>
@@ -4167,11 +4217,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation>Skicka återkoppling…</translation>
+        <translation>Skickar återkoppling…</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Återkopplingsmeddelande:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
@@ -4183,39 +4233,39 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fel när bifogade filer skulle läggas till</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolla våran FAQ i vårat supportcenter</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du har en idé till oss</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Eller kontakta Team Hiri direkt</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation>E-post kommer att skickas till:</translation>
+        <translation>Epostmeddelandet kommer att skickas till:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Hjälp oss att hjälpa dig :)</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ju fler detaljer du ger oss, desto bättre kan vi hjälpa till.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Låt oss veta vilken del av programmet ditt problem/förslag relaterar till.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifoga loggfiler till detta ärende</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4227,62 +4277,62 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation type="unfinished"></translation>
+        <translation>På</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Av</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Var dessa uppgifter avslutade?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Var denna uppgift avslutad?</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Du markerade detta meddelande som en uppgift till %1</translation>
     </message>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>din</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>du och 1 till</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>du och %1 till</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>1 till</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 till</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Fråga</translation>
     </message>
     <message>
         <source>Delegated</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegerad</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Uppgift</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>till</translation>
     </message>
     <message>
         <source>for</source>
@@ -4290,7 +4340,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktiv uppgift</translation>
     </message>
 </context>
 <context>
@@ -4301,25 +4351,25 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera</translation>
     </message>
 </context>
 <context>
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Alla uppgifter</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Ny lista</translation>
     </message>
 </context>
 <context>
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Samma uppgift för alla</translation>
     </message>
 </context>
 <context>
@@ -4330,81 +4380,81 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ange slutdatum</translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>du skapade denna uppgift</translation>
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>från</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Öppna epost</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en påminnelse</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort en påminnelse</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta bort slutdatum</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Radera uppgift</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Lägg till en anteckning</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Editera anteckning</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Rensa anteckning</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Är du säker på att du vill rensa anteckningen?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, rensa den</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nej, behåll den</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>du</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>alla</translation>
     </message>
 </context>
 <context>
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Ändra uppgiftens anteckning</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4419,84 +4469,84 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ingen uppgift)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation>Hoppsa, kan inte avfärda påminnelsen…</translation>
+        <translation>Hoppsan, kan inte avfärda påminnelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, kan inte snooza uppgiftens påminnelse…</translation>
     </message>
 </context>
 <context>
     <name>Tasks</name>
     <message>
         <source>Create a new task</source>
-        <translation type="unfinished"></translation>
+        <translation>Skapa en ny uppgift</translation>
     </message>
 </context>
 <context>
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ingen uppgift)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan inte flytta en avklarad uppgift</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan inte flytta en skickad uppgift</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, kunde inte ladda uppgiftslistan…</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, kunde inte ladda Att göra…</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, kunde inte skapa en uppgift…</translation>
     </message>
     <message>
         <source>Oops, updating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, kunde inte uppdatera uppgiften…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Du har flyttat uppgiften till &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Oops, moving task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, misslyckades med att flytta uppgiften…</translation>
     </message>
     <message>
         <source>Oops, deleting task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, misslyckades med att radera uppgiften…</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, misslyckades med att radera katalogen…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konverstationen flyttad till Att göra mejlkorgen.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsan, misslyckades med att skapa en följupp…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation>Förlåt, du kan inte lägga till en uppgiften till den skickade uppgiftslistan</translation>
+        <translation>Du kan inte lägga till en uppgiften till den skickade uppgiftslistan</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
@@ -4508,14 +4558,14 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Du kan inte flytta denna uppgift till den skickade uppgiftslistan</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Din utvärderingsperiod är tyvärr slut :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
@@ -4527,7 +4577,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>get in touch.</source>
-        <translation>komma i kontakt.</translation>
+        <translation>kontakta oss.</translation>
     </message>
     <message>
         <source>Buy now</source>
@@ -4539,11 +4589,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation>Kolla prenumeration…</translation>
+        <translation>Verifierar prenumeration…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation>Förlåt. Vi kan inte hitta din betalning.</translation>
+        <translation>Vi kan inte hitta din betalning.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4551,11 +4601,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation>Skicka återkoppling…</translation>
+        <translation>Skickar återkoppling…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvärderingsfråga:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
@@ -4567,11 +4617,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation>E-post kommer att skickas till:</translation>
+        <translation>Epost kommer att skickas till:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Har du några frågor gällande din utvärderingsperiod eller återkoppling du vill dela med dig av?</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4641,15 +4691,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation>Ursäkta, några bifogade filer kunde inte hittas och kommer att tas bort:</translation>
+        <translation>Några av de bifogade filerna kunde inte hittas och kommer att tas bort:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 bifogade filer tillagda.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bifogade filer tillagda.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
@@ -4681,11 +4731,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation>Varje sista %1</translation>
+        <translation>Var sista %1</translation>
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Utvärderingsperiod:</translation>
     </message>
     <message>
         <source>Ends today</source>
@@ -4709,7 +4759,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Slutdatum</translation>
     </message>
     <message>
         <source>Starts in</source>
@@ -4717,7 +4767,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation>%1 minut</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <source>%1 mins</source>
@@ -4784,7 +4834,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilden sparades i din Nedladdade filerkatalog</translation>
     </message>
 </context>
 <context>
@@ -4796,7 +4846,8 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Det är dags att få kontroll
+på din epost.</translation>
     </message>
 </context>
 <context>
@@ -4807,7 +4858,7 @@ under control.</source>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Okänt tillgänglighetsstatus</translation>
     </message>
     <message>
         <source>You are %1</source>
@@ -4855,36 +4906,36 @@ under control.</source>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kunde inte spara ditt meddelande. Var god kontrollera dina ändringar då några av dom kanske inte har sparats.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation>Oj, Något gick fel</translation>
+        <translation>Hoppsan! Något gick fel</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation>Hiriservern är off-line. Du kommer inte ha möjlighet att betygsätta dina kollegors mejl eller se din kommunikationspoäng.</translation>
+        <translation>Hiriservern är inte tillgänglig. Du kommer inte ha möjlighet att betygsätta dina kollegors mejl eller se dina kommunikationspoäng.</translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation> Ombud för </translation>
+        <translation> ombud för </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation>Anslutningen till servern blev avbruten</translation>
+        <translation>Anslutning till servern blev avbruten</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation>Ojdå, något gick fel</translation>
+        <translation>Hoppsan, något gick fel</translation>
     </message>
 </context>
 <context>

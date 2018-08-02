@@ -2503,7 +2503,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Захтев за састанак је отказан.</translation>
     </message>
 </context>
 <context>

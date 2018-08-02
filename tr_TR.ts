@@ -4838,7 +4838,7 @@ almanın tam zamanı.</translation>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Gönderen</translation>
     </message>
     <message>
         <source>for</source>

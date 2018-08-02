@@ -2251,7 +2251,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Si l&apos;e-mail que vous transférez contient une tâche qui vous est destinée, tous les destinataires que vous ajoutez à Action vont recevoir votre tâche par défaut. C&apos;est pourquoi nous appelons ça la délégation.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4082,17 +4082,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation>Version courte: Trier vos e-mails vous aide à séparer le blé de la paille. Une boîte de réception organisée mène à une gestion simplifiée.&lt;br /&gt;&lt;br /&gt;
-    Séparer vos e-mails quand ils arrivent entre des choses à faire et des choses que vous devez juste savoir est un très bonne façon de trier votre boîte de réception. Quand vous triez votre boîte e-mail efficacement, vous commencez à réaliser qu&apos;il n&apos;y a en fait pas autant de choses à faire que vous le pensiez. En fait, environ 20% des e-mails que vous recevez en moyenne contiennent effectivement des tâches pour vous. Le reste se décompose en ainsi:&lt;br /&gt;
-    &lt;ul&gt;
-    &lt;li&gt;16% sont des e-mails où vous êtes inutilement en copie&lt;/li&gt;
-    &lt;li&gt;13% sont des e-mails non pertinents ou non ciblés&lt;/li&gt;
-    &lt;li&gt;41% sont des e-mails purement informationnels&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;br /&gt;
-    Si vous ne triez pas vos e-mails, vous ne pouvez pas dire lesquels demandent de l&apos;attention et lesquels pas. Ce qui signifie que votre boîte de réception semble contenir une quantité de travail insurmontable. Ouvrir une boîte de réception remplie peut être stressant. Et quand vous êtes stressé, les choses importantes tombent aux oubliettes.&lt;br /&gt;&lt;br /&gt;Le concept de Action / Pour Information est appliqué à d&apos;autres parties de l&apos;application aussi. Par exemple, si vous activez la liste de choses à faire, tout e-mail que vous glissez dans la liste va automatiquement apparaître dans le filtre des actions.&lt;br /&gt;&lt;br /&gt;
-
-    Pour en savoir plus au sujet de Action / Pour information, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;Jetez un œil à notre article d&apos;aide&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
@@ -4151,18 +4141,12 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation>Vous écrirez un meilleur objet une fois que vous aurez écrit le corps de votre e-mail.&lt;br /&gt;&lt;br /&gt;
-
-    C&apos;est important. Une meilleure utilisation de l&apos;objet rend beaucoup plus facile pour le destinataire de déterminer l&apos;important d&apos;un e-mail. Si l&apos;objet de votre e-mail est en ligne avec le corps, cela rend aussi l&apos;e-mail plus facile à assimiler.&lt;br /&gt;&lt;br /&gt;
-
-    Pour les mêmes raisons, vous remarquerez aussi que Hiri ne vous autorise pas à envoyer un e-mail sans objet.
-    </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation>Inbox Zero est une approche rigoureuse de la gestion des e-mails qui vise à obtenir une boîte de réception vide - ou presque - en permanence.&lt;br /&gt;&lt;br /&gt;
-Inbox Zero a été développé par l&apos;expert de la productivité Merlin Mann. Selon lui, le zéro n&apos;est pas une référence au nombre de messages dans une boîte de réception; c&apos;est &quot;le temps que le cerveau d&apos;un employé passe dans sa boîte de réception.&quot; Ce que Mann veut dire est que le temps et l&apos;attention sont limités et que lorsqu&apos;une boîte de réception est pleine d&apos;éléments &quot;à faire&quot;, la productivité en souffre. En nettoyant votre boîte de réception, vous passerez moins de temps à traiter vos e-mails. Une boîte de réception propre mène à une meilleure productivité - au moins en théorie.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

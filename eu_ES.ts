@@ -4845,11 +4845,11 @@ kontrolatzeko unea iritsi da.</translation>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Nork</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>norentzat</translation>
     </message>
 </context>
 <context>

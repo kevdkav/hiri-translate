@@ -595,7 +595,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -627,11 +627,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
@@ -639,11 +639,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι, διαγραψέ τη.</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
@@ -705,7 +705,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Send</source>
@@ -763,7 +763,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Όλη μέρα</translation>
     </message>
 </context>
 <context>
@@ -846,7 +846,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
@@ -914,7 +914,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
@@ -956,11 +956,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι, διέγραψέ το</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
@@ -968,7 +968,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -1039,7 +1039,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
@@ -1047,11 +1047,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι, διέγραψέ το</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -1507,11 +1507,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι, διέγραψέ το</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
@@ -1574,7 +1574,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία</translation>
     </message>
     <message>
         <source>Mark all as read</source>
@@ -1586,11 +1586,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -2187,7 +2187,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
 </context>
 <context>
@@ -2386,7 +2386,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
@@ -2405,7 +2405,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <source>Open in new window</source>
@@ -2453,7 +2453,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
@@ -2461,11 +2461,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ναι, διέγραψέ το</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
 </context>
 <context>
@@ -2675,11 +2675,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη</translation>
     </message>
 </context>
 <context>
@@ -3052,7 +3052,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3063,7 +3063,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναζήτηση παγκόσμιας λίστας διευθύνσεων (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -3250,7 +3250,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3356,7 +3356,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3380,7 +3380,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3406,7 +3406,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
 </context>
 <context>
@@ -3633,7 +3633,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3788,7 +3788,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Συνημμένα</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3835,7 +3835,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -4145,7 +4145,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>χωρίς θέμα</translation>
     </message>
 </context>
 <context>
@@ -4290,11 +4290,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαγραφή</translation>
     </message>
 </context>
 <context>
@@ -4323,7 +4323,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4379,7 +4379,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Όχι, κράτησέ το</translation>
     </message>
 </context>
 <context>
@@ -4401,11 +4401,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
 </context>
 <context>
@@ -4654,19 +4654,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθε μέρα</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθε εργάσιμη μέρα</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθε %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθε %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4674,7 +4674,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Κάθε τελευταία %1</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4694,11 +4694,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Όλη μέρα</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>τώρα</translation>
     </message>
     <message>
         <source>Due in</source>

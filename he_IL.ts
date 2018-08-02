@@ -2251,8 +2251,7 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>אם האימייל שאתה מעביר מכיל משימה עבורך, כל נמען שתוסיף בשדה הפעולה יקבל את המשימה שלך.
-זה למה קוראים לזה האצלה.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3460,7 +3459,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>ארכיון</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3521,7 +3520,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>ניקוד תקשורת</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3633,7 +3632,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>מחוץ למשרד</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3676,11 +3675,11 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>מחוץ למשרד</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>ארכיון</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3700,15 +3699,15 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>לוח שנה</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>זמן</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>קיצורי מקלדת</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
@@ -3716,7 +3715,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>לוח ראשי</translation>
     </message>
     <message>
         <source>Languages</source>
@@ -3804,7 +3803,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>שנה</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
@@ -3850,14 +3849,14 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר אופציה</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסף נמענים</translation>
     </message>
 </context>
 <context>
@@ -4156,7 +4155,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>שלח משוב</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4216,7 +4215,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>שלח</translation>
     </message>
 </context>
 <context>
@@ -4323,7 +4322,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>קבע תזכורת</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4416,11 +4415,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(אין משימה)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>אופסי, אנחנו לא מצליחים לבטל את התזכורת…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4438,7 +4437,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(אין משימה)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
@@ -4572,18 +4571,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>שלח</translation>
     </message>
 </context>
 <context>
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>סמן כלא נקרא</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>סמן כנקרא</translation>
     </message>
 </context>
 <context>
@@ -4634,11 +4633,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>מחר</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>מצטערים, לא הצלחנו למצוא את הקבצים המצורפים הבאים והם יוסרו:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4658,19 +4657,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>כל יום</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>כל יום עבודה</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>כל %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>כל %2 %1 {1.?}</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4678,7 +4677,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>כל %1 אחרון</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4702,7 +4701,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>עכשיו</translation>
     </message>
     <message>
         <source>Due in</source>
@@ -4714,19 +4713,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 דקות</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 דקות</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 שעות</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 ימים</translation>
     </message>
 </context>
 <context>
@@ -4765,7 +4764,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר הכל</translation>
     </message>
     <message>
         <source>Unselect</source>
@@ -4800,7 +4799,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>מתי: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
@@ -4841,7 +4840,7 @@ under control.</source>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>מאת</translation>
     </message>
     <message>
         <source>for</source>

@@ -2250,8 +2250,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Kui email mida saadad edasi, sisaldab ülesannet, saab iga lisatud saaja vaikimisi sama ülesande.
-Seetõttu me kutsume seda delegeerimiseks.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3632,7 +3631,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoris väljas</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3675,7 +3674,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontoris väljas</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3699,15 +3698,15 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aeg</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaviatuuri käsud</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
@@ -3715,7 +3714,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülevaatekuva</translation>
     </message>
     <message>
         <source>Languages</source>
@@ -3803,7 +3802,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
@@ -3849,14 +3848,14 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali</translation>
     </message>
 </context>
 <context>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa saajaid</translation>
     </message>
 </context>
 <context>
@@ -4155,7 +4154,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Saada tagasisidet</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
@@ -4415,11 +4414,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ülesannet pole)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ei saa meeldetuletust ignoreerida…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4437,7 +4436,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Ülesannet pole)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
@@ -4764,7 +4763,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali kõik</translation>
     </message>
     <message>
         <source>Unselect</source>
@@ -4840,7 +4839,7 @@ under control.</source>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Kellelt</translation>
     </message>
     <message>
         <source>for</source>

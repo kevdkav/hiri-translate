@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation type="unfinished">Om du inte kan hitta den kalender du letar efter, var god kontrollera så att du har accepterad delningsbegäran.</translation>
+        <translation>Om du inte kan hitta den kalender du letar efter, var god kontrollera så att du har accepterad delningsbegäran.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>Failed!</source>
-        <translation type="unfinished">Misslyckades!</translation>
+        <translation>Misslyckades!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
@@ -98,7 +98,7 @@
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation type="unfinished">%1 mer</translation>
+        <translation>%1 mer</translation>
     </message>
 </context>
 <context>
@@ -116,11 +116,11 @@
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation type="unfinished">Den bifogade filen &apos;%1&apos; kommer att laddas ner</translation>
+        <translation>Den bifogade filen &apos;%1&apos; kommer att laddas ner</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation type="unfinished">Den bifogade filen &apos;%1&apos; är nedladdad</translation>
+        <translation>Den bifogade filen &apos;%1&apos; är nedladdad</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
@@ -132,15 +132,15 @@
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation type="unfinished">Fel vid borttagning av bifogad fil</translation>
+        <translation>Fel vid borttagning av bifogad fil</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation type="unfinished">Fel när publik kalender skulle läggas till</translation>
+        <translation>Fel när publik kalender skulle läggas till</translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation type="unfinished">Fel när delad kalender skulle läggas till</translation>
+        <translation>Fel när delad kalender skulle läggas till</translation>
     </message>
     <message>
         <source>Deleting calendar</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation type="unfinished">Fel när kalender skulle tas bort</translation>
+        <translation>Fel när kalender skulle tas bort</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
@@ -240,7 +240,7 @@
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation type="unfinished">Skapa</translation>
+        <translation>Skapa</translation>
     </message>
     <message>
         <source>Work week</source>
@@ -364,7 +364,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ingen</translation>
+        <translation>Ingen</translation>
     </message>
     <message>
         <source>0 minutes</source>
@@ -436,7 +436,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished">Nu</translation>
+        <translation>Nu</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -496,7 +496,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation type="unfinished">Klarhet</translation>
+        <translation>Klarhet</translation>
     </message>
     <message>
         <source>Brevity</source>
@@ -735,7 +735,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation type="unfinished">Läser in dina möten…</translation>
+        <translation>Läser in dina möten…</translation>
     </message>
     <message>
         <source>You have no meetings</source>
@@ -751,7 +751,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation type="unfinished">Kunde inte läsa in möten :(</translation>
+        <translation>Kunde inte läsa in möten :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
@@ -804,7 +804,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished">Kommunikationspoäng</translation>
+        <translation>Kommunikationspoäng</translation>
     </message>
     <message>
         <source>Invite your friends</source>
@@ -823,7 +823,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Check</source>
-        <translation type="unfinished">Verifiera</translation>
+        <translation>Verifiera</translation>
     </message>
     <message>
         <source>No new mail</source>
@@ -875,7 +875,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished">Eftermiddagen</translation>
+        <translation>Eftermiddagen</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -887,7 +887,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation type="unfinished">Annat datum och tid</translation>
+        <translation>Annat datum och tid</translation>
     </message>
 </context>
 <context>
@@ -1035,7 +1035,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished">Snooze</translation>
+        <translation>Snooze</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1101,7 +1101,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished">någon@dinepostleverantör.se</translation>
+        <translation>någon@dinepostleverantör.se</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
@@ -1218,7 +1218,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished">Det var det hela</translation>
+        <translation>Det var det hela</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
@@ -1292,7 +1292,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished">Meddelandet flyttat till FYI. Att göra raderad.</translation>
+        <translation>Meddelandet flyttat till FYI. Att göra raderad.</translation>
     </message>
 </context>
 <context>
@@ -1307,7 +1307,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished">Handling/Till</translation>
+        <translation>Handling/Till</translation>
     </message>
     <message>
         <source>To</source>
@@ -1323,7 +1323,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Bcc</source>
-        <translation type="unfinished">Hemlig kopia</translation>
+        <translation>Hemlig kopia</translation>
     </message>
 </context>
 <context>
@@ -1601,7 +1601,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished">Lade till i signatur: &quot;Jag tar kontroll på min epost med hjälp&lt;a href=&quot;https://www.hiri.com/&quot;&gt;av Hiri.&lt;/a&gt;&quot;</translation>
+        <translation>Lade till i signatur: &quot;Jag tar kontroll på min epost med hjälp&lt;a href=&quot;https://www.hiri.com/&quot;&gt;av Hiri.&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
@@ -1779,7 +1779,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished">Skriv ut katalogens plats</translation>
+        <translation>Skriv ut katalogens plats</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
@@ -1825,7 +1825,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation type="unfinished">Kolla på Hiri här…</translation>
+        <translation>Kolla på Hiri här…</translation>
     </message>
     <message>
         <source>Share the love!</source>
@@ -1899,7 +1899,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished">Epoståtgärder</translation>
+        <translation>Epoståtgärder</translation>
     </message>
     <message>
         <source>Reply:</source>
@@ -1959,7 +1959,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished">Öppna Add göra inkorgen</translation>
+        <translation>Öppna Add göra inkorgen</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
@@ -1975,7 +1975,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished">Öppna  dashboard:</translation>
+        <translation>Öppna  dashboard:</translation>
     </message>
     <message>
         <source>Open settings:</source>
@@ -1983,7 +1983,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished">Öppna feedbackdialogen:</translation>
+        <translation>Öppna feedbackdialogen:</translation>
     </message>
     <message>
         <source>Composing</source>
@@ -2034,7 +2034,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished">Att göra</translation>
+        <translation>Att göra</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
@@ -2042,11 +2042,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished">För kännedom</translation>
+        <translation>För kännedom</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished">Flytta till FÖR KÄNNEDOM</translation>
+        <translation>Flytta till FÖR KÄNNEDOM</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
@@ -2058,7 +2058,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished">Kunskapscenter</translation>
+        <translation>Kunskapscenter</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -2250,8 +2250,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished">Om ett epostmeddelande du vidarebefordrar innehåller en Att göra uppgift till dig, så kommer varje mottagare du lägger till i Action också att få den uppgiften automatiskt.
-Det är därför vi kallar det Delegera.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2797,7 +2796,7 @@ epost till nästa nivå.</translation>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Snooze</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2809,7 +2808,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation type="unfinished">10 min före</translation>
+        <translation>10 min före</translation>
     </message>
     <message>
         <source>10 mins before start</source>
@@ -2817,7 +2816,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation type="unfinished">30 min before förfall</translation>
+        <translation>30 min before förfall</translation>
     </message>
     <message>
         <source>30 mins before start</source>
@@ -2825,7 +2824,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished">1h före</translation>
+        <translation>1h före</translation>
     </message>
     <message>
         <source>1h before start</source>
@@ -2934,7 +2933,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished">Svara till singelt möte</translation>
+        <translation>Svara till singelt möte</translation>
     </message>
     <message>
         <source>Respond to series</source>
@@ -3080,7 +3079,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>± 1 day</source>
-        <translation type="unfinished">± 1 dag</translation>
+        <translation>± 1 dag</translation>
     </message>
     <message>
         <source>± 1 week</source>
@@ -3369,7 +3368,7 @@ Kända alias:</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished">Sätt som standard</translation>
+        <translation>Sätt som standard</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
@@ -3482,7 +3481,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished">Kalendertidszon</translation>
+        <translation>Kalendertidszon</translation>
     </message>
     <message>
         <source>First day of week</source>
@@ -3517,7 +3516,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished">Visa dashboarden när ingen interaktion med Hiri inom:</translation>
+        <translation>Visa dashboarden när ingen interaktion med Hiri inom:</translation>
     </message>
 </context>
 <context>
@@ -3868,7 +3867,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     <name>SingleAttachment</name>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished">Nedladdning av bifogade filer är: %1</translation>
+        <translation>Nedladdning av bifogade filer är: %1</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
@@ -3945,7 +3944,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished">Vad ser det ut som?</translation>
+        <translation>Vad ser det ut som?</translation>
     </message>
     <message>
         <source>Why?</source>
@@ -3992,7 +3991,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished">Delegera Epostmeddelanden</translation>
+        <translation>Delegera Epostmeddelanden</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
@@ -4064,11 +4063,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished">Dags att förbättra dina kunskaper.</translation>
+        <translation>Dags att förbättra dina kunskaper.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished">Förbättra ditt epostspel med dessa produktivitetshacks.</translation>
+        <translation>Förbättra ditt epostspel med dessa produktivitetshacks.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4082,7 +4081,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation>Kort version: Att hantera din epost hjälper dig skilja agnarna från vetet. En organiserad Inkorg leder till ett hälsosammare sinne.&lt;br /&gt;&lt;br /&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
@@ -4153,22 +4152,22 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Inget ämne</translation>
     </message>
 </context>
 <context>
     <name>SupportDialog</name>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka feedback</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Var snäll och skriv ett återkopplingsmeddelande</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka återkoppling…</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
@@ -4176,11 +4175,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Återkoppling skickad. Tack!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Misslyckades med att skicka återkoppling</translation>
     </message>
     <message>
         <source>Error attaching logs</source>
@@ -4200,7 +4199,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>E-post kommer att skickas till:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
@@ -4220,7 +4219,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Skicka</translation>
     </message>
 </context>
 <context>
@@ -4287,7 +4286,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>för</translation>
     </message>
     <message>
         <source>Open task</source>
@@ -4298,7 +4297,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Döp om</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -4327,7 +4326,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sätt påminnelse</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4409,11 +4408,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Stäng</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Spara</translation>
     </message>
 </context>
 <context>
@@ -4424,7 +4423,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppsa, kan inte avfärda påminnelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4642,7 +4641,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ursäkta, några bifogade filer kunde inte hittas och kommer att tas bort:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4682,7 +4681,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Varje sista %1</translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4726,11 +4725,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 d</translation>
     </message>
 </context>
 <context>
@@ -4892,7 +4891,7 @@ under control.</source>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished">Test {} interpolation</translation>
+        <translation>Test {} interpolation</translation>
     </message>
 </context>
 </TS>

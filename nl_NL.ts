@@ -4845,11 +4845,11 @@ onder controle te krijgen.</translation>
     <name>DesktopService</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>voor</translation>
     </message>
 </context>
 <context>

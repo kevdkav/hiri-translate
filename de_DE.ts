@@ -2260,7 +2260,8 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn die E-Mail die Sie weiterleiten eine Aufgabe für Sie enthält, wird jeder Empfänger den Sie hinzufügen ihre Aufgabe standardmäßig erhalten.
+ Darum nennen wir es Delegieren.</translation>
     </message>
 </context>
 <context>

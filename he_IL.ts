@@ -3347,15 +3347,17 @@ You can still use Hiri until connection with the server has been established.</s
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>כינוי דוא&quot;ל הוא פשוט כתובת דוא&quot;ל להעברה. חשבון זה יקבל את כל הודעות האימייל שנשלחו לכתובת הרשומה. בשל מגבלות טכניות Hiri יודעת רק עד 3 כינויים אשר הוגדרו על שרת הדואר. אם יש לך יותר מ 3 כינויים ייתכן שתרצה להוסיף אותם באופן ידני כאן. פעולה זו תמנע מHiri לסווג את הודעות האימייל שלך באופן שגוי.
+
+כינויים ידועים:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>תוכל להזין שמות מותאמים אישית כאן (אחד בכל שורה):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(שים לב אלו חייבים להיות כינויים קיימים, אתה לא יכול ליצור כינויים ב Hiri)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3363,23 +3365,23 @@ Known aliases:</source>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>כינוי נשמר</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation>קבע כברירת מחדל</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>קבע כי חשבון זה יוצג ראשון כאשר Hiri מתחילה.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>האם אתה בטוח שאתה רוצה להפוך את חשבון זה לחשבון ברירת המחדל?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>כן</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3387,19 +3389,19 @@ Known aliases:</source>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>שינוי זה יבוא לידי ביטוי רק לאחר הפעלת Hiri מחדש</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק חשבון והגדרות</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>הסר את כל המידע הקשור לחשבון זה מ Hiri.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation type="unfinished"></translation>
+        <translation>מחק חשבון</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
@@ -4669,7 +4671,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1.</source>
-        <translation>כל %2 %1 {1.?}</translation>
+        <translation>כל %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>

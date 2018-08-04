@@ -839,7 +839,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation type="unfinished"></translation>
+        <translation>kello</translation>
     </message>
 </context>
 <context>
@@ -857,11 +857,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Aloitus</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopetus</translation>
     </message>
 </context>
 <context>
@@ -883,7 +883,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Next week</source>
-        <translation type="unfinished"></translation>
+        <translation>Ensi viikko</translation>
     </message>
     <message>
         <source>Custom date and time</source>
@@ -1031,7 +1031,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkistoi</translation>
     </message>
     <message>
         <source>Snooze</source>
@@ -1082,7 +1082,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Merkitse ei-roskapostiksi</translation>
     </message>
     <message>
         <source>Mark as junk</source>
@@ -1172,7 +1172,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 henkilön %2 puolesta</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
@@ -1230,7 +1230,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Hae lisää viestejä</translation>
     </message>
 </context>
 <context>
@@ -1248,7 +1248,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viestiä ei ole enää merkitty roskapostiksi. Siirretty Saapuneet-kansioon.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
@@ -1256,7 +1256,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei enää merkitty roskapostiksi. Siirretty Saapuneet-kansioon.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
@@ -1453,7 +1453,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse vaihtoehto</translation>
     </message>
 </context>
 <context>
@@ -1608,178 +1608,178 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaansi - Etelä-Afrikka</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgaria</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Katalaani</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Tšekki</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Tanska</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Saksa</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Kreikka</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Englanti - Kanada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Englanti - Yhdistynyt kuningaskunta</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>Englanti - Yhdysvallat</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Espanja - Espanja</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Viro</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Persia</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>Fääri</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Ranska</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Heprea</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Kroatia</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Unkari</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesia</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italia</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Korea</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Liettua</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Latvia</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Norja (kirjanorja)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Hollanti - Alankomaat</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Puola</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugali - Brasilia</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portugali - Portugali</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Romania</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Venäjä</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbia (latinalainen)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovakki</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sloveeni</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Albania</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbia (kyrillinen)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruotsi</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamil</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Tadžikki</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turkki</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukraina</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnam</translation>
     </message>
 </context>
 <context>
     <name>HtmlDialog</name>
     <message>
         <source>Print file location</source>
-        <translation type="unfinished"></translation>
+        <translation>Tulosta tiedoston sijainti</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
@@ -1825,15 +1825,15 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Check Hiri out…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutustu Hiriin…</translation>
     </message>
     <message>
         <source>Share the love!</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaa rakkautta!</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation type="unfinished"></translation>
+        <translation>Kutsu ystäväsi ja työkaverisi kokeilemaan Hiriä. Kolme ensin kutsumaasi henkilöä saa</translation>
     </message>
     <message>
         <source>25% off</source>
@@ -1927,7 +1927,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkistoi:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
@@ -1955,15 +1955,15 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa yhdistetty Saapuneet-kansio:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tehtäväsisältöinen Saapuneet-kansio:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Avaa tiedoksiantoinen Saapuneet-kansio:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -2026,7 +2026,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Lajittelematon</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
@@ -2058,7 +2058,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Taitokeskus</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -2100,11 +2100,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita viestille aihe</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"></translation>
+        <translation>Virheellinen vastaanottaja löydetty</translation>
     </message>
     <message>
         <source>Subject</source>
@@ -2116,7 +2116,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisällytä alkuperäisen viestin liitteet</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2131,7 +2131,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>MailComposeDialog</name>
     <message>
         <source>Compose</source>
-        <translation type="unfinished"></translation>
+        <translation>Luo viesti</translation>
     </message>
     <message>
         <source>saving</source>
@@ -2257,11 +2257,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaikuttaa siltä, että olet yhteydettömässä tilassa tai verkkoyhteys ei toimi</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation type="unfinished"></translation>
+        <translation>…ja olemme takaisin</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
@@ -2281,22 +2281,22 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhteys keskeytyi viestien noutamisen aikana. Yhdistetään uudelleen…</translation>
     </message>
 </context>
 <context>
     <name>MainSearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi arkistosta</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi kaikista</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita ja paina Enter etsiäksesi</translation>
     </message>
     <message>
         <source>Type to search</source>
@@ -2304,11 +2304,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi, tai paina Enter nähdäksesi kaikki arkiston viestit</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytetään kaikki viestit, kirjoita etsiäksesi</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
@@ -2335,18 +2335,18 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Vapaa</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokouksen otsikko</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation>Aikatauluavustaja</translation>
     </message>
     <message>
         <source>All day?</source>
@@ -2358,7 +2358,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Toisto</translation>
     </message>
     <message>
         <source>Reminder</source>
@@ -2366,7 +2366,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta tilaksi</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2374,7 +2374,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kutsu - aloita kirjoittamalla nimi</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
@@ -2397,11 +2397,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Aloitus</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Lopetus</translation>
     </message>
     <message>
         <source>All day</source>
@@ -2429,7 +2429,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta tilaksi</translation>
     </message>
     <message>
         <source>Reminder</source>
@@ -2437,19 +2437,19 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting in the past</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokous menneisyydessä</translation>
     </message>
     <message>
         <source>Organizer</source>
-        <translation type="unfinished"></translation>
+        <translation>Järjestäjä</translation>
     </message>
     <message>
         <source>Attendees</source>
-        <translation type="unfinished"></translation>
+        <translation>Osallistujat</translation>
     </message>
     <message>
         <source>This meeting has been cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä kokous on peruttu</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2480,7 +2480,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hups, muistutuksen torkuttaminen epäonnistui…</translation>
     </message>
 </context>
 <context>
@@ -2636,7 +2636,7 @@ postisi seuraavalle tasolle.</translation>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi yhteystietoja yleisestä osoitehakemistosta</translation>
     </message>
     <message>
         <source>No contacts found</source>
@@ -2652,7 +2652,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita nimi aloittaaksesi haun</translation>
     </message>
     <message>
         <source>Type  to search</source>
@@ -2660,7 +2660,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Sähköposti</translation>
     </message>
     <message>
         <source>Job title</source>
@@ -2691,11 +2691,11 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Et ole muuttanut kokouksen aikaa. Ehdota uutta aikaa.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Saata muiden tietoon, miksi ehdotat uutta aikaa, tai jätä tyhjäksi</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2710,7 +2710,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa kokousta</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
@@ -2721,11 +2721,11 @@ postisi seuraavalle tasolle.</translation>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyvä ja lyhyt</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Hyvä sävy</translation>
     </message>
     <message>
         <source>Action was clear</source>
@@ -2741,7 +2741,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Ymmärsin mitä kysyttiin</translation>
     </message>
     <message>
         <source>Relevant to me</source>
@@ -2757,7 +2757,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Liian monta tiedoksiantoa</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
@@ -2800,35 +2800,35 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>5 min ennen loppua</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>5 min ennen alkua</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min ennen loppua</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>10 min ennen alkua</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min ennen loppua</translation>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>30 min ennen alkua</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished"></translation>
+        <translation>1 tunti ennen loppua</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation type="unfinished"></translation>
+        <translation>1 tunti ennen alkua</translation>
     </message>
     <message>
         <source>Dismiss</source>
@@ -2976,7 +2976,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet hylännyt tämän kokouksen.</translation>
     </message>
     <message>
         <source>Propose new</source>
@@ -2988,7 +2988,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuta vastaukseksi</translation>
     </message>
     <message>
         <source>Meeting</source>
@@ -3004,7 +3004,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Hylkää</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -3037,7 +3037,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Kutsu - kirjoita nimi aloittaaksesi</translation>
     </message>
     <message>
         <source>Location</source>
@@ -3045,11 +3045,11 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Käytettävissä</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Varattu</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3071,11 +3071,11 @@ postisi seuraavalle tasolle.</translation>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation type="unfinished"></translation>
+        <translation>1: Valitse päivä</translation>
     </message>
     <message>
         <source>Exact day</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarkka päivä</translation>
     </message>
     <message>
         <source>± 1 day</source>
@@ -3103,26 +3103,26 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>On %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Päivä %1</translation>
     </message>
     <message>
         <source>Between %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Aikavälillä %1 ja %2</translation>
     </message>
 </context>
 <context>
     <name>SearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi arkistosta</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi kaikista</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjoita ja paina Enter etsiäksesi</translation>
     </message>
     <message>
         <source>Type to search</source>
@@ -3130,11 +3130,11 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi, tai paina Enter nähdäksesi kaikki arkistoidut viestit</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytetään kaikki viestit, kirjoita etsiäksesi</translation>
     </message>
 </context>
 <context>
@@ -3173,7 +3173,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation type="unfinished"></translation>
+        <translation>päivä:</translation>
     </message>
     <message>
         <source>today:</source>
@@ -3181,11 +3181,11 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation type="unfinished"></translation>
+        <translation>tällä viikolla:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation type="unfinished"></translation>
+        <translation>tässä kuussa:</translation>
     </message>
     <message>
         <source>folder:</source>
@@ -3197,7 +3197,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation type="unfinished"></translation>
+        <translation>tiedoksi:</translation>
     </message>
     <message>
         <source>sent:</source>
@@ -3221,7 +3221,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi arkistosta</translation>
     </message>
 </context>
 <context>
@@ -3255,7 +3255,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkisto</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3445,7 +3445,7 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viestilista ylhäällä ja esikatselu alhaalla.</translation>
     </message>
     <message>
         <source>User interface size</source>
@@ -3460,11 +3460,11 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkisto</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Näytä arkistointipainike sähköpostin työkalupalkissa</translation>
     </message>
     <message>
         <source>Settings saved</source>
@@ -3503,7 +3503,7 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä muutos tulee voimaan, kun päivität Saapuneet-kansiosi</translation>
     </message>
 </context>
 <context>
@@ -3633,7 +3633,7 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Poissaolo</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3656,15 +3656,15 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     <name>SettingsPage</name>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>Asetukset tilille</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Yleiset asetukset</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>kaikille tileille</translation>
     </message>
     <message>
         <source>Account</source>
@@ -3676,11 +3676,11 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Poissaoloviesti</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Arkisto</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3825,7 +3825,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voit muuttaa oikoluvun asetuksia napsauttamalla hiiren oikealla painikkeella vastaus- ja lähetysikkunoissa.</translation>
     </message>
 </context>
 <context>
@@ -3851,7 +3851,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitse vaihtoehto</translation>
     </message>
 </context>
 <context>
@@ -3930,19 +3930,19 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Taito käytössä</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Taito pois käytöstä</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitä se tekee?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miltä se näyttää?</translation>
     </message>
     <message>
         <source>Why?</source>
@@ -4009,7 +4009,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää muistutuspainikkeen sähköpostin toimintopalkkiin. Tämä mahdollistaa muistutusten asettamisen yksittäisille keskusteluille.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
@@ -4017,11 +4017,11 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paranna aihekentän sisältöä kirjoittamalla aihe viestin jälkeen.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä aiherivi viestin lähetysikkunan alapuolelle.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
@@ -4061,11 +4061,11 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aika hankkia uusia taitoja.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Helpota elämääsi sähköpostiin liittyvillä tuotteliaisuusavustimin.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4185,19 +4185,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutustu vastauksiin ohjekeskuksessamme</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos sinulla on idea meille</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Tai ota suoraan yhteys Hiri-tiimiin</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viesti lähetetään osoitteeseen:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
@@ -4209,7 +4209,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saata tietoomme, mihin sovelluksen osaan ongelma tai ehdotus liittyy.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
@@ -4565,7 +4565,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Viesti lähetetään osoitteeseen:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
@@ -4675,7 +4675,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Joka %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>

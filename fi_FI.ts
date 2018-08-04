@@ -2566,18 +2566,18 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>Office365Auth</name>
     <message>
         <source>Not Office365?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei Office365?</translation>
     </message>
 </context>
 <context>
     <name>OnboardingCarousel</name>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Liukusäädä sähköposti seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutustu taitokeskukseen.</translation>
     </message>
     <message>
         <source>Time to take your
@@ -2587,15 +2587,15 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation type="unfinished"></translation>
+        <translation>Tehty suurella     Hiri-tiimin toimesta</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dublinissa, Irlannissa.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>Menoksi!</translation>
     </message>
 </context>
 <context>

@@ -3407,7 +3407,9 @@ Known aliases:</source>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>האם אתה בטוח שברצונך למחוק את החשבון הזה מ Hiri?
+פעולה זו תמחק את כל ההגדרות ואת מסד הנתונים של הדוא&quot;ל המקומי.
+אל תדאג, הודעות האימייל שלך עדיין בטוחות בשרת!</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3418,43 +3420,43 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר תצורה</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר איך תרצה שהאימילים שלך יופיעו.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>צפיפות נמוכה</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>פחות אימיילים, יותר טקסט.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>צפיפות גבוה</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>יותר אימיילים, פחות טקסט.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>תצוגה בעלת שתי חלוניות</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>רשימת דוא&quot;ל בחלק העליון וחלון תצוגה מקדימה בתחתית.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>גודל ממשק משתמש</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>זה ישפיע רק לאחר שתפעיל את Hiri מחדש</translation>
     </message>
 </context>
 <context>
@@ -3465,57 +3467,57 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>הצג לחצן ארכיון בסרגל הכלים של הדוא&quot;ל</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות נשמרו</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>תיקיית יעד</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>אזור הזמן של יומן השנה</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>היום הראשון של השבוע</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>ראשון</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>שני</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>שינוי זה ייכנס לתוקף כאשר תפעיל מחדש את Hiri</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>פורמט זמן</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>שינוי זה ייכנס לתוקף לאחר רענון תיבת הדואר הנכנס שלך</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>הצג את מרכז השליטה כאשר אין פעילות</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>הצג את מרכז השליטה כאשר אין אינטרקציה עם Hiri למשך:</translation>
     </message>
 </context>
 <context>
@@ -3526,11 +3528,11 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>אפשר דירוג של הודעות דוא&quot;ל ותקשורת</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>כלול קישור דירוג בחתימה</translation>
     </message>
 </context>
 <context>

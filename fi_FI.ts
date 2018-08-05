@@ -976,27 +976,27 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Cancel series</source>
-        <translation type="unfinished"></translation>
+        <translation>Peru sarja</translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista sarja</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa sarjaa</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Peru esiintymä</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista esiintymä</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa esiintymää</translation>
     </message>
 </context>
 <context>
@@ -1276,11 +1276,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähettämätön viesti on Lähtevät-kansiossa. Jaa liitteet useisiin eri viesteihin.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Olet yhteydettömässä tilassa. Viesti on siirretty Lähtevät-kansioon.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
@@ -1299,7 +1299,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähettäjä</translation>
     </message>
     <message>
         <source>On behalf of</source>
@@ -1311,7 +1311,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Vastaanottaja</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
@@ -1381,7 +1381,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Basic</source>
-        <translation type="unfinished"></translation>
+        <translation>Basic</translation>
     </message>
     <message>
         <source>Server version</source>
@@ -1582,7 +1582,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä sisältö</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1798,11 +1798,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Yhdistetty Saapuneet-kansio</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Siirrä lajittelemattomiin</translation>
     </message>
 </context>
 <context>
@@ -2171,11 +2171,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Meeting forwarded</source>
-        <translation type="unfinished"></translation>
+        <translation>Kokous lähetetty edelleen</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Virhe lähettäessä kokousta edelleen</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
@@ -2198,7 +2198,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>Vastaanottaja</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2331,7 +2331,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>No availability data</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei käytettävyystietoja</translation>
     </message>
     <message>
         <source>Free</source>
@@ -2378,7 +2378,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Tämä on toistuva kokous. Voit poistaa liitteen vain alkuperäisestä kokouksesta</translation>
     </message>
     <message>
         <source>Edit original</source>
@@ -2937,7 +2937,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation type="unfinished"></translation>
+        <translation>Vastaa sarjaan</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
@@ -3973,7 +3973,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kojelauta ilmestyy esiin, kun et käytä Hiriä 90 sekuntiin. Se muistustaa tarkistamasta sähköpostia turhan usein, ja auttaa siten keskittymään ja säästämään aikaa.</translation>
     </message>
     <message>
         <source>Task List</source>
@@ -4806,7 +4806,7 @@ takaisin hallintaan.</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuntematon käytettävyystila</translation>
     </message>
     <message>
         <source>You are %1</source>

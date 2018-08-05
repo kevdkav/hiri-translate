@@ -98,7 +98,7 @@
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation>%1% lisää</translation>
+        <translation>%1 lisää</translation>
     </message>
 </context>
 <context>
@@ -112,7 +112,7 @@
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation>Pahoittelut. Kalenteria ei pystytty avaamaan</translation>
+        <translation>Pahoittelut, kalenteria ei pystytty avata</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation>Kalenteri poistettu pysyvästi</translation>
+        <translation>Kalenteri poistettu</translation>
     </message>
     <message>
         <source>Calendar removed</source>
@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Rename</source>
-        <translation>Uudelleennimeä</translation>
+        <translation>Nimeä uudelleen</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -201,11 +201,11 @@
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation>Kalenterini</translation>
+        <translation>Omat kalenterit</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation>Oletko varma että haluat poistaa tämän kalenterin?</translation>
+        <translation>Haluatko varmasti poistaa tämän kalenterin?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -559,7 +559,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Title</source>
-        <translation>Otsikko</translation>
+        <translation>Tehtävänimike</translation>
     </message>
     <message>
         <source>Office Location</source>
@@ -635,7 +635,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation>Oletko varma, että haluat poistaa yhteystiedon:</translation>
+        <translation>Haluatko varmasti poistaa yhteystiedon:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -793,7 +793,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>emails today</source>
-        <translation>sähköpostiviestiä tänään</translation>
+        <translation>viestiä tänään</translation>
     </message>
 </context>
 <context>
@@ -875,7 +875,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation type="unfinished"></translation>
+        <translation>Tänä iltana</translation>
     </message>
     <message>
         <source>Tomorrow</source>

@@ -2233,11 +2233,11 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Koska kirjoitat paremman aiheen! Olet jo kirjoittanut viestin sisällön, joten aiheesta muodostuu tarkempi kuin viestin alussa, ja se säästää vastaanottajan aikaa.</translation>
     </message>
     <message>
         <source>What is</source>
-        <translation type="unfinished"></translation>
+        <translation>Mikä on</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -2319,7 +2319,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Varattu</translation>
     </message>
     <message>
         <source>Tentative</source>
@@ -2327,7 +2327,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Poissa</translation>
     </message>
     <message>
         <source>No availability data</source>
@@ -2648,7 +2648,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Search all contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Etsi kaikista yhteystiedoista</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
@@ -2933,7 +2933,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished"></translation>
+        <translation>Vastaa yksittäiseen esiintymään</translation>
     </message>
     <message>
         <source>Respond to series</source>
@@ -2984,7 +2984,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation type="unfinished"></translation>
+        <translation>Lähetä edelleen</translation>
     </message>
     <message>
         <source>Change response to</source>
@@ -3896,7 +3896,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>POISSA</translation>
     </message>
     <message>
         <source>Out of office message</source>
@@ -4332,7 +4332,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Aseta määräpäivä</translation>
     </message>
     <message>
         <source>you created this task</source>
@@ -4356,7 +4356,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Poista määräpäivä</translation>
     </message>
     <message>
         <source>Delete task</source>
@@ -4707,7 +4707,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Erääntyy</translation>
     </message>
     <message>
         <source>Starts in</source>

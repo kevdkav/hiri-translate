@@ -2070,7 +2070,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ρυθμίσεις</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2120,7 +2120,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2397,11 +2397,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Έναρξη</translation>
     </message>
     <message>
         <source>End</source>
-        <translation type="unfinished"></translation>
+        <translation>Λήξη</translation>
     </message>
     <message>
         <source>All day</source>
@@ -2409,7 +2409,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα σε νέο παράθυρο</translation>
     </message>
     <message>
         <source>Location</source>
@@ -2457,7 +2457,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation type="unfinished"></translation>
+        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη σύσκεψη;</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2698,7 +2698,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
 </context>
 <context>
@@ -2795,7 +2795,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναβολή</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2886,7 +2886,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
 </context>
 <context>
@@ -3242,11 +3242,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Σήμανση ως αναγνωσμένου</translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Σήμανση ως μη αναγνωσμένου</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3254,7 +3254,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχειοθετώ</translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3456,7 +3456,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχειοθετώ</translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3517,7 +3517,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτέλεσμα επικοινωνίας</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3676,7 +3676,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Αρχειοθετώ</translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -4212,7 +4212,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
 </context>
 <context>
@@ -4319,7 +4319,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ορισμός υπενθύμισης</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4568,18 +4568,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποστολή</translation>
     </message>
 </context>
 <context>
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Σήμανση ως μη αναγνωσμένου</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Σήμανση ως αναγνωσμένου</translation>
     </message>
 </context>
 <context>
@@ -4630,11 +4630,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Αύριο</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Λυπούμαστε, ορισμένα συνημμένα αρχεία δεν βρέθηκαν και θα αφαιρεθούν:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4710,19 +4710,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 λεπτό</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 λεπτά</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ώρα</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ημέρα</translation>
     </message>
 </context>
 <context>

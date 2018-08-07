@@ -1307,7 +1307,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimeksi/Vastaanottaja</translation>
     </message>
     <message>
         <source>To</source>
@@ -1315,7 +1315,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoksi/Kopio</translation>
     </message>
     <message>
         <source>Cc</source>
@@ -2034,7 +2034,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimeksi</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
@@ -2042,7 +2042,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoksi</translation>
     </message>
     <message>
         <source>Move to FYI</source>
@@ -2194,7 +2194,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimeksi | Vastaanottaja</translation>
     </message>
     <message>
         <source>To</source>
@@ -2202,7 +2202,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiedoksi | Kopio</translation>
     </message>
     <message>
         <source>Cc</source>
@@ -2217,7 +2217,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mitä ovat &lt;font color=&quot;#e54624&quot;&gt;Toimeksi (Action)&lt;/font&gt; ja &lt;font color=&quot;#29abe2&quot;&gt;Tiedoksi (FYI)&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
@@ -3193,7 +3193,7 @@ postisi seuraavalle tasolle.</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>toimeksi:</translation>
     </message>
     <message>
         <source>fyi:</source>
@@ -3953,11 +3953,11 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Toimeksi/Tiedoksi-jakaminen</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jaottele viestisi käyttäen Toimeksi/Tiedoksi-jakamista.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
@@ -4033,7 +4033,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaatii Toimeksi/Tiedoksi-jakamisen</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
@@ -4364,23 +4364,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisää huomio</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa huomiota</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyhjennä huomio</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haluatko varmasti tyhjentää huomion?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Kyllä, tyhjennä se</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -4402,7 +4402,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Muokkaa tehtävän huomiota</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4447,7 +4447,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Valitettavasti et voi siirtää lähetettyä tehtävää</translation>
     </message>
 </context>
 <context>
@@ -4486,7 +4486,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keskustelu siirretty Toimeksi-postilaatikkoon.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>

@@ -3539,97 +3539,97 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>יומן שינויים</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Optimize performance</source>
-        <translation type="unfinished"></translation>
+        <translation>בצע אופטימיזציה עבור ביצועים</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>להאיץ את Hiri ולשחרר קצת מקום בדיסק. זה יכול לקחת מספר רגעים.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation type="unfinished"></translation>
+        <translation>מבצע אופטימיזציה של מסד הנתונים…</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation type="unfinished"></translation>
+        <translation>בצע אופטימיזציה עכשיו</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>במידה והמסך מרגיש קפוא או תקוע, אנא אפשרו ל Hiri כמה דקות כדי לחזור להגיב.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>הסתיים!</translation>
     </message>
     <message>
         <source>Check for update</source>
-        <translation type="unfinished"></translation>
+        <translation>בדוק עדכונים</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>אתה משתמש בגירסא %1 של Hiri</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>צפה ביומן השינויים</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation>אין אפשרות לבדוק עדכונים כרגע</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation type="unfinished"></translation>
+        <translation>נמצאה גירסא חדשה</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>יש לך את הגירסא האחרונה</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בעת בדיקת עדכונים</translation>
     </message>
 </context>
 <context>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>שפות</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>בחר שפת ממשק:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>נשמר</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>בבקשה שים לב:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>אם התרגום שבחרת אינו שלם, מילים מסוימות יוצגו באנגלית. אם תרצה לעזור עם תרגומים (או ליצור אחד עבור שפה חדשה) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt; לחץ כאן &lt;/a&gt;כדי לתרום! תודה.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>מתקדם</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>טען</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>השינויים יכנסו לתוקף רק לאחר שתפעיל את Hiri מחדש.</translation>
     </message>
 </context>
 <context>
@@ -3644,38 +3644,38 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>אנא הכנס הודעה עבור מצב &quot;מחוץ למשרד&quot;.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;מחוץ למשרד&quot; נשמר</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בעת שמירת &quot;מחוץ למשרד&quot;</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות עבור</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>הגדרות כלליות</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>עבור כל החשבונות</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>חשבון</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>חתימה</translation>
     </message>
     <message>
         <source>Out of office</source>
@@ -3687,19 +3687,19 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>רכוש את Hiri</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>כללי</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>העדפות</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>מראה חיצוני</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -3715,7 +3715,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"></translation>
+        <translation>קיצורי מקלדת (Ctrl + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -3723,75 +3723,76 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>שפות</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>התראות על שולחן העבודה</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>ביטול התראות</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>תזכורות של משימות ופגישות</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>תזכורות של פגישות, משימות ואימיילים חדשים</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>אינטגרציה עם שולחן העבודה</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>הצג את Hiri בשורת המשימה</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(פעיל כאשר ההתראות מאופשרות)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>סגור לשורת המשימה</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>צור רשומה בשולחן העבודה והוסף אותה לתפריט האפליקציות שלך.
+זה יאפשר לך לקבע את האייקון של Hiri.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>צור רשומה בשולחן העבודה</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>בוצע!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>הפוך את Hiri ליישום ברירת המחדל לדוא&quot;ל.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>קבע כברירת מחדל של יישום הדואר</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהגדרה</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>כתוב והשב</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>סגור את השיחה לאחר שליחת תשובה</translation>
     </message>
     <message>
         <source>Attachments</source>
@@ -3799,11 +3800,11 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>תמיד שאל היכן להוריד קבצים מצורפים</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>הורד אל</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3811,34 +3812,34 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בעת בחירת תיקיה. אנא נסה עם תיקיה אחרת.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>בדיקת איות</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>בדיקת איות מאופשרת</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>שפה</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>אתה יכול לשנות את הגדרות בודק האיות על ידי לחיצה ימנית בתוך חלונות התשובה והכתיבה.</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>חתימה</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>כלול &quot;--&quot; בראש החתימה</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3846,7 +3847,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>חתימה נשמרה</translation>
     </message>
 </context>
 <context>
@@ -3867,111 +3868,111 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SingleAttachment</name>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>קבצים מצורפים נשמרו אל: %1</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בהורדת הקובץ המצורף</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>אוי ווי! אני לא בטוח איך לפתוח את הקובץ המצורף!</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>פתח</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>הורד</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>הסר משימה</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>הוסף משימה</translation>
     </message>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>מחוץ למשרד</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>הודעה &quot;מחוץ למשרד&quot;</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>האצל אל</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>שאלה עבור</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>משימה עבור</translation>
     </message>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"></translation>
+        <translation>שאל שאלה כאן</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>תאר משימה כאן</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>המיומנות מופעלת</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>המיומנות מבוטלת</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>מה זה עושה?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>כמו מה זה נראה?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>למה?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>חלוקת פעולות\לידיעה</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>הפרד את האימיילים שלך בעזרת חלוקה לפעולות\לידיעה.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>הוספת פילטרים לקופסא האפורה הכהה בצד שמאל עבור פעולות ולידיעה.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>לוח המכוונים</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>תפסיק לבדוק את האימייל שלך בדחיפות גבוהה כל כך.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>

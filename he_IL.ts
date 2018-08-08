@@ -3976,39 +3976,39 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>לוח השליטה יופיע מעל Hiri לאחר 90 שניות של חוסר פעילות כדי להזכיר לך לא לבדוק את הדואר שלך לעתים קרובות. זה יעזור לך לשמור ממוקד ויחסוך לך זמן.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>רשימת משימות</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>הפוך את האימיילים שלך למשימות בלחיצה.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>מוסיף רשימות משימות בצד ימין של המסך. ניתן לגרור אימייל אל החלונית הזו בכדי לייצר רשימת משימות.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>האצלת אימיילים</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>מבהיר שהאצלת את המשימה.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>מוסיף לתפריט פעולות האימייל כפתור &quot;האצלה&quot;.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>תזכורות</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>לעולם לא תשכח אימייל חשוב שוב</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>

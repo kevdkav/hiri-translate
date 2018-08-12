@@ -1007,307 +1007,307 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delegate</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegar</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no puedes establecer recordatorios cuando estás fuera de línea.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar reunión</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazar reunión</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder a todos</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya tienes un borrador en este mensaje</translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation type="unfinished"></translation>
+        <translation>Dormitar</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta conversación contiene borradores. ¿Seguro que quieres eliminarlo?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Sí, eliminarlo</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>No, mantenlo</translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir en Nueva ventana</translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como no leído</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como leído</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya tienes un borrador en este mensaje</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Adelante</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Imprimir / guardar en PDF</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como no basura</translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcar como basura</translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no admitimos %1. Hiri solo trabaja con una dirección de correo electrónico Exchange / Office 365.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese su dirección de correo electrónico</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>alguien@suproveedor.com</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente paso</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agreguemos una cuenta.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>La contraseña ha cambiado o ha caducado.</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sí, puede enviarme un correo electrónico una vez al mes.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consulte nuestros pensamientos sobre la privacidad &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt; 1 aquí &lt;/a&gt; 2 .</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ELIMINADO)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(BORRADORES)</translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ELIMINADO)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation type="unfinished"></translation>
+        <translation>(BORRADORES)</translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al configurar un recordatorio …</translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>(No subject)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sin asunto)</translation>
     </message>
     <message>
         <source>conversations selected</source>
-        <translation type="unfinished"></translation>
+        <translation>conversaciones seleccionadas</translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation type="unfinished"></translation>
+        <translation>(BORRADOR)</translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud de reunión aceptada.</translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo tiempo propuesto:%1 -%2</translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud de reunión aceptadas provisionalmente.</translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud de reunión denegada.</translation>
     </message>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuándo:% 1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 en nombre de% 2</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>La solicitud de reunión ha sido cancelada.</translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar destinatarios</translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source>Loading…</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto es la parte</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Estamos recibiendo sus correos…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Todavía no ve algunos correos electrónicos?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Consiga más correo</translation>
     </message>
     <message>
         <source>%1 matches found</source>
-        <translation type="unfinished"></translation>
+        <translation>% 1 coincidencias encontradas</translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta reunión ha sido actualizada</translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message upload has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carga del mensaje ha fallado.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mensaje era más grande de lo que permite el servidor.</translation>
     </message>
     <message>
         <source>Message marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje marcado como basura</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje ya no es basura. Se trasladó a bandeja de entrada.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcado como basura</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya no es basura. Movido a la bandeja de entrada.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud de reunión aceptada</translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitud de reunión rechazada</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mensaje no enviado está en su carpeta de Bandeja de salida. Intente dividir los archivos adjuntos en varios mensajes.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estás fuera de línea. El correo se ha movido a la Bandeja de salida.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>No pudimos enviar su mensaje: contiene destinatarios no válidos</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Ay! ¡Algo salió mal!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El mensaje se movió a FYI. La tarea quitada.</translation>
     </message>
 </context>
 <context>
     <name>EmailRecipientsDetails</name>
     <message>
         <source>From</source>
-        <translation type="unfinished"></translation>
+        <translation>Desde</translation>
     </message>
     <message>
         <source>Action/To</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción/A</translation>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>FYI/Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
@@ -1315,65 +1315,65 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>On behalf of</source>
-        <translation type="unfinished"></translation>
+        <translation>A nombre de</translation>
     </message>
     <message>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation>A</translation>
     </message>
     <message>
         <source>Cc</source>
-        <translation type="unfinished"></translation>
+        <translation>Cc</translation>
     </message>
 </context>
 <context>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Ay!.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Continué</translation>
     </message>
 </context>
 <context>
     <name>ExchangeAuth</name>
     <message>
         <source>Exchange login</source>
-        <translation type="unfinished"></translation>
+        <translation>Inicio de sesión Exchange</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation type="unfinished"></translation>
+        <translation>alguien@suproveedor.com</translation>
     </message>
     <message>
         <source>password</source>
-        <translation type="unfinished"></translation>
+        <translation>contraseña</translation>
     </message>
     <message>
         <source>username (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>nombre de usuario (opcional)</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Problemas para iniciar sesión? haga clic aquí</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Detección automática de la configuración del servidor</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Servidor</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation type="unfinished"></translation>
+        <translation>servidor (ejemplo, server.domain.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation type="unfinished"></translation>
+        <translation>Autenticación</translation>
     </message>
     <message>
         <source>NTLM</source>
@@ -1385,7 +1385,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Server version</source>
-        <translation type="unfinished"></translation>
+        <translation>Versión del servidor</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
@@ -1397,7 +1397,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Protocol</source>
-        <translation type="unfinished"></translation>
+        <translation>Protocolo</translation>
     </message>
     <message>
         <source>HTTPS</source>
@@ -1409,97 +1409,97 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificar el certificado SSL</translation>
     </message>
     <message>
         <source>Next step</source>
-        <translation type="unfinished"></translation>
+        <translation>Siguiente paso</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿No Exchange?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Suelta los archivos aquí</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar imágenes externas una vez</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar siempre imágenes externas de este remitente</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor elija un archivo</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjuntar</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione una opción</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione la carpeta</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no puedes crear una carpeta si no estás conectado.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Creando la carpeta %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta creada</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no puedes cambiar el nombre de una carpeta si no estás conectado.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta renombrada</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no puedes eliminar una carpeta si no estás conectado.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Seguro que quieres eliminar de forma permanente la carpeta y el contenido de &quot; %1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Seguro que quieres eliminar la carpeta &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminando la carpeta %1</translation>
     </message>
     <message>
         <source>Folder deleted</source>

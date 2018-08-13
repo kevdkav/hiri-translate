@@ -4865,7 +4865,7 @@ takaisin hallintaan.</translation>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri-palvelin on pois verkosta. Et voi arvostella muiden viestejä tai nähdä kommunikaatiopisteytystäsi.</translation>
     </message>
 </context>
 <context>

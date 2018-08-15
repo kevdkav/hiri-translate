@@ -4711,7 +4711,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Alkuun</translation>
     </message>
     <message>
         <source>%1 min</source>

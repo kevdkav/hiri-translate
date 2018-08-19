@@ -3346,15 +3346,17 @@ Voit käyttää Hiriä siihen saakka, kunnes yhteys palvelimeen on muodostettu.<
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sähköpostialias on yksinkertainen edelleenlähetysosoite. Tämä tili vastaanottaa kaikki viestit, jotka on lähetetty alla lueteltuihin osoitteisiin. Teknisten rajoitteiden vuoksi Hiri tietää enintään vain kolme postipalvelimelle asetettua alias-osoitetta. Jos sinulla on enemmän kuin kolme alias-osoitetta, lisää ne alla olevaan kenttään. Tämä estää Hiriä luokittelemasta virheellisesti suoraan tai postituslistojen kautta tulevia viestejä.
+
+Tunnetut aliakset:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Voit kirjoittaa aliakset tähän (yksi per rivi):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(ota huomioon, että alias-osoitteiden tulee olla olemassa, et voi luoda niitä Hirin kautta)</translation>
     </message>
     <message>
         <source>Save</source>

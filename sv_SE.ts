@@ -2250,8 +2250,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Om epostmeddelandet du vidarebeordrar innehåller en Att Göra uppgift till dig så kommer varje mottagare du lägger till som i Att Göra att få din Uppgift automatiskt.
- Det är därför vi kallar det för Delegera.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3415,6 +3414,18 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
         <source>Delete</source>
         <translation>Radera</translation>
     </message>
+    <message>
+        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I paid with a different email address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
@@ -4082,28 +4093,14 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation>Kort version: Att prioritera din epost hjälper dig separera agnarna från vetet. An organiserad Inkorg leder till ett hälsosammare sinne.&lt;br /&gt;&lt;br /&gt;
-   Att dela upp eposten i vad du behöver göra och vad du endast behöver ha kännedom om är ett bra sätt att prioritera din inkorg. När du prioriterar din inkorg effektivt, så börjar du inse att det inte är när så mycket som behöver göras som du först trodde. Faktum är att det endast är runt 20% av den epost du får som innehåller en handling som behöver utföras. Huvudanledningarna för resterande är nedbrutet enligt följande:&lt;br /&gt;
-   &lt;ul&gt;
-   &lt;li&gt;16% av mottagna epostmeddelanden är onödiga koior&lt;/li&gt;
-   &lt;li&gt;13% av mottagna epostmeddelanden irrelevanta eller inte riktade&lt;/li&gt;   
-   &lt;li&gt;41% av mottagna epostmeddelanden är endast för i informationssyfte&lt;/li&gt;
-   &lt;/ul&gt;
-   &lt;br /&gt;
-   Om du inte prioriterar din epost kan du inte få en uppfattning om vilka epostmeddelanden som behöver din uppmärksamhet och vilka som inte behöver det. Detta betyder att din inbox ser ut att innehålla en svåröverkommen mängd av arbete. Det kan vara väldigt stressfullt att se en överfylld inkorg. Och när du är stressad så faller lätt viktiga saker mellan sprickorna.&lt;br /&gt;&lt;br /&gt; Att göra/FYI konceptet finns även i andra delar av programmet. Som exempel, om du aktiverar färdigheten Att göra listan, alla epostmeddelanden du drar till Att göra listan dyker automatiskt upp i ditt Att göra filter.
-&lt;br /&gt;&lt;br /&gt;
-
-   För att lära dig mera om Att göra/FYI i detalj &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;besök våran supportartikel på engelska&lt;/a&gt;.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation>Det mest destriktiva epostbeteenden av dom alla? All kolla din epost för ofta. I genomsnitt så kollar vi våran epost 96 gånger under en dag, eller var 5:e minut. Det är helt onödigt. Ingen förväntar sig att du skall kolla din epost så ofta. (gör dom det så är dom galna.)&lt;br/&gt;&lt;br/&gt;
-   Epost är inte ett realtidskommuikationsprotokoll. Behöver du ett snabbt svar? Försök att ringa, SMS, skicka direktmeddelanden - eller rumpa över till deras skrivbord. Epost är väldigt bra för asynkron, entydig kommunikation. Eller på ren Svenska, saker som du inte behöver ha svar på omedelbart när svaret är klart. Varför klart? Jo för att om ditt epostmeddelande kommer att resultera i ytterligare meddelanden så är det bättre att du ringer. Ingen gillar eposttennis.&lt;br /&gt;&lt;br /&gt;
-   Att kolla eposten mer sällan can resultera i märkbara tidsbesparingar. Varje gång ti kollar din epost, kostar det dig misnt en minut (några studier säger 20 minuter beroende din befattning). Anledningen är att du blir störd, det är inte bara tiden det tar att läsa eposten. Det är också tiden det tar dig att komma tillbaka till det du gjorde innan du blev störd.&lt;br /&gt;&lt;br /&gt;
-   En grupp av forskare vid UC Irvine och U.S. Army studerade effekterna av att begränsa åtkomsten till epost på deltagarnas hjärtfrekvens och möjlighet att fokusera. Dom fann att begränsa epoståtkomst dramatiskt reducerar stress genom att observera deltagarnas hjärtfrekvens. Deltagarna utan åtkomst till post bytte kontext 18 gånger per timma mot 37 gånger i timman för deltagare som have åtkomst till epost. Dashboard färdigheten stoppar dig inte från din epost, men är bevisar att reducera antalet gånger du kollar din epost.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4112,11 +4109,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation>Någonsin glömt ett viktigt epostmeddelande? Jomenvisst. Genom att fånga dessa meddelanden i Att göra listan, kan du vara säker på att du inte kommer glömma nått viktigt. Eller skrolla dig igenom ett meddelande för att påminna dig om vad det var du behövde göra.&lt;br /&gt;&lt;br /&gt;
-    Att göra listan har några riktigt häftiga funktioner. Som exemepl så kan du öppna epostmeddelanden som är associerade med en Att göra uppgift direkt från listan. Och vice-versa - du kan öppna en Att göra uppgift associerad till ett epostmeddelande från vilken epostmeddelande som helst. Vi har några färdiggjorda - som exempel, uppgifter som måste göras idag, och uppgifter som du skickat till andra personer, men du kan också skapa egna Att göra listor.&lt;br /&gt;&lt;br /&gt;
-    Att göra uppgifter är fullt kompatibel med MS Outlook och Microsofts Att göra applikation.&lt;br /&gt;&lt;br /&gt;
-    För att lära dig mera om Att göra listor, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;besök våran supportsida på engelska&lt;/a&gt;.
-    </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4138,24 +4131,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation>Någonsin hört om Dom Fyra D:na? Inte? Det är helt OK.&lt;br /&gt;
-   Det kommer from Microsofts Forskningsavdelning och fungerar enligt följande:&lt;br /&gt;
-
-&lt;ol&gt;
-   &lt;li&gt;Om det inte är viktigt, &lt;strong&gt;delete&lt;/strong&gt; it. (radera det)&lt;/li&gt;
-   &lt;li&gt;Om det kan göras på 2 minuter eller kortare tid, &lt;strong&gt;do&lt;/strong&gt; it. (gör det)&lt;/li&gt;
-   &lt;li&gt;Om det inte är till dig, eller om du kan, &lt;strong&gt;delgate&lt;/strong&gt; it. (delegera det)&lt;/li&gt;
-   &lt;li&gt;Om du behöver göra det, men det tar längre tid än 2 minuter (inkluderar att läsa), &lt;strong&gt;defer&lt;/strong&gt; it.(Skjut upp det)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br /&gt;
-   Du kan hantera all din epost med hjälp av Dom Fyra D:na metodologin. Hos Hiri älskar vi Dom Fyra D:na. Men vi vill understryka Delegate (delegera). Så vi lade till en Delegera knapp).&lt;br /&gt;&lt;br /&gt;
-
-   Delegeringsknappen fungerar i princip som en vidarebefordraknapp, med några få skillnader. När du använder Delegeringsknappen, kommer ett Att Göra fält läggas till i början på det vidarebefordrade epostmeddelandet så att du kan göra användare uppmärksammade på vad du vill att dom skall göra med epostmeddelandet. Detta är viktigt, eftersom 40% av all epost användare får inte innehåller en tydlig handling, vilket leter till ytterlige epost för att tydliggöra uppgiften.&lt;br /&gt;&lt;br /&gt;
-
-   Det är en mindre förändring, men det är ytterligare ett sätt som Hiri hjälper dig förbättra din kommunikation på.&lt;br /&gt;&lt;br /&gt;
-
-   Det finns ytterligare en &apos;bonus&apos; med att använda Delgeringsknappen. Om du skickar ett delegerat meddelande till en annan användare av Hiri, så kommer det epostmeddelandet automatiskt att hämna i deras Att Göra Inkorg, eftersom vi vet att det innehåller en Att Göra uppgift till dem.
-    </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4167,15 +4143,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation>Epostmeddelanden som du tar emot kan behandlas genom De Fyra D:na metodologin:&lt;br /&gt;&lt;br /&gt;
-
-   1.      Om det inte är viktigt, &lt;strong&gt;delete&lt;/strong&gt; it. (radera det)&lt;br /&gt;
-   2.      Om det kan göras på 2 minuter eller kortare tid, &lt;strong&gt;do&lt;/strong&gt; it. (gör det)&lt;br /&gt;
-   3.      Om det inte är till dig, eller om du kan, &lt;strong&gt;delgate&lt;/strong&gt; it. (delegera det)&lt;br /&gt;
-   4.      Om du behöver göra det, men det tar längre tid än 2 minuter (inkluderar att läsa), &lt;strong&gt;defer&lt;/strong&gt; it.(Skjut upp det)&lt;br /&gt;&lt;br /&gt;
-
-   Deferknappen (Skjuta upp) är det fjärde &apos;D:t&apos; i listan. Ibland kan du inte hantera ett epostmeddelande direkt, utan det måste bli till en uppgift på eller före ett specifikt datum. Genom att trycka på Påminnelseknappen så kan du välja att få en påminnelse om en speciell eposttråd. Så enkelt är det!
-    </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4184,18 +4152,12 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation>Du kommer att skriva en bättre ämnesrad när du har skrivit klart epostmeddelandet.&lt;br /&gt;&lt;br /&gt;
-
-   Detta är viktigt. Bättre användning av ämnesraden gör det märkbart enklare för någon att uppskatta hur viktigt ett epostmeddelande är. Är ämnesraden är relevant till ditt meddelande, så gör det också sjävla meddelandet enklare att ta in.&lt;br /&gt;&lt;br /&gt;
-
-   Av samma aneldning så kommer du också märka att Hira inte kommer att tillåta dig skicka ett meddelande utan en ämnesran.
-    </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation>Inkorg Noll är ett rigoröst tillvägagångssätt till eposthantering med sikte på att hålla inkorgen tom - eller nästan tom - under alla omständigheter.&lt;br /&gt;&lt;br /&gt;
-Inkorg Noll är utvecklat av produktivitetsexperten Merlin Mann. Enligt Mann så är Noll inte en referens till antalet meddelande i en inkorg, utan till &quot;tiden som en anställds uppmärksamhet spenderas i sin inkorg&quot;. Manns poäng är att tid och uppmärksamhet är en begränsad resurs och när en inkorg är förvirrad med en att göra&quot; lista så blir produktiviteten lidande. Genom att rensa ut din inkorg, så kommer du spendera mindre tid att kolla igneom din epost. En ren inkorg leder till ett mera hälsosamt, och produktivt sinne - åtminstone enligt teorin.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4584,10 +4546,6 @@ Inkorg Noll är utvecklat av produktivitetsexperten Merlin Mann. Enligt Mann så
         <translation>Köp nu</translation>
     </message>
     <message>
-        <source>I paid</source>
-        <translation>Jag betalade</translation>
-    </message>
-    <message>
         <source>Checking subscription…</source>
         <translation>Verifierar prenumeration…</translation>
     </message>
@@ -4626,6 +4584,18 @@ Inkorg Noll är utvecklat av produktivitetsexperten Merlin Mann. Enligt Mann så
     <message>
         <source>Send</source>
         <translation>Skicka</translation>
+    </message>
+    <message>
+        <source>If you are stuck here but you have already paid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click below to get going!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have already paid</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

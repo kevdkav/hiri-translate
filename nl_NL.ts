@@ -3414,6 +3414,18 @@ Geen zorgen: je e-mails staan nog steeds op de server!</translation>
         <source>Delete</source>
         <translation>Verwijderen</translation>
     </message>
+    <message>
+        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I paid with a different email address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
@@ -4534,10 +4546,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>Nu kopen</translation>
     </message>
     <message>
-        <source>I paid</source>
-        <translation>Ik heb al betaald</translation>
-    </message>
-    <message>
         <source>Checking subscription…</source>
         <translation>Bezig met controleren van abonnement…</translation>
     </message>
@@ -4576,6 +4584,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>Send</source>
         <translation>Verzenden</translation>
+    </message>
+    <message>
+        <source>If you are stuck here but you have already paid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click below to get going!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have already paid</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

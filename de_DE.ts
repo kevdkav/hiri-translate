@@ -2260,8 +2260,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Wenn die E-Mail die Sie weiterleiten eine Aufgabe für Sie enthält, wird jeder Empfänger den Sie hinzufügen ihre Aufgabe standardmäßig erhalten.
- Darum nennen wir es Delegieren.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3428,6 +3427,18 @@ Bekannte Aliase:</translation>
         <source>Yes</source>
         <translation>Ja</translation>
     </message>
+    <message>
+        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I paid with a different email address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
@@ -4546,10 +4557,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>Jetzt bestellen</translation>
     </message>
     <message>
-        <source>I paid</source>
-        <translation>Ich habe bezahlt</translation>
-    </message>
-    <message>
         <source>Checking subscription…</source>
         <translation>Prüfe Abonnement…</translation>
     </message>
@@ -4592,6 +4599,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>If you have any questions, please</source>
         <translation>Falls sie Fragen haben, bitte</translation>
+    </message>
+    <message>
+        <source>If you are stuck here but you have already paid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click below to get going!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have already paid</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

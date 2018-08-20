@@ -3415,6 +3415,18 @@ Alias connus :</translation>
         <source>Yes</source>
         <translation>Oui</translation>
     </message>
+    <message>
+        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I paid with a different email address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
@@ -4531,10 +4543,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation>Achetez</translation>
     </message>
     <message>
-        <source>I paid</source>
-        <translation>J&apos;ai payé</translation>
-    </message>
-    <message>
         <source>Checking subscription…</source>
         <translation>Vérification de l&apos;abonnement …</translation>
     </message>
@@ -4577,6 +4585,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>If you have any questions, please</source>
         <translation>Si vous avez la moindre question, merci de</translation>
+    </message>
+    <message>
+        <source>If you are stuck here but you have already paid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click below to get going!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have already paid</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

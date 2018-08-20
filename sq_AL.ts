@@ -3407,6 +3407,18 @@ Don&apos;t worry, your emails are still safe on the server!</source>
         <source>Delete</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I paid with a different email address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
@@ -3958,20 +3970,6 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
-    Splitting your emails as they arrive into things you need to do and things you just need to know about is a great way to triage your inbox. When you triage your inbox effectively, you begin to realise that there&apos;s not nearly as much stuff that you actually need to do as you thought. In fact, only about 20% of the email you receive on average, actually contains a task for you. The main reasons for the rest are broken down as follows:&lt;br /&gt;
-    &lt;ul&gt;
-    &lt;li&gt;16% of emails received are unnecessary CC&apos;s&lt;/li&gt;
-    &lt;li&gt;13% of emails received are irrelevant or untargeted&lt;/li&gt;
-    &lt;li&gt;41% of emails received are for information purposes only&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;br /&gt;
-    If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
-
-    To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The Dashboard</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3981,13 +3979,6 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
-    Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
-    Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
-    A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4003,15 +3994,6 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
-    The Task list has some cool features. For example, you can open the email associated with the task directly from the task list. And vice-versa - you can open any tasks associated with an email from any email.&lt;br /&gt;&lt;br /&gt;
-    You can also organise your tasks into lists. We&apos;ve got some premade ones - for example, tasks that are due today and tasks you&apos;ve sent to other people, but you can also create your own custom lists.&lt;br /&gt;&lt;br /&gt;
-    Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
-    To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
-    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delegate Emails</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4021,28 +4003,6 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
-    It comes from Microsoft Research, and it works like this:&lt;br /&gt;
-
-&lt;ol&gt;
-    &lt;li&gt;If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br /&gt;
-
-    You can action all of your emails using the Four D&apos;s methodology. At Hiri, we love the Four D&apos;s. But we wanted to make the Delegate &apos;D&apos; a bit more obvious. So we added a Delegate button.&lt;br /&gt;&lt;br /&gt;
-
-    The Delegate button acts very much like a Forward button, with a few simple differences. When you use the Delegate button, A Task field is added to the beginning of the forwarded email so you can let users know exactly what you&apos;d like them to do with the email. This is important, because 40% of emails users receive contain no clear action, which leads to additional clarification emails.&lt;br /&gt;&lt;br /&gt;
-
-    It&apos;s a small change, but it&apos;s just one more way Hiri helps improve your communication.&lt;br /&gt;&lt;br /&gt;
-
-    There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
-    </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4058,18 +4018,6 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
-
-    1.      If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;br /&gt;
-    2.      If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;br /&gt;
-    3.      If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;br /&gt;
-    4.      If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;br /&gt;&lt;br /&gt;
-
-    The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
-    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Write Better Subject Lines</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4079,15 +4027,6 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
-
-    This is important. Better use of the subject line makes it significantly easier for someone to assess the importance of an email. If the subject of your email is relevant to the body of the email, it also makes the whole email easier to digest.&lt;br /&gt;&lt;br /&gt;
-
-    For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
-    </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4104,11 +4043,6 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
-Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4137,6 +4071,84 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
+    Splitting your emails as they arrive into things you need to do and things you just need to know about is a great way to triage your inbox. When you triage your inbox effectively, you begin to realise that there&apos;s not nearly as much stuff that you actually need to do as you thought. In fact, only about 20% of the email you receive on average, actually contains a task for you. The main reasons for the rest are broken down as follows:&lt;br /&gt;
+    &lt;ul&gt;
+    &lt;li&gt;16% of emails received are unnecessary CC&apos;s&lt;/li&gt;
+    &lt;li&gt;13% of emails received are irrelevant or untargeted&lt;/li&gt;
+    &lt;li&gt;41% of emails received are for information purposes only&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
+
+    To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
+    Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
+    Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
+    A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
+    The Task list has some cool features. For example, you can open the email associated with the task directly from the task list. And vice-versa - you can open any tasks associated with an email from any email.&lt;br /&gt;&lt;br /&gt;
+    You can also organise your tasks into lists. We&apos;ve got some premade ones - for example, tasks that are due today and tasks you&apos;ve sent to other people, but you can also create your own custom lists.&lt;br /&gt;&lt;br /&gt;
+    Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
+    To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
+    It comes from Microsoft Research, and it works like this:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    You can action all of your emails using the Four D&apos;s methodology. At Hiri, we love the Four D&apos;s. But we wanted to make the Delegate &apos;D&apos; a bit more obvious. So we added a Delegate button.&lt;br /&gt;&lt;br /&gt;
+
+    The Delegate button acts very much like a Forward button, with a few simple differences. When you use the Delegate button, A Task field is added to the beginning of the forwarded email so you can let users know exactly what you&apos;d like them to do with the email. This is important, because 40% of emails users receive contain no clear action, which leads to additional clarification emails.&lt;br /&gt;&lt;br /&gt;
+
+    It&apos;s a small change, but it&apos;s just one more way Hiri helps improve your communication.&lt;br /&gt;&lt;br /&gt;
+
+    There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
+
+    1.      If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;br /&gt;
+    2.      If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;br /&gt;
+    3.      If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;br /&gt;
+    4.      If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;br /&gt;&lt;br /&gt;
+
+    The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
+
+    This is important. Better use of the subject line makes it significantly easier for someone to assess the importance of an email. If the subject of your email is relevant to the body of the email, it also makes the whole email easier to digest.&lt;br /&gt;&lt;br /&gt;
+
+    For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
+Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4526,10 +4538,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>I paid</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Checking subscription…</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4567,6 +4575,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you are stuck here but you have already paid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click below to get going!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have already paid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

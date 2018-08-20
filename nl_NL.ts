@@ -3416,15 +3416,15 @@ Geen zorgen: je e-mails staan nog steeds op de server!</translation>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als je licentie niet actief is, maar wel betaald hebt. Herstart Hiri.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Als dat niet werkt, kan het dan zijn dat je betaald hebt met een ander e-mailadres?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ik heb betaald met een ander e-mailadres</translation>
     </message>
 </context>
 <context>
@@ -4587,15 +4587,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Als je vastloopt, maar wel betaald hebt.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klik hieronder om te beginnen!</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ik heb al betaald</translation>
     </message>
 </context>
 <context>
@@ -4854,11 +4854,11 @@ onder controle te krijgen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Er is een fout opgetreden tijdens het downloaden van de bijlage</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kan niet opslaan: </translation>
     </message>
 </context>
 <context>
@@ -4876,43 +4876,43 @@ onder controle te krijgen.</translation>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fout tijdens opslaan van bericht. Controleer je aanpassingen, want sommige zijn mogelijk niet toegepast.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps! Er is iets misgegaan</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>De Hiri-server is offline. Je kunt e-mails van collegae niet beoordelen en je communicatiescore niet bekijken.</translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> namens </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>De verbinding met de server is onderbroken</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai! Er is iets misgegaan</translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Test {} interpolatie</translation>
     </message>
 </context>
 </TS>

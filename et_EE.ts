@@ -2250,7 +2250,8 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui email mida edastad sisaldab sulle saadetud ülesannet, saab igaüks kelle Sa lisad Tegevuste alla selle sama ülesande.
+ Seetõttu kutsutakse seda delegeerimiseks.</translation>
     </message>
 </context>
 <context>
@@ -3340,21 +3341,23 @@ Saad siiski Hirit kasutada kuni ühendus serveriga on loodud.</translation>
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias aadressid</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>Email alias on lihtsalt edastav emaili aadress. See konto saab kõik emailid mis saadetakse allpool loetletud aadressidele. Tehnilistel põhjustel saab Hiri kasutada ainnult 3-e alias aadressi mis on serveri poolt määratud. Kui Sul on rohkem kui 3 aliast võid need lisada käsitsi siia. See väldib Sinu emailide valesti kategoriseerimist kas otse või meililisti kaudu.
+
+Tuntud aliased:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisesta aliased siia (üks igale reale):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(NB! Need peavad olema juba loodud, Hiri ei saa uusi luua)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3362,23 +3365,23 @@ Known aliases:</source>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliased salvestatud</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation>Määra vaikimisi</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Määra see konto esimeseks kui Hiri käivitatakse.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kindel et tahad selle konto määrata vaikimisi?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3386,25 +3389,27 @@ Known aliases:</source>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>See hakkab toimima peale Hiri uuesti käivitamist</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta konto ja seaded</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eemalda kõik kontoga seotud andmed Hirist.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta konto</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kindel et tahad kontot Hirist kustutada?
+See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
+Ära muretse, Sinu emailid säilivad siiski serveris!</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3412,58 +3417,58 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui Sinu litsents ei ole aktiivne kuigi Sa juba maksid, tuleb Hiri uuesti käivitada.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui see ei tööta, kontrolli kas maksid sama aadressi alt?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksin erineva emaili aadressiga</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali paigutus</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali kuidas tahad et emaile näidatakse.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>Madal tihedus</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vähem emaile, rohkem eelvaate teksti.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>Kõrge tihedus</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rohkem emaile, vähem eelvaate teksti.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>Kahe paneeli vaade</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Emailide nimekiri ülal ja eelvaate paneel all.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>Kasutajaliidese suurus</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>See hakkab toimima peale Hiri taaskäivitamist</translation>
     </message>
 </context>
 <context>
@@ -3474,57 +3479,57 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita arhiveerimise nuppu emaili tööriistaribal</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Seaded salvestatud</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Sihtkaust</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalendri ajavöönd</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Nädala esimene päev</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Pühapäev</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Esmaspäev</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>See muudatus hakkab tomima peale Hiri taaskäivitamist</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Aja formaat</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>See muudatus hakkab tomima peale Sisendkausta uuendamist</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita armatuurlauda kui ei ole aktiivne</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita armatuurlauda kui Sa ei kasuta Hiri-t:</translation>
     </message>
 </context>
 <context>
@@ -3535,108 +3540,108 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Võimalda emailide ja suhtluse hindamine</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa hindamise link allkirja</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Muutuste logi</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Optimize performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeeri töökiirust</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiirrenda Hiri tööd ja vabasta kettaruumi. See võib võtta umbes minuti.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeerin andmebaasi…</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeeri kohe</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri võib nüüd korraks hanguda aga proovi paari minuti pärast uuesti.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tehtud!</translation>
     </message>
     <message>
         <source>Check for update</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolli uuendusi</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sul on kasutuses Hiri versioon %1</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata muudatuste logi</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei saa praegu uuendusi kontrollida</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Leidsin uue versiooni</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Sul on uusim versioon</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga uuenduste kontrollimisel</translation>
     </message>
 </context>
 <context>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Keeled</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Vali kasutajaliidese keel:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvestatud</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Võta arvesse:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui tõlge mille valid ei ole täielik, võivad mõned tekstid olla inglise keelsed. Kui tahad aidata tõlkimisel (või luua uue tõlke keele),  &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;mine siia&lt;/a&gt; et aidata! Tänud.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Täiendavad seaded</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Laadi</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>See hakkab tööle peale Hiri uuesti käivitamist.</translation>
     </message>
 </context>
 <context>
@@ -3651,42 +3656,42 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisesta automaatvastuse teade.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Automaatvastuse teade salvestatud</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga automaatvastuse salvestamisel</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>Seaded kontole</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Üldised seaded</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>kõigile kontodele</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Konto</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Allkiri</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation>Kontoris väljas</translation>
+        <translation>Eemaloleku teade</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3694,19 +3699,19 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Osta Hiri</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Üldine</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Seaded</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Välimus</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -3722,7 +3727,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"></translation>
+        <translation>Klaviatuuri käsud (Ctrl + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -3730,75 +3735,76 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Keeled</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Töölaua teavitused</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Lülita teavitused välja</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosolekute ja ülesannete meeldetuletused</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Koosolekute meeldetuletused, ülesannete meeldetuletused ja uued emailid</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Töölaua integratsioon</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Näita Hirit ikooni süsteemi teadete alal</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Kasutuses kui teated on sisse lülitatud)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulge süsteemi teadete alale</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo töölaua ikoon ja lisa see Sinu rakenduste menüüsse.
+See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo töölaua ikoon</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Valmis!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tee Hiri vaikimisi emaili rakenduseks.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>Registreeri vaikimisi emaili rakenduseks</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga registreerimisel</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo ja vasta</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Sulge vestlus peale vastuse saatmist</translation>
     </message>
     <message>
         <source>Attachments</source>
@@ -3806,11 +3812,11 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Küsi alati kuhu faile salvestada</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta siia</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3818,34 +3824,34 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>VIga kausta valimisel. Proovi mõnda teist kausta.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>Õigekirja kontroll</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Õigekirja kontroll sisse lülitatud</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Keel</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saad muuta õigekirja kontrolli seadeid klikkides hiire parempoolse nupuga vastuse ja loomise aknas.</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Allkiri</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa &quot;--&quot; allkirja ette</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3853,7 +3859,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Allkiri salvestatud</translation>
     </message>
 </context>
 <context>
@@ -3874,195 +3880,195 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SingleAttachment</name>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failid salvestatud kausta: %1</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga faili salvestamisel</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups! Ma ei oska seda faili avada!</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Eemalda ülesanne</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa ülesanne</translation>
     </message>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>EEMAL</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>Eemaloleku teade</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeeri</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>Küsimus</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülesanne</translation>
     </message>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"></translation>
+        <translation>Küsi küsimus siin</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjelda ülesanne siin</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Oskus kasutuses</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Oskus välja lülitatud</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida see teeb?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>Mismoodi see välja näeb?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Miks?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Tegevus/Informatiivne</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Märgi emailid kasutades Tegevus/Informatiivne jaotust.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>See lisab Tegevus ja Informatiivne filtrid vasakul olevasse tumehalli kasti.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Armatuurlaud</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lõpeta emailide kontrollimine nii tihti.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Armatuurlaud ilmub Hiri ette peale 90 sekundit kui Sa ei tee midagi. See on hea selleks et mitte kontrollida emaile liiga tihti. See aitab tähelepanu fokusseerida ja hoiab aega kokku.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülesannete nimekiri</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda emailid ülesanneteks klikkides.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisab ülesannete nimekirja paremale poole. Saad lihtsalt lohistada emailid sellele paneelile et luua ülesannete nimekirja.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeeri emaile</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Teavita selgelt et delegeerisid ülesande.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisab delegeerimise nupu emaili tegevuste ribale.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Meeldetuletused</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ära kunagi unusta tähtsaid teateid</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisab meeldetuletuse nupu emaili tegevuste ribale. See võimaldab seada meeldetuletusi igale vestlusele.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjuta paremaid teema pealkirju</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Parenda oma pealkirja kirjtades selle kõige lõpus.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viib pealkirja rea emaili loomise akna allserva.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühi sisendkaust</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nendele kellele meeldib korrastatud suhtlus ja lage sisendkast.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Nõuab Tegevus/Informatiivne jagamist</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Võimaldab saavutada tühja sisendkausta. Tavaliselt kui aktiveerida Tegevus/Informatiivne jaotus (Vaata Tegevus/Informatiivne jaoutus oskust lisainfo saamiseks), emailid millele lisatakse need filtrid jäävad sisendkausta aga märgitakse eri värvidega. Aktiveerides tühja sisendkausta funktsionaalsuse tähendab et need emailid liigutatakse sisendkaustast ära Tegevus/Informatiivne filtri alla. See võimaldab saavutada tühja sisendkausta.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinda emaile</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Saa paremaks suhtlejaks.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tuleb varsti!</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Parim viis suhtlusoskuse parandamiseks on aus tagasiside ja mis oleks parem koht seda teha kui email?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
@@ -4095,7 +4101,10 @@ This will let you pin Hiri icon to your launcher.</source>
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mis on kõige halvem emaili kasutamise harjumus? Liiga tihe emailide kontrollimine. Keskmiselt kontrollime oma emaile 96 korda päevas ehk iga 5 minuti tagant. See pole tegelikult üldse vajalik. Keegi ei oota et kontrolliksid emaile nii tihti (ja kui keegi siiski ootab pole ta eriti mõistlik). &lt;br/&gt;&lt;br/&gt;
+    Email ei ole reaalajas suhtluse vahend. Kui vajad kiiret vastust siis parem helista, saada SMS või Skype - või lihtsalt mine küsi näost näkku. Email on hea suhtluseks mis ei vaja kohest kiiret reageeringut. Ehk asjade jaoks mis mis ei vaja kohest vastust kui vastus on niigi selge. Miks selge? Kuna email tavaliselt tekitab uusi suure hulga vastus emaile, siis on parem kohe helistada. Kellelegi ei meeldi emailide põrgatamine.&lt;br /&gt;&lt;br /&gt;
+    Emailide harvem kontroll annab üsna suure ajasäästu. Iga kord kui kontrollid emaile võtab see vähemalt minuti (mõned uuringud näitavad et isegi kuni 20 minutit sõltuvalt rollist). Seda seetõttu et see katkestab muu tegevuse ja Sa ei kaota ainult emaili kontrollimise aja vaid ka aja mis läheb et uuesti häälestuda vajalikule tööle mida tegid enne katkestust.&lt;br /&gt;&lt;br /&gt;
+    Irvine-i ülikooli and USA Armee meeskond uurisid emaili piiramise mõjusid osalejate südame löögisagedusele ja fokuseerumisele. Leiti et emaili ligipääsu piiramine vähendas oluliselt stressi. Osalejad ilma emaili ligipääsuta vahetasid aknaid ekraanil 18 korda tunnis. Seevastu osalejad emaili ligipääsuga tegid seda 37 korda tunnis. Armatuurlaua funktsioon ei keela ligipääsu emailile kuid vähendab vajadust emaili akna pidevaks kontrollimiseks.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;

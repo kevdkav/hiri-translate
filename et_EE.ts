@@ -3514,7 +3514,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>Time format</source>
-        <translation>Aja formaat</translation>
+        <translation>Aja vorming</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>

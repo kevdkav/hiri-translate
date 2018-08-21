@@ -3305,7 +3305,7 @@ Saad siiski Hirit kasutada kuni ühendus serveriga on loodud.</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation>Vali mitu emaili tahad et Hiri alla laeks:</translation>
+        <translation>Vali millise perioodi meilid Hiri alla laeb:</translation>
     </message>
     <message>
         <source>1 month</source>
@@ -3337,7 +3337,7 @@ Saad siiski Hirit kasutada kuni ühendus serveriga on loodud.</translation>
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation>Toon emeile…</translation>
+        <translation>Toon kirju…</translation>
     </message>
     <message>
         <source>Alias addresses</source>
@@ -4072,15 +4072,15 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Võimaldab teistel hinnata Sinu meile kasutades hea kommunikatsiooni nelja sammast - selgus, lühidus, toon ja käitumine. Hiri annab Sulle hinde arvestades tagasisidet sinu partneritelt ning soovitusi mida teha et parandada suhtluse oskusi. Seda hinnet ei jagata kellegi teisega. Hindded on anonüümsed - Sa ei tea kes Sind hindas.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aeg on hankida uusi oskusi.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Paranda oma tööharjumusi järgmiste produktiivsuse nippide abil.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4094,7 +4094,17 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lühike versioon: Emailide sorteerimine tähtsuse järjekorras võimaldab eraldada neist olulisemad. Organiseeritud sisendkaust vähendab stressi. &lt;br /&gt;&lt;br /&gt;
+    Jagades emailid nende saabumisel asjadeks mis vajavad tegemist ja nendeks mis on lihtsalt informatiivsed on hea meetotd kuidas sisendkausta korras hoida. Kui organiseerid niimoodi oma emeile avastad et tegelikult pole seal nii palju tegutsemist nõudvaid asju kui arvasid. Tegelikult ainult umbes 20% sõnumitest sisaldab mingit ülesannet. Ülejäänud jagunevad peamiselt:&lt;br/&gt;
+    &lt;ul&gt;
+    &lt;li&gt;16% emailidest on mitte vajalikud koopiad&lt;/li&gt;
+    &lt;li&gt;13% emailidest on mitteolulised või laiale ringile saadetud&lt;/li&gt;
+    &lt;li&gt;41% emailidest on ainult informatiivsed&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    Kui Sa ei organiseeri oma emeile siis pole võimalik eristada millistele tasub tähelepanu pöörata ja millistele mitte. Seetõttu paistab Su sisendkaust välja nagu oleks seal ületamatu hulk tööd. Üle ajav sisendkast võib tekitada päris palju stressi. Ja seetõttu võivad ka olulised asjad jääda märkamata.&lt;br /&gt;&lt;br /&gt;Tegevus / Info kontseptsioon on Hiris läbiv stiil. Näiteks kui aktiveerid Ülesande nimekirja funktsiooni muutuvad kõik emailid mille sinna lohistad Tegevusteks. &lt;br /&gt;&lt;br /&gt;
+
+    Et saada Tegevuse / Info funktsioonist rohkem teada, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;kõlasta vastavat abi artiklit&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
@@ -4113,7 +4123,12 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kunagi unustanud tähtsa meili? Jah. Lisades need meilid Ülesannete nimekirja saad olla kindel et ei unusta midagi tähtsat. Või pole vaja kerida pikka meilide nimekirja et leida olulisi asju.&lt;br /&gt;&lt;br /&gt;
+    Ülesannete nimekiri sisaldab mitut kasulikku funktsiooni. Näiteks saad avada ülesandega seotud meili otse ülesande nimekirjast. Ja ka vastupidi - saad avada iga ülesandemis on seotud käesoleva meiliga otse meili lehelt.&lt;br /&gt;&lt;br /&gt;
+    Saad samuti organiseerida ülesandeid nimekirjadesse. Mõned on ka juba ette tehtud - näiteks,ülesanded mis tuleb täna lõpetada ja ülesanded mille oled saatnud teistele, aga saad samuti teha endale htkel vajalike parameetritega nimekirju.&lt;br /&gt;&lt;br /&gt;
+    Ülesanded on ühilduvad MS Outlook-i and Microsoft&apos;s Task app-iga.&lt;br /&gt;&lt;br /&gt;
+    Et saada ülesannete funktsiooni kohta rohkem teada, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;külasta meie abi lehte&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4135,7 +4150,25 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kuulnud 4D meetodist? Ei? See on  OK.&lt;br /&gt;
+    See pärineb Microsoft Research-ist, ja küib nii:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Kui see pole tähtis, siis &lt;strong&gt;kustuta (Delete) &lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;Kui selle saab tehtud vähem kui 2 minutiga, siis &lt;strong&gt;tee ära (Do)&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;Kui see pole Sulle või Sa ei saa seda teha, siis &lt;strong&gt;delegeeri (Delegate)&lt;/strong&gt; see.&lt;/li&gt;
+    &lt;li&gt;Kui Sa pead seda tegema aga see võytab rohkem kui 2 minutit (koos lugemisega), siis &lt;strong&gt;lükka edasi (Defer)&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    Saad sorteerida kõik oma kirjad 4D meetodi abil. Hiris me armastame 4D-d. Aga me tahtsime teha Delegeeri D natuke lihtsamaks. Seetõttu lisasime Delegeeri nupu.&lt;br /&gt;&lt;br /&gt;
+
+    Delegeeri nupp käitub sarnaselt Edasta nupuga, mõne lihtsa erisusega. Kui kasutad Delegeeri nuppu lisatakse Ülesande väli edastatud kirja algusesse millega annad saajale teada mida täpselt selle kirjaga tegema peab. See on tähtis kuna 40% kirjadest ei sisalda selget tegevust mis viib mõttetute kirjade edasi tagasi põrgatamiseni.&lt;br /&gt;&lt;br /&gt;
+
+    See on väike muudatus aga ikkagi üks oluline asi millega Hiri aitab Sul parandada kommunikatsiooni.&lt;br /&gt;&lt;br /&gt;
+
+    Lisaks on Delegeeri nupu kasutamisel veel õks boonus.Kui saadad delegeeritud kirja teisele Hiri kasutajale paigutatakse see kiri automaatselt tema Tegevuse kausta kuna me teame et seal sisaldub tegevust nõudev ülesanne.
+    </translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4147,7 +4180,15 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Kirju mida saad saab organiseerida 4D meetotodi abil:&lt;br /&gt;&lt;br /&gt;
+
+    1.      Kui see pole oluline siis &lt;strong&gt;kustuta (delete)&lt;/strong&gt; see.&lt;br /&gt;
+    2.      Kui saab teha vähem kui 2 minutiga siis &lt;strong&gt;tee see ära (do)&lt;/strong&gt;.&lt;br /&gt;
+    3.      Kui see pole sulle või kui saad delegeerida siis &lt;strong&gt;delegeeri&lt;/strong&gt; see.&lt;br /&gt;
+    4.      Kui pead seda tegema aga see võtab rohkem kui 2 minutit koos lugemisega siis &lt;strong&gt;lükka edasi (defer)&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
+
+    Edasi lükkamise nupp on neljas D nimekirjas. Mõnikord ei saa kirjaga kohe tegeleda aga seda on vaja mingiks tähtajaks kindlasti teha. Vajutades Meeldetuletuse nupuluy saad valida millal saad meeldetuletuse selle vestluse kohta. Lihtne!
+    </translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4156,12 +4197,18 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Kirjutad parema pealkirja kui kiri on juba valmis.&lt;br /&gt;&lt;br /&gt;
+
+    See on tähtis. Hea pealkiri võimaldab teistel lihtsamini aru saada kirja olulisusest. Kui pealkiri vastab sisule teeb see teemast arusaamise oluliselt lihtsamaks.&lt;br /&gt;&lt;br /&gt;
+
+    Sellepärast ei luba Hiri saata kirju ilma pealkirjata.
+    </translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühi sisendkaust on range lähenemine kirjade haldusele mille eesmärk on hoida sisendkaust tühi - või peaaegu tühi - alati.&lt;br /&gt;&lt;br /&gt;
+Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann-i kohaselt ei ole null number mis märgib kirjade arvu sisendkaustas; see on &quot;aeg mida töötaja kasutab sisendkausta peale mõeldes.&quot; Mann-i idee on selles et aeg ja tähelepanu ei ole lõputud ja kui sisendkaust aetakse segamini ülesannete nimekirjaga, kannatab töö efektiivsus. Tühjendades sisendkausta kasutad vähem aega kirju läbi vaadates.Puhas sisendkaust aitab kaasa  tervislikule ja efektiivsele meelele - või vähemalt teooria arvab nii.</translation>
     </message>
 </context>
 <context>
@@ -4179,59 +4226,59 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Palun kirjuta tagasiside teade</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Saadan tagasisidet…</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagasiside teade:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagasiside saadetud. Tänan!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga tagasiside saatmisel</translation>
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga logide lisamisel</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaata KKK-d meie abi keskuses</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui Sul on meile mõni idee</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Või võta otse ühendust Hiri tiimiga</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meil saadetakse:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aita meil Sind aidata :)</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mida rohkem detaile annad, seda paremini saame Sind aidata.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anna meile teada millise programmi osaga on probleem/ettepanek seotud.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa logid selle teate külge</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4243,70 +4290,70 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sisse lülitatud</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Välja lülitatud</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas need ülesanded on täidetud?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas see ülesanne on täidetud?</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Märkisid selle teate ülesandeks %1</translation>
     </message>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>sina</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>sina ja veel 1</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>sina ja %1 teist</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>veel 1</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 teist</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Küsimus</translation>
     </message>
     <message>
         <source>Delegated</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeeritud</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülesanne</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>kellele</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>mis ajaks</translation>
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava ülesanne</translation>
     </message>
 </context>
 <context>
@@ -4324,25 +4371,25 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Kõik ülesanded</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Uus nimekiri</translation>
     </message>
 </context>
 <context>
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Sama ülesanne kõigile</translation>
     </message>
 </context>
 <context>
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation>Sea meeldetuletus</translation>
+        <translation>Loo meeldetuletus</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4350,55 +4397,55 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Määra tähtaeg</translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>sina lõid selle ülesande</translation>
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>kellelt</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava email</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo meeldetuletus</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Eemalda meeldetuletus</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Eemalda tähtaeg</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Kustuta ülesanne</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Lisa märkus</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda märkust</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühjenda märkus</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas oled kindel et tahad märkuse tühjendada?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah, tühjenda</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -4409,18 +4456,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>sina</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>kõik</translation>
     </message>
 </context>
 <context>
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Muuda ülesande märkust</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4443,14 +4490,14 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ei saa ülesande meeldetuletust uinutada…</translation>
     </message>
 </context>
 <context>
     <name>Tasks</name>
     <message>
         <source>Create a new task</source>
-        <translation type="unfinished"></translation>
+        <translation>Loo uus ülesanne</translation>
     </message>
 </context>
 <context>
@@ -4461,129 +4508,129 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, ei saa lõpetatud ülesannet liigutada</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, ei saa liigutada saadetud ülesannet</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesande nimekirja laadimine ei õnnestunud…</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesannete laadimine ei õnnestunud…</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesande loomine ebaõnnestus…</translation>
     </message>
     <message>
         <source>Oops, updating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesande uuendamine ei õnnestunud…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Liigutasid ülesande siia &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Oops, moving task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesande liigutamine ei õnnestunud…</translation>
     </message>
     <message>
         <source>Oops, deleting task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesande kustutamine ei õnnestunud…</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, ülesande kausta kustutamine ei õnnestunud…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vestlus viidud Tegevus kausta.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, järelkaja loomine ebaõnnestus…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, ei saa lisada ülesannet saadetud ülesande nimekirja</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülesanne viidud nimekirja Täna - tähtaeg seatud (Täna, 18:00)</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ülesanne viidud nimekirja Käesolev nädal - tähtaeg seatud (Reede, 18:00)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, ei saa viia ülesannet saadetud ülesannete nimekirja</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust, Sinu prooviperiood on möödas :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ära karda! Saad osta litsentsi et jätkata Hiri kasutamist.</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui Sul on küsimusi, palun</translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>võta ühendust.</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Osta nüüd</translation>
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrollin tellimust…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vabandust. Ei leidnud Sinu makset.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Palun saada tagasiside teade</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Saadan tagasisidet…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Proovi küsimus:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tagasiside saadetud. Tänan!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga tagasiside saatmisel</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Meil saadetakse aadressile:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Kas Sul on küsimusi prooviperioodi kohta või muud tagasisidet mida meiega jagada?</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4591,15 +4638,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kui oled siin kinni aga oled juba maksnud.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliki allolevale lingile et alustada!</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ma olen juba maksnud</translation>
     </message>
 </context>
 <context>
@@ -4617,47 +4664,47 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Pühapäev</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Esmaspäev</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Teisipäev</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolmapäev</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>Neljapäev</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>Reede</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>Laupäev</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Sina</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Just praegu</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Eile</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -4669,19 +4716,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 faili lisatud.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fail lisatud.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>See fail on juba lisatud.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mõned failid on juba lisatud.</translation>
     </message>
     <message>
         <source>Every day</source>
@@ -4701,7 +4748,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Iga %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
@@ -4709,19 +4756,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proov:</translation>
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Lõpeb täna</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>1 päev jäänud</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 päeva jäänud</translation>
     </message>
     <message>
         <source>All day</source>
@@ -4733,11 +4780,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Lõpeb</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Algab</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -4760,35 +4807,35 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Ava link</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri lingi aadress</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri pilt</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvesta pilt</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Lõika</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopeeri</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleebi</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Kleebi ilma formaatimata</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -4796,31 +4843,32 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Unselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Tühista valik</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrolli õigekirja</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Keel</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Pilt on salvestatud Sinu Allalaadmiste kausta</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tere tulemast Hirisse!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>On aeg saada kirjad
+kontrolli alla.</translation>
     </message>
 </context>
 <context>
@@ -4831,37 +4879,37 @@ under control.</source>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Saadavuse olek pole teada</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sina oled %1</translation>
     </message>
     <message>
         <source>Where: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kus: %1</translation>
     </message>
 </context>
 <context>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Jah</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Ei</translation>
     </message>
 </context>
 <context>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekkis viga faili alla laadimisel</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Ei saa salvestada: </translation>
     </message>
 </context>
 <context>
@@ -4872,50 +4920,50 @@ under control.</source>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>kellele</translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viga teate salvestamisel. Palun kontrolli üle oma muudatused kuna mõned neist ei pruukinud salvestuda.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups! Midagi läks valesti</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri server on võrgust väljas. Sa ei saa hinnata oma kolleege ega näha oma kommunikatsiooni taset.</translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> kelle poolt </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Ühendus serveriga katkes</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai, midagi läks valesti</translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Test {} mugandamine</translation>
     </message>
 </context>
 </TS>

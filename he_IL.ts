@@ -4532,7 +4532,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>אל חשש! תוכל לקנות רישיון כך שתוכל להמשיך להשתמש ב Hiri.</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>

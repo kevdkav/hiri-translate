@@ -4876,36 +4876,36 @@ under control.</source>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>שגיאה בשמירת ההודעה. בדוק שנית את השינויים שלך מכיוון שחלק מהם אולי לא נכנסו לתוקף.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>אופסי! משהו השתבש</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>השרת של Hiri לא בנמצא כרגע. לא ניתן לדרג את האימיילים של הקולגות שלך או לראות את ציון התקשורת שלך.</translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> בשם </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>תקלה בחיבור לשרת</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>ייקס, משהו השתבש</translation>
     </message>
 </context>
 <context>

@@ -3266,7 +3266,7 @@ postisi seuraavalle tasolle.</translation>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation>Avatarisi</translation>
+        <translation>Avatar</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3416,15 +3416,15 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos lisenssi ei ole aktiivinen, mutta olet jo maksanut, käynnistä Hiri uudelleen.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Jos se ei toimi, saatoit maksaa käyttäen eri sähköpostiosoiteitta kuin mitä nyt käytät.</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksoin eri sähköpostiosoitteella</translation>
     </message>
 </context>
 <context>

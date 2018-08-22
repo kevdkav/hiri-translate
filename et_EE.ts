@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Kui Sa ei leia kalendrit mida otsid, kontrolli et Sa oled kinnitanud jagamise.</translation>
+        <translation>Kui Sa ei leia kalendrit, kontrolli et oled kinnitanud jagamise ettepaneku.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -46,7 +46,7 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Leidsime Sinu arvutist nVIdia noveau driveri, see võib põhjustada probleeme. Palun käivita Hiri uuesti et käivitada tarkvaralise renderduse.</translation>
+        <translation>Leidsime Sinu arvutist nVIdia noveau driveri, see võib põhjustada probleeme. Palun käivita Hiri uuesti et aktiveerida tarkvaraline renderdus.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
@@ -317,7 +317,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Te ei saa seda koosolekut tühistada kuna Te pole selle looja. Kas tahate selle hoopis kustutada?</translation>
+        <translation>Seda koosolekut ei saa tühistada kuna Te pole selle algataja. Kas tahate selle hoopis kustutada?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -686,7 +686,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>In</source>
-        <translation>Sees</translation>
+        <translation>Kaustas</translation>
     </message>
     <message>
         <source>Create contact</source>
@@ -751,7 +751,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation>Ei suutnud sündmusi laadida :(</translation>
+        <translation>Ei suutnud koosolekuid laadida :(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
@@ -1276,11 +1276,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation>Sõnumit ei saadetud ja ta on Outbox kataloogis. Proovi jagada lisatud failid mitme sõnumi vahel.</translation>
+        <translation>Sõnumit ei saadetud ja ta on Väljund kaustas. Proovi jagada lisatud failid mitme sõnumi vahel.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation>Sa ei ole serveriga ühenduses. Kirjad on viidud Outbox-i.</translation>
+        <translation>Sa ei ole serveriga ühenduses. Kirjad on viidud Väljund kausta.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
@@ -1292,7 +1292,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Sõnum liigutatud FYI-sse. Ülesanne eemaldatud.</translation>
+        <translation>Sõnum liigutatud Info-sse. Ülesanne eemaldatud.</translation>
     </message>
 </context>
 <context>
@@ -1467,43 +1467,43 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation>Vabandust, Sa ei saa luua kataloogi kui ei ole ühendatud serveriga.</translation>
+        <translation>Vabandust, Sa ei saa luua kausta kui ei ole ühendatud serveriga.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation>Loon kataloogi %1</translation>
+        <translation>Loon kausta %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation>Kataloog loodud</translation>
+        <translation>Kaust loodud</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation>Vabandust, Sa ei saa muuta kataloogi nime kui pole ühendust serveriga.</translation>
+        <translation>Vabandust, Sa ei saa muuta kausta nime kui pole ühendust serveriga.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation>Kataloogi nimi muudetud</translation>
+        <translation>Kausta nimi muudetud</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation>Vabandust, Sa ei saa kustutada kataloogi kui pole ühendust serveriga.</translation>
+        <translation>Vabandust, Sa ei saa kustutada kausta kui pole ühendust serveriga.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation>Kas oled kindel et tahad alatiseks kustutada kataloogi &quot;%1&quot; ja selle sisu?</translation>
+        <translation>Kas oled kindel et tahad alatiseks kustutada kausta &quot;%1&quot; ja selle sisu?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation>Kas oled kindel et soovid kustutada kataloogi &quot;%1&quot;?</translation>
+        <translation>Kas oled kindel et soovid kustutada kausta &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation>Kustutan kataloogi &quot;%1&quot;</translation>
+        <translation>Kustutan kausta &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation>Kataloog kustutatud</translation>
+        <translation>Kaust kustutatud</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1515,23 +1515,23 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation>Vabandust, Sa ei saa tühjendada kataloogi kui pole ühendust serveriga.</translation>
+        <translation>Vabandust, Sa ei saa tühjendada kausta kui pole ühendust serveriga.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation>Kas oled kindel et tahad alatiseks kustutada kõik asjad ja alamkataloogid kataloogist &quot;%1&quot;?</translation>
+        <translation>Kas oled kindel et tahad alatiseks kustutada kõik asjad ja alamkaustad kaustast &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation>Kas oled kindel et tahad kustutada kõik asjad kataloogist &quot;%1&quot;?</translation>
+        <translation>Kas oled kindel et tahad kustutada kõik asjad kaustast &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation>Tühjendan kataloogi %1</translation>
+        <translation>Tühjendan kausta %1</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation>Kataloog tühjendatud.</translation>
+        <translation>Kaust tühjendatud.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
@@ -1543,11 +1543,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation>Vabandust, Sa ei saa liigutada kataloogi kui pole ühendust serveriga.</translation>
+        <translation>Vabandust, ei saa liigutada kausta kui pole ühendust serveriga.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation>Vabandust, Sa ei saa märkida loetuks kui pole ühendust serveriga.</translation>
+        <translation>Vabandust, ei saa märkida loetuks kui pole ühendust serveriga.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
@@ -1566,11 +1566,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation>Loo alamkataloog</translation>
+        <translation>Loo alamkaust</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation>Loo kataloog</translation>
+        <translation>Loo kaust</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -1849,7 +1849,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation>Sa võiks kutsuda inimesi kellega Sa emailid kõige rohkem. Te mõlemad saate kasu Hiri suurepärastest võimalustest.</translation>
+        <translation>Sa võiks kutsuda inimesi kellega Sa kirjutad kõige rohkem. Te mõlemad saate kasu Hiri suurepärastest võimalustest.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -2151,7 +2151,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation>VIga mustandi salvestamisel</translation>
+        <translation>Viga mustandi salvestamisel</translation>
     </message>
     <message>
         <source>Forward sent</source>
@@ -2233,7 +2233,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation>Kuna nii kirjutad parema teema! Sa juba kirjutasid sisu valmis seega tuleb teema täpsem mis omakorda hoiab kokku saaja aega.</translation>
+        <translation>Kuna nii kirjutad parema teema! Kirja sisu on juba valmis seega tuleb teema täpsem mis omakorda hoiab kokku saaja aega.</translation>
     </message>
     <message>
         <source>What is</source>
@@ -2250,7 +2250,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Kui email mida edastad sisaldab sulle saadetud ülesannet, saab igaüks kelle Sa lisad Tegevuste alla selle sama ülesande.
+        <translation>Kui edastatav email sisaldab ülesannet, saab igaüks, kelle lisad Tegevuste alla, selle sama ülesande.
  Seetõttu kutsutakse seda delegeerimiseks.</translation>
     </message>
 </context>
@@ -2266,7 +2266,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation>Kontrollin emaile…</translation>
+        <translation>Kontrollin kas on uusi kirju…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
@@ -2375,7 +2375,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation>Kutsu - trüki nimi</translation>
+        <translation>Kutsu - alustamiseks sisesta nimi</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
@@ -2458,7 +2458,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Kas oled kindel et tahad seda sündmust kustutada?</translation>
+        <translation>Kas oled kindel et tahad seda koosolekut kustutada?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -2653,11 +2653,11 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
-        <translation>Trüki nimi et alustada otsingut</translation>
+        <translation>Sisesta nimi et alustada otsingut</translation>
     </message>
     <message>
         <source>Type  to search</source>
-        <translation>Trüki  et otsida</translation>
+        <translation>Otsimiseks kirjuta siia</translation>
     </message>
     <message>
         <source>Email</source>
@@ -2907,7 +2907,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation>Sa oled peidetud koopias sellel meilil - teised saajad ei näe et Sa said ka selle meili. Kui lisad saajaid ja vastad ei ole Sa enam peidetud.</translation>
+        <translation>Sa oled sellel kirjal peidetud koopias - teised saajad ei näe et said ka selle meili. Kui lisad saajaid ja vastad ei ole Sa enam peidetud.</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -3641,7 +3641,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation>See hakkab tööle peale Hiri uuesti käivitamist.</translation>
+        <translation>See hakkab tööle peale Hiri taaskäivitamist.</translation>
     </message>
 </context>
 <context>
@@ -3968,19 +3968,19 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation>Tegevus/Informatiivne</translation>
+        <translation>Tegevus/Info jaotus</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Märgi emailid kasutades Tegevus/Informatiivne jaotust.</translation>
+        <translation>Märgi emailid kasutades Tegevus/Info jaotust.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation>See lisab Tegevus ja Informatiivne filtrid vasakul olevasse tumehalli kasti.</translation>
+        <translation>See lisab Tegevus ja Info filtrid vasakul olevasse tumehalli kasti.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation>Armatuurlaud</translation>
+        <translation>Ülevaatekuva</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
@@ -3988,7 +3988,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation>Armatuurlaud ilmub Hiri ette peale 90 sekundit kui Sa ei tee midagi. See on hea selleks et mitte kontrollida emaile liiga tihti. See aitab tähelepanu fokusseerida ja hoiab aega kokku.</translation>
+        <translation>Ülevaatekuva ilmub Hiri ette, peale 90 sekundit, kui Sa ei tee midagi. See on hea selleks et mitte kontrollida emaile liiga tihti. See aitab tähelepanu fokusseerida ja hoiab aega kokku.</translation>
     </message>
     <message>
         <source>Task List</source>
@@ -4012,7 +4012,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation>Lisab delegeerimise nupu emaili tegevuste ribale.</translation>
+        <translation>Lisab Delegeeri nupu emaili tegevuste ribale.</translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4076,7 +4076,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation>Aeg on hankida uusi oskusi.</translation>
+        <translation>Kasuta täiendavaid võimalusi.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
@@ -4102,9 +4102,9 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     &lt;li&gt;41% emailidest on ainult informatiivsed&lt;/li&gt;
     &lt;/ul&gt;
     &lt;br /&gt;
-    Kui Sa ei organiseeri oma emeile siis pole võimalik eristada millistele tasub tähelepanu pöörata ja millistele mitte. Seetõttu paistab Su sisendkaust välja nagu oleks seal ületamatu hulk tööd. Üle ajav sisendkast võib tekitada päris palju stressi. Ja seetõttu võivad ka olulised asjad jääda märkamata.&lt;br /&gt;&lt;br /&gt;Tegevus / Info kontseptsioon on Hiris läbiv stiil. Näiteks kui aktiveerid Ülesande nimekirja funktsiooni muutuvad kõik emailid mille sinna lohistad Tegevusteks. &lt;br /&gt;&lt;br /&gt;
+    Kui Sa ei organiseeri oma emeile siis pole võimalik eristada millistele tasub tähelepanu pöörata ja millistele mitte. Seetõttu paistab sisendkaust välja nagu oleks seal ületamatu hulk tööd. Üle ajav sisendkast võib tekitada päris palju stressi. Ja seetõttu võivad ka olulised asjad jääda märkamata.&lt;br /&gt;&lt;br /&gt;Tegevus / Info kontseptsioon on Hiri-s läbiv stiil. Näiteks kui aktiveerid Ülesande nimekirja funktsiooni muutuvad kõik emailid mille sinna lohistad Tegevusteks. &lt;br /&gt;&lt;br /&gt;
 
-    Et saada Tegevuse / Info funktsioonist rohkem teada, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;kõlasta vastavat abi artiklit&lt;/a&gt;.</translation>
+    Et saada Tegevuse / Info funktsioonist rohkem teada, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;külasta vastavat abi artiklit&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
@@ -4114,7 +4114,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
         <translation>Mis on kõige halvem emaili kasutamise harjumus? Liiga tihe emailide kontrollimine. Keskmiselt kontrollime oma emaile 96 korda päevas ehk iga 5 minuti tagant. See pole tegelikult üldse vajalik. Keegi ei oota et kontrolliksid emaile nii tihti (ja kui keegi siiski ootab pole ta eriti mõistlik). &lt;br/&gt;&lt;br/&gt;
     Email ei ole reaalajas suhtluse vahend. Kui vajad kiiret vastust siis parem helista, saada SMS või Skype - või lihtsalt mine küsi näost näkku. Email on hea suhtluseks mis ei vaja kohest kiiret reageeringut. Ehk asjade jaoks mis mis ei vaja kohest vastust kui vastus on niigi selge. Miks selge? Kuna email tavaliselt tekitab uusi suure hulga vastus emaile, siis on parem kohe helistada. Kellelegi ei meeldi emailide põrgatamine.&lt;br /&gt;&lt;br /&gt;
     Emailide harvem kontroll annab üsna suure ajasäästu. Iga kord kui kontrollid emaile võtab see vähemalt minuti (mõned uuringud näitavad et isegi kuni 20 minutit sõltuvalt rollist). Seda seetõttu et see katkestab muu tegevuse ja Sa ei kaota ainult emaili kontrollimise aja vaid ka aja mis läheb et uuesti häälestuda vajalikule tööle mida tegid enne katkestust.&lt;br /&gt;&lt;br /&gt;
-    Irvine-i ülikooli and USA Armee meeskond uurisid emaili piiramise mõjusid osalejate südame löögisagedusele ja fokuseerumisele. Leiti et emaili ligipääsu piiramine vähendas oluliselt stressi. Osalejad ilma emaili ligipääsuta vahetasid aknaid ekraanil 18 korda tunnis. Seevastu osalejad emaili ligipääsuga tegid seda 37 korda tunnis. Armatuurlaua funktsioon ei keela ligipääsu emailile kuid vähendab vajadust emaili akna pidevaks kontrollimiseks.</translation>
+    Irvine-i ülikooli and USA Armee meeskond uurisid emaili piiramise mõjusid osalejate südame löögisagedusele ja fokuseerumisele. Leiti et emaili ligipääsu piiramine vähendas oluliselt stressi. Osalejad ilma emaili ligipääsuta vahetasid aknaid ekraanil 18 korda tunnis. Seevastu osalejad emaili ligipääsuga tegid seda 37 korda tunnis. Ülevaatekuva funktsioon ei keela ligipääsu emailile kuid vähendab vajadust emaili akna pidevaks kontrollimiseks.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4187,7 +4187,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     3.      Kui see pole sulle või kui saad delegeerida siis &lt;strong&gt;delegeeri&lt;/strong&gt; see.&lt;br /&gt;
     4.      Kui pead seda tegema aga see võtab rohkem kui 2 minutit koos lugemisega siis &lt;strong&gt;lükka edasi (defer)&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
 
-    Edasi lükkamise nupp on neljas D nimekirjas. Mõnikord ei saa kirjaga kohe tegeleda aga seda on vaja mingiks tähtajaks kindlasti teha. Vajutades Meeldetuletuse nupuluy saad valida millal saad meeldetuletuse selle vestluse kohta. Lihtne!
+    Edasi lükkamise nupp on neljas D nimekirjas. Mõnikord ei saa kirjaga kohe tegeleda aga seda on vaja mingiks tähtajaks siiski teha. Vajutades Meeldetuletus nupule saad valida millal saad meeldetuletuse selle vestluse kohta. Lihtne!
     </translation>
     </message>
     <message>

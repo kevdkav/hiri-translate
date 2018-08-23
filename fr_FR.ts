@@ -1040,7 +1040,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Snooze</source>
-        <translation>Mettre en sommeil</translation>
+        <translation>Programmer un rappel</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
@@ -1575,7 +1575,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Empty contents</source>
-        <translation>Contenu vide</translation>
+        <translation>Vider le dossier</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -2270,7 +2270,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation>Obtenir vos emails …%1%</translation>
+        <translation>Téléchargement de vos emails en cours …%1%</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
@@ -2278,7 +2278,7 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation>Connexion interrompue lors de l&apos;obtention de votre courrier. Reconnexion…</translation>
+        <translation>Connexion interrompue lors de l&apos;obtention de votre courrier. Reconnexion en cours …</translation>
     </message>
     <message>
         <source>Checking</source>
@@ -4076,7 +4076,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation>Passez au niveau supérieur.</translation>
+        <translation>Passez à la vitesse supérieure !</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>

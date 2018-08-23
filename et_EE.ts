@@ -473,7 +473,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Vabandust, me ei suutnud tuvastada teie emaili tüüpi.</translation>
+        <translation>Vabandust, ei suutnud tuvastada millist emaili kasutate.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
@@ -611,7 +611,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation>Kontaktil  peab olema nime või emaili aadressi</translation>
+        <translation>Kontaktil peab olema nimi või emaili aadressi</translation>
     </message>
     <message>
         <source>Error updating contact</source>

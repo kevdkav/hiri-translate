@@ -2092,7 +2092,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Yksi tai useampi kirjoittamasi sähköpostiosoite on väärin. Varmista, että painat Enter kun olet kirjoittanut sähköpostiosoitteen</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
@@ -3616,7 +3616,7 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation>Valitse käyttöliittymän kieli:</translation>
+        <translation>Käyttöliittymän kieli:</translation>
     </message>
     <message>
         <source>Saved</source>
@@ -4067,7 +4067,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Paras tapa parantaa viestintätaitoja on rehellinen palaute, ja mikä olisikaan parempi tapa pyytää palautetta kuin sähköposti?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
@@ -4595,7 +4595,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Olen jo maksanut</translation>
     </message>
 </context>
 <context>

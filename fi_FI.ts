@@ -1303,7 +1303,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>On behalf of</source>
-        <translation type="unfinished"></translation>
+        <translation>Puolesta henkilön</translation>
     </message>
     <message>
         <source>Action/To</source>
@@ -4003,7 +4003,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegoi sähköpostit</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
@@ -4039,7 +4039,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Siistitty Saapuneet-kansio</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
@@ -4894,7 +4894,7 @@ takaisin hallintaan.</translation>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> puolesta henkilön </translation>
     </message>
 </context>
 <context>

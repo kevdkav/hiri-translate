@@ -1196,7 +1196,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос на встречу закрыт.</translation>
     </message>
 </context>
 <context>
@@ -1330,11 +1330,11 @@ Do you want to forward only this event or the whole series?</source>
     <name>ErrorScreen</name>
     <message>
         <source>Oops.</source>
-        <translation type="unfinished"></translation>
+        <translation>Упс.</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>Продолжить</translation>
     </message>
 </context>
 <context>
@@ -2058,7 +2058,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation type="unfinished"></translation>
+        <translation>Получите скидку на Hiri сегодня!</translation>
     </message>
     <message>
         <source>Skills Center</source>
@@ -2277,7 +2277,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation>Подключение было прервано, пока мы получали ваши письма. Переподключаемся.…</translation>
     </message>
     <message>
         <source>Checking</source>
@@ -2296,19 +2296,19 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишите и нажмите Enter для поиска</translation>
     </message>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишите для поиска</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поищите или нажмите Enter, чтобы показать все сообщения из архива</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отображение всех сообщений, пишите для поиска</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
@@ -2319,7 +2319,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingAttendees</name>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Занят</translation>
     </message>
     <message>
         <source>Tentative</source>
@@ -2327,7 +2327,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Вне офиса</translation>
     </message>
     <message>
         <source>No availability data</source>
@@ -2335,38 +2335,38 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Свободен</translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Заголовок встречи</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ассистент Расписаний</translation>
     </message>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Весь день?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation type="unfinished"></translation>
+        <translation>Личная?</translation>
     </message>
     <message>
         <source>Repeat</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторить</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Напоминание</translation>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать как</translation>
     </message>
     <message>
         <source>Location</source>

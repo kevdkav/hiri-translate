@@ -2304,11 +2304,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished">Поищите или нажмите Enter, чтобы показать все сообщения из архива</translation>
+        <translation>Поищите или нажмите Enter, чтобы показать все сообщения из архива</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished">Отображение всех сообщений, пишите для поиска</translation>
+        <translation>Отображение всех сообщений, пишите для поиска</translation>
     </message>
     <message>
         <source>Press Return to choose tag</source>
@@ -2342,11 +2342,11 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingDetailsEditable</name>
     <message>
         <source>Meeting title</source>
-        <translation type="unfinished">Заголовок встречи</translation>
+        <translation>Заголовок встречи</translation>
     </message>
     <message>
         <source>Scheduling Assistant</source>
-        <translation type="unfinished">Ассистент Расписаний</translation>
+        <translation>Ассистент Расписаний</translation>
     </message>
     <message>
         <source>All day?</source>
@@ -2429,11 +2429,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Show as</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать как</translation>
     </message>
     <message>
         <source>Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Напоминание</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
@@ -2503,7 +2503,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Запрос на встречу закрыт.</translation>
     </message>
 </context>
 <context>
@@ -3032,7 +3032,7 @@ email to the next level.</source>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>Весь день?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
@@ -3048,7 +3048,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Занят</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3113,11 +3113,11 @@ email to the next level.</source>
     <name>SearchField</name>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишите для поиска</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Отображение всех сообщений, пишите для поиска</translation>
     </message>
     <message>
         <source>Search everything</source>
@@ -3129,11 +3129,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Напишите и нажмите Enter для поиска</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Поищите или нажмите Enter, чтобы показать все сообщения из архива</translation>
     </message>
 </context>
 <context>
@@ -3641,7 +3641,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Вне офиса</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3684,7 +3684,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Вне офиса</translation>
     </message>
     <message>
         <source>Archive</source>

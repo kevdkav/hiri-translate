@@ -2878,7 +2878,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor</translation>
     </message>
     <message>
         <source>sending</source>
@@ -3708,7 +3708,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender</translation>
     </message>
     <message>
         <source>Time</source>
@@ -3724,7 +3724,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneelbord</translation>
     </message>
     <message>
         <source>Languages</source>
@@ -4164,7 +4164,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur terugvoer</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>

@@ -1,1025 +1,1024 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR" sourcelanguage="en_GB">
+<TS version="2.1" language="pl_PL" sourcelanguage="en_GB">
 <context>
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Προσθήκη επιπλέον λογαριασμού</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AddPublicCalendarsDialog</name>
     <message>
         <source>Public Calendars</source>
-        <translation>Δημόσια ημερολόγια</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation>Κοινόχρηστα ημερολόγια</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Αν δεν μπορείτε να βρείτε το ημερολόγιο που ψάχνετε σιγουρευτείτε οτι έχετε αποδεχτεί το αίτημα κοινής χρήσης.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Προσθήκη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation>Δεν μπορέσαμε να βρούμε κανένα νέο δημόσιο ημερολόγιο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation>Δεν μπορέσαμε να βρούμε κανένα νέο κοινόχρηστο ημερολόγιο</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation>ΟΚ</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Εντοπίστηκε ο οδηγός προγράμματος nVidia nouveau που είναι γνωστός οτι προκαλεί προβλήματα. Παρακαλούμε επανεκκινήστε την εφαρμογή Hiri για να διορθωθεί η απόδοση της εφαρμογής.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Ουπς, δεν μπορούμε να βρούμε το mail σας…</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Συνημμένα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Αναζήτηση παγκόσμιας λίστας διευθύνσεων (%1 + Tab)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Εγκατάσταση…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Κλείσιμο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Απέτυχε!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Η ενημέρωση ολοκληρώθηκε. Παρακαλούμε επανεκκινήστε την εφαρμογή Hiri…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation>Eνημέρωση… %1%</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Απόκρυψη</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>AvatarTagFlow</name>
     <message>
         <source>%1 more</source>
-        <translation>%1 απομένει</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>BackButton</name>
     <message>
         <source>back to start</source>
-        <translation>επιστροφή στο αρχικό μενού</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation>Ζητούμε συγνώμη. Η φόρτωση του ημερολογίου σας δεν είναι δυνατή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation>Το συνημμένο αρχείο &apos;%1&apos; θα ληφθεί</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation>Το συνημμένο αρχείο &apos;%1&apos; ελήφθει</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation>Η λήψη του συνημμένου αρχείου &apos;%1&apos; απέτυχε</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation>Η σύσκεψη ξεκίνησε</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation>Σφάλμα κατά την διαγραφή του συνημμένου αρχείου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
-        <translation>Σφάλμα κατά την διάρκεια προσθήκης δημόσιου ημερολογίου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error adding shared calendar</source>
-        <translation>Σφάλμα κατά την διάρκεια προσθήκης κοινόχρηστου ημερολογίου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation>Διαγραφή ημερολογίου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation>Το ημερολόγιο διεγράφει</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation>Το ημερολόγιο αφαιρέθηκε</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation>Σφάλμα κατα την αφαίρεση του ημερολογίου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Renaming calendar</source>
-        <translation>Μετονομασία ημερολογίου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation>Το ημερολόγιο μετονομάστηκε</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Επιλέξτε μια ώρα:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Δώστε στο ημερολόγιό σας ένα όνομα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Μετονομασία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarFolders</name>
     <message>
         <source>My calendars</source>
-        <translation>Τα ημερολόγιά μου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το ημερολόγιο;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Ναι, διέγραψέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Public calendars</source>
-        <translation>Δημόσια ημερολόγια</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να καταργήσετε το ημερολόγιο %1; Μπορείτε πάντα να το προσθέσετε αργότερα.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation>Ναι αφαίρεσέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation>Όχι κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shared calendars</source>
-        <translation>Κοινόχρηστα ημερολόγια</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarHeader</name>
     <message>
         <source>Create</source>
-        <translation>Δημιουργία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Work week</source>
-        <translation>Εργάσιμη εβδομάδα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Week</source>
-        <translation>Εβδομάδα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Month</source>
-        <translation>Μήνας</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthCellDelegate</name>
     <message>
         <source>+ %1 more</source>
-        <translation>+ %1 επιπλέον</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarMonthMeetingItem</name>
     <message>
         <source>All day</source>
-        <translation>Όλη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>no subject</source>
-        <translation>χωρίς θέμα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Δώστε στο ημερολόγιό σας ένα όνομα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation>Μετάβαση στο σήμερα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation>Παρουσιάστηκε κάποιο σφάλμα. Παρακαλούμε δοκιμάστε ξανά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation>Πρόκειται για μια περιοδική σύσκεψη.
-Θέλετε να προωθήσετε μόνο αυτό το γεγονός ή όλη τη σειρά;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Single meeting</source>
-        <translation>Μεμονωμένη σύσκεψη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation>Ολόκληρη σειρά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Δεν μπορείτε να ακυρώσετε αυτη τη σύσκεψη καθώς δεν είστε ο διοργανωτής. Επιθυμείτε αντ&apos; αυτού να την διαγράψετε;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation>Ναι, διαγραψέ τη.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it.</source>
-        <translation>Οχι, διατήρησέ τη.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation>Χωρίς επανάληψη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation>Κάθε μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation>Κάθε εργάσιμη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation>Κάθε %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation>Κάθε 2 εβδομάδες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation>Κάθε τελευταία %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every %1 %3</source>
-        <translation>Κάθε %1 %3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every %1 %2</source>
-        <translation>Κάθε %1 %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Κανένα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>0 minutes</source>
-        <translation>0 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5 minutes</source>
-        <translation>5 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>10 minutes</source>
-        <translation>10 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>15 minutes</source>
-        <translation>15 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>30 minutes</source>
-        <translation>30 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 hour</source>
-        <translation>1 ώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2 hours</source>
-        <translation>2 ώρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 hours</source>
-        <translation>3 ώρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4 hours</source>
-        <translation>4 ώρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>8 hours</source>
-        <translation>8 ώρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>12 hours</source>
-        <translation>12 ώρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 day</source>
-        <translation>1 μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2 days</source>
-        <translation>2 μέρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 days</source>
-        <translation>3 μέρες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1 week</source>
-        <translation>1 εβδομάδα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2 weeks</source>
-        <translation>2 εβδομάδες</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Όλη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>now</source>
-        <translation>τώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation>%1 λεπτό</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 ώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation>%1 ημέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation>όλη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation>Χωρίς θέμα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Λυπούμαστε, δεν μπορέσαμε να ταυτοποιήσουμε το ηλεκτρονικό ταχυδρομείο που χρησιμοποιείτε.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation>Ποιος είναι ο πάροχος του ηλεκτρονικού ταχυδρομείου σας;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please choose…</source>
-        <translation>Παρακαλώ επιλέξτε…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation>Δεν βρήκατε τον πάροχο του ηλεκτρονικού σας ταχυδρομείου; Την δεδομένη στιγμή η εφαρμογή Hiri με τα Office365, Outlook.com (Hotmail/Live/MSN) και Exchange. Αν χρειάζεστε βοήθεια,</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>contact us.</source>
-        <translation>επικοινωνήστε μαζί μας.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CommunicationScore</name>
     <message>
         <source>Clarity</source>
-        <translation>Διαύγεια</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Brevity</source>
-        <translation>Συντομία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tone</source>
-        <translation>Τόνος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Behaviour</source>
-        <translation>Συμπεριφορά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>your score</source>
-        <translation>η βαθμολογία σας</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation>Παρουσιάστηκε σφάλμα κατά τη διαγραφή επαφής</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Display name</source>
-        <translation>Προβολή ονόματος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Company</source>
-        <translation>Εταιρεία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Department</source>
-        <translation>Τμήμα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>Επαφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First name</source>
-        <translation>Όνομα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Επώνυμο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation>Ηλεκτρονικό ταχυδρομείο %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Work phone</source>
-        <translation>Τηλέφωνο εργασίας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mobile phone</source>
-        <translation>Κινητό τηλέφωνο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Title</source>
-        <translation>Τίτλος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation>Τοποθεσία Γραφείου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address</source>
-        <translation>Διεύθυνση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Street</source>
-        <translation>Οδός</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>City</source>
-        <translation>Πόλη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>State</source>
-        <translation>Πολιτεία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Country</source>
-        <translation>Χώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation>Ταχυδρομικός κώδικας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Σημειώσεις</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Επεξεργασία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation>Η διεύθυνση ηλεκτρονικού ταχυδρομείου 1 δεν είναι μια έγκυρη διεύθυνση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation>Η διεύθυνση ηλεκτρονικού ταχυδρομείου 2 δεν είναι μια έγκυρη διεύθυνση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation>Μια επαφή πρέπει να έχει όνομα ή διεύθυνση ηλεκτρονικού ταχυδρομείου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation>Προέκυψε σφάλμα κατά την ενημέρωση της επαφής</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation>%1 υπάρχει ήδη στις επαφές σας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation>Προέκυψε σφάλμα κατα την δημιουργία μιας επαφής</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε την επαφή:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
-        <translation>Ναι, διαγραψέ τη.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation>Προσθήκη στις επαφές σας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation>προστέθηκε στο φάκελο επαφών σας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation>Προέκυψε σφάλμα κατα την δημιουργία μιας επαφής</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Contacts</name>
     <message>
         <source>Search</source>
-        <translation>Αναζήτηση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation>Εμφάνιση όλων των επαφών, πληκτρολογήστε για αναζήτηση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation>Όλες οι επαφές</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation>GAL</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
-        <translation>&lt;χωρίς όνομα&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation>&lt;χωρίς διεύθυνση ηλεκτρονικού ταχυδρομείου&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>In</source>
-        <translation>Μέσα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation>Δημιουργία επαφής</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation>Επιλέξτε επαφή</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation>Ακύρωση επεξεργασίας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Αποστολή</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Dashboard</name>
     <message>
         <source>Settings</source>
-        <translation>Ρυθμίσεις</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DashboardCalendar</name>
     <message>
         <source>Today</source>
-        <translation>Σήμερα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Αύριο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Go to calendar</source>
-        <translation>Μεταβείτε στο ημερολόγιο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation>Φόρτωση των συναντήσεων σας…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation>Δεν έχετε καμία συνάντηση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>today</source>
-        <translation>σήμερα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>tomorrow</source>
-        <translation>αύριο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation>Δεν μπορέσαμε να φορτώσουμε της συναντήσεις σας :(</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
-        <translation>Οι συναντήσεις σας θα ενημερωθούν μολίς συνδεθείτε ξανά στο διαδίκτυο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(no subject)</source>
-        <translation>(χωρίς θέμα)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Όλη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation>Επεξεργασία προφίλ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation>Γειά σας %1!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation>Γειά σας!</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation>νέο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>since last check</source>
-        <translation>από τον τελευταίο έλεγχο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation>μηνύματα ηλεκτρονικού ταχυδρομείου σήμερα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DashboardTabs</name>
     <message>
         <source>Your calendar</source>
-        <translation>Το ημερολόγιό σας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Communication score</source>
-        <translation>Αποτέλεσμα επικοινωνίας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation>Προσκαλέστε τους φίλους σας</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DashboardTimer</name>
     <message>
         <source>wait</source>
-        <translation>περιμένετε</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>mins</source>
-        <translation>λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check</source>
-        <translation>Έλεγχος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation>Κανένα νέο μήνυμα αλληλογραφίας</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DateTimePicker</name>
     <message>
         <source>Date:</source>
-        <translation>Ημερομηνία:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>at</source>
         <comment>at 16h</comment>
-        <translation>σε</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerFlyout</name>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation>Ακύρωση υπενθύμισης</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation>Έναρξη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End</source>
-        <translation>Λήξη</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation>Ορισμός υπενθύμισης</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation>Αυτό το απόγευμα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Αύριο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>Την επόμενη εβδομάδα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation>Προσαρμοσμένη ημερομηνία και ώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation>Διατίθεται μια νέα έκδοση της εφαρμογής Hiri! Θα θέλατε να κάνετε αναβάθμιση;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation>Ενημέρωση τώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Remind me later</source>
-        <translation>Υπενθύμιση αργότερα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>Επιλέξτε αρχείο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save as</source>
-        <translation>Αποθήκευση ως</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation>Λυπούμαστε, ορισμένα συνημμένα αρχεία δεν βρέθηκαν και θα αφαιρεθούν:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>DownloadAllAttachments</name>
     <message>
         <source>Download all attachments</source>
-        <translation>Λήψη όλων των συνημμένων αρχείων</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Attachments downloaded to: %1</source>
-        <translation>Τα συνημμένα αρχεία ελήφθησαν στο: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation>Σφάλμα κατά τη λήψη όλων των συνημμένων αρχείων</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να ακυρώσετε αυτήν τη σύσκεψη;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation>Ναι, ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation>Όχι μην ακυρώσετε</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη σύσκεψη;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Ναι, διέγραψέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation>Ακύρωση σύσκεψης</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Επεξεργασία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation>Ακύρωση σειράς</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete series</source>
-        <translation>Διαγραφή σειράς</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation>Επεξεργασία σειράς</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation>Ακύρωση συμβάντος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation>Διαγραφή συμβάντος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation>Επεξεργασία συμβάντος</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation>Συγνώμη, δεν μπορείτε να ορίσετε υπενθυμίσεις όταν είστε εκτός σύνδεσης.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation>Αποδοχή σύσκεψης</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation>Απόρριψη σύσκεψης</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Απάντηση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation>Απάντηση σε όλους</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -1027,85 +1026,85 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation>Έχετε ήδη ένα προσχέδιο αυτού του μηνύματος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Αρχειοθετώ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation>Αναβολή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation>Αυτή η συζήτηση περιέχει προσχέδια. Είστε βέβαιοι ότι θέλετε να την διαγράψετε;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Ναι, διέγραψέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation>Άνοιγμα σε νέο παράθυρο</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailActionsDropdownButton</name>
     <message>
         <source>Mark as unread</source>
-        <translation>Σήμανση ως μη αναγνωσμένου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Σήμανση ως αναγνωσμένου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation>Έχετε ήδη ένα προσχέδιο αυτού του μηνύματος</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Προώθηση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
-        <translation>Εκτύπωση / Αποθήκευση σε PDF</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation>Σήμανση ως μη ανεπιθύμητης αλληλογραφίας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as junk</source>
-        <translation>Σήμανση ως ανεπιθύμητης αλληλογραφίας</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation>Συγγνώμη, δεν υποστηρίζουμε το 1%. Το Hiri συνεργάζεται μόνο με διευθύνσεις email του Exchange/Office 365.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation>Εισάγετε την διεύθυνση email σας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>someone@yourprovider.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation>Ναι, μπορείς να μου στέλνεις ένα mail μια φορά το μήνα.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
@@ -1113,108 +1112,108 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation>Επόμενο βήμα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation>Ας προσθέσουμε έναν λογαριασμό.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
-        <translation>Ο κωδικός έχει αλλάξει ή έχει λήξει.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsed</name>
     <message>
         <source>(DELETED)</source>
-        <translation>(ΔΙΑΓΡΑΦΗΚΕ)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation>(ΠΡΟΧΕΙΡΟ)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation>(ΔΙΑΓΡΑΦΗΚΕ)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation>(ΠΡΟΧΕΙΡΑ)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation>Σφάλμα στην ρύθμιση της υπενθύμισης…</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailDragState</name>
     <message>
         <source>conversations selected</source>
-        <translation>επιλέχθηκαν συζητήσεις</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation>(Χωρίς θέμα)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailHeader</name>
     <message>
         <source>(DRAFT)</source>
-        <translation>(ΠΡΟΧΕΙΡΟ)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
-        <translation>%1 για λογαριασμό %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request accepted.</source>
-        <translation>Το αίτημα συνάντησης έγινε δεκτό.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation>Προτάθηκε νέα ώρα: %1 - %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation>Το αίτημα συνάντησης έγινε προσωρινά δεκτό.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation>Το αίτημα συνάντησης απορρίφθηκε.</translation>
-    </message>
-    <message>
-        <source>When: %1</source>
-        <translation>Όταν: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation>Το αίτημα συνάντησης ακυρώθηκε.</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation>Εισαγωγή παραληπτών</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailList</name>
     <message>
         <source>%1 matches found</source>
-        <translation>%1 ταιριάσματα βρέθηκαν</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation>Φορτώνει…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
@@ -1222,61 +1221,61 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation>Συγκεντρώνουμε τα μηνύματά σου…</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation>Ακόμη δεν βλέπεις κάποια μηνύματα?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation>Πάρε περισσότερα μηνύματα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailMeeting</name>
     <message>
         <source>This meeting has been updated</source>
-        <translation>Αυτή η συνάντηση έχει επικαιροποιηθεί</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>EmailOps</name>
     <message>
         <source>Message marked as junk</source>
-        <translation>Το μήνυμα έχει χαρακτηριστεί σαν άχρηστο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation>Το μήνυμα δεν θεωρείται πλέον άχρηστο. Μετακινήθηκε στα εισερχόμενα.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Marked as junk</source>
-        <translation>Χαρακτηρίσθηκε σαν άχρηστο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation>Δεν θεωρείται άχρηστο. Μετακινήθηκε στα εισερχόμενα.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
-        <translation>Το αίτημα συνάντησης έγινε δεκτό</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request declined</source>
-        <translation>Το αίτημα συνάντησης απορρίφθηκε</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
-        <translation>Το ανέβασμα του μηνύματος απέτυχε.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation>Το μήνυμα ήταν μεγαλύτερο απ&apos;ότι επιτρέπει ο διακομιστής.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation>Το μη-απεσταλμένο μήνυμα είναι στον φάκελο Εξερχόμενα. Προσπαθήστε να τεμαχίσετε τα συνημμένα σε πολλαπλά μηνύματα.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
@@ -1345,7 +1344,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>someone@yourprovider.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>password</source>
@@ -1413,7 +1412,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation>Επόμενο βήμα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not Exchange?</source>
@@ -1507,11 +1506,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Ναι, διέγραψέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
@@ -1574,7 +1573,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation>Μετονομασία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark all as read</source>
@@ -1586,11 +1585,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ok</source>
@@ -2070,7 +2069,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Ρυθμίσεις</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2081,7 +2080,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>LocationInput</name>
     <message>
         <source>Add recipients</source>
-        <translation>Εισαγωγή παραληπτών</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2120,7 +2119,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Send</source>
-        <translation>Αποστολή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2187,7 +2186,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2386,30 +2385,30 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation>(Χωρίς θέμα)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Έναρξη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>End</source>
-        <translation>Λήξη</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All day</source>
-        <translation>Όλη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open in new window</source>
-        <translation>Άνοιγμα σε νέο παράθυρο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Location</source>
@@ -2453,26 +2452,26 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτήν τη σύσκεψη;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Ναι, διέγραψέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation>(Χωρίς θέμα)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2487,23 +2486,23 @@ Do you want to forward only this event or the whole series?</source>
     <name>MeetingResponse</name>
     <message>
         <source>Meeting request accepted.</source>
-        <translation>Το αίτημα συνάντησης έγινε δεκτό.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New time proposed: %1 - %2</source>
-        <translation>Προτάθηκε νέα ώρα: %1 - %2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request tentatively accepted.</source>
-        <translation>Το αίτημα συνάντησης έγινε προσωρινά δεκτό.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request declined.</source>
-        <translation>Το αίτημα συνάντησης απορρίφθηκε.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation>Το αίτημα συνάντησης ακυρώθηκε.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2555,7 +2554,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>(No subject)</source>
-        <translation>(Χωρίς θέμα)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2605,7 +2604,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
-        <translation>someone@yourprovider.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>password</source>
@@ -2617,7 +2616,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Next step</source>
-        <translation>Επόμενο βήμα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
@@ -2675,11 +2674,11 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation>Προσθήκη</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2698,7 +2697,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation>Αποστολή</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2795,7 +2794,7 @@ email to the next level.</source>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation>Αναβολή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -2886,7 +2885,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Send</source>
-        <translation>Αποστολή</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3052,7 +3051,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Apply</source>
@@ -3063,7 +3062,7 @@ email to the next level.</source>
     <name>SearchAutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Αναζήτηση παγκόσμιας λίστας διευθύνσεων (%1 + Tab)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3242,19 +3241,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Σήμανση ως αναγνωσμένου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as unread</source>
-        <translation>Σήμανση ως μη αναγνωσμένου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Αρχειοθετώ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 selected</source>
@@ -3294,6 +3293,18 @@ You can still use Hiri until connection with the server has been established.</s
     </message>
     <message>
         <source>Buy Hiri now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I paid with a different email address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3356,7 +3367,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Aliases saved</source>
@@ -3380,7 +3391,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
@@ -3406,18 +3417,6 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
-    </message>
-    <message>
-        <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I paid with a different email address</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3468,7 +3467,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsArchive</name>
     <message>
         <source>Archive</source>
-        <translation>Αρχειοθετώ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
@@ -3529,7 +3528,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     <name>SettingsEnterprise</name>
     <message>
         <source>Communication score</source>
-        <translation>Αποτέλεσμα επικοινωνίας</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
@@ -3645,7 +3644,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
@@ -3688,7 +3687,7 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Archive</source>
-        <translation>Αρχειοθετώ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Buy Hiri</source>
@@ -3800,7 +3799,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Attachments</source>
-        <translation>Συνημμένα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
@@ -3847,7 +3846,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Signature saved</source>
@@ -3865,7 +3864,7 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SimpleEmailInput</name>
     <message>
         <source>Add recipients</source>
-        <translation>Εισαγωγή παραληπτών</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3971,6 +3970,20 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
+    Splitting your emails as they arrive into things you need to do and things you just need to know about is a great way to triage your inbox. When you triage your inbox effectively, you begin to realise that there&apos;s not nearly as much stuff that you actually need to do as you thought. In fact, only about 20% of the email you receive on average, actually contains a task for you. The main reasons for the rest are broken down as follows:&lt;br /&gt;
+    &lt;ul&gt;
+    &lt;li&gt;16% of emails received are unnecessary CC&apos;s&lt;/li&gt;
+    &lt;li&gt;13% of emails received are irrelevant or untargeted&lt;/li&gt;
+    &lt;li&gt;41% of emails received are for information purposes only&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
+
+    To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The Dashboard</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3980,6 +3993,13 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
+    Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
+    Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
+    A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3995,6 +4015,15 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
+    The Task list has some cool features. For example, you can open the email associated with the task directly from the task list. And vice-versa - you can open any tasks associated with an email from any email.&lt;br /&gt;&lt;br /&gt;
+    You can also organise your tasks into lists. We&apos;ve got some premade ones - for example, tasks that are due today and tasks you&apos;ve sent to other people, but you can also create your own custom lists.&lt;br /&gt;&lt;br /&gt;
+    Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
+    To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delegate Emails</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4004,6 +4033,28 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
+    It comes from Microsoft Research, and it works like this:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;/li&gt;
+    &lt;li&gt;If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    You can action all of your emails using the Four D&apos;s methodology. At Hiri, we love the Four D&apos;s. But we wanted to make the Delegate &apos;D&apos; a bit more obvious. So we added a Delegate button.&lt;br /&gt;&lt;br /&gt;
+
+    The Delegate button acts very much like a Forward button, with a few simple differences. When you use the Delegate button, A Task field is added to the beginning of the forwarded email so you can let users know exactly what you&apos;d like them to do with the email. This is important, because 40% of emails users receive contain no clear action, which leads to additional clarification emails.&lt;br /&gt;&lt;br /&gt;
+
+    It&apos;s a small change, but it&apos;s just one more way Hiri helps improve your communication.&lt;br /&gt;&lt;br /&gt;
+
+    There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
+    </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4019,6 +4070,18 @@ This will let you pin Hiri icon to your launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
+
+    1.      If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;br /&gt;
+    2.      If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;br /&gt;
+    3.      If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;br /&gt;
+    4.      If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;br /&gt;&lt;br /&gt;
+
+    The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
+    </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Write Better Subject Lines</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4028,6 +4091,15 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
+
+    This is important. Better use of the subject line makes it significantly easier for someone to assess the importance of an email. If the subject of your email is relevant to the body of the email, it also makes the whole email easier to digest.&lt;br /&gt;&lt;br /&gt;
+
+    For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
+    </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4044,6 +4116,11 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
+Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4074,90 +4151,12 @@ This will let you pin Hiri icon to your launcher.</source>
         <source>Up your game with these email productivity hacks.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
-    Splitting your emails as they arrive into things you need to do and things you just need to know about is a great way to triage your inbox. When you triage your inbox effectively, you begin to realise that there&apos;s not nearly as much stuff that you actually need to do as you thought. In fact, only about 20% of the email you receive on average, actually contains a task for you. The main reasons for the rest are broken down as follows:&lt;br /&gt;
-    &lt;ul&gt;
-    &lt;li&gt;16% of emails received are unnecessary CC&apos;s&lt;/li&gt;
-    &lt;li&gt;13% of emails received are irrelevant or untargeted&lt;/li&gt;
-    &lt;li&gt;41% of emails received are for information purposes only&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;br /&gt;
-    If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
-
-    To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
-    Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
-    Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
-    A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
-    The Task list has some cool features. For example, you can open the email associated with the task directly from the task list. And vice-versa - you can open any tasks associated with an email from any email.&lt;br /&gt;&lt;br /&gt;
-    You can also organise your tasks into lists. We&apos;ve got some premade ones - for example, tasks that are due today and tasks you&apos;ve sent to other people, but you can also create your own custom lists.&lt;br /&gt;&lt;br /&gt;
-    Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
-    To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
-    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
-    It comes from Microsoft Research, and it works like this:&lt;br /&gt;
-
-&lt;ol&gt;
-    &lt;li&gt;If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;/li&gt;
-    &lt;li&gt;If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br /&gt;
-
-    You can action all of your emails using the Four D&apos;s methodology. At Hiri, we love the Four D&apos;s. But we wanted to make the Delegate &apos;D&apos; a bit more obvious. So we added a Delegate button.&lt;br /&gt;&lt;br /&gt;
-
-    The Delegate button acts very much like a Forward button, with a few simple differences. When you use the Delegate button, A Task field is added to the beginning of the forwarded email so you can let users know exactly what you&apos;d like them to do with the email. This is important, because 40% of emails users receive contain no clear action, which leads to additional clarification emails.&lt;br /&gt;&lt;br /&gt;
-
-    It&apos;s a small change, but it&apos;s just one more way Hiri helps improve your communication.&lt;br /&gt;&lt;br /&gt;
-
-    There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
-    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
-
-    1.      If it isn&apos;t important, &lt;strong&gt;delete&lt;/strong&gt; it.&lt;br /&gt;
-    2.      If it can be done in 2 minutes or less, &lt;strong&gt;do&lt;/strong&gt; it.&lt;br /&gt;
-    3.      If it isn&apos;t for you or if you can, &lt;strong&gt;delegate&lt;/strong&gt; it.&lt;br /&gt;
-    4.      If you need to do it, but it takes longer than 2 minutes (including reading), &lt;strong&gt;defer&lt;/strong&gt; it.&lt;br /&gt;&lt;br /&gt;
-
-    The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
-    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
-
-    This is important. Better use of the subject line makes it significantly easier for someone to assess the importance of an email. If the subject of your email is relevant to the body of the email, it also makes the whole email easier to digest.&lt;br /&gt;&lt;br /&gt;
-
-    For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
-    </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
-Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation>χωρίς θέμα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4224,7 +4223,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation>Αποστολή</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4302,11 +4301,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation>Μετονομασία</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Διαγραφή</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4331,11 +4330,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation>Ορισμός υπενθύμισης</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Ακύρωση</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set due date</source>
@@ -4391,7 +4390,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>No, keep it</source>
-        <translation>Όχι, κράτησέ το</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4413,11 +4412,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Close</source>
-        <translation>Κλείσιμο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Αποθήκευση</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4519,6 +4518,14 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
 <context>
     <name>TrialEndedDialog</name>
     <message>
+        <source>Checking subscription…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorry. We couldn&apos;t find your payment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Sorry your trial is over :(</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4539,11 +4546,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Checking subscription…</source>
+        <source>If you are stuck here but you have already paid.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Sorry. We couldn&apos;t find your payment.</source>
+        <source>Click below to get going!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have already paid</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4576,18 +4587,6 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Send</source>
-        <translation>Αποστολή</translation>
-    </message>
-    <message>
-        <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>I have already paid</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4595,11 +4594,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation>Σήμανση ως μη αναγνωσμένου</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation>Σήμανση ως αναγνωσμένου</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4650,11 +4649,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Αύριο</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation>Λυπούμαστε, ορισμένα συνημμένα αρχεία δεν βρέθηκαν και θα αφαιρεθούν:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
@@ -4674,19 +4673,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every day</source>
-        <translation>Κάθε μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation>Κάθε εργάσιμη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation>Κάθε %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation>Κάθε %1.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Every %1. %2</source>
@@ -4694,7 +4693,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every last %1</source>
-        <translation>Κάθε τελευταία %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Trial:</source>
@@ -4714,11 +4713,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>All day</source>
-        <translation>Όλη μέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>now</source>
-        <translation>τώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Due in</source>
@@ -4730,19 +4729,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 min</source>
-        <translation>%1 λεπτό</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 λεπτά</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation>%1 ώρα</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation>%1 ημέρα</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4816,7 +4815,7 @@ under control.</source>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation>Όταν: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown availability status</source>

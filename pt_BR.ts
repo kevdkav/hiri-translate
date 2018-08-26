@@ -1861,7 +1861,7 @@ Deseja encaminhar somente esse evento ou todos os eventos?</translation>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Atalhos de teclado</translation>
     </message>
 </context>
 <context>

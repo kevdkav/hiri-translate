@@ -270,7 +270,7 @@
     </message>
     <message>
         <source>no subject</source>
-        <translation>pealkiri puudub</translation>
+        <translation>teema puudub</translation>
     </message>
 </context>
 <context>
@@ -466,7 +466,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation>Pealkirja ei ole</translation>
+        <translation>Teema puudub</translation>
     </message>
 </context>
 <context>
@@ -759,7 +759,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>(no subject)</source>
-        <translation>(pealkiri puudub)</translation>
+        <translation>(teema puudub)</translation>
     </message>
     <message>
         <source>All day</source>
@@ -1161,7 +1161,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>(No subject)</source>
-        <translation>(pealkiri puudub)</translation>
+        <translation>(teema puudub)</translation>
     </message>
 </context>
 <context>
@@ -2394,7 +2394,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>MeetingDetailsReadOnly</name>
     <message>
         <source>(No subject)</source>
-        <translation>(pealkiri puudub)</translation>
+        <translation>(teema puudub)</translation>
     </message>
     <message>
         <source>Start</source>
@@ -2473,7 +2473,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>MeetingReminderService</name>
     <message>
         <source>(No subject)</source>
-        <translation>(pealkiri puudub)</translation>
+        <translation>(teema puudub)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
@@ -2556,7 +2556,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>(No subject)</source>
-        <translation>(pealkiri puudub)</translation>
+        <translation>(teema puudub)</translation>
     </message>
     <message>
         <source>Dismiss all reminders</source>
@@ -2734,7 +2734,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Good subject</source>
-        <translation>Hea kokkuvõte</translation>
+        <translation>Hea teema</translation>
     </message>
     <message>
         <source>Simple language</source>
@@ -2770,7 +2770,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation>Halb kokkuvõte</translation>
+        <translation>Halb teema</translation>
     </message>
     <message>
         <source>Not clear</source>
@@ -4028,7 +4028,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation>Kirjuta paremaid teema pealkirju</translation>
+        <translation>Kirjuta paremaid teema ridu</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
@@ -4036,7 +4036,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation>Viib pealkirja rea emaili loomise akna allserva.</translation>
+        <translation>Viib teema rea emaili loomise akna allserva.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
@@ -4197,11 +4197,11 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation>Kirjutad parema pealkirja kui kiri on juba valmis.&lt;br /&gt;&lt;br /&gt;
+        <translation>Kirjutad parema teema kui kiri on juba valmis.&lt;br /&gt;&lt;br /&gt;
 
-    See on tähtis. Hea pealkiri võimaldab teistel lihtsamini aru saada kirja olulisusest. Kui pealkiri vastab sisule teeb see teemast arusaamise oluliselt lihtsamaks.&lt;br /&gt;&lt;br /&gt;
+    See on tähtis. Hea teema võimaldab teistel lihtsamini aru saada kirja olulisusest. Kui pealkiri vastab sisule teeb see teemast arusaamise oluliselt lihtsamaks.&lt;br /&gt;&lt;br /&gt;
 
-    Sellepärast ei luba Hiri saata kirju ilma pealkirjata.
+    Sellepärast ei luba Hiri saata kirju ilma teemata.
     </translation>
     </message>
     <message>
@@ -4215,7 +4215,7 @@ Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann
     <name>StackedMeetingItem</name>
     <message>
         <source>no subject</source>
-        <translation>pealkiri puudub</translation>
+        <translation>teema puudub</translation>
     </message>
 </context>
 <context>

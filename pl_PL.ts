@@ -1849,7 +1849,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished">Najlepiej zapraszać osoby, do których najczęściej piszesz. Dzięki temu we dwoje skorzystacie z Actionable i wiadomości DTW.</translation>
+        <translation>Najlepiej zapraszać osoby, do których najczęściej piszesz. Dzięki temu we dwoje skorzystacie ze skrzynki Wymagające akcji i wiadomości DTW.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -1875,7 +1875,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished">Następna/poprzednia konwersacja (gdy otwarta):</translation>
+        <translation>Następna/poprzednia konwersacja (gdy otwarta):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
@@ -1927,7 +1927,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished">Przenieś do archiwum:</translation>
+        <translation>Archiwum:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
@@ -1959,7 +1959,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation type="unfinished">Otwórz skrzynkę odbiorczą Acionable:</translation>
+        <translation>Otwórz skrzynkę Wymagające akcji:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
@@ -2034,11 +2034,11 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation type="unfinished">Actionable</translation>
+        <translation>Wymagające akcji</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation type="unfinished">Przenieś do ACTIONABLE</translation>
+        <translation>Przenieś do WYMAGAJĄCE AKCJI</translation>
     </message>
     <message>
         <source>FYI</source>
@@ -2194,7 +2194,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation type="unfinished">Akcja | Do</translation>
+        <translation>Akcja | Do</translation>
     </message>
     <message>
         <source>To</source>
@@ -2221,7 +2221,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation type="unfinished">Tak naprawdę to samo co Do i DW. Ale jeżeli osoba, do której piszesz używa Hiri, Twoja wiadomość trafi do jej skrzynki Actionable albo DTW.</translation>
+        <translation>Tak naprawdę to samo co Do i DW. Ale jeżeli osoba, do której piszesz używa Hiri, Twoja wiadomość trafi do jej skrzynki Wymagające akcji albo DTW.</translation>
     </message>
     <message>
         <source>Learn more</source>
@@ -2250,8 +2250,8 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished">Jeżeli wiadomość, którą przekazujesz zawiera jakieś zadania, każdy odbiorca, którego dodasz do pola Akcje otrzyma te zadanie.
-Dlatego określamy to mianem pełnomocnictwa.</translation>
+        <translation>Jeżeli wiadomość, którą przekazujesz zawiera jakieś zadania, każdy odbiorca, którego dodasz do pola Akcje otrzyma te zadanie.
+Dlatego określamy to mianem Przekazania.</translation>
     </message>
 </context>
 <context>
@@ -2673,7 +2673,7 @@ zapomnieć o zarządzaniu mailem.</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished">Biuro</translation>
+        <translation>Biuro</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3190,11 +3190,11 @@ zapomnieć o zarządzaniu mailem.</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation type="unfinished">folder:</translation>
+        <translation>folder:</translation>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished">actionable:</translation>
+        <translation>wymagające akcji:</translation>
     </message>
     <message>
         <source>fyi:</source>
@@ -3544,7 +3544,7 @@ Bez obaw, Twoje maile są bezpieczne na serwerze!</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished">Umieść ocenę wiadomości w sygnaturze</translation>
+        <translation>Umieść link do oceny wiadomości w sygnaturze</translation>
     </message>
 </context>
 <context>
@@ -3922,7 +3922,7 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished">Przekaż pełnomocnictwo</translation>
+        <translation>Przekaż</translation>
     </message>
     <message>
         <source>Question for</source>
@@ -3968,11 +3968,11 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished">Akcja/Podział na DTW</translation>
+        <translation>Podział na Akcja/DTW</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished">Rozdziel wiadomości używając Akcji/Podział na DTW</translation>
+        <translation>Rozdziel wiadomości używając podziału na Akcja/DTW.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
@@ -3998,9 +3998,9 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
     &lt;li&gt;41% wiadomości mają charakter czysto informacyjny&lt;/li&gt;
     &lt;/ul&gt;
     &lt;br /&gt;
-    Ale jeśli nie segregacja jest dla Ciebie obca, nie jesteś w stanie powiedzieć na pierwszy rzut oka, które rzeczy są ważne. A to oznacza, że Twoja skrzynka wygląda jak niekończąca się studnia zadań. Przyglądanie się piętrzącej liście nieprzeczytanych wiadomości jest stresujące, a w stresie łatwo popełnić proste błędy.&lt;br /&gt;&lt;br /&gt;Koncept Akcja / DTW występuje również w innych częściach naszej aplikacji. Na przykład, jeżeli włączysz listę zadań, każdy e-mail, który na nią przeciągniesz pojawi się automatycznie w filtrze Actionable. &lt;br /&gt;&lt;br /&gt;
+    Ale jeśli nie segregacja jest dla Ciebie obca, nie jesteś w stanie powiedzieć na pierwszy rzut oka, które rzeczy są ważne. A to oznacza, że Twoja skrzynka wygląda jak niekończąca się studnia zadań. Przyglądanie się piętrzącej liście nieprzeczytanych wiadomości jest stresujące, a w stresie łatwo popełnić proste błędy.&lt;br /&gt;&lt;br /&gt;Koncept Akcja / DTW występuje również w innych częściach naszej aplikacji. Na przykład, jeżeli włączysz listę zadań, każdy e-mail, który na nią przeciągniesz pojawi się automatycznie w filtrze Wymagające akcji. &lt;br /&gt;&lt;br /&gt;
 
-    Aby dowiedzieć się więcej o Ackja / DTW &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;przejdź do naszego artykułu&lt;/a&gt;.</translation>
+    Aby dowiedzieć się więcej o Podziale na Akcja / DTW &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;przejdź do naszego artykułu&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
@@ -4043,19 +4043,24 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Czy kiedykolwiek zdarzyło Ci się zapomnieć o jakimś ważnym mailu? Oczywiście. Przenosząc takie wiadomości do listy zadań masz pewność, że nic takiego się nie powtórzy. Na plus można też dodać to, że nie trzeba będzie ich szukać po całej skrzynce.&lt;br /&gt;&lt;br /&gt;
+    Lista zadań ma kilka przydatnych funkcji. Możesz, na przykład, otworzyć maila powiązanego z danym zadaniem bezpośrednio z tej listy. I odwrotnie, możesz przejść do zadania powiązanego z dana wiadomością.&lt;br /&gt;&lt;br /&gt;
+    Co więcej, możesz przekształcić zadania w listy. Możesz używać kilku przygotowanych przez nas: zadania, które są do dzisiaj; zadania, które zostały przekazane innym osobom. Oczywiście, możesz stworzyć własne listy.&lt;br /&gt;&lt;br /&gt;
+    Listy zadań są kompatybilne z aplikacjami MS Outlook i Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
+    Jeżeli chcesz dowiedzieć się czegoś więcej na temat list zadań, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;odwiedź naszą stronę&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekazane e-maile</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyraźnie poinformuj, że zadanie zostało przekazane innej osobie.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaje przycisk Oddeleguj do paska akcji e-mail.</translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4077,7 +4082,25 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Słyszałeś kiedyś o zasadzie UZPO? Nie? Nic nie szkodzi.&lt;br /&gt;
+    Powstała w Microsoft Research i brzmi tak:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Jeżeli nie jest to ważne, &lt;strong&gt;usuń&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;Jeżeli możesz zrobić to w mniej niż 2 minuty, &lt;strong&gt;zrób&lt;/strong&gt; to.&lt;/li&gt;
+    &lt;li&gt;Jeżeli nie jest to dla zadanie ciebie albo po prostu możesz, &lt;strong&gt;przekaż&lt;/strong&gt; je.&lt;/li&gt;
+    &lt;li&gt;Jeżeli musisz się tym zająć, ale zajmie to więcej niż 2 minuty, &lt;strong&gt;odłóż&lt;/strong&gt; to.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    Tę zasadę możesz zastosować do wszystkich swoich mailu. My, w Hiri, po prostu ją uwielbiamy. Jednocześnie chcieliśmy, aby opcja Przekaż - „P” była bardziej widoczna. Dlatego też dodaliśmy przycisk Przekaż.&lt;br /&gt;&lt;br /&gt;
+
+    Opcja Przekaż jest nieco podobna do Prześlij, z kilkoma subtelnymi różnicami. Gdy użyjesz funkcji Przekaż, do początku przekazywanej wiadomości zostanie dodana Lista Zadań, dzięki temu będziesz w stanie poinformować daną osobę czego dokładnie od niej oczekujesz. Jest to bardzo ważne, ponieważ 40% otrzymanych wiadomości nie zawiera jasnych instrukcji, co z kolei wiąże się ze stratą czasu poświęconą na wiadomości prośbą o wyjaśnienie.&lt;br /&gt;&lt;br /&gt;
+
+    Ogólnie rzecz biorąc, to bardzo mała zmiana. Jednak dzięki takim niewielkim zmianom Hiri pomaga oszczędzać Twój czas.&lt;br /&gt;&lt;br /&gt;
+
+    Przekaż ma jeszcze jeden „bonus”. Jeżeli przekażesz wiadomość do innej osoby używającej Hiri, trafi ona automatycznie do skrzynki Wymagające Akcji, ponieważ wiemy, że jest to wiadomość, którą muszą się zająć.
+    </translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4101,7 +4124,15 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie swoje wiadomości możesz możesz posortować używając metody UZPO:&lt;br /&gt;&lt;br /&gt;
+
+    1.      Jeżeli nie jest to ważne,  &lt;strong&gt;usuń&lt;/strong&gt;.&lt;br /&gt;
+    2.      Jeżeli możesz zrobić to w mniej niż 2 minuty, &lt;strong&gt;zrób&lt;/strong&gt; to.&lt;br /&gt;
+    3.      Jeżeli nie jest to zadanie dla Ciebie albo po prostu możesz, &lt;strong&gt;przekaż&lt;/strong&gt; je.&lt;br /&gt;
+    4.      Jeżeli musisz się tym zająć, ale zajmie to więcej niż 2 minuty, &lt;strong&gt;odłóż&lt;/strong&gt; to.&lt;br /&gt;&lt;br /&gt;
+
+    Przycisk Przekaż to trzecia litera na powyższej liście. Czasem może się zdarzyć, że nie możesz zająć się jakim mailem od ręki, a musisz na niego odpowiedzieć do jakieś dnia. Dzięki funkcji Przypomnij ustawisz sobie przypominajkę. Nic prostszego!
+    </translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
@@ -4122,28 +4153,34 @@ Dzięki temu będziesz w stanie przypiąć ikonę Hiri do menu systemowego.</tra
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Nadasz swojej wiadomości lepszy tytuł, jeżeli zajmiesz się po napisaniu samej wiadomości.&lt;br /&gt;&lt;br /&gt;
+
+    Wbrew pozorom jest to bardzo ważne. Tytuł, który przekazuje najważniejszą część wiadomości zdecydowanie ułatwi zadanie odbiorcy i sprawi, że łatwiej będzie ją zrozumieć.&lt;br /&gt;&lt;br /&gt;
+
+    Dlatego też Hiri nie pozwoli Ci wysłać wiadomości, która nie posiada tematu.
+    </translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrzynka na Zero</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dla tych, którzy chcą mieć pedantyczny porządek.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymaga podziału na Akcję/DTW</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozwala Ci na osiągnięcie stanu Skrzynka na Zero. Zazwyczaj, gdy włączysz opcję podział na Akcję/DTW (by dowiedzieć się więcej, odwiedź stronę naszej pomocy) wszystkie wiadomości, które zostają tak oznaczone, pozostają w skrzynce odbiorczej. Po włączeniu opcji Skrzynka na Zero, takie wiadomości zostaną przeniesione do odpowiednich katalogów. Pozwoli Ci to na opróżnienie skrzynki odbiorczej.</translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skrzynka na Zero jest bardzo rygorystycznym podejściem zarządzania wiadomościami mailowymi, które polega na utrzymywaniu skrzynki odbiorczej całkowicie, albo prawie całkowicie, pustej.&lt;br /&gt;&lt;br /&gt;
+Skrzynka na Zero została stworzona przez ekspert ds. produktywności Merlina Manna. Według niego, zero nie odnosi się do liczby wiadomości w skrzynce, a do „czasu, jaki pracownik skupia się na skrzynce odbiorczej”. Mann stwierdza, że czas i koncentracja są wartością, która spada wraz z upływem dnia, więc skrzynka pełna rzeczy do zrobienia negatywnie wpływa na produktywność. Pozbywając się niepotrzebnych wiadomości, mniej czasu poświęcasz na przeglądanie maili. Przejrzysta skrzynka prowadzi do produktywności - przynajmniej według jego teorii.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
@@ -4225,27 +4262,27 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomość zostanie wysłana do:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomóż nam pomóc sobie :)</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Im więcej informacji nam podasz, tym lepiej będziemy w stanie Ci pomóc.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Powiedz nam, której funkcji programu dotyczy Twój problem/sugestia.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Załącz logi to tego zgłoszenia</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij</translation>
     </message>
 </context>
 <context>
@@ -4253,591 +4290,592 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wł.</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Wył.</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy wszystkie zadania zostały wykonane?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy to zadanie zostało wykonane?</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta wiadomość została oznaczona jako zadanie w %1</translation>
     </message>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>Ty</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>Ty i 1 osoba</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>Ty i %1 osób</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>1 osoba</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 osób</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Pytanie</translation>
     </message>
     <message>
         <source>Delegated</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekazane</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadanie</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>do</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>za</translation>
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz zadanie</translation>
     </message>
 </context>
 <context>
     <name>TaskFilterDelegate</name>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń</translation>
     </message>
 </context>
 <context>
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie zadania</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa lista</translation>
     </message>
 </context>
 <context>
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation type="unfinished"></translation>
+        <translation>To samo zadanie dla wszystkich</translation>
     </message>
 </context>
 <context>
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw przypomnienie</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Wskaż termin końcowy</translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>zadanie zostało utworzone przez Ciebie</translation>
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>od</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz wiadomość</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw przypomnienie</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń przypomnienie</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń termin końcowy</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń zdanie</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj notatkę</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj notatkę</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść notatkę</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz wyczyścić zawartość tej notatki?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak, wyczyść</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie, anuluj</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>Ty</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>wszyscy</translation>
     </message>
 </context>
 <context>
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj notatkę zadania</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
 </context>
 <context>
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Brak zadania)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie można odrzucić przypomnienia…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie można odłożyć przypomnienia zadania…</translation>
     </message>
 </context>
 <context>
     <name>Tasks</name>
     <message>
         <source>Create a new task</source>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz nowe zdanie</translation>
     </message>
 </context>
 <context>
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Brak zadania)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykro mi, nie możesz przenieść ukończonego zadania</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykro mi, nie możesz przenieść wysłanego zadania</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się wczytać listy zdań…</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się wczytać zdania…</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się stworzyć zadania…</translation>
     </message>
     <message>
         <source>Oops, updating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Upc, nie udało się zaktualizować zadania…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadanie zostało przeniesione do &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Oops, moving task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się przenieść zadania…</translation>
     </message>
     <message>
         <source>Oops, deleting task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się usunąć zadania…</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się usunąć folderu zadania…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmowa została przeniesiona do Wymagające akcji.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, nie udało się oflagować zadania…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykro mi, nie możesz dodać nowego zadania do już wysłanej listy zadań</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadanie przeniesione na dziś - ustawiono termin (dziś, 18:00)</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zadanie przeniesiono na ten tydzień - ustawiono termin (piątek, 18:00)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykro mi, nie możesz przenieść tego zadania do już wysłanej listy zadań</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Checking subscription…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzam status abonamentu…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykro mi. Nie odnaleziono Twojej wpłaty.</translation>
     </message>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Niestety, twoja wersja testowa wygasła :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez obaw! Zawsze możesz kupić licencję, by dalej korzystać z Hiri.</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>W razie jakichkolwiek pytań, proszę</translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>skontaktuj się z nami.</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Kup</translation>
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeżeli zapłaciłeś, a mimo to ciągle wyświetla się ten komunikat.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby przejść dalej, kliknij poniżej!</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Już zapłaciłem</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Opisz proszę swoje wrażenia</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysyłam…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pytanie:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Potwierdzam wysłanie. Dziękujemy!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas wysyłania opinii</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiadomość zostanie wysłana do:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chciałbyś zadać nam jakieś pytania albo sugestie dotyczące okresu testowego?</translation>
     </message>
     <message>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij</translation>
     </message>
 </context>
 <context>
     <name>UnreadIndicator</name>
     <message>
         <source>Mark as unread</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznacz jako nieprzeczytane</translation>
     </message>
     <message>
         <source>Mark as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznacz jako przeczytane</translation>
     </message>
 </context>
 <context>
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedziela</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniedziałek</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Wtorek</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Środa</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>Czwartek</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>Piątek</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>Sobota</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Ty</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation type="unfinished"></translation>
+        <translation>W tej chwili</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczoraj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation type="unfinished"></translation>
+        <translation>Jutro</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Przykro mi, niektóre załączniki nie zostały znalezione, więc zostaną usunięte:</translation>
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>dodano %1 załączników.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodano załącznik.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik jest już załączony.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektóre pliki są już załączone.</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation type="unfinished"></translation>
+        <translation>Codziennie</translation>
     </message>
     <message>
         <source>Every workday</source>
-        <translation type="unfinished"></translation>
+        <translation>W każdy dzień roboczy</translation>
     </message>
     <message>
         <source>Every %1</source>
-        <translation type="unfinished"></translation>
+        <translation>W każdy %1</translation>
     </message>
     <message>
         <source>Every %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>W każdy %1.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>W każdy %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
-        <translation type="unfinished"></translation>
+        <translation>W każdy ostatni %1</translation>
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Okres testowy:</translation>
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Kończy się dzisiaj</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>Został 1 dzień</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>zostało %1 dni</translation>
     </message>
     <message>
         <source>All day</source>
-        <translation type="unfinished"></translation>
+        <translation>Cały dzień</translation>
     </message>
     <message>
         <source>now</source>
-        <translation type="unfinished"></translation>
+        <translation>teraz</translation>
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Kończy się za</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaczyna się za</translation>
     </message>
     <message>
         <source>%1 min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minuta</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 minut</translation>
     </message>
     <message>
         <source>%1 h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 godzin</translation>
     </message>
     <message>
         <source>%1 d</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dni</translation>
     </message>
 </context>
 <context>
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz link</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj adres</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj obraz</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz obraz</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Wytnij</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiuj</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Wklej bez formatowania</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz wszystko</translation>
     </message>
     <message>
         <source>Unselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Odznacz</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdź pisownię</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Obraz został zapisany w katalogu Pobrane</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Witaj w Hiri!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nadszedł czas zapanować
+nad swoją skrzynką pocztową.</translation>
     </message>
 </context>
 <context>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kiedy: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>

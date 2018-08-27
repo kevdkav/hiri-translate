@@ -1975,7 +1975,7 @@ Chcesz przekazać tylko aktualnie wybrane czy wszystkie?</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished">Otwórz główny pulpit:</translation>
+        <translation>Otwórz pulpit główny:</translation>
     </message>
     <message>
         <source>Open settings:</source>

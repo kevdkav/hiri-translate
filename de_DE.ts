@@ -461,7 +461,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <name>CalendarWeekAllDayHeader</name>
     <message>
         <source>all day</source>
-        <translation>den ganzen Tag</translation>
+        <translation>Ganztägig</translation>
     </message>
 </context>
 <context>
@@ -1389,7 +1389,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Basic</source>
-        <translation>Basic</translation>
+        <translation>Allgemein</translation>
     </message>
     <message>
         <source>Server version</source>
@@ -1857,11 +1857,11 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation>wenn sie es mögen und sich anmelden, geben wir dir</translation>
+        <translation>, wenn sie sich registrieren. Wir geben dir</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation>Auch wenn Sie es nur drei Personen senden,  sogar wenn sich diese nicht anmelden.</translation>
+        <translation>, auch wenn Sie es nur an drei Personen senden und sie sich nicht registrieren.</translation>
     </message>
 </context>
 <context>
@@ -2070,7 +2070,7 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     </message>
     <message>
         <source>Skills Center</source>
-        <translation>Kompetenzzentrum</translation>
+        <translation>Funktionsübersicht</translation>
     </message>
     <message>
         <source>Contacts</source>
@@ -2260,7 +2260,8 @@ Möchten Sie nur dieses Ereignis weiterleiten oder die gesamte Serie?</translati
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn die E-Mail, die Sie weiterleiten, eine Aufgabe für Sie enthält, hat jeder Empfänger, den Sie zur Aktion hinzufügen, standardmäßig Ihre Aufgabe.
+ Deshalb nennen wir es Delegieren.</translation>
     </message>
 </context>
 <context>
@@ -3004,7 +3005,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Meeting</source>
-        <translation>Meeting</translation>
+        <translation>Besprechung</translation>
     </message>
     <message>
         <source>Time</source>
@@ -3337,7 +3338,7 @@ Du kannst Hiri weiter benutzen bis eine Verbindung zum Server hergestellt werden
     </message>
     <message>
         <source>Start downloading</source>
-        <translation>Runterladen starten</translation>
+        <translation>Herunterladen starten</translation>
     </message>
     <message>
         <source>Getting your emails…</source>
@@ -3385,7 +3386,7 @@ Keine Sorge, Ihre E-Mails sind weiterhin auf dem Server gespeichert!</translatio
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation>Paralleladressen</translation>
+        <translation>E-Mail Alias</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
@@ -3429,15 +3430,15 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Ihre Lizenz nicht aktiv ist, Sie aber bereits bezahlt haben, starten Sie Hiri neu.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn das nicht funktioniert, haben Sie vielleicht mit einer anderen E-Mail-Adresse bezahlt?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ich habe mit einer anderen E-Mail-Adresse bezahlt</translation>
     </message>
 </context>
 <context>
@@ -3522,7 +3523,7 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation>Diese Änderung wird erst in Effekt treten, wenn du Hiri neu startest</translation>
+        <translation>Diese Änderung wird erst wirksam, wenn du Hiri neu startest</translation>
     </message>
     <message>
         <source>Time format</source>
@@ -3530,7 +3531,7 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation>Diese Änderung wird in Effekt treten sobald Du Deinen Posteingang aktualisierst</translation>
+        <translation>Diese Änderung wird wirksam, sobald du deinen Posteingang aktualisierst</translation>
     </message>
 </context>
 <context>
@@ -3563,7 +3564,7 @@ Bekannte Aliase:</translation>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation>Changelog</translation>
+        <translation>Änderungsprotokoll</translation>
     </message>
 </context>
 <context>
@@ -3582,7 +3583,7 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation>Optimiere jetzt</translation>
+        <translation>Jetzt optimieren</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
@@ -3598,11 +3599,11 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation>Du bist Hiri Version %1 verwenden</translation>
+        <translation>Sie verwenden Hiri Version %1</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation>Sehe Changelog an</translation>
+        <translation>Änderungsprotokoll ansehen</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
@@ -3637,7 +3638,7 @@ Bekannte Aliase:</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation>Dies wird erst in Effekt treten wenn du Hiri neu startest.</translation>
+        <translation>Dies wird erst wirksam, wenn du Hiri neu startest.</translation>
     </message>
     <message>
         <source>Please note:</source>
@@ -3820,7 +3821,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation>Immer fragen, wohin Anhänge heruntergeladen werden soll</translation>
+        <translation>Immer fragen, wohin Anhänge heruntergeladen werden sollen</translation>
     </message>
     <message>
         <source>Download to</source>
@@ -4106,14 +4107,27 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kurze Version: Das Selektieren Ihrer E-Mails hilft Ihnen, die Spreu vom Weizen zu trennen. Ein organisierter Posteingang führt zu einem gesünderen Geist. &lt;br /&gt;&lt;br /&gt;
+    Das Teilen Ihrer eingehenden E-Mails in Dinge, die Sie tun müssen und Dinge, die Sie nur wissen müssen, ist ein guter Weg, um Ihren Posteingang zu selektieren. Wenn Sie Ihren Posteingang effektiv ausselektieren, beginnen Sie zu erkennen, dass es nicht annähernd so viele Dinge gibt, die Sie tatsächlich tun müssen, wie Sie dachten. Tatsächlich enthalten nur etwa 20% der E-Mails, die Sie im Durchschnitt erhalten, tatsächlich eine Aufgabe für Sie. Die Hauptgründe für den Rest gliedern sich wie folgt:&lt;br /&gt;
+    &lt;ul&gt;
+    &lt;li&gt;16% der empfangenen Emails sind unnötige CC&apos;s&lt;/li&gt;
+    &lt;li&gt;13% der empfangenen E-Mails sind irrelevant oder ungerichtet&lt;/li&gt;.
+    &lt;li&gt;41% der erhaltenen Emails dienen nur zu Informationszwecken &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    Wenn Sie Ihre E-Mails nicht bewerten, können Sie nicht sagen, welche E-Mails Aufmerksamkeit erfordern und welche nicht. Das bedeutet, dass Ihr Posteingang wie ein unüberwindbarer Berg von Arbeit aussieht. Ein überfüllter Posteingang kann sehr stressig sein. Und wenn man gestresst ist, fällt wichtiges Zeug durch die Risse. &lt;br /&gt;&lt;br /&gt; Das Action / FYI-Konzept wird auch auf andere Teile der App übertragen. Wenn Sie beispielsweise das Feature Aufgabenliste aktivieren, werden alle E-Mails, die Sie in die Aufgabenliste ziehen, automatisch im Filter Actionable angezeigt. &lt;br /&gt;&lt;br /&gt;
+
+    Um mehr über Action / FYI im Detail zu erfahren, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;besuchen Sie unseren Support-Artikel&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die zerstörerischste E-Mail-Gewohnheit von allen? Das zu häufige überprüfen des Posteingangs. Im Durchschnitt überprüfen wir unsere E-Mails 96 Mal am Tag oder alle 5 Minuten. Das ist völlig unnötig. Niemand erwartet, dass Sie Ihre E-Mails so oft überprüfen (und wenn ja, dann sind sie verrückt). &lt;br/&gt;&lt;br/&gt;
+    E-Mail ist kein Echtzeit-Kommunikationsprotokoll. Benötigen Sie eine schnelle Antwort? Versuchen Sie es mit Anrufen, SMS, IM&apos;ing - oder kommen Sie einfach auf ihren Schreibtisch. E-Mail ist wirklich gut für die asynchrone, eindeutige Kommunikation. Oder im Klartext: Dinge, für die man keine Antwort braucht, wenn die Antwort klar ist. Warum klar? Gut, wenn es wahrscheinlich ist, dass Ihre E-Mail zu dutzenden neuen E-Mails führt, wäre es besser, Sie würden anrufen. Niemand mag E-Mail-Tennis.&lt;br /&gt;&lt;br /&gt;
+    Wenn Sie weniger E-Mails prüfen, kann dies zu einer erheblichen Zeitersparnis führen. Jedes Mal, wenn Sie Ihre Post überprüfen, kostet es Sie mindestens eine Minute (manche Studien sagen 20 Minuten, je nach Ihrer Rolle). Denn wenn Sie unterbrochen werden, ist es nicht nur die Zeit, die zum Lesen der E-Mail benötigt wird. Es ist die Zeit, die Sie brauchen, um wieder auf den neuesten Stand zu kommen, was Sie getan haben, bevor Sie unterbrochen wurden.&lt;br /&gt;&lt;br /&gt;
+    Ein Forscherteam von UC Irvine und U.S. Army untersuchte die Auswirkungen der Einschränkung des E-Mail-Zugriffs auf die Herzfrequenz und die Konzentrationsfähigkeit der Teilnehmer. Es wurde festgestellt, dass die Begrenzung des E-Mail-Zugriffs den Stress drastisch reduziert. Teilnehmer ohne E-Mail-Zugriff wechseln offene Fenster 18 Mal pro Stunde gegenüber 37 Mal pro Stunde für Teilnehmer mit E-Mail-Zugriff. Die Dashboard-Fähigkeiten hindern Sie nicht daran, auf Ihre E-Mails zuzugreifen, aber es ist erwiesen, dass sie die Anzahl der Überprüfungen Ihrer E-Mails reduzieren.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4122,7 +4136,12 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Haben Sie jemals vergessen, sich mit einer wichtigen E-Mail zu beschäftigen? Yup. Indem Sie diese E-Mails in der Aufgabenliste erfassen, können Sie sicher sein, dass Sie nicht etwas Wichtiges vergessen werden. Sie müssen auch nicht weiter durch Ihre E-Mail-Liste scrollen, um sich daran zu erinnern, was Sie tun müssen.&lt;br /&gt;&lt;br /&gt;
+    Die Aufgabenliste hat einige coole Funktionen. Beispielsweise können Sie die der Aufgabe zugeordneten E-Mail direkt aus der Aufgabenliste heraus öffnen. Und umgekehrt - Sie können alle Aufgaben, die mit einer E-Mail verbunden sind, von jeder E-Mail aus öffnen.&lt;br /&gt;&lt;br /&gt;
+    Sie können Ihre Aufgaben auch in Listen organisieren. Beispielsweise haben Sie dann einige vorgefertigte Aufgaben, die heute fällig sind und Aufgaben, die Sie an andere Leute geschickt haben, aber Sie können auch Ihre eigenen benutzerdefinierten Listen erstellen.&lt;br /&gt;&lt;br /&gt;
+    Tasks sind kompatibel mit MS Outlook und Microsoft&apos;s Task App.&lt;br /&gt;&lt;br /&gt;
+    Um mehr über die Aufgabenliste zu erfahren, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;besuchen Sie unsere Support-Seite&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4144,7 +4163,25 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Schon mal von den Vier D&apos;s gehört? Nein? Schon OK. &lt;Br /&gt;
+    Es kommt von Microsoft Research, und es funktioniert so:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Wenn es nicht wichtig ist, &lt;strong&gt;lösche&lt;/strong&gt; (&quot;delete&quot;) es.&lt;/li&gt;
+    &lt;li&gt;Wenn es in 2 Minuten oder weniger getan werden kann, &lt;stark&gt;mache&lt;/stark&gt; (&quot;do&quot;) es.&lt;/li&gt;.
+    &lt;li&gt;Wenn es nicht für Sie ist oder wenn Sie können, &lt;strong&gt;delegiere&lt;/strong&gt; (&quot;delegate&quot;) es.&lt;/li&gt;.
+    &lt;li&gt;Wenn Sie es tun müssen, aber es länger als 2 Minuten (einschließlich des Lesens) dauert, &lt;stark&gt;verschiebe&lt;/stark&gt; (&quot;defer&quot;) es.&lt;/li&gt;.
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    Sie können alle Ihre E-Mails mit der Vier-D-Methodik bearbeiten. Bei Hiri lieben wir die Vier D&apos;s. Aber wir wollten das &quot;delegieren&quot;-&apos;D&apos; etwas deutlicher machen. Also haben wir einen Delegieren-Button hinzugefügt.&lt;br /&gt;&lt;br /&gt;
+
+    Der Delegieren-Button verhält sich sehr ähnlich wie ein Weiterleiten-Button, mit ein paar einfachen Unterschieden. Wenn Sie die Schaltfläche Delegieren verwenden, wird am Anfang der weitergeleiteten E-Mail ein Aufgabenfeld hinzugefügt, damit die Benutzer genau wissen, was sie mit der E-Mail machen sollen. Dies ist wichtig, da 40% der E-Mails, die Benutzer erhalten, keine eindeutige Aktion enthalten, was zu zusätzlichen Klärungs-E-Mails führt.&lt;br /&gt;&lt;br /&gt;
+
+    Es ist eine kleine Änderung, aber es ist eine weitere Möglichkeit, wie Hiri hilft, Ihre Kommunikation zu verbessern.&lt;br /&gt;&lt;br /&gt;
+
+    Es gibt noch einen weiteren &apos;Bonus&apos; für die Verwendung des Delegierten-Buttons. Wenn Sie eine delegierte Mail an einen anderen Hiri-Benutzer senden, wird die Mail automatisch an dessen Actionable Inbox weitergeleitet, da sie bekanntlich eine Aktion für ihn enthält.
+    </translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4214,7 +4251,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation>Helfen Sie uns Ihnen zu helfen :)</translation>
+        <translation>Helfen Sie uns, Ihnen zu helfen :)</translation>
     </message>
     <message>
         <source>Send feedback</source>
@@ -4226,11 +4263,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation>Sieh Dir die FAQ in unserem Hilfecenter an</translation>
+        <translation>FAQ in unserem Hilfecenter ansehen</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation>Fall Sie eine Anregung für uns haben</translation>
+        <translation>Sie haben eine Idee für uns</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
@@ -4238,11 +4275,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation>Je mehr Details Sie uns zukommen lassen, desto besser kann Ihnen von uns geholfen werden.</translation>
+        <translation>Je mehr Details Sie uns zukommen lassen, desto besser können wir Ihnen helfen.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation>Teilen Sie uns mit welchen Teil der Anwendung Ihre Idee/Ihr Problem betrifft.</translation>
+        <translation>Teilen Sie uns mit, welchen Teil der Anwendung Ihre Idee/Ihr Problem betrifft.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
@@ -4454,7 +4491,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, Erinnerung kann nicht verzögert werden…</translation>
     </message>
 </context>
 <context>
@@ -4515,7 +4552,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Konversation wurde in die Actionable Mailbox verschoben.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
@@ -4542,11 +4579,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Es tut uns Leid, Ihre Testlizenz ist abgelaufen :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation>Keine Sorge! Sie können eine Lizenz kaufen um Hiri weiterhin zu nutzen.</translation>
+        <translation>Keine Sorge! Sie können eine Lizenz kaufen, um Hiri weiterhin zu nutzen.</translation>
     </message>
     <message>
         <source>get in touch.</source>
@@ -4869,7 +4906,7 @@ zurück zu erlangen.</translation>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation>Beim Herunterladen des Anhangs ist ein Fehler aufgetreten.</translation>
+        <translation>Beim Herunterladen des Anhangs ist ein Fehler aufgetreten</translation>
     </message>
     <message>
         <source>Unable to save: </source>

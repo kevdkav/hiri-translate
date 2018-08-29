@@ -1292,7 +1292,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Sõnum liigutatud Info-sse. Ülesanne eemaldatud.</translation>
+        <translation>Sõnum liigutatud Teabe alla. Ülesanne eemaldatud.</translation>
     </message>
 </context>
 <context>
@@ -1315,7 +1315,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation>Teadmiseks/Koopia</translation>
+        <translation>Teave/Koopia</translation>
     </message>
     <message>
         <source>Cc</source>
@@ -1794,7 +1794,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Sõnum viidud FYI alla. Ülesanne eemaldatud.</translation>
+        <translation>Sõnum viidud Teabe alla. Ülesanne eemaldatud.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -1849,7 +1849,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation>Sa võiks kutsuda inimesi kellega Sa kirjutad kõige rohkem. Te mõlemad saate kasu Hiri suurepärastest võimalustest.</translation>
+        <translation>Sa võiks kutsuda inimesi kellega Sa kirjutad kõige rohkem. Te mõlemad saate kasu Hiri Tegevus/Teave kirjade jaotusest.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -1963,7 +1963,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>Ava informatiivne sisendkast:</translation>
+        <translation>Ava Teabe sisendkast:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -2042,11 +2042,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>FYI</source>
-        <translation>Informatiivne</translation>
+        <translation>Teave</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation>Liiguta INFORMATIIVNE kataloogi</translation>
+        <translation>Liiguta TEAVE alla</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
@@ -2202,7 +2202,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>FYI | Cc</source>
-        <translation>Informatiivne | Koopia</translation>
+        <translation>Teave | Koopia</translation>
     </message>
     <message>
         <source>Cc</source>
@@ -2217,11 +2217,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation>Mis on &lt;font color=&quot;#e54624&quot;&gt;Tegevus&lt;/font&gt; ja &lt;font color=&quot;#29abe2&quot;&gt;Informatiivne&lt;/font&gt;?</translation>
+        <translation>Mis on &lt;font color=&quot;#e54624&quot;&gt;Tegevus&lt;/font&gt; ja &lt;font color=&quot;#29abe2&quot;&gt;Teave&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation>Tegelikult sama kui Kellele ja Koopia. Aga kui isik kelelele saadad meili kasutab Hirit siis Sinu meil läheb automaatselt tema Tegevus või Informatiivne sisendkausta.</translation>
+        <translation>Tegelikult sama kui Kellele ja Koopia. Aga kui isik kelelele saadad meili kasutab Hirit siis Sinu meil läheb automaatselt tema Tegevus või Teave sisendkausta.</translation>
     </message>
     <message>
         <source>Learn more</source>
@@ -2758,7 +2758,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation>Liiga palju Informatiivseid</translation>
+        <translation>Liiga palju Teabe objekte</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
@@ -2903,7 +2903,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation>Lisa veel kedagi - meil saadetakse nagu Informatiivne/Koopia</translation>
+        <translation>Lisa veel kedagi - meil saadetakse nagu Teave/Koopia</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
@@ -3198,7 +3198,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation>informatiivne:</translation>
+        <translation>teave:</translation>
     </message>
     <message>
         <source>sent:</source>
@@ -3968,15 +3968,15 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation>Tegevus/Info jaotus</translation>
+        <translation>Tegevus/Teave jaotus</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Märgi emailid kasutades Tegevus/Info jaotust.</translation>
+        <translation>Märgi emailid kasutades Tegevus/Teave jaotust.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation>See lisab Tegevus ja Info filtrid vasakul olevasse tumehalli kasti.</translation>
+        <translation>See lisab Tegevus ja Teabe filtrid vasakul olevasse tumehalli kasti.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
@@ -4048,11 +4048,11 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation>Nõuab Tegevus/Informatiivne jagamist</translation>
+        <translation>Nõuab Tegevus/Teave jaotust</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation>Võimaldab saavutada tühja sisendkausta. Tavaliselt kui aktiveerida Tegevus/Informatiivne jaotus (Vaata Tegevus/Informatiivne jaoutus oskust lisainfo saamiseks), emailid millele lisatakse need filtrid jäävad sisendkausta aga märgitakse eri värvidega. Aktiveerides tühja sisendkausta funktsionaalsuse tähendab et need emailid liigutatakse sisendkaustast ära Tegevus/Informatiivne filtri alla. See võimaldab saavutada tühja sisendkausta.</translation>
+        <translation>Võimaldab saavutada tühja sisendkausta. Tavaliselt kui aktiveerida Tegevus/Teave jaotus (Vaata Tegevus/Teave jaoutus oskust lisainfo saamiseks), emailid millele lisatakse need filtrid jäävad sisendkausta aga märgitakse eri värvidega. Aktiveerides tühja sisendkausta funktsionaalsuse tähendab et need emailid liigutatakse sisendkaustast ära Tegevus/Teave filtri alla. See võimaldab saavutada tühja sisendkausta.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
@@ -4102,9 +4102,9 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     &lt;li&gt;41% emailidest on ainult informatiivsed&lt;/li&gt;
     &lt;/ul&gt;
     &lt;br /&gt;
-    Kui Sa ei organiseeri oma emeile siis pole võimalik eristada millistele tasub tähelepanu pöörata ja millistele mitte. Seetõttu paistab sisendkaust välja nagu oleks seal ületamatu hulk tööd. Üle ajav sisendkast võib tekitada päris palju stressi. Ja seetõttu võivad ka olulised asjad jääda märkamata.&lt;br /&gt;&lt;br /&gt;Tegevus / Info kontseptsioon on Hiri-s läbiv stiil. Näiteks kui aktiveerid Ülesande nimekirja funktsiooni muutuvad kõik emailid mille sinna lohistad Tegevusteks. &lt;br /&gt;&lt;br /&gt;
+    Kui Sa ei organiseeri oma emeile siis pole võimalik eristada millistele tasub tähelepanu pöörata ja millistele mitte. Seetõttu paistab sisendkaust välja nagu oleks seal ületamatu hulk tööd. Üle ajav sisendkast võib tekitada päris palju stressi. Seetõttu võivad ka olulised asjad jääda märkamata.&lt;br /&gt;&lt;br /&gt;Tegevus /Teave kontseptsioon on Hiri-s läbiv tööstiil. Näiteks kui aktiveerid Ülesande nimekirja funktsiooni muutuvad kõik emailid mille sinna lohistad Tegevusteks. &lt;br /&gt;&lt;br /&gt;
 
-    Et saada Tegevuse / Info funktsioonist rohkem teada, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;külasta vastavat abi artiklit&lt;/a&gt;.</translation>
+    Et saada Tegevuse / Teave funktsioonist rohkem teada, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;külasta vastavat abi artiklit&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;

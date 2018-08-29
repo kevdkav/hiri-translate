@@ -171,7 +171,7 @@
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Sélectionnez une heure :</translation>
+        <translation>Sélectionner l&apos;heure :</translation>
     </message>
 </context>
 <context>
@@ -3633,7 +3633,7 @@ Alias connus :</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation>Si la traduction que vous avez sélectionnée est incomplète, certains mots seront affichés en anglais. Si vous souhaitez nous aider à traduire Hiri (ou ajouter une nouvelle langue) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;rendez-vous ici&lt;/a&gt;2 pour participer ! Merci.</translation>
+        <translation>Si la traduction que vous avez sélectionnée est incomplète, certains mots seront affichés en anglais. Si vous souhaitez nous aider à traduire Hiri (ou ajouter une nouvelle langue) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;rendez-vous ici&lt;/a&gt; pour participer ! Merci.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -4347,7 +4347,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Set due date</source>
-        <translation>Définir la date d&apos;échéance</translation>
+        <translation>Définir l&apos;échéance</translation>
     </message>
     <message>
         <source>you created this task</source>

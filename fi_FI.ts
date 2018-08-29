@@ -785,7 +785,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>DashboardMain</name>
     <message>
         <source>new</source>
-        <translation>uusi</translation>
+        <translation>uutta</translation>
     </message>
     <message>
         <source>since last check</source>
@@ -1292,7 +1292,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viesti siirretty Tiedoksi-luokkaan. Tehtävä poistettu.</translation>
     </message>
 </context>
 <context>
@@ -1794,7 +1794,7 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     <name>InboxButton</name>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Viesti siirretty Tiedoksi-luokkaan. Tehtävä poistettu.</translation>
     </message>
     <message>
         <source>Unified inbox</source>
@@ -1841,15 +1841,15 @@ Haluatko edelleenlähettää vain tämän tapahtuman, vai koko sarjan?</translat
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>jos he pitävät sovelluksesta ja päättävät tilata sen käyttöoikeuden. Sinulle annamme</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>jos lähetät kutsun kokeilla Hiriä kolmelle ihmiselle, vaikka he eivät tilaisikaan Hirin käyttöoikeutta.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation>Suosittelemme kutsumaan ystävät, joiden kanssa olet eniten tekemisissä sähköpostitse. Sinä ja ystäväsi hyödytte, kun saatte Toimeksi- ja Tiedoksi-luokiteltuja viestejä.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -3539,11 +3539,11 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Ota käyttöön viestien arvostelu ja kommunikaatiopisteytys</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisällytä arvostelulinkki allekirjoitukseen</translation>
     </message>
 </context>
 <context>
@@ -4039,11 +4039,11 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation>Siistitty Saapuneet-kansio</translation>
+        <translation>Nollattu postilaatikko</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nollatun postilaatikon zen-taiteen omaksuville.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>

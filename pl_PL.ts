@@ -46,7 +46,7 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Używasz sterownika nVidia nouveau, który powoduje niestabilne działanie programu. Proszę uruchom Hiri ponownie, by wymusić renderowanie programowe.</translation>
+        <translation>Używasz sterownika nVidia nouveau, który powoduje niestabilne działanie programu. Uruchom proszę Hiri ponownie, by wymusić renderowanie programowe.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>

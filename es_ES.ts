@@ -2258,31 +2258,31 @@ Do you want to forward only this event or the whole series?</source>
     <name>MainNotifier</name>
     <message>
         <source>Looks like you&apos;re offline or lost connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Parece que estás desconectado o perdiste conexión</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation type="unfinished"></translation>
+        <translation>... y estamos de vuelta</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Verificando tus correo electrónicos…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Obteniedo tus correos electrónicos...%1%</translation>
     </message>
     <message>
         <source>Optimizing DB, please be patient…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimizando la base de datos, tenga paciencia…</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation type="unfinished"></translation>
+        <translation>La conexión se interrumpió al recibir sus correos. Reconectando…</translation>
     </message>
     <message>
         <source>Checking</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando</translation>
     </message>
 </context>
 <context>

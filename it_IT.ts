@@ -1417,160 +1417,160 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation type="unfinished"></translation>
+        <translation>Non Exchange?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilascia qui i file</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra una volta le immagini esterne</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra sempre immagini esterne da questo mittente</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore scegli un file</translation>
     </message>
     <message>
         <source>Attach</source>
-        <translation type="unfinished"></translation>
+        <translation>Allega</translation>
     </message>
 </context>
 <context>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona un&apos;opzione</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleziona cartella</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiacenti, non puoi creare una cartella se sei offline.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Creazione della cartella %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella creata</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiacenti, non puoi rinominare una cartella se sei offline.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella rinominata</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiacenti, non puoi eliminare una cartella se sei offline.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare definitivamente la cartella e il contenuto di &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare la cartella &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminazione della cartella %1</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella eliminata</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cancellala</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>No, mantienila</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiacenti, non puoi svuotare una cartella se sei offline.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare in modo permanente tutti gli elementi e le sottocartelle nella cartella &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sei sicuro di voler eliminare tutti gli elementi nella cartella &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sto svuotando la cartella %1</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartella svuotata.</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation type="unfinished"></translation>
+        <translation>Si, eliminala</translation>
     </message>
     <message>
         <source>No, keep them</source>
-        <translation type="unfinished"></translation>
+        <translation>No, mantienila</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move folders while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiacenti, non puoi spostare le cartelle mentre sei offline.</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spiacenti, non puoi contrassegnare come letto mentre sei offline.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
-        <translation type="unfinished"></translation>
+        <translation>Marcare tutto come letto …</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti gli elementi contrassegnati come letti.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore durante il contrassegno degli elementi come letti.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea sottocartella</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Crea cartella</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -1578,11 +1578,11 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation type="unfinished"></translation>
+        <translation>Segna tutti come già letti</translation>
     </message>
     <message>
         <source>Empty contents</source>
-        <translation type="unfinished"></translation>
+        <translation>Svuota il contenuto</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1594,185 +1594,185 @@ Vuoi inoltrare solo questo evento oppure l&apos;intera serie?</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>Ok</translation>
     </message>
 </context>
 <context>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiunto alla firma: &quot;Sto tenendo la mia email sott controllo &lt;a href=&quot;https://www.hiri.com/&quot;&gt;&quot; utilizzando Hiri&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
     <name>Globals</name>
     <message>
         <source>Afrikaans - South Africa</source>
-        <translation type="unfinished"></translation>
+        <translation>Afrikaans - South Africa</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Bulgarian</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Catalano</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Ceco</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Danese</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Tedesco</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Greco</translation>
     </message>
     <message>
         <source>English - Canada</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglese - Canada</translation>
     </message>
     <message>
         <source>English - United Kingdom</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglese - Regno Unito</translation>
     </message>
     <message>
         <source>English - United States</source>
-        <translation type="unfinished"></translation>
+        <translation>Inglese - Stati Uniti</translation>
     </message>
     <message>
         <source>Spanish - Spain</source>
-        <translation type="unfinished"></translation>
+        <translation>Spagnolo - Spagna</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Estone</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation type="unfinished"></translation>
+        <translation>Farsi</translation>
     </message>
     <message>
         <source>Faroese</source>
-        <translation type="unfinished"></translation>
+        <translation>faroese</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Francese</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Ebraico</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindi</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Croato</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungherese</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Indonesiano</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Italiano</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Koreano</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lituano</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Lettone</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>
-        <translation type="unfinished"></translation>
+        <translation>Norvegese (Bokmål)</translation>
     </message>
     <message>
         <source>Dutch - The Netherlands</source>
-        <translation type="unfinished"></translation>
+        <translation>Olandese - Paesi Bassi</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>polacco</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation type="unfinished"></translation>
+        <translation>Portoghese - Brasile</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
-        <translation type="unfinished"></translation>
+        <translation>Portoghese - Portogallo</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumeno</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Russo</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbo (Latin)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Slovacco</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Sloveno</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Albanese</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Serbo (Cirillico)</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Svedese</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>tamil</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>tajik</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Turco</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation type="unfinished"></translation>
+        <translation>Ucraino</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Vietnamita</translation>
     </message>
 </context>
 <context>

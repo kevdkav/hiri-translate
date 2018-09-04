@@ -1377,7 +1377,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>NTLM</source>
-        <translation type="unfinished"></translation>
+        <translation>NTLM</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -1700,7 +1700,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Letón</translation>
     </message>
     <message>
         <source>Norwegian (Bokmål)</source>

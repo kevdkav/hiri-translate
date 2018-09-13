@@ -1601,7 +1601,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation>Lisatud allkiri: &quot;Ma saan oma emaili jälle kontrolli alla &quot; &lt;a href=&quot;https://www.hiri.com/&quot;&gt;kasutades Hirit&lt;/a&gt;&quot;</translation>
+        <translation>Lisatud allkirjale: &quot;&lt;a href=&quot;https://www.hiri.com/&quot;&gt;Hirit kasutades&lt;/a&gt; saan oma emaili jälle kontrolli alla&quot;</translation>
     </message>
 </context>
 <context>

@@ -3266,7 +3266,7 @@ postisi seuraavalle tasolle.</translation>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation>Avatar</translation>
+        <translation>Profiilikuva</translation>
     </message>
     <message>
         <source>Change</source>
@@ -3304,7 +3304,7 @@ Voit käyttää Hiriä siihen saakka, kunnes yhteys palvelimeen on muodostettu.<
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation>Valitse kuinka monta viestiä haluat Hirin lataavan:</translation>
+        <translation>Valitse miltä ajalta haluat Hirin lataavan viestit:</translation>
     </message>
     <message>
         <source>1 month</source>
@@ -3346,7 +3346,7 @@ Voit käyttää Hiriä siihen saakka, kunnes yhteys palvelimeen on muodostettu.<
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation>Sähköpostialias on yksinkertainen edelleenlähetysosoite. Tämä tili vastaanottaa kaikki viestit, jotka on lähetetty alla lueteltuihin osoitteisiin. Teknisten rajoitteiden vuoksi Hiri tietää enintään vain kolme postipalvelimelle asetettua alias-osoitetta. Jos sinulla on enemmän kuin kolme alias-osoitetta, lisää ne alla olevaan kenttään. Tämä estää Hiriä luokittelemasta virheellisesti suoraan tai postituslistojen kautta tulevia viestejä.
+        <translation>Sähköpostialias on yksinkertainen edelleenlähetysosoite. Tämä tili vastaanottaa kaikki viestit, jotka on lähetetty alla lueteltuihin osoitteisiin. Teknisten rajoitteiden vuoksi Hiri tietää enintään vain kolme postipalvelimelle asetettua aliasosoitetta. Jos sinulla on enemmän kuin kolme aliasosoitetta, lisää ne alla olevaan kenttään. Tämä estää Hiriä luokittelemasta virheellisesti suoraan tai postituslistojen kautta tulevia viestejä.
 
 Tunnetut aliakset:</translation>
     </message>
@@ -3356,7 +3356,7 @@ Tunnetut aliakset:</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation>(ota huomioon, että alias-osoitteiden tulee olla olemassa, et voi luoda niitä Hirin kautta)</translation>
+        <translation>(ota huomioon, että aliasosoitteiden tulee olla olemassa; et voi luoda niitä Hirin kautta)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -4019,7 +4019,7 @@ Näin voit kiinnittää Hirin kuvakkeen käynnistimeesi.</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation>Älä koskaan enää unohda tärkeitä viestejä</translation>
+        <translation>Älä koskaan enää unohda tärkeitä viestejä.</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>

@@ -686,7 +686,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>In</source>
-        <translation>Kaustas</translation>
+        <translation>Asub kaustas</translation>
     </message>
     <message>
         <source>Create contact</source>
@@ -850,25 +850,25 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation>Tühista meeldetuletus</translation>
+        <translation>Tühista tevitus</translation>
     </message>
 </context>
 <context>
     <name>DateTimePickerPair</name>
     <message>
         <source>Start</source>
-        <translation>Alusta</translation>
+        <translation>Algus</translation>
     </message>
     <message>
         <source>End</source>
-        <translation>Lõpeta</translation>
+        <translation>Lõpp</translation>
     </message>
 </context>
 <context>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation>Sea meeldetuletus</translation>
+        <translation>Sea teavitus</translation>
     </message>
 </context>
 <context>
@@ -894,7 +894,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation>Hiri uus versioon on saadaval! Kas Sa soovid uuendada?</translation>
+        <translation>Hiri uus versioon on saadaval! Kas soovid uuendada?</translation>
     </message>
     <message>
         <source>Update now</source>
@@ -1003,7 +1003,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation>Vabandust, Sa ei saa lisada meeldetuletusi kui ei ole ühendatud.</translation>
+        <translation>Vabandust, Sa ei saa seada teavitusi kui ei ole ühendatud.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
@@ -1150,7 +1150,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation>Viga meeldetuletuse loomisel…</translation>
+        <translation>Viga teavituse loomisel…</translation>
     </message>
 </context>
 <context>
@@ -1879,7 +1879,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation>Keri alla/üles:</translation>
+        <translation>Keri üles/alla:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
@@ -2328,7 +2328,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Out of office</source>
-        <translation>Kontoris väljas</translation>
+        <translation>Kontorist väljas</translation>
     </message>
     <message>
         <source>No availability data</source>
@@ -2363,7 +2363,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Reminder</source>
-        <translation>Meeldetuletus</translation>
+        <translation>Teavitus</translation>
     </message>
     <message>
         <source>Show as</source>
@@ -2434,7 +2434,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Reminder</source>
-        <translation>Meeldetuletus</translation>
+        <translation>Teavitus</translation>
     </message>
     <message>
         <source>Meeting in the past</source>
@@ -2477,11 +2477,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation>Ups, ei saa meeldetuletust ignoreerida…</translation>
+        <translation>Ups, ei saa teavitust ignoreerida…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
-        <translation>Ups, ei saa meeldetuletust edasi lükata…</translation>
+        <translation>Ups, ei saa teavitust edasi lükata…</translation>
     </message>
 </context>
 <context>
@@ -2560,7 +2560,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Dismiss all reminders</source>
-        <translation>Ignoreeri kõiki meeldetuletusi</translation>
+        <translation>Ignoreeri kõiki teavitusi</translation>
     </message>
 </context>
 <context>
@@ -2903,7 +2903,7 @@ email järgmisele tasemele.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation>Lisa veel kedagi - meil saadetakse nagu Teave/Koopia</translation>
+        <translation>Lisa veel kedagi - kiri saadetakse nagu Teave/Koopia</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
@@ -3347,9 +3347,9 @@ Saad siiski Hirit kasutada kuni ühendus serveriga on loodud.</translation>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation>Email alias on lihtsalt edastav emaili aadress. See konto saab kõik emailid mis saadetakse allpool loetletud aadressidele. Tehnilistel põhjustel saab Hiri kasutada ainnult 3-e alias aadressi mis on serveri poolt määratud. Kui Sul on rohkem kui 3 aliast võid need lisada käsitsi siia. See väldib Sinu emailide valesti kategoriseerimist kas otse või meililisti kaudu.
+        <translation>Email alias on lihtsalt emaili aadress mis edastab kirjad teisele aadressile. See konto saab kõik kirjad mis saadetakse allpool loetletud aadressidele. Tehnilistel põhjustel saab Hiri kasutada ainult 3-e serveri poolt määratud alias aadressi. Kui Sul on rohkem kui 3 aliast võid need siia käsitsi lisada. See väldib Sinu emailide valesti kategoriseerimist kas otse või meililisti kaudu.
 
-Tuntud aliased:</translation>
+Kehtivad aliased:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
@@ -3436,7 +3436,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation>Vali kuidas tahad et emaile näidatakse.</translation>
+        <translation>Vali kuidas kirju kuvatakse.</translation>
     </message>
     <message>
         <source>Low density</source>
@@ -3444,7 +3444,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation>Vähem emaile, rohkem eelvaate teksti.</translation>
+        <translation>Vähem kirju, rohkem eelvaate teksti.</translation>
     </message>
     <message>
         <source>High density</source>
@@ -3452,7 +3452,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation>Rohkem emaile, vähem eelvaate teksti.</translation>
+        <translation>Rohkem kirju, vähem eelvaate teksti.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
@@ -3460,7 +3460,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation>Emailide nimekiri ülal ja eelvaate paneel all.</translation>
+        <translation>Kirjade nimekiri ülal ja eelvaate paneel all.</translation>
     </message>
     <message>
         <source>User interface size</source>
@@ -3629,7 +3629,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation>Kui tõlge mille valid ei ole täielik, võivad mõned tekstid olla inglise keelsed. Kui tahad aidata tõlkimisel (või luua uue tõlke keele),  &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;mine siia&lt;/a&gt; et aidata! Tänud.</translation>
+        <translation>Kui tõlge mille valid ei ole täielik, võivad mõned tekstid olla inglisekeelsed. Kui tahad aidata tõlkimisel (või luua uue tõlke keele),  &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;mine siia&lt;/a&gt;! Tänud.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -3750,11 +3750,11 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation>Koosolekute ja ülesannete meeldetuletused</translation>
+        <translation>Koosolekute ja ülesannete teavitused</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation>Koosolekute meeldetuletused, ülesannete meeldetuletused ja uued emailid</translation>
+        <translation>Koosolekute ja ülesannete teavitused ning uued emailid</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
@@ -3762,7 +3762,7 @@ See tegevus kustutab kõik seaded ja kohaliku emaili baasi.
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation>Näita Hirit ikooni süsteemi teadete alal</translation>
+        <translation>Näita Hiri ikooni süsteemi teadete alal</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
@@ -3832,7 +3832,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation>Õigekirja kontroll sisse lülitatud</translation>
+        <translation>Õigekirja kontroll sees</translation>
     </message>
     <message>
         <source>Language</source>
@@ -3972,7 +3972,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Märgi emailid kasutades Tegevus/Teave jaotust.</translation>
+        <translation>Sorteeri kirjad kasutades Tegevus/Teave jaotust.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
@@ -3996,7 +3996,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation>Muuda emailid ülesanneteks klikkides.</translation>
+        <translation>Muuda kirjad ülesanneteks nendel klikkides.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
@@ -4016,19 +4016,19 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation>Meeldetuletused</translation>
+        <translation>Teavitused</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation>Ära kunagi unusta tähtsaid teateid</translation>
+        <translation>Ära kunagi unusta olulisi sõnumeid</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation>Lisab meeldetuletuse nupu emaili tegevuste ribale. See võimaldab seada meeldetuletusi igale vestlusele.</translation>
+        <translation>Lisab Teavitus nupu emaili tegevuste ribale. See võimaldab seada teavitusi konkreetsele vestlusele.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation>Kirjuta paremaid teema ridu</translation>
+        <translation>Kirjuta parem teema</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
@@ -4044,11 +4044,11 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation>Nendele kellele meeldib korrastatud suhtlus ja lage sisendkast.</translation>
+        <translation>Kui Sulle meeldib  tühi sisendkast.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation>Nõuab Tegevus/Teave jaotust</translation>
+        <translation>Vajab Tegevus/Teave-t</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
@@ -4187,7 +4187,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     3.      Kui see pole sulle või kui saad delegeerida siis &lt;strong&gt;delegeeri&lt;/strong&gt; see.&lt;br /&gt;
     4.      Kui pead seda tegema aga see võtab rohkem kui 2 minutit koos lugemisega siis &lt;strong&gt;lükka edasi (defer)&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;
 
-    Edasi lükkamise nupp on neljas D nimekirjas. Mõnikord ei saa kirjaga kohe tegeleda aga seda on vaja mingiks tähtajaks siiski teha. Vajutades Meeldetuletus nupule saad valida millal saad meeldetuletuse selle vestluse kohta. Lihtne!
+    Edasi lükkamise nupp on neljas D nimekirjas. Mõnikord ei saa kirjaga kohe tegeleda aga seda on vaja mingiks tähtajaks siiski teha. Vajutades Teavitus nupule saad valida millal saad teavituse selle vestluse kohta. Lihtne!
     </translation>
     </message>
     <message>
@@ -4262,7 +4262,7 @@ Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation>Meil saadetakse:</translation>
+        <translation>Adressaat:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
@@ -4389,7 +4389,7 @@ Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann
     <name>TaskItemExpanded</name>
     <message>
         <source>Set reminder</source>
-        <translation>Loo meeldetuletus</translation>
+        <translation>Loo teavitus</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4413,11 +4413,11 @@ Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation>Loo meeldetuletus</translation>
+        <translation>Sea teavitus</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation>Eemalda meeldetuletus</translation>
+        <translation>Eemalda teavitus</translation>
     </message>
     <message>
         <source>Remove due date</source>
@@ -4486,11 +4486,11 @@ Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation>Ups, ei saa meeldetuletust ignoreerida…</translation>
+        <translation>Ups, ei saa teavitust ignoreerida…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation>Ups, ei saa ülesande meeldetuletust uinutada…</translation>
+        <translation>Ups, ei saa ülesande teavitust uinutada…</translation>
     </message>
 </context>
 <context>
@@ -4626,7 +4626,7 @@ Tühja sisendkausta meetod loodi produktiivsuseksperdi Merlin Mann-i poolt. Mann
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation>Meil saadetakse aadressile:</translation>
+        <translation>Kiri saadetakse aadressile:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>

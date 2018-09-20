@@ -3405,7 +3405,9 @@ Known aliases:</source>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker jy wil hierdie rekening van Hiri uitvee?
+Dit sal alle instellings en die plaaslike e-pos databasis uitvee.
+Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3413,58 +3415,58 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>As jou lisensie is nie aktief is nie - maar jy het reeds betaal - herlaai Hiri.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>As dit nie werk nie, miskien het jy betaal met &apos;n verskillende e-pos adres?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Ek het betaal met &apos;n verskillende e-pos adres</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies uitleg</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies hoe jy wil hê jou e-pos moet lyk.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>Lae digtheid</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minder e-posse, meer voorbeeld van teks.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoë digtheid</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Meer e-posse, minder voorskou teks.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>Twee kolomme</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>E-pos lys bo en &apos;n voorskou aan die onderkant.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>Gebruiker koppelvlak grootte</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit sal in werking tree nadat jy Hiri herlaai</translation>
     </message>
 </context>
 <context>
@@ -3475,57 +3477,57 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys die argief-knoppie in die nutsbalk</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellings gestoor</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Teiken vouer</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalender tydsone</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Eerste dag van die week</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Sondag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Maandag</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit sal in werking tree nadat jy Hiri herlaai het</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyd formaat</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Hierdie verandering sal in werking tree sodra jy jou inbus herlaai</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys paneelbord wanneer onaktief is</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys die paneelbord wanneer jy nie met Hiri gewerk het nie vir:</translation>
     </message>
 </context>
 <context>
@@ -3536,115 +3538,115 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Sit gradering van e-posse en kommunikasie aan</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit skakel in die handtekening in</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Veranderingslys</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Optimize performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeer werkverrigting</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ons maak gou Hiri vinniger en maak plek op die hardeskyf. Dit kan wel &apos;n minuut duur.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation type="unfinished"></translation>
+        <translation>Opstel van DB, wees asseblief geduldig…</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimeer nou</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri lyk dalk asof dit vashak, maar gee dit &apos;n paar minute.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedoen!</translation>
     </message>
     <message>
         <source>Check for update</source>
-        <translation type="unfinished"></translation>
+        <translation>Kyk of nuwe weergawe beskikbaar is</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy gebruik Hiri weergawe %1</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Kyk na veranderingslys</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie sien of daar &apos;n nuwe weergawe is nie</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuwe weergawe gevind</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy is op die nuutste weergawe</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie kyk of daar &apos;n nuwe weergawe is nie</translation>
     </message>
 </context>
 <context>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Tale</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies UI taal:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Gestoor</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Let wel:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Indien die vertaling wat jy kies onvolledig is, sal &apos;n paar woorde in Engels vertoon word. As jy wil help met vertalings (of een skep vir &apos;n nuwe taal) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt; gaan hiernatoe&lt;/a&gt;! Dankie.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Gevorderd</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit sal in werking tree nadat jy Hiri herlaai het.</translation>
     </message>
 </context>
 <context>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie op kantoor nie</translation>
     </message>
     <message>
         <source>Save</source>

@@ -3347,15 +3347,15 @@ Jy kan steeds Hiri gebruik tot verbinding met hoofrekenaar herstel is.</translat
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;n E-pos alias is maar net &apos;n extra e-posadres gekoppel aan jou posbus. Hierdie rekening sal alle e-posse ontvang wat gestuur na die adresse wat hieronder gelys is. As gevolg van tegniese beperkings kan Hiri net 3 aliasse opstel op die e-posbediener. As jy meer as 3 het, sal jy dalk hulle helf hier wil byvoeg. Dit sal verhoed dat Hiri verkeerdelik jou e-posse kategoriseer. Bekende adresse vir die posbus:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy kan enige pasgemaakte aliasse hier (een per lyn) byvoeg:</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Let wel dat hierdie hierdie bestaande aliasse moet wees, Hiri kan hulle nie skep nie)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3363,43 +3363,43 @@ Known aliases:</source>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliasse gestoor</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak verstek</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak hierdie rekening eerste verskyn wanneer Hiri begin.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker jy wil hierdie rekening verstek maak?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit sal in werking tree nadat jy Hiri herlaai</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee rekening en instellings uit</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder alle spesifieke rekeninginligting van Hiri.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee rekening uit</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?

@@ -3654,42 +3654,42 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tik asseblief &apos;n boodskap om stuur terwyl jy  uit die kantoor is.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Boodskap gestoor</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie boodskap stoor nie</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>Instellings vir</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Oorhoofse instellings</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>vir alle rekeninge</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Rekening</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Handtekening</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie op kantoor nie</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3697,19 +3697,19 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Koop Hiri</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Algemeen</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorkeure</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Voorkoms</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -3717,7 +3717,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyd</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
@@ -3725,7 +3725,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sleutelbord knoppies (Ctrl + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
@@ -3733,22 +3733,22 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Tale</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Kennisgewings op hoofskerm van rekenaar</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiveer kennisgewings</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering en taak herinneringe</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>

@@ -3752,56 +3752,57 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergadering en taak herinneringe, asook nuwe e-posse</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Desktop&quot; integrasie</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Wys Hiri in die &quot;system tray&quot;</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geaktiveer wanneer kennisgewings aangeskakel is)</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak toe na die &quot;system tray&quot; toe</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep &apos;n desktop icon en voeg dit by jou toepassingskieslys.
+Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep desktop ikoon</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedoen!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri die hoof e-pos program.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>Registreer as hoof e-pos app</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrasie-fout</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryf &amp; antwoord</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit gesprek na antwoord gestuur is</translation>
     </message>
     <message>
         <source>Attachments</source>
@@ -3809,46 +3810,46 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Vra altyd waar om aanhegsels af te laai</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai af na</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie vouer kies nie. Probeer &apos;n ander vouer.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>Speltoets</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Spel toetser geaktiveer</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy kan spel toetser se stellings verander deur regs te klik in skryf en antwoord skerms.</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Handtekening</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Sluit &quot;--&quot; aan die bokant van die handtekening by</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3856,7 +3857,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Handtekening gestoor</translation>
     </message>
 </context>
 <context>
@@ -3877,175 +3878,175 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SingleAttachment</name>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsel afgelaai na: %1</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie aanhegsel aflaai nie</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Yikes! Ek is nie seker hoe om die aanhangsel oop te maak nie!</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak Oop</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Laai af</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder taak</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg taak</translation>
     </message>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>NIE OP KANTOOR NIE</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Nie op kantoor&quot; boodskap</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeer aan</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>Vraag vir</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak vir</translation>
     </message>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"></translation>
+        <translation>Vra vraag hier</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskryf taak hier</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaardigheid geaktiveer</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Vaardigheid gedeaktiveer</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wat doen dit?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoe lyk dit?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoekom?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Aksie/FYI verdeel</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skei jou e-posse met behulp van die aksie/FYI.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit voeg &apos;n aksie en &apos;n FYI filtreerder in die donker grys boks aan die linkerkant.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Die paneelbord</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hou op jou e-pos so dikwels nagaan.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>&apos;n Paneelbord sal voor Hiri na 90 sekondes van onaktiwiteit verskyn om jou te herhinder om nie jou pos so dikwels te kyk nie. Dit help jou fokus en jy bespaar tyd.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak lys</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skakel jou e-posse in take deur te klik.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg &apos;n taak lys aan die regterkant by. Jy kan eenvoudig e-posse in hierdie paneel sleep om &apos;n taaklys te skep.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegeer e-posse</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak dit duidelik dat jy &apos;n taak gedelegeer het.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg &apos;n delegeer knoppie op die e-pos aksie balk by.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Herinneringe</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Vergeet nooit weer &apos;n belangrike e-pos nie</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg &apos;n herinnering knoppie op die e-pos aksie balk by. Dit laat jou toe om herinneringe op te stel vir spesifieke gesprekke.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryf beter onderwerp lyne</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeter jou onderwerp lyne deur hulle laaste te skryf.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Skuif die onderwerpreël na die onderkant van die e-pos skryf venster toe.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Nul inbus</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vir diegene wat die Zen kuns van nul inkassie beoefen.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Vereis aksie/FYI verdeeling</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>

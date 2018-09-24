@@ -4647,7 +4647,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ich habe bereits bezahlt</translation>
     </message>
 </context>
 <context>
@@ -4928,11 +4928,11 @@ zurück zu erlangen.</translation>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim speichern der Nachricht. Überprüfen Sie nochmals auf Ihre Änderungen hin, einige wurden vielleicht nicht berücksichtigt.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Huch, da ist etwas schiefgegangen</translation>
     </message>
 </context>
 <context>
@@ -4946,7 +4946,7 @@ zurück zu erlangen.</translation>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> im Auftrag von </translation>
     </message>
 </context>
 <context>
@@ -4964,7 +4964,7 @@ zurück zu erlangen.</translation>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Test {} Interpolation</translation>
     </message>
 </context>
 </TS>

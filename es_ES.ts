@@ -2217,7 +2217,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Que &lt;font color=&quot;#e54624&quot;&gt;Acción&lt;/font&gt; y &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
@@ -2583,26 +2583,26 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de llevar tu correo al siguiente nivel.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation type="unfinished"></translation>
+        <translation>Creado con ..... por el equipo de Hiri</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
-        <translation type="unfinished"></translation>
+        <translation>en Dublin, Irlanda.</translation>
     </message>
     <message>
         <source>Let&apos;s go!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡ Vamos !</translation>
     </message>
 </context>
 <context>
     <name>OutlookAuth</name>
     <message>
         <source>Outlook/Hotmail/Live/MSN login</source>
-        <translation type="unfinished"></translation>
+        <translation>Outlook/Hotmail/Live/inicio de sesión MSN</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
@@ -2614,7 +2614,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Your password might be wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu contraseña puede estar equivocada</translation>
     </message>
     <message>
         <source>Next step</source>
@@ -2622,41 +2622,41 @@ email to the next level.</source>
     </message>
     <message>
         <source>Not Outlook/Hotmail/Live/MSN?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿No Outlook/Hotmail/Live/MSN?</translation>
     </message>
 </context>
 <context>
     <name>Pagination</name>
     <message>
         <source>Go to page</source>
-        <translation type="unfinished"></translation>
+        <translation>Ir a la página</translation>
     </message>
 </context>
 <context>
     <name>PeopleChooserDialog</name>
     <message>
         <source>Type a name to start searching</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribir el nombre para empezar a buscar</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation type="unfinished"></translation>
+        <translation>Correo</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation type="unfinished"></translation>
+        <translation>Título de trabajo</translation>
     </message>
     <message>
         <source>Phone</source>
-        <translation type="unfinished"></translation>
+        <translation>Teléfono</translation>
     </message>
     <message>
         <source>Office</source>
-        <translation type="unfinished"></translation>
+        <translation>Office</translation>
     </message>
     <message>
         <source>No contacts found</source>
-        <translation type="unfinished"></translation>
+        <translation>Ningún contacto encontrado</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2664,19 +2664,19 @@ email to the next level.</source>
     </message>
     <message>
         <source>Search contacts in Global Address List</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar contactos en la lista global de direcciones</translation>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Un error a ocurrido</translation>
     </message>
     <message>
         <source>Search all contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar en todos los contactos</translation>
     </message>
     <message>
         <source>Type  to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe para buscar</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2687,15 +2687,15 @@ email to the next level.</source>
     <name>ProposeNewTimeDialog</name>
     <message>
         <source>Propose new time</source>
-        <translation type="unfinished"></translation>
+        <translation>Proponer una hora nueva</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation type="unfinished"></translation>
+        <translation>No haz cambiado el tiempo de la reunión. Por favor proponer una nueva hora.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation type="unfinished"></translation>
+        <translation>Déjalos saber por que propusiste una nueva hora, o déjalo en blanco</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2706,90 +2706,90 @@ email to the next level.</source>
     <name>ProposeNewTimeResponseButtons</name>
     <message>
         <source>New time accepted</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva hora aceptada</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar reunión</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar hora propuesta</translation>
     </message>
 </context>
 <context>
     <name>RateEmail</name>
     <message>
         <source>Nice and short</source>
-        <translation type="unfinished"></translation>
+        <translation>Bueno y corto</translation>
     </message>
     <message>
         <source>Good tone</source>
-        <translation type="unfinished"></translation>
+        <translation>Buen tono</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation type="unfinished"></translation>
+        <translation>La acción fue limpiada</translation>
     </message>
     <message>
         <source>Good subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Buen tema</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation type="unfinished"></translation>
+        <translation>Lenguaje simple</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation type="unfinished"></translation>
+        <translation>Entendido lo que fue preguntado</translation>
     </message>
     <message>
         <source>Relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>Relevante para mi</translation>
     </message>
     <message>
         <source>Inappropriate</source>
-        <translation type="unfinished"></translation>
+        <translation>Inapropiado</translation>
     </message>
     <message>
         <source>Too long</source>
-        <translation type="unfinished"></translation>
+        <translation>Demasiado largo</translation>
     </message>
     <message>
         <source>Too many FYI&apos;s</source>
-        <translation type="unfinished"></translation>
+        <translation>Demasiado en FYI&apos;s</translation>
     </message>
     <message>
         <source>Not relevant to me</source>
-        <translation type="unfinished"></translation>
+        <translation>No relevante para mi</translation>
     </message>
     <message>
         <source>Should have called/met</source>
-        <translation type="unfinished"></translation>
+        <translation>Debería hacer llamada/reunión</translation>
     </message>
     <message>
         <source>Bad subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Mal tema</translation>
     </message>
     <message>
         <source>Not clear</source>
-        <translation type="unfinished"></translation>
+        <translation>No es claro</translation>
     </message>
     <message>
         <source>Rating…</source>
-        <translation type="unfinished"></translation>
+        <translation>Valorar…</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation type="unfinished"></translation>
+        <translation>Correo valorado. ¡ Buen trabajo!</translation>
     </message>
     <message>
         <source>Send rating</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar valoración</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu valoraste este correo</translation>
     </message>
 </context>
 <context>
@@ -2800,74 +2800,74 @@ email to the next level.</source>
     </message>
     <message>
         <source>5 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minutos antes debido</translation>
     </message>
     <message>
         <source>5 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>5 minutos antes de empezar</translation>
     </message>
     <message>
         <source>10 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minutos antes debido</translation>
     </message>
     <message>
         <source>10 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>10 minutos antes de empezar</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minutos antes debido</translation>
     </message>
     <message>
         <source>30 mins before start</source>
-        <translation type="unfinished"></translation>
+        <translation>30 minutos antes de empezar</translation>
     </message>
     <message>
         <source>1h before due</source>
-        <translation type="unfinished"></translation>
+        <translation>1 hora antes debido</translation>
     </message>
     <message>
         <source>1h before start</source>
-        <translation type="unfinished"></translation>
+        <translation>1 hora antes de empezar</translation>
     </message>
     <message>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar</translation>
     </message>
 </context>
 <context>
     <name>ReplyBox</name>
     <message>
         <source>saving</source>
-        <translation type="unfinished"></translation>
+        <translation>guardando</translation>
     </message>
     <message>
         <source>Pop out reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Saltar respuesta</translation>
     </message>
     <message>
         <source>Save draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar borrador</translation>
     </message>
     <message>
         <source>Discard Draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar borrador</translation>
     </message>
     <message>
         <source>Are you sure you want to discard your draft?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿ Estas seguro que quieres descartar tu borrador?</translation>
     </message>
     <message>
         <source>Discard draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar borrador</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation type="unfinished"></translation>
+        <translation>Continuar editando</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar destinatarios</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2875,181 +2875,181 @@ email to the next level.</source>
     </message>
     <message>
         <source>Reply sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Respuesta enviada.</translation>
     </message>
     <message>
         <source>Sending failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Envio fallido.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer click para editar este borrador</translation>
     </message>
     <message>
         <source>sending</source>
-        <translation type="unfinished"></translation>
+        <translation>enviando</translation>
     </message>
 </context>
 <context>
     <name>ReplyToMultiple</name>
     <message>
         <source>Only reply to people who need to know.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solo responder a la gente que necesite saberlo.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar a alguien mas - el correo sera enviara como FYI/CC</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todo</translation>
     </message>
     <message>
         <source>Try not to use this tickbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Trata de no usar esta casilla</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <source>Reply to multiple</source>
-        <translation type="unfinished"></translation>
+        <translation>Responder a multiples</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu estuviste BCC&apos;d en este correo - otros destinatarios no conoceran que recibiste este correo. Si agregas destinatarios y respondes, no estaras mas como oculto.</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uno o mas de los correos seleccionados son incorrectos.</translation>
     </message>
 </context>
 <context>
     <name>RespondToMeetingDialog</name>
     <message>
         <source>Respond to meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Responda a la reunión</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation type="unfinished"></translation>
+        <translation>Responda al evento individual</translation>
     </message>
     <message>
         <source>Respond to series</source>
-        <translation type="unfinished"></translation>
+        <translation>Responda a la serie</translation>
     </message>
     <message>
         <source>accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>aceptando</translation>
     </message>
     <message>
         <source>tentatively accepting</source>
-        <translation type="unfinished"></translation>
+        <translation>tentativamente aceptando</translation>
     </message>
     <message>
         <source>declining</source>
-        <translation type="unfinished"></translation>
+        <translation>declinando</translation>
     </message>
     <message>
         <source>or leave blank.</source>
-        <translation type="unfinished"></translation>
+        <translation>o dejarlo en blanco.</translation>
     </message>
     <message>
         <source>Send response</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar respuesta</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation type="unfinished"></translation>
+        <translation>Dejalos saber por que tu</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu haz aceptado esta reunión.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu haz respondido a esta reunión como tentativamente.</translation>
     </message>
     <message>
         <source>You have declined this meeting.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu haz declinado esta reunión.</translation>
     </message>
     <message>
         <source>Propose new</source>
-        <translation type="unfinished"></translation>
+        <translation>Proponer nueva</translation>
     </message>
     <message>
         <source>Forward this</source>
-        <translation type="unfinished"></translation>
+        <translation>Reenviar esto</translation>
     </message>
     <message>
         <source>Change response to</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar repsuesta a</translation>
     </message>
     <message>
         <source>Meeting</source>
-        <translation type="unfinished"></translation>
+        <translation>Reunión</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo</translation>
     </message>
     <message>
         <source>Tentative</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativo</translation>
     </message>
     <message>
         <source>Decline</source>
-        <translation type="unfinished"></translation>
+        <translation>Declinar</translation>
     </message>
     <message>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Aceptar</translation>
     </message>
 </context>
 <context>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation type="unfinished"></translation>
+        <translation>Un error a ocurrido</translation>
     </message>
 </context>
 <context>
     <name>RightPanel</name>
     <message>
         <source>Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpetas</translation>
     </message>
     <message>
         <source>Tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Tareas</translation>
     </message>
 </context>
 <context>
     <name>SchedulingLeftPanel</name>
     <message>
         <source>All day?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Todo el día?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation type="unfinished"></translation>
+        <translation>Invitar - escribir un nombre para empezar</translation>
     </message>
     <message>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ubicación</translation>
     </message>
     <message>
         <source>Available</source>
-        <translation type="unfinished"></translation>
+        <translation>Disponible</translation>
     </message>
     <message>
         <source>Busy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocupado</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3057,7 +3057,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplicar</translation>
     </message>
 </context>
 <context>
@@ -3071,66 +3071,66 @@ email to the next level.</source>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation type="unfinished"></translation>
+        <translation>1: Seleccionar fecha</translation>
     </message>
     <message>
         <source>Exact day</source>
-        <translation type="unfinished"></translation>
+        <translation>Día extacto</translation>
     </message>
     <message>
         <source>± 1 day</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 día</translation>
     </message>
     <message>
         <source>± 1 week</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 semana</translation>
     </message>
     <message>
         <source>± 1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 mes</translation>
     </message>
     <message>
         <source>± 3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>± 3 meses</translation>
     </message>
     <message>
         <source>± 1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>± 1 año</translation>
     </message>
     <message>
         <source>Confirm</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirmar</translation>
     </message>
     <message>
         <source>On %1</source>
-        <translation type="unfinished"></translation>
+        <translation>En 1%</translation>
     </message>
     <message>
         <source>Between %1 and %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Entre 1% y 2%</translation>
     </message>
 </context>
 <context>
     <name>SearchField</name>
     <message>
         <source>Type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Escribe para buscar</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Desplegar todos los mensajes, escribe para buscar</translation>
     </message>
     <message>
         <source>Search everything</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar todo</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar el archivo</translation>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation type="unfinished"></translation>
+        <translation>Esribir y presionar Enter para buscar</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>

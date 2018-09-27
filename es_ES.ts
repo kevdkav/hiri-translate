@@ -3118,7 +3118,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
-        <translation>Desplegar todos los mensajes, escribe para buscar</translation>
+        <translation>Mostrando todos los mensajes, escribe para buscar</translation>
     </message>
     <message>
         <source>Search everything</source>
@@ -3134,18 +3134,18 @@ email to the next level.</source>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar, o presionar Enter para mostrar todos los mensajes del Archivo</translation>
     </message>
 </context>
 <context>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation type="unfinished"></translation>
+        <translation>Haz clic en las etiquetas para refinar la búsqueda!</translation>
     </message>
     <message>
         <source>What</source>
-        <translation type="unfinished"></translation>
+        <translation>Qué</translation>
     </message>
     <message>
         <source>When</source>

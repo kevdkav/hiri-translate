@@ -2050,7 +2050,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation>Saa täna allahindlust Hirile!</translation>
+        <translation>Täna saad Hiri allahindlusega!</translation>
     </message>
     <message>
         <source>Send feedback</source>

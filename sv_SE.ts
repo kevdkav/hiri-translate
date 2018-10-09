@@ -1570,7 +1570,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Create folder</source>
-        <translation>SKapa katalog</translation>
+        <translation>Skapa katalog</translation>
     </message>
     <message>
         <source>Rename</source>

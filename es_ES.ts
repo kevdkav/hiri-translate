@@ -3149,47 +3149,47 @@ email to the next level.</source>
     </message>
     <message>
         <source>When</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuándo</translation>
     </message>
     <message>
         <source>Where</source>
-        <translation type="unfinished"></translation>
+        <translation>Dónde</translation>
     </message>
     <message>
         <source>unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>No leído:</translation>
     </message>
     <message>
         <source>task:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea:</translation>
     </message>
     <message>
         <source>meeting:</source>
-        <translation type="unfinished"></translation>
+        <translation>reunión:</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation type="unfinished"></translation>
+        <translation>adjunto:</translation>
     </message>
     <message>
         <source>date:</source>
-        <translation type="unfinished"></translation>
+        <translation>fecha:</translation>
     </message>
     <message>
         <source>today:</source>
-        <translation type="unfinished"></translation>
+        <translation>hoy:</translation>
     </message>
     <message>
         <source>this week:</source>
-        <translation type="unfinished"></translation>
+        <translation>esta semana:</translation>
     </message>
     <message>
         <source>this month:</source>
-        <translation type="unfinished"></translation>
+        <translation>este mes:</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>carpeta:</translation>
     </message>
     <message>
         <source>actionable:</source>
@@ -3205,41 +3205,41 @@ email to the next level.</source>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿No encontraste lo que buscabas?</translation>
     </message>
     <message>
         <source>Sync more</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizar maś</translation>
     </message>
     <message>
         <source>or</source>
-        <translation type="unfinished"></translation>
+        <translation>o</translation>
     </message>
     <message>
         <source>Search locally</source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda local</translation>
     </message>
     <message>
         <source>Search the Archive</source>
-        <translation type="unfinished"></translation>
+        <translation>Buscar el archivo</translation>
     </message>
 </context>
 <context>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opciones de filtrado</translation>
     </message>
 </context>
 <context>
     <name>SelectionOptionsBar</name>
     <message>
         <source>Deselect all</source>
-        <translation type="unfinished"></translation>
+        <translation>Deseleccionar todo</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todo</translation>
     </message>
     <message>
         <source>Mark as read</source>
@@ -3259,26 +3259,26 @@ email to the next level.</source>
     </message>
     <message>
         <source>%1 selected</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 seleccionado</translation>
     </message>
 </context>
 <context>
     <name>SettingsAccounts</name>
     <message>
         <source>Your avatar</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu avatar</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar</translation>
     </message>
     <message>
         <source>Subscription status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado de la suscripción</translation>
     </message>
     <message>
         <source>Active</source>
-        <translation type="unfinished"></translation>
+        <translation>Activar</translation>
     </message>
     <message>
         <source>Trialing</source>

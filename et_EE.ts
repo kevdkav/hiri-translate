@@ -635,7 +635,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation>Kas oled kindel et tahad kontakti kustutada:</translation>
+        <translation>Kinnita et tahad kontakti kustutada:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>

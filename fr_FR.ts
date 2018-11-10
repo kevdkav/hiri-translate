@@ -2251,7 +2251,8 @@ Voulez-vous transmettre uniquement cet événement ou toute la série ?</transla
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si le message que vous transférez contient une de vos tâche, chaque destinataire sera ajouté par défaut à la tâche.
+C&apos;est pourquoi nous l&apos;appelons Déléguer.</translation>
     </message>
 </context>
 <context>
@@ -3417,15 +3418,15 @@ Alias connus :</translation>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si votre licence n&apos;est pas active et que vous avez déjà payé, redémarrer Hiri.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Si ça ne fonctionne pas, peut-être avez-vous payé avec une adresse mail différente ?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>J&apos;ai payé avec une adresse mail différente</translation>
     </message>
 </context>
 <context>
@@ -4076,7 +4077,7 @@ Cela vous permettra d&apos;épingler l&apos;icône Hiri à votre lanceur.</trans
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation>Passez à la vitesse supérieure !</translation>
+        <translation>C&apos;est le moment de progresser.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
@@ -4588,15 +4589,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous êtes bloqué mais que vous avez déjà payé.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquer ci-dessous pour continuer !</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>J&apos;ai déjà payé</translation>
     </message>
 </context>
 <context>

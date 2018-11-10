@@ -3193,15 +3193,15 @@ email to the next level.</source>
     </message>
     <message>
         <source>actionable:</source>
-        <translation type="unfinished"></translation>
+        <translation>procesable:</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation type="unfinished"></translation>
+        <translation>psi:</translation>
     </message>
     <message>
         <source>sent:</source>
-        <translation type="unfinished"></translation>
+        <translation>enviar:</translation>
     </message>
     <message>
         <source>Didn&apos;t find what you were looking for?</source>
@@ -3282,7 +3282,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Trialing</source>
-        <translation type="unfinished"></translation>
+        <translation>Probando</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>

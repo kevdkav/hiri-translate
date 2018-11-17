@@ -1616,7 +1616,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Catalan</source>
-        <translation>Kattelandsk</translation>
+        <translation>Catalansk</translation>
     </message>
     <message>
         <source>Czech</source>
@@ -1947,7 +1947,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation</translation>
     </message>
     <message>
         <source>Compose new mail:</source>

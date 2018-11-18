@@ -4054,19 +4054,19 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Beoordeel E-posse</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kommunikeer beter.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Binnekort hier!</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die beste plek om jou kommunikasie vermoe te verbeter is eerlike terugvoer - wat kan &apos;n beter plek wees om te vra as in &apos;n e-pos?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
@@ -4074,7 +4074,7 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyd om jou vermoëns te verbeter.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
@@ -4174,11 +4174,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Tik asseblief &apos;n boodskap om stuur terwyl jy  uit die kantoor is</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Stuur terugvoer…</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>

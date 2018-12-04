@@ -4793,7 +4793,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Testphase:</translation>
     </message>
     <message>
         <source>Due in</source>
@@ -4939,7 +4939,7 @@ zurück zu erlangen.</translation>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Hiri-Server ist offline. Sie können die E-Mails nicht bewerten oder Ihren Kommunikationswert einsehen.</translation>
     </message>
 </context>
 <context>

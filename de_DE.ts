@@ -4639,7 +4639,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie hier geöandet sind aber bereits bezahlt haben.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>

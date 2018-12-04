@@ -4163,7 +4163,7 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation>Schon mal von den Vier D&apos;s gehört? Nein? Schon OK. &lt;Br /&gt;
+        <translation>Schon mal von den Vier D&apos;s gehört? Nein? Schon OK. &lt;br /&gt;
     Es kommt von Microsoft Research, und es funktioniert so:&lt;br /&gt;
 
 &lt;ol&gt;
@@ -4643,7 +4643,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation>Klicken Sie unten um fortzufahren</translation>
+        <translation>Klicken Sie unten um fortzufahren!</translation>
     </message>
     <message>
         <source>I have already paid</source>

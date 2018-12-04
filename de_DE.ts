@@ -4572,7 +4572,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation>Sie können diese Aufgabe nicht zur Liste der gesendeten Audgaben verschieben</translation>
+        <translation>Sie können diese Aufgabe nicht zur Liste der gesendeten Aufgaben verschieben</translation>
     </message>
 </context>
 <context>

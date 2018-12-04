@@ -4627,7 +4627,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Haben Sie Fragen zu Ihrer Testphase oder möchten ein Feedback mit uns teilen?</translation>
     </message>
     <message>
         <source>Send</source>

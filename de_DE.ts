@@ -4568,7 +4568,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe wurde verschoben nach diese Woche - Fälligkeitsdatum wurde gesetzt (Freitag 18.00 Uhr)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>

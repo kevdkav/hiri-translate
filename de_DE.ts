@@ -4560,11 +4560,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie können keine Aufgabe zur Liste der gesendeten Aufgabnen hinzufügen</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Aufgabe wurde nach heute verschoben - Fälligkeitsdatum wurde gesetzt (heute 18.00 Uhr)</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>

@@ -4556,7 +4556,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoppla, die Erstellung von Follow-up ist fehlgeschlagen..…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>

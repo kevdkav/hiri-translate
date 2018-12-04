@@ -4643,7 +4643,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicken Sie unten um fortzufahren</translation>
     </message>
     <message>
         <source>I have already paid</source>

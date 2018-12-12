@@ -4044,7 +4044,7 @@ See võimaldab kinnitada Hiri ikooni käivituspaneelile.</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation>Kui Sulle meeldib  tühi sisendkast.</translation>
+        <translation>Kui Sulle meeldib tühi sisendkaust.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>

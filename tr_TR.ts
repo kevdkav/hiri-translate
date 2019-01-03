@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Hesap ekle</translation>
+        <translation>Başka hesap ekle</translation>
     </message>
 </context>
 <context>
@@ -1841,11 +1841,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation type="unfinished"></translation>
+        <translation>eğer beğenirlerse ve kaydolmaya karar verirlerse. Sana vereceğiz</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation type="unfinished"></translation>
+        <translation>eğer sadece 3 kişiye gönderirseniz, kaydolmasalar bile.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>

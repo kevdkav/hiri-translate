@@ -1117,11 +1117,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation type="unfinished"></translation>
+        <translation>Да, вы можете присылать мне письмо раз в месяц.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Наши принципы безопасности могут быть найдены &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;тут&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -1139,11 +1139,11 @@ Do you want to forward only this event or the whole series?</source>
     <name>EmailCollapsedCondensed</name>
     <message>
         <source>(DELETED)</source>
-        <translation>(УДАЛЕНО)</translation>
+        <translation>(УДАЛЁННЫЕ)</translation>
     </message>
     <message>
         <source>(DRAFTS)</source>
-        <translation>(ЧЕРНОВИК)</translation>
+        <translation>(ЧЕРНОВИКИ)</translation>
     </message>
 </context>
 <context>

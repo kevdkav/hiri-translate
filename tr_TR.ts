@@ -46,7 +46,7 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Çökmelere sebep olduğu bilinen nVidia nouveau sürücüleri bulundu. Lütfen Hiri&apos;yi yeniden başlatarak yazılımsal görüntülemeyi kullanmaya zorlayın.</translation>
+        <translation>Çökmelere sebep olduğu bilinen nVidia nouveau sürücüsü bulundu. Lütfen Hiri&apos;yi yazılımsal görüntülemeyi kullanmaya zorlamak için yeniden başlatın.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
@@ -57,21 +57,21 @@
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Eklentiler</translation>
+        <translation>Ekler</translation>
     </message>
 </context>
 <context>
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Küresel Adres Listesinde Ara (%1 + Tab)</translation>
+        <translation>Global Adres Listesinde Ara (%1 + Tab)</translation>
     </message>
 </context>
 <context>
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Yükleniyor…</translation>
+        <translation>Kuruluyor…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Güncelleme bitti. Lütfen Hiri&apos;yi yeniden başlatın…</translation>
+        <translation>Güncelleme tamamlandı. Lütfen Hiri&apos;yi yeniden başlatın…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
@@ -112,19 +112,19 @@
     <name>CalendarController</name>
     <message>
         <source>Sorry. We are unable to load your calendar</source>
-        <translation>Üzgünüm. Takviminizi yükleyemiyoruz</translation>
+        <translation>Üzgünüz. Takviminizi yükleyemiyoruz</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; will be downloaded</source>
-        <translation>Eklenti &apos;%1&apos; indirilecek</translation>
+        <translation>Ek &apos;%1&apos; indirilecek</translation>
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation>Eklenti &apos;%1&apos; indirildi</translation>
+        <translation>Ek &apos;%1&apos; indirildi</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation>Eklenti &apos;%1&apos; indirilemedi</translation>
+        <translation>Ek &apos;%1&apos; indirilemedi</translation>
     </message>
     <message>
         <source>Meeting created</source>
@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation>Ekleti silinirken hata oluştu</translation>
+        <translation>Ek silinirken hata oluştu</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
@@ -156,7 +156,7 @@
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation>Takvim kaldırılırken hata olustu</translation>
+        <translation>Takvim kaldırılırken hata oluştu</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
@@ -171,7 +171,7 @@
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Bir saat seçin:</translation>
+        <translation>Bir zaman seçin:</translation>
     </message>
 </context>
 <context>
@@ -190,7 +190,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Vazgeç</translation>
     </message>
     <message>
         <source>Save</source>
@@ -209,7 +209,7 @@
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Evet,sil</translation>
+        <translation>Evet, sil</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -305,7 +305,7 @@
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
         <translation>Bu tekrar eden bir toplantı.
-Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
+Sadece bu etkinlik için mi, yoksa tüm seri için mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Single meeting</source>
@@ -317,7 +317,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Organizatör siz olmadığınız için bu toplantıyı iptal edemezsiniz. Bunun yerıne toplantıyı silmek ister misiniz?</translation>
+        <translation>Organizatör siz olmadığınız için bu toplantıyı iptal edemezsiniz. Bunun yerine toplantıyı silmek ister misiniz?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -332,11 +332,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation>Tekrar yok</translation>
+        <translation>Tekrar etme</translation>
     </message>
     <message>
         <source>Every day</source>
-        <translation>Hergün</translation>
+        <translation>Her gün</translation>
     </message>
     <message>
         <source>Every workday</source>
@@ -466,18 +466,18 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>CalendarWeekAllDayHeaderEvent</name>
     <message>
         <source>No subject</source>
-        <translation>Başlık-yok</translation>
+        <translation>Başlık yok</translation>
     </message>
 </context>
 <context>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Üzgünüz, ne tip bir eposta kullandığınızı anlayamadık.</translation>
+        <translation>Üzgünüz, ne tip bir e-posta kullandığınızı anlayamadık.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation>Eposta saglayıcınız nedir?</translation>
+        <translation>E-posta sağlayıcınız nedir?</translation>
     </message>
     <message>
         <source>Please choose…</source>
@@ -485,7 +485,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation>Eposta sağlayıcınızı bu listede göremiyor musunuz? Şimdilik Hiri Offıce365, Outlook.com(Hotmail/Live/MSN) ve Exchange ile calışıyor. Eger yardıma ihtiyacınız varsa,</translation>
+        <translation>E-posta sağlayıcınızı bu listede göremiyor musunuz? Şimdilik Hiri Offıce365, Outlook.com (Hotmail/Live/MSN) ve Exchange ile çalışıyor. Eğer yardıma ihtiyacınız varsa,</translation>
     </message>
     <message>
         <source>contact us.</source>
@@ -519,7 +519,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>ContactDetails</name>
     <message>
         <source>Error deleting contact</source>
-        <translation>Bağlantı silinirken hata oluştu</translation>
+        <translation>Kişi silinirken hata oluştu</translation>
     </message>
     <message>
         <source>Display name</source>
@@ -535,7 +535,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Contact</source>
-        <translation>Baglantı</translation>
+        <translation>Kişi</translation>
     </message>
     <message>
         <source>First name</source>
@@ -547,7 +547,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation>Eposta %1</translation>
+        <translation>E-posta %1</translation>
     </message>
     <message>
         <source>Work phone</source>
@@ -571,7 +571,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Street</source>
-        <translation>Cadde</translation>
+        <translation>Sokak</translation>
     </message>
     <message>
         <source>City</source>
@@ -603,31 +603,31 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation>Eposta 1 gecerli bir eposta adresi değil</translation>
+        <translation>E-posta 1 geçerli bir e-posta adresi değil</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation>Eposta 2 gecerli bir eposta adresi değil</translation>
+        <translation>E-posta 2 geçerli bir e-posta adresi değil</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation>Bağlantının ad ya da eposta adresi olmalıdır</translation>
+        <translation>Kişinin ad ya da e-posta adresi olmalıdır</translation>
     </message>
     <message>
         <source>Error updating contact</source>
-        <translation>Bağlantı güncellenirken hata oluştu</translation>
+        <translation>Kişi güncellenirken hata oluştu</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation>%1 daha önceden bağlantı olarak eklenmiş</translation>
+        <translation>%1 zaten kişi listenizde</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation>Bağlantı yaratılırken hata oluştu</translation>
+        <translation>Kişi yaratılırken hata oluştu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>İptal</translation>
+        <translation>Vazgeç</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -635,7 +635,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation>Bağlantıyı silmek istediğinizden emin misiniz:</translation>
+        <translation>Kişiyi silmek istediğinizden emin misiniz:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -647,15 +647,15 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Add to your contacts</source>
-        <translation>Bağlantılarına ekle</translation>
+        <translation>Kişilerine ekle</translation>
     </message>
     <message>
         <source>added to your contacts folder</source>
-        <translation>bağlantılarınıza eklendı</translation>
+        <translation>kişi listenize eklendi</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation>Bağlantı oluştururken hata oldu</translation>
+        <translation>Kişi oluştururken hata oldu</translation>
     </message>
 </context>
 <context>
@@ -666,11 +666,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation>Tüm bağlantılar gösteriliyor, arama yapmak için yazmaya başlayın</translation>
+        <translation>Tüm kişiler gösteriliyor, arama yapmak için yazmaya başlayın</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation>Tüm Bağlantılar</translation>
+        <translation>Tüm Kişiler</translation>
     </message>
     <message>
         <source>GAL</source>
@@ -682,7 +682,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation>&lt;eposta yok&gt;</translation>
+        <translation>&lt;e-posta yok&gt;</translation>
     </message>
     <message>
         <source>In</source>
@@ -690,18 +690,18 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation>Bağlantı oluştur</translation>
+        <translation>Kişi oluştur</translation>
     </message>
     <message>
         <source>Select contact</source>
-        <translation>Bağlantı seç</translation>
+        <translation>Kişi seç</translation>
     </message>
 </context>
 <context>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation>Düzenlemeyi iptal et</translation>
+        <translation>Düzenlemekten vazgeç</translation>
     </message>
     <message>
         <source>Save</source>
@@ -751,7 +751,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Couldn&apos;t load meetings :(</source>
-        <translation>Toplantılar yüklenemedi:(</translation>
+        <translation>Toplantılar yüklenemed i:(</translation>
     </message>
     <message>
         <source>Your meetings will be updated once you&apos;re back online</source>
@@ -774,11 +774,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Hi %1!</source>
-        <translation>Selam %1!</translation>
+        <translation>Merhaba %1!</translation>
     </message>
     <message>
         <source>Hi!</source>
-        <translation>Selam!</translation>
+        <translation>Merhaba!</translation>
     </message>
 </context>
 <context>
@@ -1849,11 +1849,11 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">En çok e-postalaştığın insanları davet etmelisin. Actionable ve FYI e-postalarını almaktan ikiniz de karlı çıkacaksınız.</translation>
     </message>
     <message>
         <source>Send invites</source>
-        <translation type="unfinished"></translation>
+        <translation>Davet yolla</translation>
     </message>
 </context>
 <context>
@@ -1867,95 +1867,95 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation type="unfinished"></translation>
+        <translation>E-postalar taranıyor</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki / önceki konuşma:</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation type="unfinished"></translation>
+        <translation>Sonraki / önceki konuşma (açıkken):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yukarı/aşağı kaydır:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mevcut sayfanın üstü/altı:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık konuşma:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kapalı konuşma:</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation type="unfinished"></translation>
+        <translation>Açık arama:</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation type="unfinished"></translation>
+        <translation>E-posta eylemleri</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yanıtla:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü yanıtla:</translation>
     </message>
     <message>
         <source>Delete:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sil:</translation>
     </message>
     <message>
         <source>Forward:</source>
-        <translation type="unfinished"></translation>
+        <translation>İlet:</translation>
     </message>
     <message>
         <source>Mark as read:</source>
-        <translation type="unfinished"></translation>
+        <translation>Okundu olarak işaretle:</translation>
     </message>
     <message>
         <source>Mark as unread:</source>
-        <translation type="unfinished"></translation>
+        <translation>Okunmamış olarak işaretle:</translation>
     </message>
     <message>
         <source>Archive:</source>
-        <translation type="unfinished"></translation>
+        <translation>Arşivle:</translation>
     </message>
     <message>
         <source>Multi-select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Çoklu seçim modu</translation>
     </message>
     <message>
         <source>Select conversation:</source>
-        <translation type="unfinished"></translation>
+        <translation>Konuşma seç:</translation>
     </message>
     <message>
         <source>Select all:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tümünü seç:</translation>
     </message>
     <message>
         <source>Clear selection:</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçimi temizle:</translation>
     </message>
     <message>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigasyon</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni posta yaz:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Birleşik Gelen Kutusunu aç:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
@@ -1963,43 +1963,43 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilginize Gelen Kutusunu aç:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation type="unfinished"></translation>
+        <translation>Takvim aç:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kişileri aç:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation type="unfinished"></translation>
+        <translation>Paneli aç:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayarları aç:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation type="unfinished"></translation>
+        <translation>Geribildirim diyaloğunu aç:</translation>
     </message>
     <message>
         <source>Composing</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazım</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bir posta gönder:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalın:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>İtalik:</translation>
     </message>
     <message>
         <source>Underline:</source>
@@ -2007,30 +2007,30 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Create link:</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlantı oluştur:</translation>
     </message>
 </context>
 <context>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni posta oluştur</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Gelen kutusu</translation>
     </message>
     <message>
         <source>Check for new messages</source>
-        <translation type="unfinished"></translation>
+        <translation>Yeni iletileri kontrol et</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation type="unfinished"></translation>
+        <translation>Sıralanmamış</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation type="unfinished"></translation>
+        <translation>SIRALANMAMIŞ&apos;a taşı</translation>
     </message>
     <message>
         <source>Actionable</source>
@@ -2042,31 +2042,31 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>BİLGİNİZE</translation>
     </message>
     <message>
         <source>Move to FYI</source>
-        <translation type="unfinished"></translation>
+        <translation>BİLGİNİZE&apos;ye taşı</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bugün Hiri indiriminden faydalanın!</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Geri bildirim gönder</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation type="unfinished"></translation>
+        <translation>Beceri Merkezi</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>Kişiler</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Panel</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2074,7 +2074,7 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Takvim</translation>
     </message>
 </context>
 <context>
@@ -2088,31 +2088,31 @@ Sadece bu event icin mi yoksa tum seri icin mi iletmek istersiniz?</translation>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen bir alıcı ekleyin</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Girdiğiniz e-postaların biri ya da daha fazlası yanlış. Bir e-posta adresi girdikten sonra Enter tuşuna bir kere bastığınızdan emin olunuz</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen tüm görevleri doldurun</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation type="unfinished"></translation>
+        <translation>Lütfen konu satırını boş bırakmayın</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
-        <translation type="unfinished"></translation>
+        <translation>Geçersiz alıcı bulundu</translation>
     </message>
     <message>
         <source>Subject</source>
-        <translation type="unfinished"></translation>
+        <translation>Konu</translation>
     </message>
     <message>
         <source>Error :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Hata :(</translation>
     </message>
     <message>
         <source>Include original message attachments</source>

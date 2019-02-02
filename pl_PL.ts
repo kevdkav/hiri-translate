@@ -3190,7 +3190,7 @@ zapomnieć o zarządzaniu mailem.</translation>
     </message>
     <message>
         <source>folder:</source>
-        <translation>folder:</translation>
+        <translation>katalog:</translation>
     </message>
     <message>
         <source>actionable:</source>

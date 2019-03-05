@@ -3295,57 +3295,59 @@ You can still use Hiri until connection with the server has been established.</s
     </message>
     <message>
         <source>Buy Hiri now</source>
-        <translation type="unfinished"></translation>
+        <translation>Compre Hiri ahora</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation>Sincronizacion</translation>
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija cuántos emails quiere que descargue Hiri:</translation>
     </message>
     <message>
         <source>1 month</source>
-        <translation type="unfinished"></translation>
+        <translation>1 mes</translation>
     </message>
     <message>
         <source>3 months</source>
-        <translation type="unfinished"></translation>
+        <translation>3 meses</translation>
     </message>
     <message>
         <source>6 months</source>
-        <translation type="unfinished"></translation>
+        <translation>6 meses</translation>
     </message>
     <message>
         <source>1 year</source>
-        <translation type="unfinished"></translation>
+        <translation>1 año</translation>
     </message>
     <message>
         <source>2 years</source>
-        <translation type="unfinished"></translation>
+        <translation>2 años</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <source>Start downloading</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciar descarga</translation>
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation type="unfinished"></translation>
+        <translation>Recuperando sus correos</translation>
     </message>
     <message>
         <source>Alias addresses</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias de direcciones</translation>
     </message>
     <message>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un alias de correo es simplemente una dirección de reenvío de correo. Dicha cuenta recibirá todos los correos enviados a las cuentas listadas abajo. Debido a limitaciones técnicas Hiri solo puede reconocer como máximo 3 alias en el servidor de correos. Si usted tiene más de 3 deberá añadirlas manualmente. Esto evitará que Hiri categorice erróneamente sus correos recibidos directamente o desde listas de correo.
+
+Alias conocidos:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>

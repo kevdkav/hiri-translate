@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Om du inte kan hitta den kalender du letar efter, var god kontrollera så att du har accepterad delningsbegäran.</translation>
+        <translation>Om du inte kan hitta den kalender du letar efter, var god kontrollera så att du har accepterat delningsbegäran.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -305,7 +305,7 @@
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
         <translation>Detta är ett återkommande möte.
-Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
+Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Single meeting</source>
@@ -317,7 +317,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Du kan inte avbryta detta möte för att du inte är organisatör. Vill du radera det istället?</translation>
+        <translation>Du kan inte avbryta detta möte eftersom du inte är dess organisatör. Vill du radera det istället?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -332,7 +332,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>CalendarUtil</name>
     <message>
         <source>No repeat</source>
-        <translation>Ingen repetition</translation>
+        <translation>Ingen upprepning</translation>
     </message>
     <message>
         <source>Every day</source>
@@ -348,7 +348,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Every 2 weeks</source>
-        <translation>Var 2 vecka</translation>
+        <translation>Varannan vecka</translation>
     </message>
     <message>
         <source>Every last %1</source>
@@ -473,11 +473,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Ursäka, vi kunde inte lista ut vilket form av epost du använder.</translation>
+        <translation>Ursäka, vi kunde inte lista ut vilken form av e-post du använder.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation>Vilken är din epost leverantör?</translation>
+        <translation>Vilken är din e-postleverantör?</translation>
     </message>
     <message>
         <source>Please choose…</source>
@@ -485,7 +485,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Don&apos;t see your email provider listed here? Right now Hiri works with Office365, Outlook.com (Hotmail/Live/MSN) and Exchange. If you need help,</source>
-        <translation>Kan du inte se din epost leverantör i listan? Just nu stödjer Hiri Office365, Outlook.com (Hotmail/Live/MSN) samt Exchange. Om du behöver hjälp,</translation>
+        <translation>Kan du inte hitta din e-postleverantör i listan? Just nu stödjer Hiri Office365, Outlook.com (Hotmail/Live/MSN) samt Exchange. Om du behöver hjälp,</translation>
     </message>
     <message>
         <source>contact us.</source>
@@ -543,11 +543,11 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Efternam</translation>
+        <translation>Efternamn</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation>Epost %1</translation>
+        <translation>E-post %1</translation>
     </message>
     <message>
         <source>Work phone</source>
@@ -563,7 +563,7 @@ Vill du vidarebefodra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Office Location</source>
-        <translation>Kontorsaddress</translation>
+        <translation>Kontorsadress</translation>
     </message>
     <message>
         <source>Address</source>
@@ -3416,15 +3416,15 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om din licens inte är aktiv men redan betalt: Starta om Hiri.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Om det inte fungerar så kanske du har betalt via en annan e-postadress?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Jag betalade med en annan e-postadress</translation>
     </message>
 </context>
 <context>
@@ -4587,15 +4587,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om du fastnar här men redan har betalt.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Klicka nedan för att komma igång!</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Jag har redan betalat</translation>
     </message>
 </context>
 <context>

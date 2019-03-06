@@ -587,7 +587,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Postal code</source>
-        <translation>Postkod</translation>
+        <translation>Postnummer</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -599,19 +599,19 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editera</translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation>Epost 1 är inte en giltig epostadress</translation>
+        <translation>Epost 1 är inte en giltig e-postadress</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation>Epost 2 är inte en giltig epostadress</translation>
+        <translation>Epost 2 är inte en giltig e-postadress</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation>En kontakt måste ha ett namn eller en epostadress</translation>
+        <translation>En kontakt måste ha ett namn eller en e-postadress</translation>
     </message>
     <message>
         <source>Error updating contact</source>
@@ -619,7 +619,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation>%1 är redan i din kontaktlista</translation>
+        <translation>%1 finns redan i din kontaktlista</translation>
     </message>
     <message>
         <source>Error creating a contact</source>

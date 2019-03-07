@@ -670,11 +670,11 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>All Contacts</source>
-        <translation>Alla Kontakter</translation>
+        <translation>Alla kontakter</translation>
     </message>
     <message>
         <source>GAL</source>
-        <translation>Flicka</translation>
+        <translation>Global Adresslista</translation>
     </message>
     <message>
         <source>&lt;no name&gt;</source>
@@ -682,7 +682,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>&lt;no email&gt;</source>
-        <translation>&lt;ingen epostadress&gt;</translation>
+        <translation>&lt;ingen e-postadress&gt;</translation>
     </message>
     <message>
         <source>In</source>
@@ -701,7 +701,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation>Avbryt editering</translation>
+        <translation>Avbryt redigering</translation>
     </message>
     <message>
         <source>Save</source>
@@ -770,7 +770,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>DashboardHeader</name>
     <message>
         <source>Edit profile</source>
-        <translation>Editera profil</translation>
+        <translation>Redigera profil</translation>
     </message>
     <message>
         <source>Hi %1!</source>
@@ -793,7 +793,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>emails today</source>
-        <translation>epost idag</translation>
+        <translation>e-post idag</translation>
     </message>
 </context>
 <context>
@@ -827,7 +827,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>No new mail</source>
-        <translation>Ingen ny post</translation>
+        <translation>Ingen ny e-post</translation>
     </message>
 </context>
 <context>
@@ -875,7 +875,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>DeferMenuFlyout</name>
     <message>
         <source>This evening</source>
-        <translation>Eftermiddagen</translation>
+        <translation>Ikväll</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -918,7 +918,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation>Ursäkta, några bifogade filer kunde inte hittas och kommer att tas bort:</translation>
+        <translation>Ledsen, men några bifogade filer kunde inte hittas och kommer att tas bort:</translation>
     </message>
 </context>
 <context>
@@ -948,15 +948,15 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation>No, ta inte bort det</translation>
+        <translation>Nej, ta inte bort det</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Är du säker på att du vill radera detta möte?</translation>
+        <translation>Är du säker på att du vill ta bort detta möte?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
-        <translation>Ja, radera det</translation>
+        <translation>Ja, ta bort det</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -972,7 +972,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Editera</translation>
+        <translation>Redigera</translation>
     </message>
     <message>
         <source>Cancel series</source>
@@ -984,7 +984,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Edit series</source>
-        <translation>Editera serien</translation>
+        <translation>Redigera serien</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
@@ -996,7 +996,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation>Editera händelse</translation>
+        <translation>Redigera händelse</translation>
     </message>
 </context>
 <context>
@@ -1007,11 +1007,11 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation>Acceptera Möte</translation>
+        <translation>Acceptera möte</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
-        <translation>Avböj Möte</translation>
+        <translation>Avböj möte</translation>
     </message>
     <message>
         <source>Reply</source>
@@ -1019,7 +1019,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation>Svara Alla</translation>
+        <translation>Svara alla</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -1043,7 +1043,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation>Denna konverstation innehåller ett utkast. Är du säker på att du vill radera det?</translation>
+        <translation>Denna konversation innehåller ett utkast. Är du säker på att du vill radera det?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1074,7 +1074,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Vidarebefodra</translation>
+        <translation>Vidarebefordra</translation>
     </message>
     <message>
         <source>Print / Save to PDF</source>
@@ -1082,7 +1082,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Mark as not junk</source>
-        <translation>Markera som inte skräppost</translation>
+        <translation>Markera som ej skräppost</translation>
     </message>
     <message>
         <source>Mark as junk</source>
@@ -1093,11 +1093,11 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation>Ursäkta, vi stödjer inte %1. Hiri fungerar bara med en Exchange/Office 365 epostadress.</translation>
+        <translation>Ursäkta, vi stödjer inte %1. Hiri fungerar bara med en Exchange/Office 365 e-postadress.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
-        <translation>Skriv in din epostadress</translation>
+        <translation>Skriv in din e-postadress</translation>
     </message>
     <message>
         <source>someone@yourprovider.com</source>
@@ -1105,7 +1105,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation>Ja, du kan skicka mig ett epostmeddelande en gång per månad.</translation>
+        <translation>Ja, ni kan skicka mig ett e-postmeddelande en gång per månad.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
@@ -1222,7 +1222,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation>Vi hämtar dina epostmeddelanden…</translation>
+        <translation>Vi hämtar dina e-postmeddelanden…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
@@ -1230,7 +1230,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation>Fler epostmeddelanden</translation>
+        <translation>Fler e-postmeddelanden</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1276,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation>Det oskickade meddelandet finns i din Utkorg. Försök dela upp de bifigade filerna i flera meddelanden.</translation>
+        <translation>Det ej skickade meddelandet finns i din Utkorg. Försök att dela upp de bifogade filerna i flera meddelanden.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
@@ -1284,11 +1284,11 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
-        <translation>Vi kunde inte skicka ditt meddelande - det innehåller ogilitiga mottagare</translation>
+        <translation>Vi kunde inte skicka ditt meddelande - det innehåller ogiltiga mottagare</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation>Hoppsan! Nått gick fel!</translation>
+        <translation>Hoppsan! Nåt gick fel!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
@@ -1361,7 +1361,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation>Hänta serverinställningar automatiskt</translation>
+        <translation>Hämta serverinställningar automatiskt</translation>
     </message>
     <message>
         <source>Server</source>
@@ -1409,7 +1409,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation>Verifiera TLS/SSL certifikat</translation>
+        <translation>Verifiera TLS/SSL-certifikat</translation>
     </message>
     <message>
         <source>Next step</source>
@@ -1417,14 +1417,14 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation>Inte Exchange?</translation>
+        <translation>Ej Exchange?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation>Drag filer hit</translation>
+        <translation>Dra filer hit</translation>
     </message>
 </context>
 <context>
@@ -1491,7 +1491,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation>Är du säker på att du vill permanent radera katalogen och dess innehåll &quot;%1&quot;?</translation>
+        <translation>Är du säker på att du permanent vill radera katalogen och dess innehåll &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
@@ -1519,11 +1519,11 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation>Är du säker på att du permanent vill ta bort alla object och underkataloger i katalog &quot;%1&quot;?</translation>
+        <translation>Är du säker på att du permanent vill ta bort alla objekt och underkataloger i katalog &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation>Är du säker på att du vill radera alla object i katalog &quot;%1&quot;?</translation>
+        <translation>Är du säker på att du vill radera alla objekt i katalog &quot;%1&quot;?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
@@ -1535,7 +1535,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Yes, delete them</source>
-        <translation>Ja, radera dom</translation>
+        <translation>Ja, radera dem</translation>
     </message>
     <message>
         <source>No, keep them</source>
@@ -1555,11 +1555,11 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>All items marked as read.</source>
-        <translation>Alla object markerade som lästa.</translation>
+        <translation>Alla objekt markerade som lästa.</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation>Fel vid markerade av object som lästa.</translation>
+        <translation>Fel vid markerade av objekt som lästa.</translation>
     </message>
 </context>
 <context>
@@ -1601,7 +1601,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation>Lade till i signatur: &quot;Jag tar kontroll på min epost med hjälp&lt;a href=&quot;https://www.hiri.com/&quot;&gt;av Hiri.&lt;/a&gt;&quot;</translation>
+        <translation>Lade till i signatur: &quot;Jag tar kontroll på min e-post med hjälp&lt;a href=&quot;https://www.hiri.com/&quot;&gt;av Hiri.&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
@@ -1748,7 +1748,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Serbian (Cyrilic)</source>
-        <translation>Serbiska (Krylliska)</translation>
+        <translation>Serbiska (Kyrilliska)</translation>
     </message>
     <message>
         <source>Swedish</source>
@@ -1813,7 +1813,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation>Jag skulle vilja buda in dig att testa på Hiri. Det är en ny epostklient som hjälper dig spara tid, organisera din dag samt förbättra kommunikation. Ladda ner den här:</translation>
+        <translation>Jag skulle vilja bjuda in dig att prova på Hiri. Det är en ny e-postklient som hjälper dig spara tid, organisera din dag samt förbättra kommunikation. Ladda ner den här:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
@@ -1833,7 +1833,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation>Bjud in dina vänner och kollegor att testa på Hiri. Dom 3 första personerna som du bjuder in får</translation>
+        <translation>Bjud in dina vänner och kollegor att testa  Hiri. De tre första personerna som du bjuder in får</translation>
     </message>
     <message>
         <source>25% off</source>
@@ -1841,15 +1841,15 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation>om dom gillar det och bestämmer sig för att bli en medlem. Så ger vi dig</translation>
+        <translation>om de gillar det och bestämmer sig för att bli en medlem. Så ger vi dig</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation>också om du skickar till endast 3 personer, även om dom inte blir medlemmar.</translation>
+        <translation>också om du skickar till endast tre personer, även om de inte blir medlemmar.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation>Du borde bjuda in personer som du skickar epost till mest. Ni kommer alla att dra nytta av Att Göra och FYI epost.</translation>
+        <translation>Du borde bjuda in personer som du skickar e-post till mest. Ni kommer alla att dra nytta av Att Göra och FYI e-post.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -1867,7 +1867,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>KeyboardShortcutsContent</name>
     <message>
         <source>Browsing emails</source>
-        <translation>Bläddra epost</translation>
+        <translation>Bläddra e-post</translation>
     </message>
     <message>
         <source>Next/previous conversation:</source>
@@ -1899,7 +1899,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Email actions</source>
-        <translation>Epoståtgärder</translation>
+        <translation>E-poståtgärder</translation>
     </message>
     <message>
         <source>Reply:</source>
@@ -1951,7 +1951,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Compose new mail:</source>
-        <translation>Skriv nytt epostmeddelande:</translation>
+        <translation>Skriv nytt e-postmeddelande:</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
@@ -1991,7 +1991,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation>Skicka ett epostmeddelande:</translation>
+        <translation>Skicka ett e-postmeddelande:</translation>
     </message>
     <message>
         <source>Bold:</source>
@@ -2014,7 +2014,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation>Skriv nytt epostmeddelande</translation>
+        <translation>Skriv nytt e-postmeddelande</translation>
     </message>
     <message>
         <source>Inbox</source>
@@ -2050,7 +2050,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation>Få rabatt på Hira idag!</translation>
+        <translation>Få rabatt på Hiri idag!</translation>
     </message>
     <message>
         <source>Send feedback</source>
@@ -2092,7 +2092,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation>En eller flera av dina epostadresser är felaktiga. Se till att du trycker på Enter när du har skrivit in en epostadress</translation>
+        <translation>En eller flera av dina e-postadresser är felaktiga. Se till att du trycker på Enter när du har skrivit in en e-postadress</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
@@ -2100,7 +2100,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation>Vänligen skriv nått i ämnesraden</translation>
+        <translation>Vänligen skriv något i ämnesraden</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
@@ -2116,7 +2116,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation>Inkludera bifogade filer från orginalmeddelandet</translation>
+        <translation>Inkludera bifogade filer från originalmeddelandet</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2221,7 +2221,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation>Samma som Till och Kopia egentligen. Men om personen du skicka epostmeddelandet till använder Hiri, så kommer det hamna i deras Att göra eller FYI inkorg.</translation>
+        <translation>Samma som Till och Kopia egentligen. Men om personen du skicka e-postmeddelandet till använder Hiri, så kommer det hamna i deras Att göra eller FYI inkorg.</translation>
     </message>
     <message>
         <source>Learn more</source>
@@ -2245,7 +2245,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation>Delegering är till för att vodarebefordra en Att göra uppgift till någon.</translation>
+        <translation>Delegering är till för att vidarebefordra en Att göra uppgift till någon.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
@@ -2261,15 +2261,15 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>… and we&apos;re back</source>
-        <translation>...och vi är tillbaka</translation>
+        <translation>... och vi är tillbaka</translation>
     </message>
     <message>
         <source>Checking your emails…</source>
-        <translation>Hämtar dina epostmeddelanden…</translation>
+        <translation>Hämtar dina e-postmeddelanden…</translation>
     </message>
     <message>
         <source>Getting your emails… %1%</source>
-        <translation>Hämtar dina epostmeddelanden... %1%</translation>
+        <translation>Hämtar dina e-postmeddelanden... %1%</translation>
     </message>
     <message>
         <source>Checking</source>
@@ -2281,7 +2281,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Connection interrupted while getting your mail. Reconnecting…</source>
-        <translation>Anslutningen avbröts vid hämtning av dina epostmeddelanden. Återansluter…</translation>
+        <translation>Anslutningen avbröts vid hämtning av dina e-postmeddelanden. Återansluter…</translation>
     </message>
 </context>
 <context>
@@ -2304,7 +2304,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
-        <translation>Sök, eller tryck ENter för att visa alla Arkiv meddelanden</translation>
+        <translation>Sök, eller tryck Enter för att visa alla Arkiv-meddelanden</translation>
     </message>
     <message>
         <source>Displaying all messages, type to search</source>
@@ -2382,7 +2382,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Edit original</source>
-        <translation>Editera ursprung</translation>
+        <translation>Redigera ursprung</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2476,7 +2476,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation>Hoppsa, kan inte avfärda påminnelsen…</translation>
+        <translation>Hoppsan, kan inte avfärda påminnelsen…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the reminder…</source>
@@ -2573,21 +2573,21 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>OnboardingCarousel</name>
     <message>
         <source>Up your email game with the flick of a switch.</source>
-        <translation>Förbättra din eposthantering med en knapptryckning.</translation>
+        <translation>Förbättra din e-posthantering med en knapptryckning.</translation>
     </message>
     <message>
         <source>Check out our Skills Center.</source>
-        <translation>Kolla in vårat Kunskapscenter.</translation>
+        <translation>Kolla in vårt Kunskapscenter.</translation>
     </message>
     <message>
         <source>Time to take your
 email to the next level.</source>
         <translation>Dags att ta din
-epost till nästa nivå.</translation>
+e-post till nästa nivå.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
-        <translation>Bygg med...av Hiri teamet</translation>
+        <translation>Bygg med... av Hiri-teamet</translation>
     </message>
     <message>
         <source>in Dublin, Ireland.</source>
@@ -2660,11 +2660,11 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Email</source>
-        <translation>Epost</translation>
+        <translation>E-post</translation>
     </message>
     <message>
         <source>Job title</source>
-        <translation>Jobtitel</translation>
+        <translation>Jobbtitel</translation>
     </message>
     <message>
         <source>Phone</source>
@@ -2691,11 +2691,11 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation>Du har inte ändrat tiden för mötet. var god föreslå en ny tid.</translation>
+        <translation>Du har inte ändrat tiden för mötet. Var god föreslå en ny tid.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation>Ge dem en motivation till varför du föreslår en ny tid, eller lämna blankt</translation>
+        <translation>Ge dem en motivering till varför du föreslår en ny tid, eller lämna blankt</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2710,7 +2710,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Edit meeting</source>
-        <translation>Editera möte</translation>
+        <translation>Redigera möte</translation>
     </message>
     <message>
         <source>Accept proposed time</source>
@@ -2729,7 +2729,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Action was clear</source>
-        <translation>Uppgiften var klar</translation>
+        <translation>Uppgiften var tydlig</translation>
     </message>
     <message>
         <source>Good subject</source>
@@ -2737,11 +2737,11 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Simple language</source>
-        <translation>Simpelt språk</translation>
+        <translation>Enkelt språk</translation>
     </message>
     <message>
         <source>Understood what was asked</source>
-        <translation>Förstod vad som frågades</translation>
+        <translation>Förstod vad som efterfrågades</translation>
     </message>
     <message>
         <source>Relevant to me</source>
@@ -2781,7 +2781,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Email rated. Good job!</source>
-        <translation>Epost betygsatt. Bra jobbat!</translation>
+        <translation>E-post betygsatt. Bra jobbat!</translation>
     </message>
     <message>
         <source>Send rating</source>
@@ -2789,7 +2789,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>You have rated this email</source>
-        <translation>Du har betygsatt detta epostmeddelande</translation>
+        <translation>Du har betygsatt detta e-postmeddelande</translation>
     </message>
 </context>
 <context>
@@ -2816,7 +2816,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>30 mins before due</source>
-        <translation>30 min before förfall</translation>
+        <translation>30 min före förfall</translation>
     </message>
     <message>
         <source>30 mins before start</source>
@@ -2847,7 +2847,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Click here to edit this draft</source>
-        <translation>Klicka här för att editera detta utkast</translation>
+        <translation>Klicka här för att redigera detta utkast</translation>
     </message>
     <message>
         <source>Pop out reply</source>
@@ -2871,11 +2871,11 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Continue editing</source>
-        <translation>Fortsätt editera</translation>
+        <translation>Fortsätt redigera</translation>
     </message>
     <message>
         <source>Edit Recipients</source>
-        <translation>Editera mottagare</translation>
+        <translation>Redigera mottagare</translation>
     </message>
     <message>
         <source>saving</source>
@@ -2902,11 +2902,11 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Add someone else - the mail will be sent as FYI/CC</source>
-        <translation>Lägg till någon annan - epostmeddelandet kommer skickas som FYI/Kopia</translation>
+        <translation>Lägg till någon annan - e-postmeddelandet kommer skickas som FYI/Kopia</translation>
     </message>
     <message>
         <source>You were BCC&apos;d on this email - other recipients don&apos;t know that you received this email. If you add recipients and reply, you will no longer be hidden.</source>
-        <translation>Du fick en hemligt kopia på detta epostmeddelandet - andra mottagare vet inte om att du fått detta meddelande. Om du lägger till mottagare och svarar, så kommer du inte längre vara hemlig.</translation>
+        <translation>Du fick en hemlig kopia på detta e-postmeddelandet - andra mottagare vet inte om att du fått detta meddelande. Om du lägger till mottagare och svarar, så kommer du inte längre vara hemlig.</translation>
     </message>
     <message>
         <source>Select all</source>
@@ -2922,7 +2922,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>One or more of the emails you selected is wrong.</source>
-        <translation>En eller flera av de epostmeddelanden du valt är felaktiga.</translation>
+        <translation>En eller flera av de e-postmeddelanden du valt är felaktiga.</translation>
     </message>
 </context>
 <context>
@@ -2933,7 +2933,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Respond to single event</source>
-        <translation>Svara till singelt möte</translation>
+        <translation>Svara till enskilt möte</translation>
     </message>
     <message>
         <source>Respond to series</source>
@@ -2941,7 +2941,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re</source>
-        <translation>Låt dom veta varför du</translation>
+        <translation>Låt dem veta varför du</translation>
     </message>
     <message>
         <source>accepting</source>
@@ -2968,7 +2968,7 @@ epost till nästa nivå.</translation>
     <name>ResponseButtons</name>
     <message>
         <source>You have accepted this meeting.</source>
-        <translation>Du har accepterar detta möte.</translation>
+        <translation>Du har accepterat detta möte.</translation>
     </message>
     <message>
         <source>You have responded to this meeting as tentative.</source>
@@ -3114,7 +3114,7 @@ epost till nästa nivå.</translation>
     <name>SearchField</name>
     <message>
         <source>Search the Archive</source>
-        <translation>Sök Arkivet</translation>
+        <translation>Sök i Arkivet</translation>
     </message>
     <message>
         <source>Search everything</source>
@@ -3141,7 +3141,7 @@ epost till nästa nivå.</translation>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation>Klicka på taggarna för att omdefinera din sökning!</translation>
+        <translation>Klicka på taggarna för att omdefiniera din sökning!</translation>
     </message>
     <message>
         <source>What</source>
@@ -3228,7 +3228,7 @@ epost till nästa nivå.</translation>
     <name>SearchableFlyoutMenu</name>
     <message>
         <source>Filter options</source>
-        <translation>Filter inställningar</translation>
+        <translation>Filterinställningar</translation>
     </message>
 </context>
 <context>
@@ -3286,7 +3286,7 @@ epost till nästa nivå.</translation>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation>Ambasadörabonnemang</translation>
+        <translation>Ambassadörsabonnemang</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
@@ -3304,7 +3304,7 @@ Du kan fortfarande använda Hiri tills anslutningen till servers är återställ
     </message>
     <message>
         <source>Choose how many emails you want Hiri to download:</source>
-        <translation>Välj hur många epostmeddelanden du vill att Hira laddar ner:</translation>
+        <translation>Välj hur många e-postmeddelanden du vill att Hiri laddar ner:</translation>
     </message>
     <message>
         <source>1 month</source>
@@ -3336,7 +3336,7 @@ Du kan fortfarande använda Hiri tills anslutningen till servers är återställ
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation>Laddar ner dina epostmeddelanden…</translation>
+        <translation>Laddar ner dina e-postmeddelanden…</translation>
     </message>
     <message>
         <source>Alias addresses</source>
@@ -3346,7 +3346,7 @@ Du kan fortfarande använda Hiri tills anslutningen till servers är återställ
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation>Ett epostalias är en enkel vidarebefordran till en annan adress. Detta konto får all epost som skickas till adresserna i listan nedanför. På grund av tekniska begränsningar så känner Hiri endast till upp till tre alias som är konfigurerade på epostservern. Om du har mer än 3 så behöver du troligtvis konfigurera manuellt nedanför. Detta för att förhindre Hiri från att felaktigt kategorisera epost som du får direct eller via epostlistor.
+        <translation>Ett e-postalias är en enkel vidarebefordran till en annan adress. Detta konto får all e-post som skickas till adresserna i listan nedanför. På grund av tekniska begränsningar så känner Hiri endast till upp till tre alias som är konfigurerade på e-postservern. Om du har mer än tre så behöver du troligtvis konfigurera manuellt nedanför. Detta för att förhindra Hiri från att felaktigt kategorisera e-post som du får direkt eller via e-postlistor.
 
 Kända alias:</translation>
     </message>
@@ -3407,8 +3407,8 @@ Kända alias:</translation>
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
         <translation>Är du säker på att du vill radera detta konto från Hiri?
-Detta kommer radera alla inställnigar och den LOKALA epostdatabasen.
-Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern!</translation>
+Detta kommer radera alla inställningar och den LOKALA e-postdatabasen.
+Var inte orolig, dina e-postmeddelanden kommer fortfarande vara säkra på servern!</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3435,7 +3435,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation>Välj hur du vill att dina epostmeddelanden skall se ut.</translation>
+        <translation>Välj hur du vill att dina e-postmeddelanden skall se ut.</translation>
     </message>
     <message>
         <source>Low density</source>
@@ -3443,7 +3443,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation>Mindre epost, mera förhandsvisningstext.</translation>
+        <translation>Mindre e-post, mera förhandsvisningstext.</translation>
     </message>
     <message>
         <source>High density</source>
@@ -3451,7 +3451,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation>Fler epostmeddelande, mindre förhandsvisningstext.</translation>
+        <translation>Fler e-postmeddelande, mindre förhandsvisningstext.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
@@ -3459,7 +3459,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation>Epostlista på top och en förhandsvisningpanel på botten.</translation>
+        <translation>E-postlista längst upp och en förhandsvisningpanel nederst.</translation>
     </message>
     <message>
         <source>User interface size</source>
@@ -3467,7 +3467,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation>Du måste starta om Hira för att detta skall aktiveras</translation>
+        <translation>Du måste starta om Hiri för att detta skall aktiveras</translation>
     </message>
 </context>
 <context>
@@ -3478,7 +3478,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation>Visa Akrivknappen i verktygsfältet för epost</translation>
+        <translation>Visa Arkivknappen i verktygsfältet för e-post</translation>
     </message>
     <message>
         <source>Settings saved</source>
@@ -3539,7 +3539,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation>Aktivera betyg på epost och kommunikationspoäng</translation>
+        <translation>Aktivera betyg på e-post och kommunikationspoäng</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
@@ -3561,7 +3561,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation>Gör Hiri snabbare och frigör lite diskutrymme. Detta kan ta en minut.</translation>
+        <translation>Gör Hiri snabbare och frigör lite diskutrymme. Detta kan ta någon minut.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
@@ -3605,7 +3605,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation>Fel när kontrol av ny version genomfördes</translation>
+        <translation>Fel när kontroll av ny version genomfördes</translation>
     </message>
 </context>
 <context>
@@ -3628,7 +3628,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation>Om översättningen du valt är ofullständig, kommer några ord visas på Engelska. Om du vill hjälpa till med översättningen (eller skapa en för ett nytt språk) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;klicka här&lt;/a&gt; för att bidra! Tack.</translation>
+        <translation>Om översättningen du valt är ofullständig, kommer några ord visas på engelska. Om du vill hjälpa till med översättningen (eller skapa en för ett nytt språk) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;klicka här&lt;/a&gt; för att bidra! Tack.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -3702,7 +3702,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>General</source>
-        <translation>Allmäna</translation>
+        <translation>Allmänna</translation>
     </message>
     <message>
         <source>Preferences</source>
@@ -3753,11 +3753,11 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation>Mötespåminnelser, Att görapåminnelser och ny epost</translation>
+        <translation>Mötespåminnelser, Att göra påminnelser och ny e-post</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation>Desktopsintegrering</translation>
+        <translation>Skrivbordsintegration</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
@@ -3775,7 +3775,7 @@ Var inte orolig, dina postmeddelanden kommer fortfarande vara säkra på servern
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
         <translation>Skapa en skrivbordsgenväg och lägg till den till din applikationsmeny.
-Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
+Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
@@ -3787,11 +3787,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation>Gör Hiri till din standard epostapplikation.</translation>
+        <translation>Gör Hiri till din standard e-postapplikation.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation>Registrera som standard epost app</translation>
+        <translation>Registrera som standard e-postapp</translation>
     </message>
     <message>
         <source>Error registering</source>
@@ -3887,7 +3887,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation>Hoppsan! Jag är inte säker på hur man öppnar denna bifogade fil!</translation>
+        <translation>Hoppsan! Jag är inte säker på hur man öppnar den bifogade filen!</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3914,7 +3914,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation>Inte på kontoret meddelande</translation>
+        <translation>Inte på kontoret-meddelande</translation>
     </message>
 </context>
 <context>
@@ -3971,7 +3971,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Separera dina epostmeddelanden med dela Att göra/FYI.</translation>
+        <translation>Separera dina e-postmeddelanden med dela Att göra/FYI.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
@@ -3983,11 +3983,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation>Sluta kolla din epost så ofta.</translation>
+        <translation>Sluta kolla din e-post så ofta.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation>En dashboard kommer dyka upp framför Hiri efter 90 sekunders inaktivitet för att påminna dig om att inte kolla epost för ofta. Detta hjälper dig att fokusera and sparar dig tid.</translation>
+        <translation>En dashboard kommer dyka upp framför Hiri efter 90 sekunders inaktivitet för att påminna dig om att inte kolla e-post för ofta. Detta hjälper dig att fokusera och sparar dig tid.</translation>
     </message>
     <message>
         <source>Task List</source>
@@ -3995,15 +3995,15 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation>Förvandla dina epost till Att göra genom att klicka.</translation>
+        <translation>Förvandla dina e-post till Att göra genom att klicka.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation>Lägger till en Att göra lista på den högra sidan. Du kan enkelt dra och släppa epostmeddelanden på denna panel för att skapa en Att göra lista.</translation>
+        <translation>Lägger till en Att göra lista på den högra sidan. Du kan enkelt dra och släppa e-postmeddelanden på denna panel för att skapa en Att göra lista.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation>Delegera Epostmeddelanden</translation>
+        <translation>Delegera e-postmeddelanden</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
@@ -4011,7 +4011,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation>Lägger till en Delegera knapp till åtgärdsfältet för Epost.</translation>
+        <translation>Lägger till en Delegera knapp till åtgärdsfältet för e-post.</translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4019,11 +4019,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation>Glöm aldrig ett viktigt epostmeddelande igen</translation>
+        <translation>Glöm aldrig ett viktigt e-postmeddelande igen</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation>Lägger till en Påminnelseknapp till åtgärdsfätet för epost. Detta gör att du kan sätta påminnelser för specifika konversationer.</translation>
+        <translation>Lägger till en Påminnelseknapp till åtgärdsfältet för e-post. Detta gör att du kan sätta påminnelser för specifika konversationer.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
@@ -4031,7 +4031,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation>Förbättra dina ämnesrubriker genom att skriva dom sist.</translation>
+        <translation>Förbättra dina ämnesrubriker genom att skriva dem sist.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
@@ -4043,7 +4043,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation>För dom som praktiserar Zenkonsten av en Tom Inkorg.</translation>
+        <translation>För de som praktiserar Zenkonsten av en Tom Inkorg.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
@@ -4051,11 +4051,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation>Låter dig uppnå Inkorg Noll. Normalt när du aktiverar färdigheten Att Göra / FYI (kolla upp färdigheten Att Göra / FYI  för mera info=, epostmeddelande som flyttas till dessa filer kommer finnas kvar i huvudinkorgen, men dom ändrar färg. Att aktivera färdigheten Inkorg Noll innebär att dessa eposetmeddanden nu flyttas till Att Göra / FYI filterna. Detta tillåter dig att tömma ut din huvudinkorg.</translation>
+        <translation>Låter dig uppnå Inkorg Noll. Normalt när du aktiverar färdigheten Att Göra / FYI (kolla upp färdigheten Att Göra / FYI  för mera info=, e-postmeddelande som flyttas till dessa filer kommer finnas kvar i huvudinkorgen, men de ändrar färg. Att aktivera färdigheten Inkorg Noll innebär att dessa e-postmeddelanden nu flyttas till Att Göra / FYI filtren. Detta tillåter dig att tömma ut din huvudinkorg.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation>Betygsätt Epostmeddelanden</translation>
+        <translation>Betygsätt e-postmeddelanden</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
@@ -4067,11 +4067,11 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation>Det bästa sättet att förbättra din kommunikationförmåga är ärlig feedback, och vad är bättre än att fråga med ett epostmeddelande?</translation>
+        <translation>Det bästa sättet att förbättra din kommunikationsförmåga är ärlig feedback, och vad är bättre än att fråga med ett e-postmeddelande?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation>Låter andra betygsätta dina epostmeddelande med hjälp av dom fyra pelarna för bra kommunikation - tydlighet, korthet, ton samt beteende. Hiri kommer att ge dig ett betyg baserad på feedback och rekommendationer på vad du kan göra för att förbättra din kommunikationsförmåga. Betyget delas inte med någon annan. Betyg är anonymiserade - du kommer inte veta vem som betygsatte dig.</translation>
+        <translation>Låter andra betygsätta dina e-postmeddelande med hjälp av dom fyra pelarna för bra kommunikation - tydlighet, korthet, ton samt beteende. Hiri kommer att ge dig ett betyg baserad på feedback och rekommendationer på vad du kan göra för att förbättra din kommunikationsförmåga. Betyget delas inte med någon annan. Betyg är anonyma - du kommer inte veta vem som betygsatte dig.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
@@ -4079,7 +4079,7 @@ Detta gör att du kan nåla fast Hiriikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation>Förbättra ditt epostspel med dessa produktivitetshacks.</translation>
+        <translation>Förbättra ditt e-postspel med dessa produktivitetshacks.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4199,7 +4199,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation>Kolla våran FAQ i vårat supportcenter</translation>
+        <translation>Kolla vår FAQ i vårt supportcenter</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
@@ -4211,7 +4211,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation>Epostmeddelandet kommer att skickas till:</translation>
+        <translation>E-postmeddelandet kommer att skickas till:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
@@ -4266,7 +4266,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation>du och 1 till</translation>
+        <translation>du och en till</translation>
     </message>
     <message>
         <source>you and %1 others</source>
@@ -4274,7 +4274,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>1 other</source>
-        <translation>1 till</translation>
+        <translation>En till</translation>
     </message>
     <message>
         <source>%1 others</source>
@@ -4358,7 +4358,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Open email</source>
-        <translation>Öppna epost</translation>
+        <translation>Öppna e-post</translation>
     </message>
     <message>
         <source>Set a reminder</source>
@@ -4382,7 +4382,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Edit note</source>
-        <translation>Editera anteckning</translation>
+        <translation>Redigera anteckning</translation>
     </message>
     <message>
         <source>Clear note</source>
@@ -4500,11 +4500,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation>Konverstationen flyttad till Att göra mejlkorgen.</translation>
+        <translation>Konversationen flyttad till Att göra mejlkorgen.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation>Hoppsan, misslyckades med att skapa en följupp…</translation>
+        <translation>Hoppsan, misslyckades med att skapa en uppföljning…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
@@ -4575,7 +4575,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation>Epost kommer att skickas till:</translation>
+        <translation>E-post kommer att skickas till:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
@@ -4804,7 +4804,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation>Bilden sparades i din Nedladdade filerkatalog</translation>
+        <translation>Bilden sparades i din Nedladdade filer-katalog</translation>
     </message>
 </context>
 <context>
@@ -4817,7 +4817,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
         <source>It&apos;s time to get your email
 under control.</source>
         <translation>Det är dags att få kontroll
-på din epost.</translation>
+på din e-post.</translation>
     </message>
 </context>
 <context>
@@ -4828,7 +4828,7 @@ på din epost.</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation>Okänt tillgänglighetsstatus</translation>
+        <translation>Okänd tillgänglighetsstatus</translation>
     </message>
     <message>
         <source>You are %1</source>
@@ -4876,7 +4876,7 @@ på din epost.</translation>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation>Kunde inte spara ditt meddelande. Var god kontrollera dina ändringar då några av dom kanske inte har sparats.</translation>
+        <translation>Kunde inte spara ditt meddelande. Var god kontrollera dina ändringar då några av dem kanske inte har sparats.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>

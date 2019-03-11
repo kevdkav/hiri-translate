@@ -3347,7 +3347,7 @@ Saad siiski Hirit kasutada kuni ühendus serveriga on loodud.</translation>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation>Email alias on lihtsalt emaili aadress mis edastab kirjad teisele aadressile. See konto saab kõik kirjad mis saadetakse allpool loetletud aadressidele. Tehnilistel põhjustel saab Hiri kasutada ainult 3-e serveri poolt määratud alias aadressi. Kui Sul on rohkem kui 3 aliast võid need siia käsitsi lisada. See väldib Sinu emailide valesti kategoriseerimist kas otse või meililisti kaudu.
+        <translation>Alias on emaili aadress mis edastab kirjad teisele aadressile. See konto saab kõik kirjad mis saadetakse allpool loetletud aadressidele. Tehnilistel põhjustel saab Hiri kasutada ainult 3-e serveri poolt määratud alias aadressi. Kui Sul on rohkem kui 3 aliast võid need siia käsitsi lisada. See väldib Sinu emailide valesti kategoriseerimist kas otse või meililisti kaudu.
 
 Kehtivad aliased:</translation>
     </message>

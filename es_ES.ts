@@ -1307,7 +1307,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>FYI/Cc</source>
-        <translation>FYI/Cc</translation>
+        <translation>PTI/Cc</translation>
     </message>
     <message>
         <source>Bcc</source>
@@ -1656,7 +1656,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Farsi</source>
-        <translation>Farsi</translation>
+        <translation>Farsí</translation>
     </message>
     <message>
         <source>Faroese</source>
@@ -3286,12 +3286,13 @@ email to the next level.</source>
     </message>
     <message>
         <source>Ambassador subscription</source>
-        <translation type="unfinished"></translation>
+        <translation>Suscripción Ambassador</translation>
     </message>
     <message>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imposible obtener los datos de su suscripción
+Puede seguir usando Hiri, mientras se establece la conexión con el servidor.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
@@ -3335,7 +3336,7 @@ You can still use Hiri until connection with the server has been established.</s
     </message>
     <message>
         <source>Getting your emails…</source>
-        <translation>Recuperando sus correos</translation>
+        <translation>Recuperando sus correos…</translation>
     </message>
     <message>
         <source>Alias addresses</source>
@@ -3345,17 +3346,17 @@ You can still use Hiri until connection with the server has been established.</s
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation type="unfinished">Un alias de correo es simplemente una dirección de reenvío de correo. Dicha cuenta recibirá todos los correos enviados a las cuentas listadas abajo. Debido a limitaciones técnicas Hiri solo puede reconocer como máximo 3 alias en el servidor de correos. Si usted tiene más de 3 deberá añadirlas manualmente. Esto evitará que Hiri categorice erróneamente sus correos recibidos directamente o desde listas de correo.
+        <translation>Un alias de correo es simplemente una dirección de reenvío de correo. Dicha cuenta recibirá todos los correos enviados a las direcciones listadas abajo. Debido a limitaciones técnicas Hiri solo puede reconocer como máximo 3 alias en el servidor de correos. Si usted tiene más de 3 deberá añadirlas manualmente. Esto evitará que Hiri categorice erróneamente sus correos recibidos directamente o desde listas de correo.
 
 Alias conocidos:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca los alias aquí (uno por linea):</translation>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation type="unfinished"></translation>
+        <translation>(por favor asegúrese que estos alias existen, no se pueden crear alias en Hiri)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3363,23 +3364,23 @@ Alias conocidos:</translation>
     </message>
     <message>
         <source>Aliases saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Alias guardados</translation>
     </message>
     <message>
         <source>Make default</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija como predeterminado</translation>
     </message>
     <message>
         <source>Make this account appear first when Hiri starts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hacer que esta cuenta aparezca primero cuando Hiri inicie.</translation>
     </message>
     <message>
         <source>Are you sure you want to make this account default?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta seguro en hacer esta cuenta predeterminada?</translation>
     </message>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Si</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3387,25 +3388,27 @@ Alias conocidos:</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios tendrán efecto cuando reinicie Hiri</translation>
     </message>
     <message>
         <source>Delete account and settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar configuraciones de la cuenta</translation>
     </message>
     <message>
         <source>Remove all account specific information from Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Borre toda la información de la cuenta en Hiri.</translation>
     </message>
     <message>
         <source>Delete account</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar cuenta</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta seguro que quiere borrar esta cuenta de Hiri?
+Esto borrara todas las configuraciones y los correos LOCALMENTE.
+No se preocupe, sus correos están a salvo en el servidor!</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -3413,58 +3416,58 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>If your license isn&apos;t active but you&apos;ve already paid. Restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si su licencia esta inactiva pero usted ya pago. Reinicie Hiri.</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation type="unfinished"></translation>
+        <translation>Si esto no funciona, probablemente usted pago con una cuenta de correo diferente?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation type="unfinished"></translation>
+        <translation>Pague con una cuenta de correo diferente</translation>
     </message>
 </context>
 <context>
     <name>SettingsAppearance</name>
     <message>
         <source>Choose layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija el diseño</translation>
     </message>
     <message>
         <source>Choose how you would like your emails to appear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija como quiere que sus correos se vean.</translation>
     </message>
     <message>
         <source>Low density</source>
-        <translation type="unfinished"></translation>
+        <translation>Baja densidad</translation>
     </message>
     <message>
         <source>Less emails, more preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menos correos, mas previsualizacion.</translation>
     </message>
     <message>
         <source>High density</source>
-        <translation type="unfinished"></translation>
+        <translation>Alta densidad</translation>
     </message>
     <message>
         <source>More emails, less preview text.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas correos, menos previsualizacion.</translation>
     </message>
     <message>
         <source>Two-pane view</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista de dos paneles</translation>
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de correos arriba y panel de previsualizacion abajo.</translation>
     </message>
     <message>
         <source>User interface size</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño de la interfaz de usuario</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios se aplicaran cuando reinicie Hiri</translation>
     </message>
 </context>
 <context>
@@ -3475,57 +3478,57 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Show archive button in the email toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el botón de archivado en la barra de menú</translation>
     </message>
     <message>
         <source>Settings saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración guardada</translation>
     </message>
     <message>
         <source>Target folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Carpeta de destino</translation>
     </message>
 </context>
 <context>
     <name>SettingsCalendarTime</name>
     <message>
         <source>Calendar time zone</source>
-        <translation type="unfinished"></translation>
+        <translation>Uso horario del calendario</translation>
     </message>
     <message>
         <source>First day of week</source>
-        <translation type="unfinished"></translation>
+        <translation>Prime día de la semana</translation>
     </message>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Domingo</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Lunes</translation>
     </message>
     <message>
         <source>This change will take effect when you restart Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios se aplicaran cuando reinicie Hiri</translation>
     </message>
     <message>
         <source>Time format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de tiempo</translation>
     </message>
     <message>
         <source>This change will take effect once you refresh your inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Los cambios se aplicaran cuando refresque la bandeja de entrada</translation>
     </message>
 </context>
 <context>
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el tablero cuando este inactivo</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar el tablero cuando no este en Hiri por:</translation>
     </message>
 </context>
 <context>
@@ -3536,115 +3539,115 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Enable rating emails and communication score</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilitar la valoración de correos y puntuación de comunicación</translation>
     </message>
     <message>
         <source>Include rate link in the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Incluir botón de valoración en la firma</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralChangelog</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Registro de cambios</translation>
     </message>
 </context>
 <context>
     <name>SettingsGeneralMain</name>
     <message>
         <source>Optimize performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimizar rendimiento</translation>
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acelere Hiri y libere espacio en disco. Esto puede tomar un minuto.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimizando la base de datos…</translation>
     </message>
     <message>
         <source>Optimize now</source>
-        <translation type="unfinished"></translation>
+        <translation>Optimizar ahora</translation>
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hiri puede parecer bloqueado en este momento, dele unos minutos.</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hecho!</translation>
     </message>
     <message>
         <source>Check for update</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar actualizaciones</translation>
     </message>
     <message>
         <source>You are running Hiri version %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Usted tiene instalado Hiri versión %1</translation>
     </message>
     <message>
         <source>View changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver registro de cambios</translation>
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede comprobar actualizaciones en este momento</translation>
     </message>
     <message>
         <source>Found new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Hay una nueva versión</translation>
     </message>
     <message>
         <source>You are at the latest version</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiene la versión mas reciente</translation>
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Error comprobando actualizaciones</translation>
     </message>
 </context>
 <context>
     <name>SettingsLanguages</name>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Idiomas</translation>
     </message>
     <message>
         <source>Choose UI language:</source>
-        <translation type="unfinished"></translation>
+        <translation>Escoja el idioma de la interfaz:</translation>
     </message>
     <message>
         <source>Saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardado</translation>
     </message>
     <message>
         <source>This will take effect only after you restart Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto tendrá efecto después de reiniciar Hiri.</translation>
     </message>
     <message>
         <source>Please note:</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor note:</translation>
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si la traducción que usted selecciono esta incompleta, algunas palabras aparecerán en ingles. Si gusta ayudar con la traduccion (o traducir un idioma no listado) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt; vaya aqui &lt;/a&gt; y contribuya! muchas gracias.</translation>
     </message>
     <message>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation>Avanzado</translation>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargar</translation>
     </message>
 </context>
 <context>
     <name>SettingsOof</name>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera de la oficina</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3652,42 +3655,42 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor introduzca un mensaje para Fuera de la Oficina.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera de la oficina guardado</translation>
     </message>
     <message>
         <source>Error saving out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al guardar fuera de la oficina</translation>
     </message>
 </context>
 <context>
     <name>SettingsPage</name>
     <message>
         <source>Settings for</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes para</translation>
     </message>
     <message>
         <source>Global settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes globales</translation>
     </message>
     <message>
         <source>for all accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Para todas las cuentas</translation>
     </message>
     <message>
         <source>Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Cuenta</translation>
     </message>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Firma</translation>
     </message>
     <message>
         <source>Out of office</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuera de la oficina</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -3695,107 +3698,108 @@ Don&apos;t worry, your emails are still safe on the server!</source>
     </message>
     <message>
         <source>Buy Hiri</source>
-        <translation type="unfinished"></translation>
+        <translation>Suscribase a Hiri</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferencias</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Aspecto</translation>
     </message>
     <message>
         <source>Calendar</source>
-        <translation type="unfinished"></translation>
+        <translation>Calendario</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Hora</translation>
     </message>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajos del teclado</translation>
     </message>
     <message>
         <source>Keyboard shortcuts (Ctrl + /)</source>
-        <translation type="unfinished"></translation>
+        <translation>Atajos del teclado (Ctrl + /)</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablero</translation>
     </message>
     <message>
         <source>Languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Idiomas</translation>
     </message>
 </context>
 <context>
     <name>SettingsPreferences</name>
     <message>
         <source>Desktop notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notificaciones de escritorio</translation>
     </message>
     <message>
         <source>Disable notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Desactivar notificaciones</translation>
     </message>
     <message>
         <source>Meeting and task reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordatorios de reuniones y tareas</translation>
     </message>
     <message>
         <source>Meeting reminders, task reminders and new emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordatorio de reuniones, recordatorio de tareas y correos nuevos</translation>
     </message>
     <message>
         <source>Desktop Integration</source>
-        <translation type="unfinished"></translation>
+        <translation>Integración del escritorio</translation>
     </message>
     <message>
         <source>Show Hiri in the system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar Hiri en la bandeja de sistema</translation>
     </message>
     <message>
         <source>Close to system tray</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimice a la bandeja de sistema</translation>
     </message>
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear icono en el escritorio y agregar al menú de aplicaciones.
+Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear icono en el escritorio</translation>
     </message>
     <message>
         <source>Done!</source>
-        <translation type="unfinished"></translation>
+        <translation>Hecho!</translation>
     </message>
     <message>
         <source>Make Hiri the default email application.</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga Hiri la aplicación de correo predeterminada.</translation>
     </message>
     <message>
         <source>Register as default mail app</source>
-        <translation type="unfinished"></translation>
+        <translation>Registre como aplicación de correo predeterminada</translation>
     </message>
     <message>
         <source>Error registering</source>
-        <translation type="unfinished"></translation>
+        <translation>Error registrando</translation>
     </message>
     <message>
         <source>Compose &amp; reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Redactar y responder</translation>
     </message>
     <message>
         <source>Close conversation after sending a reply</source>
-        <translation type="unfinished"></translation>
+        <translation>Cierre la conversación después de enviar la respuesta</translation>
     </message>
     <message>
         <source>Attachments</source>
@@ -3803,50 +3807,50 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation type="unfinished"></translation>
+        <translation>Preguntar siempre donde descargar los adjuntos</translation>
     </message>
     <message>
         <source>Download to</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar a</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar</translation>
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error seleccionando carpeta. Intente otra carpeta.</translation>
     </message>
     <message>
         <source>Spell check</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación ortográfica</translation>
     </message>
     <message>
         <source>Spell checker enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobación ortográfica habilitada</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>You can change spell checker settings by right clicking in reply and compose windows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede cambiar los ajustes de comprobación ortográfica con el botón derecho del ratón en las ventanas de respuesta y redacción.</translation>
     </message>
     <message>
         <source>(Enabled when notifications are switched on)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Habilitada cuando las notificaciones están encendidas)</translation>
     </message>
 </context>
 <context>
     <name>SettingsSignature</name>
     <message>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Firma</translation>
     </message>
     <message>
         <source>Include &quot;--&quot; at the top of the signature</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar &quot;--&quot; arriba de la firma</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3854,7 +3858,7 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Signature saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Firma guardada</translation>
     </message>
 </context>
 <context>
@@ -3875,195 +3879,195 @@ This will let you pin Hiri icon to your launcher.</source>
     <name>SingleAttachment</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al descargar el adjunto</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups! No estoy seguro como abrir este adjunto!</translation>
     </message>
     <message>
         <source>Attachment downloaded to: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjunto descargado al: %1</translation>
     </message>
 </context>
 <context>
     <name>SinglePerson</name>
     <message>
         <source>OUT OF OFFICE</source>
-        <translation type="unfinished"></translation>
+        <translation>FUERA DE LA OFICINA</translation>
     </message>
     <message>
         <source>Out of office message</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de fuera de la oficina</translation>
     </message>
     <message>
         <source>Remove task</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar tarea</translation>
     </message>
     <message>
         <source>Add task</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar tarea</translation>
     </message>
 </context>
 <context>
     <name>SingleTaskInput</name>
     <message>
         <source>Ask question here</source>
-        <translation type="unfinished"></translation>
+        <translation>Haga su pregunta aquí</translation>
     </message>
     <message>
         <source>Describe task here</source>
-        <translation type="unfinished"></translation>
+        <translation>Describa la tarea aquí</translation>
     </message>
     <message>
         <source>Delegate to</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegar a</translation>
     </message>
     <message>
         <source>Question for</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregunta por</translation>
     </message>
     <message>
         <source>Task for</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea por</translation>
     </message>
 </context>
 <context>
     <name>SkillExplanation</name>
     <message>
         <source>Skill enabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilidad habilitada</translation>
     </message>
     <message>
         <source>Skill disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Habilidad des-habilitada</translation>
     </message>
     <message>
         <source>What does it do?</source>
-        <translation type="unfinished"></translation>
+        <translation>Que hace esto?</translation>
     </message>
     <message>
         <source>What&apos;s it look like?</source>
-        <translation type="unfinished"></translation>
+        <translation>Como se ve?</translation>
     </message>
     <message>
         <source>Why?</source>
-        <translation type="unfinished"></translation>
+        <translation>Por que?</translation>
     </message>
 </context>
 <context>
     <name>Skills</name>
     <message>
         <source>Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Acción/PTI Separar</translation>
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation type="unfinished"></translation>
+        <translation>Separar tus correos utilizando Acción/PTI Separar.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrega un filtro para Acción y un filtro para PTI en la caja gris oscura de la izquierda.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>El Tablero</translation>
     </message>
     <message>
         <source>Stop checking your mail so often.</source>
-        <translation type="unfinished"></translation>
+        <translation>No revise su correo tan seguido.</translation>
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tablero va a aparecer al frente de Hiri a los 90 segundos de inactividad para recordarle que no revise su correo tan seguido. Esto lo ayuda a mantenerse concentrado y le ahorra tiempo.</translation>
     </message>
     <message>
         <source>Task List</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista de Tareas</translation>
     </message>
     <message>
         <source>Turn your emails into tasks by clicking.</source>
-        <translation type="unfinished"></translation>
+        <translation>Convierta sus correos en tareas pulsando el ratón.</translation>
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregue una lista de tareas al lado derecho. Simplemente arrastre los correos a este panel para crear una Lista de Tareas.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegar Correos</translation>
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation type="unfinished"></translation>
+        <translation>Asegúrese de que ha delegado una tarea.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar un boton de Delegar en la Barra de Acción de Correo.</translation>
     </message>
     <message>
         <source>Reminders</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordatorios</translation>
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nunca se vuelva a olvidar de un correo importante</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregue un botón de Recordatorio a la Barra de Acción de Correo. Esto le permite crear recordatorios para conversaciones especificas.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Escriba mejores lineas de Asunto</translation>
     </message>
     <message>
         <source>Improve your subject lines by writing them last.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejore su lineas de asunto, escribiéndolas al final.</translation>
     </message>
     <message>
         <source>Moves the subject line to the bottom of the email compose window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mueve la linea de asunto a la parte baja de la ventana de redacción.</translation>
     </message>
     <message>
         <source>Zero Inbox</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandeja de entrada Cero</translation>
     </message>
     <message>
         <source>For those who practise the Zen art of Zero Inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para aquellos que practican el arte Zen de la Bandeja de entrada Cero.</translation>
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation type="unfinished"></translation>
+        <translation>Requiere Accion/PTI Separar</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le permite alcanzar Bandeja de Entrada Cero. Normalmente cuando habilita la habilidad Acción / PTI (Revise la habilidad Acción / PTI para mas información), los correos son movidos a estos filtros en la bandeja de entrada principal, con un color diferente. Habilitando la habilidad Bandeja de Entrada Cero significa que estos correos ahora se mueven al filtro Acción / PTi. Esto le permite vaciar su bandeja de entrada principal.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation type="unfinished"></translation>
+        <translation>Califique los Correos</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conviértase en un mejor comunicador.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy Pronto!</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation type="unfinished"></translation>
+        <translation>La mejor manera de mejorar sus habilidades de comunicación es una retro-alimentación honesta y que mejor lugar para preguntar que en un correo?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
@@ -4071,11 +4075,11 @@ This will let you pin Hiri icon to your launcher.</source>
     </message>
     <message>
         <source>Time to skill up.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo para mejorar.</translation>
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mejore su juego con estos trucos de productividad en correos.</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4167,23 +4171,23 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>SupportDialog</name>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando retro-alimentación…</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor escriba un mensaje de retro-alimentación</translation>
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Mensaje de retro-alimentación: %1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Retro-alimentación enviada. Muchas gracias!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al enviar retro-alimentación</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4191,43 +4195,43 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>El correo sera enviado a:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayúdanos a ayudarte :)</translation>
     </message>
     <message>
         <source>Send feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Envíe retro-alimentación</translation>
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Error adjuntando los registros</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Revise las Preguntas Frecuentes en nuestro centro de apoyo</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>Si tiene alguna sugerencia para nosotros</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>O contacte con el equipo de Hiri directamente</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entra mas detalles proporcione, mejor podremos ayudarle.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Díganos con que parte de la aplicación, se relaciona su problema/sugerencia.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjunte los registros a esta boleta</translation>
     </message>
 </context>
 <context>
@@ -4235,70 +4239,70 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation type="unfinished"></translation>
+        <translation>Encendido</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Apagado</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>tu</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>tu y 1 mas</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>tu y uno(s) %1 mas</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>1 mas</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mas</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregunta</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea</translation>
     </message>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se completaron estas tareas?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Se completo esta tarea?</translation>
     </message>
     <message>
         <source>Delegated</source>
-        <translation type="unfinished"></translation>
+        <translation>Delegada</translation>
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea sin completar</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Marco este mensaje como una tarea el %1</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>a</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>para</translation>
     </message>
 </context>
 <context>
@@ -4316,18 +4320,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>Todas las tareas</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lista nueva</translation>
     </message>
 </context>
 <context>
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Misma tarea para todos</translation>
     </message>
 </context>
 <context>
@@ -4342,77 +4346,77 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijar fecha de vencimiento</translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>Creo esta tarea</translation>
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>de</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Correo abierto</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Fijar un recordatorio</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar recordatorio</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar fecha de vencimiento</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar tarea</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregue una nota</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Edite la nota</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Limpie la nota</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta seguro que quiere limpiar la nota?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Si, limpiarla</translation>
     </message>
     <message>
         <source>No, keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>No, mantenerla</translation>
     </message>
 </context>
 <context>
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>tu</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>todos</translation>
     </message>
 </context>
 <context>
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar la nota de la tarea</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4427,151 +4431,151 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sin tarea)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, no se pudo remover el recordatorio…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, no se pudo demorar el recordatorio de la tarea…</translation>
     </message>
 </context>
 <context>
     <name>Tasks</name>
     <message>
         <source>Create a new task</source>
-        <translation type="unfinished"></translation>
+        <translation>Crear una nueva tarea</translation>
     </message>
 </context>
 <context>
     <name>TasksContainer</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Sin tarea)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a completed task</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no se puede mover una tarea completada</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move a sent task</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no se puede mover una tarea enviada</translation>
     </message>
 </context>
 <context>
     <name>TasksController</name>
     <message>
         <source>Oops, loading task lists failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo la carga de la lista de tareas…</translation>
     </message>
     <message>
         <source>Oops, loading tasks failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo el cargado de tareas…</translation>
     </message>
     <message>
         <source>Oops, creating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo la creación de la tarea…</translation>
     </message>
     <message>
         <source>Oops, updating task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo la actualización de la tarea…</translation>
     </message>
     <message>
         <source>You have moved this task to &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha movido esta tarea a &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Oops, moving task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo el mover la tarea…</translation>
     </message>
     <message>
         <source>Oops, deleting task failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo el eliminar la tarea…</translation>
     </message>
     <message>
         <source>Oops, deleting task folder failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo el eliminar la carpeta de tareas…</translation>
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conversación movida al Buzón Accionable.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, fallo la creación del seguimiento…</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t add a task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no se puede agregar una tarea a la lista de tareas enviadas</translation>
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea movida a Hoy - fecha de vencimiento fijada (Hoy, 6pm)</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Tarea movida a Esta Semana - fecha de vencimiento fijada (Viernes, 6pm)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos, no puede mover esta tarea a la lista de tareas enviadas</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos su periodo de prueba a terminado :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se preocupe! Puede comprar una licencia y continuar usando Hiri.</translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Contáctenos.</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Compre ahora</translation>
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobando suscripción…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo sentimos. No podemos localizar su pago.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Por favor mande un mensaje de retro-alimentación</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviando retro-alimentación…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pregunta de prueba: %1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Retro-alimentación enviada. Muchas gracias!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al enviar la retro-alimentación</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>El correo sera enviado a:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiene alguna pregunta acerca de su prueba o alguna sugerencia que quiera compartir?</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4579,19 +4583,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>Si tiene alguna pregunta, por favor</translation>
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si esta atorado aquí, pero ya pago.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulse abajo para continuar!</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya pague</translation>
     </message>
 </context>
 <context>
@@ -4609,47 +4613,47 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Domingo</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Lunes</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Martes</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Miércoles</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>Jueves</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>Viernes</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>Sábado</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Tu</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Justo ahora</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayer</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -4657,19 +4661,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 adjuntos agregados.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Adjunto agregado.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ese archivo ya se adjunto.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunos archivos ya se adjuntaron.</translation>
     </message>
     <message>
         <source>Every day</source>
@@ -4685,11 +4689,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1.</source>
-        <translation>Cada% 1% %2 {1.?}</translation>
+        <translation>Cada 1%.</translation>
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cada %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
@@ -4697,15 +4701,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Finaliza hoy</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>1 día restante</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 día(s) restante(s)</translation>
     </message>
     <message>
         <source>All day</source>
@@ -4737,82 +4741,83 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba:</translation>
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Expira en</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Empieza en</translation>
     </message>
 </context>
 <context>
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir liga</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar dirección de la liga</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar imagen</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar imagen</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Cortar</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Copiar</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Pegar sin formato</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar todo</translation>
     </message>
     <message>
         <source>Unselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitar selección</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Comprobar ortografía</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Idioma</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Imagen descargada a la carpeta de Descargas</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido a Hiri!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es tiempo de obtener tu correo
+bajo control.</translation>
     </message>
 </context>
 <context>
@@ -4823,37 +4828,37 @@ under control.</source>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estatus de disponibilidad desconocido</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Eres %1</translation>
     </message>
     <message>
         <source>Where: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Donde: %1</translation>
     </message>
 </context>
 <context>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Si</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
 </context>
 <context>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error al descargar el adjunto</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Imposible guardar: </translation>
     </message>
 </context>
 <context>
@@ -4864,50 +4869,50 @@ under control.</source>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>para</translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al guardar su mensaje. Revise nuevamente los cambios porque algunos pudieron no haberse guardado.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, Algo salio mal</translation>
     </message>
 </context>
 <context>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor de Hiri esta fuera de linea. No va a ser posible el calificar los correos de sus colegas o ver su puntuación de comunicación.</translation>
     </message>
 </context>
 <context>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> de parte de </translation>
     </message>
 </context>
 <context>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>La conexión con el servidor se interrumpió</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ups, algo salio mal</translation>
     </message>
 </context>
 <context>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Prueba {} interpolacion</translation>
     </message>
 </context>
 </TS>

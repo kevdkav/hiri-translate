@@ -4071,7 +4071,7 @@ Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto le permite a otros calificar sus correos usando los cuatro pilares de la buena comunicación - claridad, brevedad, tono y comportamiento. Hiri le mostrara una calificación basada en las recomendaciones de sus compañeros, en lo que puede mejorar de sus habilidades de comunicación. Esta calificación no se comparte con nadie mas. Las calificaciones son anónimas, usted no sabra quien lo califico.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
@@ -4093,14 +4093,28 @@ Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Version corta: El categorizar sus correos sirve para separar el trigo de la paja. Una bandeja de entrada organizada, conduce a una mente mas sana. &lt;br /&gt;&lt;br /&gt;
+Separar sus correos al momento de llegar en cosas que necesita hacer y cosas que solo necesita saber es una buena forma de categorizar su bandeja de entrada. Cuando usted categoriza su bandeja de entrada efectivamente, se dará cuenta que las cosas que necesita hacer son mucho menos de lo que pensaba. De hecho solo el 20% aproximadamente en promedio del correo que recibe, contiene alguna tarea para usted. Las razones principales para el resto de los correos se desglosan como sigue: &lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt; 16% de los correos recibidos son innecesarios CC&apos;s &lt;/li&gt;
+&lt;li&gt; 13% de los correos recibidos son irrelevantes o equivocados &lt;/li&gt;
+&lt;li&gt; 41% de los correos recibidos son para propósitos informativos solamente &lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;
+Si usted no categoriza su correo, no puede saber cuales correos requieren su atención y cuales no. Lo que se puede ver como una bandeja de entrada con una insuperable montaña de trabajo. El ver una bandeja de entrada desbordándose puede ser muy tenso. Y cuando usted se tensiona, las cosas importantes se escapan. &lt;br /&gt;&lt;br /&gt; El concepto Acción / PTI es llevado también a otras partes de la aplicación. Por ejemplo si usted habilita la habilidad Lista de Tarea, cualquier correo que arrastre a la lista, automáticamente aparecerá en el filtro de Acción.&lt;br /&gt;&lt;br /&gt;
+
+Para aprender en detalle acerca de Accion / PTI,
+&lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt; visite nuestro articulo de soporte&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cúal es el habito más destructivo con el Correo electrónico? Revisar tu correo con demasiada frecuencia. En promedio revisamos nuestro correo 96 veces al día, o cada 5 minutos. Esto es completamente innecesario. Nadie espera que revises tu correo tan frecuentemente (y si alguien lo hace, esta loco).&lt;br/&gt;&lt;br/&gt;
+El correo electrónico no es un protocolo de comunicación en tiempo real. Se necesita una respuesta rápida? intenta llamar, mensaje de texto, mensaje instantáneo, o simplemente vaya a su escritorio. El correo electrónico es realmente bueno para una comunicación inequívoca y asíncrona. Explicado mejor, asuntos que no necesitan una respuesta inmediata donde la respuesta es clara. Por qué clara? Si tu correo va a resultar en muchos correos mas, es mejor hablar por teléfono. Nadie disfruta correo ping pong.&lt;br /&gt;&lt;br /&gt;
+Revisar con menor frecuencia los correo puede resultar en un ahorro sustancial de tiempo. Cada vez que revisas tu correo, te cuesta al menos un minuto (algunos estudios dicen que 20, dependiendo de tu puesto). Esto es porque te interrumpen, no es solamente el tiempo que toma leer el correo. Es el tiempo que te toma en volver a estar donde estabas antes de ser interrumpido.&lt;br /&gt;&lt;br /&gt;
+Un grupo de investigadores de la UC en Irvine y del ejercito de los EU estudio los efectos del ritmo cardiaco y la habilidad de concentrarse al limitar el acceso a los correos electrónicos de los participantes. Encontraron que al limitar el acceso al correo electrónico la tension disminuye significativamente, esto se observa por el ritmo cardiaco. Los participantes sin acceso al correo electrónico cambiaron de ventanas 18 veces en una hora, comparado con 37 veces de los participantes que sí tenían acceso al correo electrónico. La habilidad Tablero, no impide que acceses a tu correo, pero se ha demostrado que si disminuye el numero de veces que lo haces.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4109,7 +4123,12 @@ Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Alguna vez se te ha olvidado atender un correo importante? Por supuesto. Capturando esos correos en la lista de tareas, puedes estar seguro que no olvidaras algo importante. O tener que estar recorriendo la bandeja de entrada una y otra vez para recordar que es lo que tienes que hacer.&lt;br /&gt;&lt;br /&gt;
+La Lista de Tareas tiene algunas características atractivas. Por ejemplo, puedes abrir un correo asociado con la lista de tareas directamente desde la lista de tareas. Y vice-versa puedes abrir una tarea asociada con un correo desde cualquier correo.&lt;br /&gt;&lt;br /&gt;
+También puedes organizar tus tareas en listas. Tenemos algunas listas predefinidas, por ejemplo, tareas que vencen el día de hoy y tareas que has enviado a otras personas, pero también puedes crear tus listas personalizadas.&lt;br /&gt;&lt;br /&gt;
+Las Tareas son compatibles con las aplicaciones MS Outlook and Microsoft&apos;s Task.&lt;br /&gt;&lt;br /&gt;
+Para aprender mas acerca de la lista de tareas, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt; visite nuestra pagina de soporte&lt;/a&gt;
+    </translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4131,7 +4150,25 @@ Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Has escuchado de las cuatro D? No? Esta bien.&lt;br /&gt;
+Viene de la investigación de Microsoft, y trabajan así:&lt;br /&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Si no es importante, &lt;strong&gt;Delete&lt;/strong&gt;it &lt;strong&gt;Borralo&lt;strong&gt;.&lt;/li&gt;
+&lt;li&gt;Si puede hacerse en dos minutos o menos, &lt;strong&gt;Do&lt;/strong&gt;it &lt;strong&gt;Hazlo&lt;strong&gt;.&lt;/li&gt;
+&lt;li&gt;Si no es para ti o si puedes &lt;strong&gt;Delegar&lt;strong&gt;.&lt;/li&gt;
+&lt;li&gt;Si tu lo tienes que hacer, pero toma mas de dos minutos(incluida la lectura), &lt;strong&gt;Defer&lt;strong&gt;it &lt;strong&gt;Posponlo&lt;strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+Puedes accionar todos tus correos utilizando la metodología de las cuatro D. En Hiri amamos las cuatro D. Pero queríamos haver la &quot;D&quot; Delegar un poco más obvia. Por eso agregamos un botón de Delegar.&lt;br /&gt;&lt;br /&gt;
+
+El botón de Delegar actúa muy parecido al botón de Reenviar, con algunas diferencias. Cuando utilizas el botón Delegar, un campo de tarea es agregado al inicio del correo reenviado, de esta manera le haces saber al destinatario exactamente qué es lo que quieres que haga con el correo. Esto es importante, porque 40% de los correos que reciben los usuarios, no explican que se requiere, lo que conlleva a mas correos de aclaración.&lt;br /&gt;&lt;br /&gt;
+
+Es un pequeño cambio, pero es una manera mas que tiene Hiri de ayudarte a mejorar tu comunicación.&lt;br /&gt;&lt;br /&gt;
+
+Hay un &quot;bono&quot; mas al usar el botón Delegar. Si envías un correo Delegado a otro usuario de Hiri, el correo va automáticamente a su bandeja de Accionamiento, porque sabemos que contiene acciones para ellos.
+    </translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4143,7 +4180,14 @@ Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Los correos que recibes pueden ser tratados usando la metodología de las cuatro D:&lt;br /&gt;&lt;br /&gt;
+
+1. si no es importante, &lt;strong&gt;Delete&lt;/strong&gt;it &lt;strong&gt;Borralo&lt;/strong&gt;.&lt;br /&gt;
+2. si puede hacerse en dos minutos o menos, &lt;strong&gt;do&lt;/strong&gt; it &lt;strong&gt;Hazlo&lt;/strong&gt;.&lt;br /&gt;
+3. si no es para ti o si puedes, &lt;strong&gt;Delegarlo&lt;strong&gt;.&lt;br /&gt;
+4. si es para ti, pero toma mas de dos minutos (incluyendo la lectura), &lt;strong&gt;Defer&lt;strong&gt; it &lt;strong&gt;Posponlo&lt;strong&gt;.&lt;br /&gt;&lt;br /&gt;
+El botón (Defer) posponer es la cuarta D in la lista. En ocasiones no puedes atender un correo de inmediato, pero necesita atenderse antes de una fecha especifica. Pulsando el botón de recordatorio te permite escoger cuando quieres que te recuerden acerca de ese correo. Tan simple como eso
+    </translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4152,12 +4196,17 @@ Esto le permitirá anclar Hiri al lanzador de aplicaciones.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Usted escribirá una mejor linea de asunto una vez que haya escrito el cuerpo del correo.&lt;br /&gt;&lt;br /&gt;
+Esto es importante. Un mejor uso de la linea de asunto facilita significativamente para alguien el evaluar la importancia de un correo. Si la linea de asunto es congruente con el cuerpo del correo, también facilita el entendimiento del correo.&lt;br /&gt;&lt;br /&gt;
+
+Por las mismas razones, también habra notado que Hiri no le permitirá enviar un correo sin una linea de asunto.
+    </translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bandeja de entrada Cero es un enfoque muy riguroso de administración del correo electrónico enfocada a mantener la bandeja de entrada vacía o casi vacía en todo momento.&lt;br /&gt;&lt;br /&gt;
+Bandeja de entrada Cero fue desarrollada por el experto en productividad Merlon Mann. De acuerdo a Mann, el cero no es una referencia al numero de correos en la bandeja de entrada; es la &quot;cantidad de tiempo que el cerebro de un empleado permanece en la bandeja de entrada.&quot; El razonamiento de Mann es que el tiempo y la atención son finitos y cuando una bandeja de entrada es confundida con una lista de cosas &quot;por hacer&quot;, la productividad sufre. Cuando despejas tu bandeja de entrada, pasaras menos tiempo revisando tu correo. Una bandeja de entrada limpia te conduce a una mente sana y productiva - eso dice la teoría.</translation>
     </message>
 </context>
 <context>

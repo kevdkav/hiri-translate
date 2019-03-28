@@ -1601,7 +1601,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation>Agregado a la firma: &quot;Yo estoy tomando el control de mi correo &lt;a href=&quot;https://www.hiri.com/&quot;&gt;1usando Hiri&lt;/a&gt;2&quot;</translation>
+        <translation>Agregado a la firma: &quot;Yo estoy tomando el control de mi correo &lt;a href=&quot;https://www.hiri.com/&quot;&gt;usando Hiri&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
@@ -3420,11 +3420,11 @@ No se preocupe, sus correos están a salvo en el servidor!</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation>Si esto no funciona, probablemente usted pago con una cuenta de correo diferente?</translation>
+        <translation>Si esto no funciona, probablemente usted pagó con una cuenta de correo diferente?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation>Pague con una cuenta de correo diferente</translation>
+        <translation>Pagué con una cuenta de correo diferente</translation>
     </message>
 </context>
 <context>
@@ -4644,7 +4644,7 @@ Bandeja de entrada Cero fue desarrollada por el experto en productividad Merlon 
     </message>
     <message>
         <source>I have already paid</source>
-        <translation>Ya pague</translation>
+        <translation>Ya pagué</translation>
     </message>
 </context>
 <context>

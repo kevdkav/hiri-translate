@@ -64,7 +64,7 @@
     <name>AutoComplete</name>
     <message>
         <source>Search Global Address List (%1 + Tab)</source>
-        <translation>Buscar lista global de direcciones (% 1 + Tab)</translation>
+        <translation>Buscar lista global de direcciones (%1 + Tab)</translation>
     </message>
 </context>
 <context>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation>Actualizando ...% 1%</translation>
+        <translation>Actualizando ...%1%</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -2336,7 +2336,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Free</source>
-        <translation>Gratis</translation>
+        <translation>Libre</translation>
     </message>
 </context>
 <context>
@@ -2351,11 +2351,11 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>All day?</source>
-        <translation>Todo el día?</translation>
+        <translation>¿Todo el día?</translation>
     </message>
     <message>
         <source>Private?</source>
-        <translation>Privada?</translation>
+        <translation>¿Privada?</translation>
     </message>
     <message>
         <source>Repeat</source>

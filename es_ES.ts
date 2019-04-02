@@ -1601,7 +1601,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation>Agregado a la firma: &quot;Yo estoy tomando el control de mi correo &lt;a href=&quot;https://www.hiri.com/&quot;&gt;usando Hiri&lt;/a&gt;&quot;</translation>
+        <translation>Agregado a la firma: &quot;Mi correo esta bajo control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;con Hiri&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
@@ -2108,7 +2108,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Subject</source>
-        <translation>Tema</translation>
+        <translation>Asunto</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2120,7 +2120,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation>Incluir archivos adjuntos de mensajes originales</translation>
+        <translation>Incluir adjuntos del mensaje original</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
@@ -2194,7 +2194,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MailComposeInputs</name>
     <message>
         <source>Action | To</source>
-        <translation>Acción | A</translation>
+        <translation>Acción | Para</translation>
     </message>
     <message>
         <source>FYI | Cc</source>
@@ -2217,7 +2217,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation>¿Que &lt;font color=&quot;#e54624&quot;&gt;Acción&lt;/font&gt; y &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
+        <translation>¿Que es &lt;font color=&quot;#e54624&quot;&gt;Acción&lt;/font&gt; y &lt;font color=&quot;#29abe2&quot;&gt;PSI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
@@ -2229,7 +2229,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>Why is the subject at the bottom?</source>
-        <translation>¿Por qué el sujeto está en la parte inferior?</translation>
+        <translation>¿Por qué el asunto está en la parte inferior?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>

@@ -317,7 +317,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>No puedes cancelar esta reunión porque no eres el organizador. ¿Quieres eliminarlo en su lugar?</translation>
+        <translation>No puedes cancelar esta reunión porque no eres el organizador. ¿Quieres eliminarla en su lugar?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -4873,7 +4873,7 @@ bajo control.</translation>
     <name>WhenAndWhere</name>
     <message>
         <source>When: %1</source>
-        <translation>Cuándo:% 1</translation>
+        <translation>Cuándo: %1</translation>
     </message>
     <message>
         <source>Unknown availability status</source>
@@ -4881,7 +4881,7 @@ bajo control.</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation>Eres %1</translation>
+        <translation>Estas %1</translation>
     </message>
     <message>
         <source>Where: %1</source>

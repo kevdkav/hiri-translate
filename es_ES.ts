@@ -1188,7 +1188,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>When: %1</source>
-        <translation>Cuándo:% 1</translation>
+        <translation>Cuándo: %1</translation>
     </message>
     <message>
         <source>%1 on behalf of %2</source>
@@ -4805,11 +4805,11 @@ Bandeja de entrada Cero fue desarrollada por el experto en productividad Merlon 
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation>Abrir liga</translation>
+        <translation>Abrir enlace externo</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation>Copiar dirección de la liga</translation>
+        <translation>Copiar dirección del enlace</translation>
     </message>
     <message>
         <source>Copy image</source>
@@ -4865,7 +4865,7 @@ Bandeja de entrada Cero fue desarrollada por el experto en productividad Merlon 
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation>Es tiempo de obtener tu correo
+        <translation>Es tiempo de tener tu correo
 bajo control.</translation>
     </message>
 </context>

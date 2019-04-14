@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Añade otra cuenta</translation>
+        <translation>Añadir otra cuenta</translation>
     </message>
 </context>
 <context>
@@ -16,7 +16,7 @@
     </message>
     <message>
         <source>Shared Calendars</source>
-        <translation>Calendarios compartidos</translation>
+        <translation>0Calendarios compartidos</translation>
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>

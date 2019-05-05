@@ -4168,9 +4168,9 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
 
 &lt;ol&gt;
     &lt;li&gt;Wenn es nicht wichtig ist, &lt;strong&gt;lösche&lt;/strong&gt; (&quot;delete&quot;) es.&lt;/li&gt;
-    &lt;li&gt;Wenn es in 2 Minuten oder weniger getan werden kann, &lt;stark&gt;mache&lt;/stark&gt; (&quot;do&quot;) es.&lt;/li&gt;.
+    &lt;li&gt;Wenn es in 2 Minuten oder weniger getan werden kann, &lt;strong&gt;mache&lt;/strong&gt; (&quot;do&quot;) es.&lt;/li&gt;.
     &lt;li&gt;Wenn es nicht für Sie ist oder wenn Sie können, &lt;strong&gt;delegiere&lt;/strong&gt; (&quot;delegate&quot;) es.&lt;/li&gt;.
-    &lt;li&gt;Wenn Sie es tun müssen, aber es länger als 2 Minuten (einschließlich des Lesens) dauert, &lt;stark&gt;verschiebe&lt;/stark&gt; (&quot;defer&quot;) es.&lt;/li&gt;.
+    &lt;li&gt;Wenn Sie es tun müssen, aber es länger als 2 Minuten (einschließlich des Lesens) dauert, &lt;strong&gt;verschiebe&lt;/strong&gt; (&quot;defer&quot;) es.&lt;/li&gt;.
 &lt;/ol&gt;
 &lt;br /&gt;
 
@@ -4193,7 +4193,15 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>E-Mails, die Sie erhalten, können mit der Four D-Methodik bearbeitet werden:&lt;br /&gt;&lt;br /&gt;
+
+    1.      Wenn es nicht wichtig ist, &lt;strong&gt;lösche (delete)&lt;/strong&gt; es.&lt;br /&gt;
+    2.      Wenn es in 2 Minuten oder weniger gemacht werden kann, &lt;strong&gt;tu (do)&lt;/strong&gt; es.&lt;br /&gt;
+    3.      Wenn es nicht für dich ist oder wenn du kannst, &lt;strong&gt;delegiere&lt;/strong&gt; es.&lt;br /&gt;
+    4.      Wenn du es tun musst, aber es dauert länger als 2 Minuten (einschließlich Lesen), &lt;strong&gt;deferiere&lt;/strong&gt; es.&lt;br /&gt;&lt;br /&gt;
+
+    Die Schaltfläche Defer ist das vierte &apos;D&apos; in der Liste. Manchmal kann man eine E-Mail nicht sofort bearbeiten, aber sie muss an oder vor einem bestimmten Datum bearbeitet werden. Wenn Sie auf die Schaltfläche Erinnerung klicken, können Sie wählen, wann Sie eine Erinnerung an einen bestimmten E-Mail-Thread erhalten möchten. So einfach ist das!
+    </translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4202,12 +4210,18 @@ Damit können Sie Hiri an Ihren Launcher anheften.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Du kannst einen besseren Betreff schreiben, wenn du zuerst den Rest deiner E-Mail verfasst.&lt;br /&gt;&lt;br /&gt;
+
+    Das ist wichtig. Die genauere Beschreibung des Betreff macht es für andere Personen einfacher die Wichtigkeit deiner E-Mail einzuschätzen. Wenn der Betreff deiner E-Mail einen direkten Bezug zum Inhalt hat, ist es so für andere Leute einfacher diesen zu verstehen.&lt;br /&gt;&lt;br /&gt;
+
+    Aus dem selben Grund wird Hiri es dir auch nicht erlauben eine Mail ohne Betreff zu versenden.
+    </translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Inbox Zero&quot; ist ein rigoroser Ansatz des Email Management, mit dem Ziel die Inbox zu (fast) jeder Zeit leer zu halten.&lt;br /&gt;&lt;br /&gt;
+Inbox Zero wurde von dem Produktivitätsexperten Merlin Mann entwicklet. Mann zufolge ist &quot;zero&quot; keine Referennz zu der Anzahl an Nachrichten in der Inbox. Es ist &quot;die Menge an Zeit die das Gehirn eines Angestellten in der Inbox verbringt&quot;. Worauf Mann hinaus will ist, dass die Zeit und die Aufmerksamkeit endlich sind und wenn man eine Inbox als eine To-Do Liste missbraucht, leidet die Produktivität. In dem man seine Inbox sauber hält, verbringt man weniger Zeit damit durch seine Emails zu schauen. Eine saubere Inbox führt zu einem gesunden und produktivem Verstand - so zumindest die Theorie.</translation>
     </message>
 </context>
 <context>

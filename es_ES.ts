@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Si no puede encontrar el calendario que está buscando, asegúrese de haber aceptado la solicitud de uso compartido.</translation>
+        <translation>Si no encuentras el calendario que buscas asegúrate haber aceptado la invitación </translation>
     </message>
     <message>
         <source>Add</source>
@@ -28,36 +28,36 @@
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation>No pudimos encontrar ningún nuevo calendario público</translation>
+        <translation>No hemos podido encontrar calendarios públicos nuevos</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
-        <translation>No pudimos encontrar ningún nuevo calendario compartido</translation>
+        <translation>No hemos podido encontrar calendarios compartidos</translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>OK</source>
-        <translation>De Acuerdo</translation>
+        <translation>Aceptar</translation>
     </message>
 </context>
 <context>
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Detectado el controlador nVidia nouveau se sabe que causa bloqueos. Por favor reinicia Hiri.</translation>
+        <translation>Controlador &quot;nVidia noveau&quot; detectado es posible que cause inestabilidad. Por favor reinicia Hiri para usar el renderizado por software</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Vaya, no podemos encontrar tu correo …</translation>
+        <translation>Ups, no podemos encontrar el mail</translation>
     </message>
 </context>
 <context>
     <name>AttachmentFlyout</name>
     <message>
         <source>Attachments</source>
-        <translation>Archivos adjuntos</translation>
+        <translation>Adjuntos</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Instalando…</translation>
+        <translation>Instalando...</translation>
     </message>
     <message>
         <source>Close</source>
@@ -79,19 +79,19 @@
     </message>
     <message>
         <source>Failed!</source>
-        <translation>¡Ha fallado!</translation>
+        <translation>Fallo!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Actualizacion completa. Por favor reinicia Hiri …</translation>
+        <translation>Actualización completada. Por favor reinicia Hiri...</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation>Actualizando ...%1%</translation>
+        <translation>Actualizando... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Esconder</translation>
+        <translation>Ocultar</translation>
     </message>
 </context>
 <context>
@@ -4154,14 +4154,14 @@ Para aprender mas acerca de la lista de tareas, &lt;a href=&quot;https://support
 Viene de la investigación de Microsoft, y trabajan así:&lt;br /&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Si no es importante, &lt;strong&gt;Delete&lt;/strong&gt;it &lt;strong&gt;Borralo&lt;strong&gt;.&lt;/li&gt;
-&lt;li&gt;Si puede hacerse en dos minutos o menos, &lt;strong&gt;Do&lt;/strong&gt;it &lt;strong&gt;Hazlo&lt;strong&gt;.&lt;/li&gt;
-&lt;li&gt;Si no es para ti o si puedes &lt;strong&gt;Delegar&lt;strong&gt;.&lt;/li&gt;
-&lt;li&gt;Si tu lo tienes que hacer, pero toma mas de dos minutos(incluida la lectura), &lt;strong&gt;Defer&lt;strong&gt;it &lt;strong&gt;Posponlo&lt;strong&gt;.&lt;/li&gt;
+&lt;li&gt;Si no es importante, &lt;strong&gt;Borralo&lt;/strong&gt; (Delete it).&lt;/li&gt;
+&lt;li&gt;Si puede hacerse en dos minutos o menos, &lt;strong&gt;Hazlo&lt;/strong&gt; (Do it).&lt;/li&gt;
+&lt;li&gt;Si no es para ti o si puedes &lt;strong&gt;Delegar&lt;/strong&gt; (Delegate).&lt;/li&gt;
+&lt;li&gt;Si tu lo tienes que hacer, pero toma mas de dos minutos(incluida la lectura), &lt;strong&gt;Posponlo&lt;/strong&gt; (Defer it).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;br /&gt;
 
-Puedes accionar todos tus correos utilizando la metodología de las cuatro D. En Hiri amamos las cuatro D. Pero queríamos haver la &quot;D&quot; Delegar un poco más obvia. Por eso agregamos un botón de Delegar.&lt;br /&gt;&lt;br /&gt;
+Puedes accionar todos tus correos utilizando la metodología de las cuatro D. En Hiri amamos las cuatro D. Pero queríamos hacer la &quot;D&quot; Delegar un poco más obvia. Por eso agregamos un botón de Delegar.&lt;br /&gt;&lt;br /&gt;
 
 El botón de Delegar actúa muy parecido al botón de Reenviar, con algunas diferencias. Cuando utilizas el botón Delegar, un campo de tarea es agregado al inicio del correo reenviado, de esta manera le haces saber al destinatario exactamente qué es lo que quieres que haga con el correo. Esto es importante, porque 40% de los correos que reciben los usuarios, no explican que se requiere, lo que conlleva a mas correos de aclaración.&lt;br /&gt;&lt;br /&gt;
 
@@ -4182,10 +4182,10 @@ Hay un &quot;bono&quot; mas al usar el botón Delegar. Si envías un correo Dele
     </source>
         <translation>Los correos que recibes pueden ser tratados usando la metodología de las cuatro D:&lt;br /&gt;&lt;br /&gt;
 
-1. si no es importante, &lt;strong&gt;Delete&lt;/strong&gt;it &lt;strong&gt;Borralo&lt;/strong&gt;.&lt;br /&gt;
-2. si puede hacerse en dos minutos o menos, &lt;strong&gt;do&lt;/strong&gt; it &lt;strong&gt;Hazlo&lt;/strong&gt;.&lt;br /&gt;
-3. si no es para ti o si puedes, &lt;strong&gt;Delegarlo&lt;strong&gt;.&lt;br /&gt;
-4. si es para ti, pero toma mas de dos minutos (incluyendo la lectura), &lt;strong&gt;Defer&lt;strong&gt; it &lt;strong&gt;Posponlo&lt;strong&gt;.&lt;br /&gt;&lt;br /&gt;
+1. si no es importante, &lt;strong&gt;Borralo&lt;/strong&gt; (Delete it).&lt;br /&gt;
+2. si puede hacerse en dos minutos o menos, &lt;strong&gt;Hazlo&lt;/strong&gt; (Do it).&lt;br /&gt;
+3. si no es para ti o si puedes, &lt;strong&gt;Delegarlo&lt;/strong&gt; (Delegate).&lt;br /&gt;
+4. si es para ti, pero toma mas de dos minutos (incluyendo la lectura), &lt;strong&gt;Posponlo&lt;/strong&gt; (Defer it).&lt;br /&gt;&lt;br /&gt;
 El botón (Defer) posponer es la cuarta D in la lista. En ocasiones no puedes atender un correo de inmediato, pero necesita atenderse antes de una fecha especifica. Pulsando el botón de recordatorio te permite escoger cuando quieres que te recuerden acerca de ese correo. Tan simple como eso
     </translation>
     </message>

@@ -827,7 +827,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>No new mail</source>
-        <translation>Uusi emaile ei ole</translation>
+        <translation>Uusi kirju ei ole</translation>
     </message>
 </context>
 <context>
@@ -1798,7 +1798,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation>Ühine sisendkast</translation>
+        <translation>Ühine saabuvate kirjade kaust</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
@@ -1959,11 +1959,11 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation>Ava tegevust nõudev sisendkast:</translation>
+        <translation>Ava tegevuste sisendkaust:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>Ava Teabe sisendkast:</translation>
+        <translation>Ava Teabe sisendkaust:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
@@ -2018,7 +2018,7 @@ Kas tahate edastada ainult selle koosoleku või ka kõik tulevased?</translation
     </message>
     <message>
         <source>Inbox</source>
-        <translation>Sisendkast</translation>
+        <translation>Saabuvad kirjad</translation>
     </message>
     <message>
         <source>Check for new messages</source>

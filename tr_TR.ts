@@ -2003,7 +2003,7 @@ Sadece bu etkinlik için mi, yoksa tüm seri için mi iletmek istersiniz?</trans
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Altı çizili:</translation>
     </message>
     <message>
         <source>Create link:</source>

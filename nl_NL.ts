@@ -4067,7 +4067,7 @@ Zo kun je Hiri vastmaken aan je paneel of andere starter.</translation>
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation>De beste manier om je communicatievaardigheden te verbeteren is eerlijke feedback. Er is geen betere plek dan e-mail om hierom te vragen.</translation>
+        <translation>De beste manier om je communicatievaardigheden te verbeteren is eerlijke feedback. Er is geen betere plek dan e-mail om hierom te vragen?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>

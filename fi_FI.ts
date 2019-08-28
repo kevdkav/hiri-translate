@@ -3420,7 +3420,7 @@ Viestisi ovat silti edelleen turvassa palvelimella!</translation>
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation>Jos se ei toimi, saatoit maksaa käyttäen eri sähköpostiosoiteitta kuin mitä nyt käytät.</translation>
+        <translation>Jos se ei toimi, saatoit maksaa käyttäen eri sähköpostiosoiteitta kuin mitä nyt käytät?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>

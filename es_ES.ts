@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>If you can&apos;t find the calendar you&apos;re looking for make sure you&apos;ve accepted the sharing request.</source>
-        <translation>Si no encuentras el calendario que buscas asegúrate haber aceptado la invitación </translation>
+        <translation>Si no encuentras el calendario que buscas asegúrate haber aceptado la invitación.</translation>
     </message>
     <message>
         <source>Add</source>
@@ -46,11 +46,11 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>Controlador &quot;nVidia noveau&quot; detectado es posible que cause inestabilidad. Por favor reinicia Hiri para usar el renderizado por software</translation>
+        <translation>Se ha detectado un controlador nVidia y es posible que cause inestabilidad. Por favor reinicia Hiri para usar el renderizado por software.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Ups, no podemos encontrar el mail</translation>
+        <translation>Ups, no podemos encontrar el correo…</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Instalando...</translation>
+        <translation>Instalando…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Actualización completada. Por favor reinicia Hiri...</translation>
+        <translation>Actualización completa. Por favor reinicia Hiri…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
@@ -1849,7 +1849,7 @@ Do you want to forward only this event or the whole series?</source>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation>Si les gusta y deciden registrarse. Te daremos</translation>
+        <translation>si les gusta y deciden registrarse. Te daremos</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
@@ -2217,7 +2217,7 @@ Do you want to forward only this event or the whole series?</source>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation>¿Que es &lt;font color=&quot;#e54624&quot;&gt;Acción&lt;/font&gt; y &lt;font color=&quot;#29abe2&quot;&gt;PSI&lt;/font&gt;?</translation>
+        <translation>¿Qué es &lt;font color=&quot;#e54624&quot;&gt;Acción&lt;/font&gt; y &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
@@ -2583,7 +2583,7 @@ Do you want to forward only this event or the whole series?</source>
     <message>
         <source>Time to take your
 email to the next level.</source>
-        <translation>Tiempo de llevar tu correo al siguiente nivel.</translation>
+        <translation>Es tiempo de llevar tu correo al siguiente nivel.</translation>
     </message>
     <message>
         <source>Crafted with     by the Hiri team</source>
@@ -3130,7 +3130,7 @@ email to the next level.</source>
     </message>
     <message>
         <source>Type and press Enter to search</source>
-        <translation>Esribir y presionar Enter para buscar</translation>
+        <translation>Escribe y presiona Enter para buscar</translation>
     </message>
     <message>
         <source>Search, or press Enter to show all Archive messages</source>
@@ -3141,7 +3141,7 @@ email to the next level.</source>
     <name>SearchTagsExplanation</name>
     <message>
         <source>Click on the tags to refine your search!</source>
-        <translation>Haz clic en las etiquetas para refinar la búsqueda!</translation>
+        <translation>¡Haz clic en las etiquetas para refinar tu búsqueda!</translation>
     </message>
     <message>
         <source>What</source>

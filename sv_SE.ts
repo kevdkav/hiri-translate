@@ -2250,7 +2250,8 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation type="unfinished"></translation>
+        <translation>Om e-postmeddelandet som du vidarebefordrar innehåller en uppgift åt dig, kommer varje mottagare som du lägger till i åtgärd att ha din uppgift som standard.
+ Det är därför vi kallar det delegat.</translation>
     </message>
 </context>
 <context>
@@ -3197,7 +3198,7 @@ e-post till nästa nivå.</translation>
     </message>
     <message>
         <source>fyi:</source>
-        <translation>fyi:</translation>
+        <translation>fk:</translation>
     </message>
     <message>
         <source>sent:</source>

@@ -473,7 +473,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Ursäka, vi kunde inte lista ut vilken form av e-post du använder.</translation>
+        <translation>Ursäkta, vi kunde inte lista ut vilken form av e-post du använder.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
@@ -4094,14 +4094,27 @@ Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kort version: Om du gallrar dina e-postmeddelanden hjälper du att skilja vete från taffeln. En organiserad inkorg leder till ett hälsosammare sinne. &lt;br /&gt;&lt;br /&gt;
+    Dela dina e-postmeddelanden när de kommer in i saker du behöver göra och saker du bara behöver veta om är ett bra sätt att gallra din inkorg. När du gallrar din inkorg effektivt börjar du inse att det inte finns så mycket saker du faktiskt behöver göra som du trodde. Faktum är att bara cirka 20% av e-postmeddelandet du får i genomsnitt innehåller faktiskt en uppgift för dig. De huvudsakliga orsakerna till resten är uppdelade enligt följande:&lt;br /&gt;
+    &lt;ul&gt;
+    &lt;li&gt;16% av de mottagna e-postmeddelandena är onödiga certifikat&lt;/li&gt;
+    &lt;li&gt;13% av de mottagna e-postmeddelandena är irrelevanta eller inriktade&lt;/li&gt;
+    &lt;li&gt;41% av de mottagna e-postmeddelandena är endast för informationssyften&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;br /&gt;
+    Om du inte gallrar din e-post kan du inte se vilka e-postmeddelanden som kräver uppmärksamhet och vilka inte. Vilket innebär att din inkorg ser ut som den innehåller ett oöverstigligt berg av arbete. Att titta på en överfylld inkorg kan vara ganska stressande. Och när du är stressad faller viktiga saker genom sprickorna.&lt;br /&gt;&lt;br /&gt;Action / FYI-konceptet går också till andra delar av appen. Om du till exempel aktiverar färdighetslistan, kommer alla e-postmeddelanden som du drar till aktivitetslistan automatiskt att visas i det filter som kan hanteras. &lt;br /&gt;&lt;br /&gt;
+
+    Om du vill lära dig mer om Action / FYI i detalj, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;besök vår supportartikel&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Den mest destruktiva e-vanan av alla? Kontrollerar din e-post för ofta. I genomsnitt kontrollerar vi vår e-post 96 gånger om dagen, eller var femte minut. Detta är helt onödigt. Ingen förväntar dig att du ska kolla din e-post detta ofta (och om de gör det är de nötter). &lt;br/&gt;&lt;br/&gt;
+    E-post är inte ett kommunikationsprotokoll i realtid. Behöver du få ett snabbt svar? Försök att ringa, skicka SMS, IM&apos;ing - eller bara hoppa till skrivbordet. E-post är riktigt bra för asynkron, otvetydig kommunikation. Eller på vanlig engelska, saker du inte behöver ett svar för omedelbart där svaret är klart. Varför klar? Om din e-post sannolikt kommer att leda till fler e-postmeddelanden, skulle du vara bättre på att ringa dem. Ingen gillar e-posttennis. &lt;br /&gt; &lt;br /&gt;
+    Att kontrollera e-post mindre kan resultera i betydande tidsbesparingar. Varje gång du kontrollerar din post kostar det dig minst en minut (vissa studier säger 20 minuter beroende på din roll). Det beror på att när du avbryts är det inte bara tiden det tar att läsa e-postmeddelandet. Det är tiden det tar dig att komma tillbaka till det du gjorde innan du avbröts. &lt;br /&gt; &lt;br /&gt;
+    Ett team av forskare vid UC Irvine och U.S. Army studerade effekterna av att begränsa e-poståtkomst på deltagarnas hjärtfrekvens och förmåga att fokusera. Man fann att begränsning av e-poståtkomst dramatiskt minskar stress genom att spåra deltagarnas hjärtfrekvens. Deltagare utan tillgång till e-post bytte fönster 18 gånger per timme kontra 37 gånger per timme för deltagare med e-poståtkomst. Instrumentpanelen förhindrar inte dig från att få åtkomst till din e-post, men det har visat sig minska antalet gånger du kontrollerar din e-post.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4110,7 +4123,12 @@ Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Har du någonsin glömt att hantera en viktig e-post? Japp. Genom att fånga dessa e-postmeddelanden i aktivitetslistan kan du vara säker på att du inte kommer att glömma något viktigt. Eller måste fortsätta rulla genom din e-postlista för att påminna dig själv om vad du behöver göra. &lt;br /&gt;&lt;br /&gt;
+    Uppgiftslistan har några häftiga funktioner. Du kan till exempel öppna e-postmeddelandet som är kopplat till uppgiften direkt från aktivitetslistan. Och vice versa - du kan öppna alla uppgifter som är kopplade till ett e-postmeddelande från vilken e-post som helst. &lt;br /&gt;&lt;br /&gt;
+    Du kan också organisera dina uppgifter i listor. Vi har några förhandsgjorda - till exempel uppgifter som ska betalas idag och uppgifter du har skickat till andra, men du kan också skapa dina egna anpassade listor. &lt;br /&gt;&lt;br /&gt;
+    Uppgifterna är kompatibla med MS Outlook och Microsofts uppgiftsapp. &lt;br /&gt;&lt;br /&gt;
+    Om du vill veta mer om uppgiftslistan kan du &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;besöka vår supportsida&lt;/a&gt;.
+    </translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4132,7 +4150,25 @@ Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
 
     There&apos;s one more &apos;bonus&apos; to using the Delegate button. If you are sending a Delegated mail to another Hiri user, the mail will automatically be directed to their Actionable Inbox, as we know it contains an action for them.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Har du någonsin hört talas om fyra D? Nej? Det är OK.&lt;br /&gt;
+    Det kommer från Microsoft Research, och det fungerar så här:&lt;br /&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;Om det inte är viktigt, &lt;strong&gt;ta bort&lt;/strong&gt; det.&lt;/li&gt;
+    &lt;li&gt;Om det kan göras på 2 minuter eller mindre, &lt;strong&gt;gör&lt;/strong&gt; det.&lt;/li&gt;
+    &lt;li&gt;Om det inte är för dig eller om du kan, &lt;strong&gt;delegera&lt;/strong&gt; det.&lt;/li&gt;
+    &lt;li&gt;Om du behöver göra det, men det tar längre tid än 2 minuter (inklusive läsning), &lt;strong&gt;skjut upp&lt;/strong&gt; det.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br /&gt;
+
+    Du kan agera alla dina e-postmeddelanden med Four D: s metod. På Hiri älskar vi de fyra D: erna. Men vi ville göra delegaten &apos;D&apos; lite mer uppenbar. Så vi har lagt till en delegat-knapp. &lt;br /&gt;&lt;br /&gt;
+
+    Delegat-knappen fungerar mycket som en framåt-knapp, med några enkla skillnader. När du använder delegerat-knappen läggs ett uppgiftsfält till början av det vidarebefordrade e-postmeddelandet så att du kan låta användarna veta exakt vad du vill att de ska göra med e-postmeddelandet. Detta är viktigt eftersom 40% av e-postmeddelanden som användarna får innehåller inga tydliga åtgärder, vilket leder till ytterligare förtydligande e-postmeddelanden. &lt;br /&gt; &lt;br /&gt;
+
+    Det är en liten förändring, men det är bara ytterligare ett sätt som Hiri hjälper till att förbättra din kommunikation. &lt;br /&gt;&lt;br /&gt;
+
+    Det finns ytterligare en &apos;bonus&apos; för att använda Delegat-knappen. Om du skickar ett delegerat e-postmeddelande till en annan Hiri-användare kommer e-postmeddelandet automatiskt att riktas till deras Actionable Inbox, eftersom vi vet att det innehåller en åtgärd för dem.
+    </translation>
     </message>
     <message>
         <source>Emails you receive can be actioned using the Four D&apos;s methodology:&lt;br /&gt;&lt;br /&gt;
@@ -4144,7 +4180,15 @@ Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
 
     The Defer button is the fourth &apos;D&apos; in the list. Sometime you can&apos;t deal with an email immediately, but it needs to be actioned on or before a specific date. Hitting the Reminder button let&apos;s you choose when you&apos;d like to get a reminder about a specific email thread. Simple as that!
     </source>
-        <translation type="unfinished"></translation>
+        <translation>E-postmeddelanden du får kan hanteras med Four D: s metod:&lt;br /&gt;&lt;br /&gt;
+
+    1. Om det inte är viktigt, &lt;strong&gt;ta bort&lt;/strong&gt; det.&lt;br /&gt;
+    2. Om det kan göras på två minuter eller mindre, &lt;strong&gt;gör&lt;/strong&gt; det.&lt;br /&gt;
+    3. Om det inte är för dig eller om du kan, &lt;strong&gt;delegera&lt;/strong&gt; det.&lt;br /&gt;
+    4. Om du behöver göra det, men det tar längre tid än 2 minuter (inklusive läsning), &lt;strong&gt;skjut upp&lt;/strong&gt; det.&lt;br /&gt;&lt;br /&gt;
+
+    &apos;Skjut upp&apos;-knappen är den fjärde &apos;D&apos; i listan. Ibland kan du inte ta itu med ett e-postmeddelande direkt, men det måste åtgärdas före eller före ett specifikt datum. Tryck på påminnelseknappen så får dig välja när du vill få en påminnelse om en specifik e-posttråd. Enkelt som det!
+    </translation>
     </message>
     <message>
         <source>You&apos;ll write a better subject line once you&apos;ve written the body of the email.&lt;br /&gt;&lt;br /&gt;
@@ -4153,12 +4197,18 @@ Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Du kommer att skriva en bättre ämnesrad när du har skrivit brödtexten i e-brevet.&lt;br /&gt;&lt;br /&gt;
+
+    Det här är viktigt. Bättre användning av ämnesraden gör det betydligt lättare för någon att bedöma vikten av ett e-brev. Om ämnet för ditt e-brev är relevant för brödtexten i e-brevet, gör det också hela e-brevet lättare att smälta.&lt;br /&gt;&lt;br /&gt;
+
+    Av samma skäl kommer du också att märka att Hiri inte tillåter dig att skicka ett e-brev utan ämnesrad.
+    </translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inbox Zero är ett rigoröst förhållningssätt till e-posthantering som syftar till att hålla inkorgen tom-eller nästan tom-hela tiden.&lt;br /&gt;&lt;br /&gt;
+Inbox Zero utvecklades av produktivitetsexperten Merlin Mann. Enligt Mann är nollan inte en referens till antalet meddelanden i en inkorg; Det är &quot;hur länge en medarbetares hjärna är i inkorgen.&quot; Manns punkt är att tid och uppmärksamhet är ändliga och när en inkorg är förvirrad med en &quot;att göra&quot;-lista, lider produktiviteten. Genom att rensa inkorgen spenderar du mindre tid på att titta igenom din e-post. En ren inkorg leder till ett hälsosamt, produktiv sinne-eller så går teorin.</translation>
     </message>
 </context>
 <context>

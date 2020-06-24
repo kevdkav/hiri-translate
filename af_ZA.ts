@@ -5,7 +5,7 @@
     <name>AccountsFlyout</name>
     <message>
         <source>Add another account</source>
-        <translation>Vog nog &apos;n rekening by</translation>
+        <translation>Voeg nog ’n rekening by</translation>
     </message>
 </context>
 <context>
@@ -28,7 +28,7 @@
     </message>
     <message>
         <source>We couldn&apos;t find any new public calendars</source>
-        <translation>Ons kon nie enige nuwe openbare kalenders ondek nie</translation>
+        <translation>Ons kon nie enige nuwe openbare kalenders vind nie</translation>
     </message>
     <message>
         <source>We couldn&apos;t find any new shared calendars</source>
@@ -46,11 +46,11 @@
     <name>Application</name>
     <message>
         <source>nVidia nouveau driver detected which is known to cause crashes. Please restart Hiri in order to force software rendering.</source>
-        <translation>nVidia nouveau is ondek wat probleme veroorsaak. Maak die program toe en weer oop om sagteware teken te aktiveer.</translation>
+        <translation>nVidia Nouveau aandrywer is ontdek wat probleme veroorsaak. Maak die program toe en weer oop om sagteware modus te aktiveer.</translation>
     </message>
     <message>
         <source>Oops, we cannot find your mail…</source>
-        <translation>Oops, ons kon nie jou mail vind nie…</translation>
+        <translation>Oeps, ons kon nie jou e-pos vind nie…</translation>
     </message>
 </context>
 <context>
@@ -71,7 +71,7 @@
     <name>AutoUpdateDialog</name>
     <message>
         <source>Installing…</source>
-        <translation>Laai…</translation>
+        <translation>Besig om te installeer…</translation>
     </message>
     <message>
         <source>Close</source>
@@ -79,15 +79,15 @@
     </message>
     <message>
         <source>Failed!</source>
-        <translation>Gefaal!</translation>
+        <translation>Misluk!</translation>
     </message>
     <message>
         <source>Update complete. Please restart Hiri…</source>
-        <translation>Laai voltooi. Maak Hiri toe en weer oop…</translation>
+        <translation>Opdatering voltooi. Maak asb. Hiri toe en weer oop…</translation>
     </message>
     <message>
         <source>Updating… %1%</source>
-        <translation>Laai... %1%</translation>
+        <translation>Besig met opdatering... %1%</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -124,15 +124,15 @@
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
-        <translation>Aflaai van aanhegsel &apos;%1&apos; gefaal</translation>
+        <translation>Aflaai van aanhegsel &apos;%1&apos; het misluk</translation>
     </message>
     <message>
         <source>Meeting created</source>
-        <translation>Vergadering gestoor</translation>
+        <translation>Vergadering geskep</translation>
     </message>
     <message>
         <source>Error deleting attachment</source>
-        <translation>Iets het foutgegaan met aanhegsel uitvee</translation>
+        <translation>Fout met uitvee van aanhegsel</translation>
     </message>
     <message>
         <source>Error adding public calendar</source>
@@ -144,19 +144,19 @@
     </message>
     <message>
         <source>Deleting calendar</source>
-        <translation>Vee kalender uit</translation>
+        <translation>Besig om kalender uit te vee</translation>
     </message>
     <message>
         <source>Calendar deleted</source>
-        <translation>Kalender uitgevee</translation>
+        <translation>Kalender is uitgevee</translation>
     </message>
     <message>
         <source>Calendar removed</source>
-        <translation>Kalender verwyder</translation>
+        <translation>Kalender is verwyder</translation>
     </message>
     <message>
         <source>Error removing calendar</source>
-        <translation>Kon nie kalender verwyder nie</translation>
+        <translation>Fout met verwydering van kalender</translation>
     </message>
     <message>
         <source>Renaming calendar</source>
@@ -164,21 +164,21 @@
     </message>
     <message>
         <source>Calendar renamed</source>
-        <translation>Kalender se naam is verander</translation>
+        <translation>Kalender naam is verander</translation>
     </message>
 </context>
 <context>
     <name>CalendarDateTimePicker</name>
     <message>
         <source>Select a time:</source>
-        <translation>Kies &apos;n tyd:</translation>
+        <translation>Kies ’n tyd:</translation>
     </message>
 </context>
 <context>
     <name>CalendarFolderDelegate</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Gee jou kalender &apos;n naam</translation>
+        <translation>Gee jou kalender ’n naam</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -205,7 +205,7 @@
     </message>
     <message>
         <source>Are you sure you want to delete this calendar?</source>
-        <translation>Is jy seker jy wil hierdie kalender uitvee?</translation>
+        <translation>Is jy seker dat jy hierdie kalender wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -225,11 +225,11 @@
     </message>
     <message>
         <source>Yes remove it</source>
-        <translation>Ja verwyder dit</translation>
+        <translation>Ja, verwyder dit</translation>
     </message>
     <message>
         <source>No keep it</source>
-        <translation>Nee hou dit</translation>
+        <translation>Nee, hou dit</translation>
     </message>
     <message>
         <source>Shared calendars</source>
@@ -277,11 +277,11 @@
     <name>CalendarNewFolder</name>
     <message>
         <source>Give your calendar a name</source>
-        <translation>Gee jou kalender &apos;n naam</translation>
+        <translation>Gee jou kalender ’n naam</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Kansileer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Save</source>
@@ -292,19 +292,19 @@
     <name>CalendarPagination</name>
     <message>
         <source>Go to today</source>
-        <translation>Gaan vandag toe</translation>
+        <translation>Gaan na vandag toe</translation>
     </message>
 </context>
 <context>
     <name>CalendarRightPanel</name>
     <message>
         <source>An error has occurred please try again</source>
-        <translation>Iets het foutgegaan probeer asb weer</translation>
+        <translation>Iets het foutgegaan probeer asb. weer</translation>
     </message>
     <message>
         <source>This is a recurring meeting.
 Do you want to forward only this event or the whole series?</source>
-        <translation>Hierdie is &apos;n herhalende vergadering.
+        <translation>Hierdie is ’n herhalende vergadering.
 Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
@@ -313,11 +313,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Entire series</source>
-        <translation>Hele reeks</translation>
+        <translation>Die hele reeks</translation>
     </message>
     <message>
         <source>You can&apos;t cancel this meeting because you are not the organizer. Do you want to delete it instead?</source>
-        <translation>Jy kan nie die vergadering kansileer nie omdat jy nie die persoon is wat dit gereël het nie. Wil jy dit liewer utivee?</translation>
+        <translation>Jy kan nie die vergadering kanselleer nie omdat jy nie die persoon is wat dit gereël het nie. Wil jy dit eerder uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -444,7 +444,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 mins</translation>
+        <translation>%1 minute</translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -473,11 +473,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>ChooseProvider</name>
     <message>
         <source>Sorry, we couldn&apos;t figure out what kind of email you use.</source>
-        <translation>Jammer, ons kon nue uitwerk watter soort email jy gebruik nie.</translation>
+        <translation>Jammer, ons kon nie uitwerk watter soort e-pos jy gebruik nie.</translation>
     </message>
     <message>
         <source>What is your email provider?</source>
-        <translation>Wat is jou email verskaffer?</translation>
+        <translation>Wat is jou e-pos verskaffer?</translation>
     </message>
     <message>
         <source>Please choose…</source>
@@ -543,11 +543,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation>Laaste Naam</translation>
+        <translation>Van</translation>
     </message>
     <message>
         <source>Email %1</source>
-        <translation>E-Pos %1</translation>
+        <translation>E-pos adres %1</translation>
     </message>
     <message>
         <source>Work phone</source>
@@ -603,15 +603,15 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Email 1 is not a valid email address</source>
-        <translation>E-pos 1 is nie &apos;n regte e-pos adres nie</translation>
+        <translation>E-pos 1 is nie ’n geldige e-pos adres nie</translation>
     </message>
     <message>
         <source>Email 2 is not a valid email address</source>
-        <translation>E-pos 2 is nie &apos;n regte e-pos adres nie</translation>
+        <translation>E-pos 2 is nie ’n geldige e-pos adres nie</translation>
     </message>
     <message>
         <source>A contact must have a name or an email address</source>
-        <translation>&apos;n Kontak moet &apos;n naam of e-pos he</translation>
+        <translation>’n Kontak moet ’n naam of e-pos hê</translation>
     </message>
     <message>
         <source>Error updating contact</source>
@@ -619,15 +619,15 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>%1 is already in your contacts</source>
-        <translation>%1 is reeds in jou kontak lys</translation>
+        <translation>%1 is reeds in jou kontaklys</translation>
     </message>
     <message>
         <source>Error creating a contact</source>
-        <translation>Kon nie &apos;n kontak maak nie</translation>
+        <translation>Kon nie ’n kontak skep nie</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Kansileer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -635,7 +635,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation>Is jy seker dat jy kontak wil uitvee:</translation>
+        <translation>Is jy seker dat jy dié kontak wil uitvee:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -655,7 +655,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Error creating contact</source>
-        <translation>Iets het foutgegaan met kontak stoor</translation>
+        <translation>Kon nie kontak skep nie</translation>
     </message>
 </context>
 <context>
@@ -666,7 +666,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Displaying all contacts, type to search</source>
-        <translation>Wys alle kontakte, tik om te soek</translation>
+        <translation>Lys van alle kontakte, tik om te soek</translation>
     </message>
     <message>
         <source>All Contacts</source>
@@ -690,7 +690,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Create contact</source>
-        <translation>Maak kontak</translation>
+        <translation>Skep kontak</translation>
     </message>
     <message>
         <source>Select contact</source>
@@ -701,7 +701,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>CreateMeetingButtons</name>
     <message>
         <source>Cancel editing</source>
-        <translation>Kansileer verandering</translation>
+        <translation>Kanselleer verandering</translation>
     </message>
     <message>
         <source>Save</source>
@@ -735,11 +735,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Loading your meetings…</source>
-        <translation>Laai jou vergaderings…</translation>
+        <translation>Besig om jou vergaderings te laai…</translation>
     </message>
     <message>
         <source>You have no meetings</source>
-        <translation>Jy het nie vergaderings nie</translation>
+        <translation>Jy het geen vergaderings</translation>
     </message>
     <message>
         <source>today</source>
@@ -808,7 +808,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Invite your friends</source>
-        <translation>Nooi jou maatjies</translation>
+        <translation>Nooi jou vriende</translation>
     </message>
 </context>
 <context>
@@ -819,7 +819,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>mins</source>
-        <translation>min</translation>
+        <translation>minute</translation>
     </message>
     <message>
         <source>Check</source>
@@ -850,7 +850,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Cancel reminder</source>
-        <translation>Kansilleer herhindering</translation>
+        <translation>Kanselleer herhindering</translation>
     </message>
 </context>
 <context>
@@ -868,7 +868,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>DeferCalendarDelegate</name>
     <message>
         <source>Set reminder</source>
-        <translation>Stel alarm</translation>
+        <translation>Stel herhindering</translation>
     </message>
 </context>
 <context>
@@ -887,18 +887,18 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Custom date and time</source>
-        <translation>Spesiale tyd en datum</translation>
+        <translation>Spesifieke datum en tyd</translation>
     </message>
 </context>
 <context>
     <name>DialogManager</name>
     <message>
         <source>A new version of Hiri is available! Would you like to update?</source>
-        <translation>&apos;n Nuwe weergawe van Hiri is beskikbaar! Wil jy dalk opgradeer?</translation>
+        <translation>’n Nuwe weergawe van Hiri is beskikbaar! Wil jy opgradeer?</translation>
     </message>
     <message>
         <source>Update now</source>
-        <translation>Upgradeer nou</translation>
+        <translation>Opgradeer nou</translation>
     </message>
     <message>
         <source>Remind me later</source>
@@ -906,7 +906,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Select file</source>
-        <translation>Kies leêr</translation>
+        <translation>Kies lêer</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -918,7 +918,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Sorry, some attachments could not be found and will be removed:</source>
-        <translation>Jammer, van die aanhegsels kon nie gevind word nie en sal verwyder word:</translation>
+        <translation>Jammer, sommige van die aanhegsels kon nie gevind word nie en sal verwyder word:</translation>
     </message>
 </context>
 <context>
@@ -940,19 +940,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation>Is jy seker dat jy die vergadering wil kansilleer?</translation>
+        <translation>Is jy seker dat jy dié vergadering wil kanselleer?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
-        <translation>Ja, kansileeer dit</translation>
+        <translation>Ja, kanselleer dit</translation>
     </message>
     <message>
         <source>No don&apos;t cancel</source>
-        <translation>Nee, moenie dit kansileer nie</translation>
+        <translation>Nee, moenie dit kanselleer nie</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Is jy seker dat jy die vergadering wil uitvee?</translation>
+        <translation>Is jy seker dat jy dié vergadering wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -964,7 +964,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Cancel meeting</source>
-        <translation>Kansilleer vergadering</translation>
+        <translation>Kanselleer vergadering</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -976,7 +976,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Cancel series</source>
-        <translation>Kansileer reeks</translation>
+        <translation>Kanselleer reeks</translation>
     </message>
     <message>
         <source>Delete series</source>
@@ -988,26 +988,26 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation>Kansileer die een</translation>
+        <translation>Kanselleer dié een</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation>Vee die een uit</translation>
+        <translation>Vee dié een uit</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation>Verander die een</translation>
+        <translation>Verander dié een</translation>
     </message>
 </context>
 <context>
     <name>EmailActions</name>
     <message>
         <source>Sorry, you can&apos;t set reminders when you are offline.</source>
-        <translation>Jammer, jy kan nie alarms stel as jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan nie herhinderings stel as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Accept Meeting</source>
-        <translation>Aanvaar Vergadering</translation>
+        <translation>Aanvaar vergadering</translation>
     </message>
     <message>
         <source>Decline Meeting</source>
@@ -1015,11 +1015,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Reply</source>
-        <translation>Antwoord</translation>
+        <translation>Beantwoord</translation>
     </message>
     <message>
         <source>Reply all</source>
-        <translation>Antwoord aan almal</translation>
+        <translation>Beantwoord almal</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -1027,7 +1027,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation>Jy het al klaar &apos;n sigkopie van die boodskap gemaak</translation>
+        <translation>Jy het al klaar ’n sigkopie van die boodskap</translation>
     </message>
     <message>
         <source>Archive</source>
@@ -1035,7 +1035,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Snooze</source>
-        <translation>Wag &apos;n bietjie</translation>
+        <translation>Stel uit</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -1070,7 +1070,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>You already have a draft on this message</source>
-        <translation>Jy het al klaar &apos;n sigkopie van die boodskap gemaak</translation>
+        <translation>Jy het al klaar ’n sigkopie van die boodskap</translation>
     </message>
     <message>
         <source>Forward</source>
@@ -1093,7 +1093,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>EmailAddressForm</name>
     <message>
         <source>Sorry, we don&apos;t support %1. Hiri only works with an Exchange/Office 365 email address.</source>
-        <translation>Jammer, ons werk nog nie met %1 nie. Hiri werk net met &apos;n Exchange/Office 365 e-pos address.</translation>
+        <translation>Jammer, ons werk nog nie met %1 nie. Hiri werk net met ’n Exchange/Office 365 e-pos adres.</translation>
     </message>
     <message>
         <source>Enter your email address</source>
@@ -1105,11 +1105,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Yes, you can send me an email once per month.</source>
-        <translation>Ja, julle kan my een keer &apos;n maand &apos;n boodskap stuur.</translation>
+        <translation>Ja, julle kan my een keer ’n maand ’n e-pos stuur.</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation>Sien ons gedagtes oor privaatheid  &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;1hier&lt;/a&gt;2.</translation>
+        <translation>Sien ons gedagtes aangaande privaatheid  &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;hier&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Next step</source>
@@ -1117,7 +1117,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Let&apos;s add an account.</source>
-        <translation>Kom ons voeg &apos;n rekening by.</translation>
+        <translation>Kom ons voeg ’n rekening by.</translation>
     </message>
     <message>
         <source>Password has changed or expired.</source>
@@ -1150,7 +1150,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>EmailContainer</name>
     <message>
         <source>Error setting a reminder…</source>
-        <translation>Kon nie alarm stel nie…</translation>
+        <translation>Kon nie herindering skep nie…</translation>
     </message>
 </context>
 <context>
@@ -1196,7 +1196,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Meeting request has been cancelled.</source>
-        <translation>Vergadering is gekansilleer.</translation>
+        <translation>Vergadering is gekanselleer.</translation>
     </message>
 </context>
 <context>
@@ -1214,23 +1214,23 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Loading…</source>
-        <translation>Laai…</translation>
+        <translation>Besig om te laai…</translation>
     </message>
     <message>
         <source>That&apos;s the lot</source>
-        <translation>Dis alaml</translation>
+        <translation>Dis alles</translation>
     </message>
     <message>
         <source>We&apos;re getting your mails…</source>
-        <translation>Ons ontvang jou e-posse…</translation>
+        <translation>Besig om e-posse af te laai…</translation>
     </message>
     <message>
         <source>Still don&apos;t see some emails?</source>
-        <translation>Sien nog steeds nie sekere e-pos nie?</translation>
+        <translation>Sien nog steeds nie sekere e-posse nie?</translation>
     </message>
     <message>
         <source>Get more mail</source>
-        <translation>Kry nog e-pos</translation>
+        <translation>Laai nog e-pos af</translation>
     </message>
 </context>
 <context>
@@ -1248,7 +1248,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Message is no longer junk. Moved to Inbox.</source>
-        <translation>Boodskap is nie meer gemors nie. Geskyf na inbox toe.</translation>
+        <translation>Boodskap is nie meer gemors nie. Geskyf na Inboks.</translation>
     </message>
     <message>
         <source>Marked as junk</source>
@@ -1256,7 +1256,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>No longer junk. Moved to Inbox.</source>
-        <translation>Nie meer gemors nie. Geskyf na inbox.</translation>
+        <translation>Nie meer gemors nie. Geskyf na Inboks.</translation>
     </message>
     <message>
         <source>Meeting request accepted</source>
@@ -1268,19 +1268,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Message upload has failed.</source>
-        <translation>Booskap stuur het nie gewerk nie.</translation>
+        <translation>Die boodskap is nie gestuur nie.</translation>
     </message>
     <message>
         <source>Message was larger than server allows.</source>
-        <translation>Boodskap was groter as wat die server toelaat.</translation>
+        <translation>Boodskap was groter as wat bediener toelaat.</translation>
     </message>
     <message>
         <source>The unsent message is in your Outbox folder. Try splitting the attachments across multiple messages.</source>
-        <translation>Die ongestuurde boodskap is in jou Outbox houer. Probeer die aanhegsels opdeel oor &apos;n paar boodskappe.</translation>
+        <translation>Die ongestuurde boodskap is in jou Uitboks. Probeer die aanhegsels opdeel oor ’n paar boodskappe.</translation>
     </message>
     <message>
         <source>You&apos;re offline. The mail has been moved to Outbox.</source>
-        <translation>Jy is nie aanlyn nie. Die bootskap is na jou Outbox toe geskuif.</translation>
+        <translation>Jy is nie aanlyn nie. Die bootskap is na jou Uitboks toe geskuif.</translation>
     </message>
     <message>
         <source>We couldn&apos;t send your message - it contains invalid recipients</source>
@@ -1288,11 +1288,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Yikes! Something went wrong!</source>
-        <translation>Argh! Iets het verkeerd gegaan!</translation>
+        <translation>Ai! Iets het verkeerd gegaan!</translation>
     </message>
     <message>
         <source>Message moved to FYI. Task removed.</source>
-        <translation>Booskap geskuif na FYI toe. Werkstuk verwyder.</translation>
+        <translation>Booskap geskuif na FYI toe. Taak verwyder.</translation>
     </message>
 </context>
 <context>
@@ -1357,23 +1357,23 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Trouble logging in? Click here</source>
-        <translation>Kon nie inlog nie? Druk hier</translation>
+        <translation>Kon nie inteken nie? Kliek hier</translation>
     </message>
     <message>
         <source>Autodiscover server settings</source>
-        <translation>Werk self server se stellings uit</translation>
+        <translation>Laai bediener instellings outomaties af</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation>Server</translation>
+        <translation>Bediener</translation>
     </message>
     <message>
         <source>server (e.g. server.domain.com)</source>
-        <translation>server (bv. server.domain.com)</translation>
+        <translation>bediener (bv. server.domain.com)</translation>
     </message>
     <message>
         <source>Authentication</source>
-        <translation>Identitiet</translation>
+        <translation>Bevestig identiteit</translation>
     </message>
     <message>
         <source>NTLM</source>
@@ -1385,7 +1385,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Server version</source>
-        <translation>Server weergawe</translation>
+        <translation>Bediener weergawe</translation>
     </message>
     <message>
         <source>Exchange 2010</source>
@@ -1409,7 +1409,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Verify SSL certificate</source>
-        <translation>Verifieer SSL sertifikaat</translation>
+        <translation>Bevestig SSL sertifikaat</translation>
     </message>
     <message>
         <source>Next step</source>
@@ -1417,32 +1417,32 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Not Exchange?</source>
-        <translation>Nie Exchange Nie?</translation>
+        <translation>Nie Exchange nie?</translation>
     </message>
 </context>
 <context>
     <name>ExternalAttachmentDropArea</name>
     <message>
         <source>Drop files here</source>
-        <translation>Los leêrs hier</translation>
+        <translation>Los lêers hier</translation>
     </message>
 </context>
 <context>
     <name>ExternalImagesBlocker</name>
     <message>
         <source>Show external images once</source>
-        <translation>Wys externe prenties een keer</translation>
+        <translation>Wys eksterne prente eenmalig</translation>
     </message>
     <message>
         <source>Always show external images from this sender</source>
-        <translation>Wys altyd externe prentjies van die persoon af</translation>
+        <translation>Wys altyd eksterne prente van die persoon af</translation>
     </message>
 </context>
 <context>
     <name>FileChooserDialog</name>
     <message>
         <source>Please choose a file</source>
-        <translation>Kies asb &apos;n leêr</translation>
+        <translation>Kies asb. ’n lêer</translation>
     </message>
     <message>
         <source>Attach</source>
@@ -1453,57 +1453,57 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>FlatComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation>Kies &apos;n opsie</translation>
+        <translation>Kies ’n opsie</translation>
     </message>
 </context>
 <context>
     <name>FolderChooserDialog</name>
     <message>
         <source>Select folder</source>
-        <translation>Kies leêr</translation>
+        <translation>Kies ’n vouer</translation>
     </message>
 </context>
 <context>
     <name>FolderListController</name>
     <message>
         <source>Sorry, you can&apos;t create a folder if you&apos;re offline.</source>
-        <translation>Jammer, jy kan nie &apos;n leer maak as jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan nie ’n vouer skep as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Creating folder %1</source>
-        <translation>Maak leêr %1</translation>
+        <translation>Besig om vouer te skep %1</translation>
     </message>
     <message>
         <source>Folder created</source>
-        <translation>Leêr gemaak</translation>
+        <translation>Vouer geskep</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t rename a folder if you&apos;re offline.</source>
-        <translation>Jammer, jy kan nie &apos;n leêr hernoem as jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan nie ’n vouer hernoem as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Folder renamed</source>
-        <translation>Leêr hernoem</translation>
+        <translation>Vouer hernoem</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation>Jammer, jy kan nie &apos;n leêr uitvee as jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan nie -n vouer uitvee as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
-        <translation>Is jy seker day jy permanent die leêr en die inhoud van &quot;%1&quot; wil uitvee?</translation>
+        <translation>Is jy seker dat jy die vouer en inhoud van &quot;%1&quot; permanent wil uitvee?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the folder &quot;%1&quot;?</source>
-        <translation>Is jy seker jy wil die leêr &quot;%1&quot; uitvee?</translation>
+        <translation>Is jy seker jy die vouer &quot;%1&quot; wil uitvee?</translation>
     </message>
     <message>
         <source>Deleting folder %1</source>
-        <translation>Vee leêr %1 uit</translation>
+        <translation>Besig om vouer %1 uit te vee</translation>
     </message>
     <message>
         <source>Folder deleted</source>
-        <translation>Leêr uitgevee</translation>
+        <translation>Vouer uitgevee</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1515,19 +1515,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t empty a folder if you&apos;re offline.</source>
-        <translation>Jammer, jy kan nie &apos;n leêr leegmaak as jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan nie ’n vouer leegmaak as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete all items and subfolders in folder &quot;%1&quot;?</source>
-        <translation>Is jy seker jy wil alle items en subvouers in vouer &quot;%1&quot; permanent uitvee?</translation>
+        <translation>Is jy seker dat jy alle items en subvouers in vouer &quot;%1&quot; permanent wil uitvee?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete all items in folder &quot;%1&quot;?</source>
-        <translation>Is jy seker jy wil alle items in die vouer &quot;%1&quot; uitvee?</translation>
+        <translation>Is jy seker dat jy alle items in die vouer &quot;%1&quot; wil uitvee?</translation>
     </message>
     <message>
         <source>Emptying folder %1</source>
-        <translation>Maak vouer %1 leeg</translation>
+        <translation>Besig of vouer %1 leeg te maak</translation>
     </message>
     <message>
         <source>Folder emptied.</source>
@@ -1547,7 +1547,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t mark as read while you&apos;re offline.</source>
-        <translation>Jammer, jy kan nie dit merk as gelees terwyl jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan dit nie as gelees merk terwyl jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Marking all as read…</source>
@@ -1559,14 +1559,14 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Error marking items as read.</source>
-        <translation>Kon nie als merk as gelees nie.</translation>
+        <translation>Kon nie alles merk as gelees nie.</translation>
     </message>
 </context>
 <context>
     <name>FolderListDelegateMenu</name>
     <message>
         <source>Create subfolder</source>
-        <translation>Maak subvouer</translation>
+        <translation>Skep subvouer</translation>
     </message>
     <message>
         <source>Create folder</source>
@@ -1578,7 +1578,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Mark all as read</source>
-        <translation>Merk almal as gelees</translation>
+        <translation>Merk alles as gelees</translation>
     </message>
     <message>
         <source>Empty contents</source>
@@ -1601,7 +1601,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>FreemiumSignatureWarning</name>
     <message>
         <source>Added to signature: &quot;I&apos;m getting my email under control &lt;a href=&quot;https://www.hiri.com/&quot;&gt;using Hiri&lt;/a&gt;&quot;</source>
-        <translation>By handtekening gevoeg: &quot;Ek kry my e-pos onder beheer &lt;a href=&quot;https://www.hiri.com/&quot;&gt; met behulp van Hiri&lt;/a&gt; kry&quot;</translation>
+        <translation>By handtekening gevoeg: &quot;Ek kry my e-pos onder beheer &lt;a href=&quot;https://www.hiri.com/&quot;&gt; met behulp van Hiri&lt;/a&gt;&quot;</translation>
     </message>
 </context>
 <context>
@@ -1716,7 +1716,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Portuguese - Brazil</source>
-        <translation>Portugees (Brasilië)</translation>
+        <translation>Portugees - Brasilië</translation>
     </message>
     <message>
         <source>Portuguese - Portugal</source>
@@ -1760,19 +1760,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation>Tajik</translation>
+        <translation>Tajieks</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation>Turkse</translation>
+        <translation>Turks</translation>
     </message>
     <message>
         <source>Ukranian</source>
-        <translation>Ukranian</translation>
+        <translation>Oekraïens</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation>Viëtnamese</translation>
+        <translation>Vietnamees</translation>
     </message>
 </context>
 <context>
@@ -1783,7 +1783,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Sorry, creating PDF failed. :(</source>
-        <translation>Jammer, kon nie PDF maak nie. :(</translation>
+        <translation>Jammer, kon nie PDF skep nie. :(</translation>
     </message>
     <message>
         <source>Print</source>
@@ -1798,11 +1798,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Unified inbox</source>
-        <translation>Verenigde inbox</translation>
+        <translation>Verenigde inboks</translation>
     </message>
     <message>
         <source>Move to Unsorted</source>
-        <translation>Skuif na Ongesorteerde</translation>
+        <translation>Skuif na Ongesorteerd</translation>
     </message>
 </context>
 <context>
@@ -1813,11 +1813,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>I&apos;d like to invite you to give Hiri a try. It&apos;s a new email app that helps save you time, organise your day and improve communication. Download it here:</source>
-        <translation>Ek wil graag nooi om Hiri &apos;n probeerslag te gee. Dit is &apos;n nuwe e-pos program wat help tyd herwin, jou dag organiseer en kommunikasie verbeter. Laai dit hier af:</translation>
+        <translation>Ek wil jou graag nooi om Hiri ’n probeerslag te gee. Dit is ’n nuwe e-pos program wat help tyd herwin, jou dag organiseer en kommunikasie verbeter. Laai dit hier af:</translation>
     </message>
     <message>
         <source>If you like it, you can get 25% off using the following link:</source>
-        <translation>As jy daarvan hou, kan jy 25% afkry met behulp van die volgende skakel:</translation>
+        <translation>As jy daarvan hou, kan jy 25% af kry met behulp van die volgende skakel:</translation>
     </message>
     <message>
         <source>Thanks!</source>
@@ -1841,15 +1841,15 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>if they like it and decide to signup. We&apos;ll give you</source>
-        <translation>as hulle daarvan hou en besluit om opteteken dan gee ons jou</translation>
+        <translation>as hulle daarvan hou en besluit om te registreer. Ons sal jou</translation>
     </message>
     <message>
         <source>too if you send to just 3 people, even if they don&apos;t signup.</source>
-        <translation>ook as jy dit net na 3 mense toe stuur, al teken hulle nie op nie.</translation>
+        <translation>ook afslag gee as jy dit net na 3 mense toe stuur, al teken hulle nie op nie.</translation>
     </message>
     <message>
         <source>You should invite people that you email most. Both of you will benefit from getting Actionable and FYI emails.</source>
-        <translation>Jy moet mense wat jy die meeste e-pos nooi. Dan as albei van julle baat vind om Actionable en FYI e-posse te kry.</translation>
+        <translation>Nooi mense wat jy die meeste e-pos uit. Dan sal julle albei baat vind uit Aksie en FYI e-posse.</translation>
     </message>
     <message>
         <source>Send invites</source>
@@ -1860,7 +1860,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>KeyboardShortcuts</name>
     <message>
         <source>Keyboard shortcuts</source>
-        <translation>Sleutelbordkortpaaie</translation>
+        <translation>Sleutelbord kortpaaie</translation>
     </message>
 </context>
 <context>
@@ -1875,19 +1875,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Next/previous conversation (when open):</source>
-        <translation>Volgende/vorige gesprek (wanneer oop):</translation>
+        <translation>Volgende/vorige gesprek (indien oop):</translation>
     </message>
     <message>
         <source>Scroll up/down:</source>
-        <translation>Rol op / af:</translation>
+        <translation>Rol op/af:</translation>
     </message>
     <message>
         <source>Top/bottom of current page:</source>
-        <translation>Bo / onderkant van die huidige bladsy:</translation>
+        <translation>Bokant/onderkant van die huidige bladsy:</translation>
     </message>
     <message>
         <source>Open conversation:</source>
-        <translation>Oop gesprek:</translation>
+        <translation>Open gesprek:</translation>
     </message>
     <message>
         <source>Close conversation:</source>
@@ -1895,7 +1895,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Open search:</source>
-        <translation>Oop soektog:</translation>
+        <translation>Open soektog:</translation>
     </message>
     <message>
         <source>Email actions</source>
@@ -1903,11 +1903,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Reply:</source>
-        <translation>Antwoord:</translation>
+        <translation>Beantwoord:</translation>
     </message>
     <message>
         <source>Reply all:</source>
-        <translation>Antwoord Almal:</translation>
+        <translation>Beantwoord almal:</translation>
     </message>
     <message>
         <source>Delete:</source>
@@ -1955,35 +1955,35 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Open Unified inbox:</source>
-        <translation>Verenigde inbox:</translation>
+        <translation>Open Verenigde inboks:</translation>
     </message>
     <message>
         <source>Open Actionable inbox:</source>
-        <translation>Oop vervolgingswaardige inkassie:</translation>
+        <translation>Open Aksie inboks:</translation>
     </message>
     <message>
         <source>Open FYI inbox:</source>
-        <translation>Oop FYI inkassie:</translation>
+        <translation>Open FYI inboks:</translation>
     </message>
     <message>
         <source>Open calendar:</source>
-        <translation>Oop kalender:</translation>
+        <translation>Open kalender:</translation>
     </message>
     <message>
         <source>Open contacts:</source>
-        <translation>Oop kontakte:</translation>
+        <translation>Open kontakte:</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation>Oop paneelbord:</translation>
+        <translation>Open beheerpaneel:</translation>
     </message>
     <message>
         <source>Open settings:</source>
-        <translation>Oop instellings:</translation>
+        <translation>Open instellings:</translation>
     </message>
     <message>
         <source>Open feedback dialog:</source>
-        <translation>Oop terugvoer dialoog:</translation>
+        <translation>Open terugvoer venster:</translation>
     </message>
     <message>
         <source>Composing</source>
@@ -1991,7 +1991,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Send a mail:</source>
-        <translation>Stuur &apos;n e-pos:</translation>
+        <translation>Stuur ’n e-pos:</translation>
     </message>
     <message>
         <source>Bold:</source>
@@ -2014,11 +2014,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>LeftPanel</name>
     <message>
         <source>Compose new mail</source>
-        <translation>Skryf nuwe e-pos</translation>
+        <translation>Skryf ’n nuwe e-pos</translation>
     </message>
     <message>
         <source>Inbox</source>
-        <translation>Inbus</translation>
+        <translation>Inboks</translation>
     </message>
     <message>
         <source>Check for new messages</source>
@@ -2026,19 +2026,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Unsorted</source>
-        <translation>Ongesorteer</translation>
+        <translation>Ongesorteerd</translation>
     </message>
     <message>
         <source>Move to UNSORTED</source>
-        <translation>Skuif na Ongesorteerde</translation>
+        <translation>Skuif na Ongesorteerd</translation>
     </message>
     <message>
         <source>Actionable</source>
-        <translation>Vervolgingswaardige</translation>
+        <translation>Aksie</translation>
     </message>
     <message>
         <source>Move to ACTIONABLE</source>
-        <translation>Skuif na VERVOLGINGSWAARDIGE</translation>
+        <translation>Skuif na AKSIE</translation>
     </message>
     <message>
         <source>FYI</source>
@@ -2050,7 +2050,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Get a discount on Hiri today!</source>
-        <translation>Kry vandag &apos;n afslag op Hiri!</translation>
+        <translation>Kry vandag afslag op Hiri!</translation>
     </message>
     <message>
         <source>Send feedback</source>
@@ -2058,19 +2058,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Skills Center</source>
-        <translation>Vaardighede Sentrum</translation>
+        <translation>Vaardigheids Sentrum</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation>Kontakte</translation>
+        <translation>Kontakpersone</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation>Paneelbord</translation>
+        <translation>Beheerpaneel</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation>Stellings</translation>
+        <translation>Instellings</translation>
     </message>
     <message>
         <source>Calendar</source>
@@ -2088,19 +2088,19 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>MailCompose</name>
     <message>
         <source>Please add a recipient</source>
-        <translation>Voeg asseblief &apos;n ontvanger</translation>
+        <translation>Voeg asseblief ’n ontvanger by</translation>
     </message>
     <message>
         <source>One or more of the emails you entered is wrong. Make sure you hit Enter once you have entered an email address</source>
-        <translation>Een of meer van die e-posse wat jy ingetik het is nie reg nie. Maak seker jy druk Enter sodra jy &apos;n e-pos adres ingetik het</translation>
+        <translation>Een of meer van die e-pos adresse wat jy ingetik het is nie geldig nie. Maak seker dat jy Enter druk sodra jy ’n e-pos adres ingetik het</translation>
     </message>
     <message>
         <source>Please fill all tasks</source>
-        <translation>Vul asseblief alle take</translation>
+        <translation>Vul asseblief alle take in</translation>
     </message>
     <message>
         <source>Please fill subject line</source>
-        <translation>Vul asseblief onderwerpreël</translation>
+        <translation>Vul asseblief onderwerpreël in</translation>
     </message>
     <message>
         <source>Invalid recipient found</source>
@@ -2116,7 +2116,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Include original message attachments</source>
-        <translation>Sluit in oorspronklike boodskap aanhegsels</translation>
+        <translation>Sluit oorspronklike boodskap aanhegsels in</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2124,7 +2124,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Save &amp; close</source>
-        <translation>Stoor &amp; maak toe</translation>
+        <translation>Stoor en maak toe</translation>
     </message>
 </context>
 <context>
@@ -2135,7 +2135,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>saving</source>
-        <translation>Stoor</translation>
+        <translation>besig om te stoor</translation>
     </message>
     <message>
         <source>saved locally</source>
@@ -2147,11 +2147,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Draft saved</source>
-        <translation>Konsep gestoor</translation>
+        <translation>Sigblad gestoor</translation>
     </message>
     <message>
         <source>Error saving draft</source>
-        <translation>Kon nie die &apos;draft&apos; stoor nie</translation>
+        <translation>Kon nie die sigblad stoor nie</translation>
     </message>
     <message>
         <source>Forward sent</source>
@@ -2163,7 +2163,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Error sending message</source>
-        <translation>Fout met stuur van boodskap</translation>
+        <translation>Kon nie die boodskap stuur nie</translation>
     </message>
     <message>
         <source>Message sent</source>
@@ -2175,15 +2175,15 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Error forwarding a meeting</source>
-        <translation>Fout met aanstuur van &apos;n vergadering</translation>
+        <translation>Kon nie die vergadering aanstuur nie</translation>
     </message>
     <message>
         <source>Are you sure you want to discard this draft?</source>
-        <translation>Is jy seker jy wil hierdie konsep weggooi?</translation>
+        <translation>Is jy seker dat jy hierdie sigblad wil weggooi?</translation>
     </message>
     <message>
         <source>Yes, discard it</source>
-        <translation>Ja, vee uit</translation>
+        <translation>Ja, gooi weg</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -2217,11 +2217,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>MailTips</name>
     <message>
         <source>What are &lt;font color=&quot;#e54624&quot;&gt;Action&lt;/font&gt; and &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</source>
-        <translation>Wat is &lt;font color=&quot;#e54624&quot;&gt; aksie&lt;/font&gt; en &lt;font color=&quot;#29abe2&quot;&gt; FYI&lt;/font&gt;?</translation>
+        <translation>Wat is &lt;font color=&quot;#e54624&quot;&gt;Aksie&lt;/font&gt; en &lt;font color=&quot;#29abe2&quot;&gt;FYI&lt;/font&gt;?</translation>
     </message>
     <message>
         <source>Same as To and Cc really. But if the person you&apos;re sending the mail to uses Hiri, your mail will land in their Actionable or FYI inbox.</source>
-        <translation>Dieselfde as TO en CC. eintlik. Maar as die persoon wat jy die mail aan stuur Hiri gebruik, dan sal jou e-pos sal in hul Actionable of FYI inkassie beland.</translation>
+        <translation>Dieselfde as Aan en Cc eintlik. Maar as die persoon aan wie jy die e-pos stuur Hiri gebruik, dan sal jou e-pos in hul Aksie of FYI inboks beland.</translation>
     </message>
     <message>
         <source>Learn more</source>
@@ -2233,7 +2233,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Because you&apos;ll write a better subject line! You&apos;ve already written the content so your subject will be more accurate, which saves your recipient&apos;s time.</source>
-        <translation>Want jy sal &apos;n beter onderwerpreël skryf! Jy het reeds die inhoud geskryf sodat jou onderwerp sal meer akkuraat wees, wat jou Ontvanger se tyd bespaar.</translation>
+        <translation>Want jy sal ’n beter onderwerpreël skryf! Jy het reeds die inhoud geskryf, so jou onderwerp sal meer akkuraat wees, wat jou Ontvanger se tyd sal bespaar.</translation>
     </message>
     <message>
         <source>What is</source>
@@ -2245,13 +2245,13 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation>Afgevaardigde is gebruik om &apos;n taak aan iemand stuur.</translation>
+        <translation>Afgevaardigde is gebruik om ’n taak aan iemand stuur.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
-        <translation>Indien die e-pos wat jy aanstuur &apos;n taak vir jou bevat, sal elke ontvanger wat jy byvoeg jou taak kry.
- Dit is hoekom ons dit afgevaardigde noem.</translation>
+        <translation>Indien die e-pos wat jy aanstuur ’n taak vir jou bevat, sal elke ontvanger wat jy by Aksie voeg jou taak kry.
+ Dit is hoekom ons dit ’n afgevaardigde noem.</translation>
     </message>
 </context>
 <context>
@@ -2375,11 +2375,11 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation>Nooi - tik &apos;n naam om te begin</translation>
+        <translation>Nooi - tik ’n naam in om te begin</translation>
     </message>
     <message>
         <source>This is a recurring meeting. You can only remove an attachment from the original meeting</source>
-        <translation>Dit is &apos;n herhalende vergadering. Jy kan slegs &apos;n aanhegsel verwyder van die oorspronklike vergadering af</translation>
+        <translation>Dit is ’n herhalende vergadering. Jy kan slegs ’n aanhegsel verwyder van die oorspronklike vergadering</translation>
     </message>
     <message>
         <source>Edit original</source>
@@ -2537,7 +2537,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     <name>NewMessageNotification</name>
     <message>
         <source>There is a new message in this conversation</source>
-        <translation>Daar is &apos;n nuwe boodskap in hierdie gesprek</translation>
+        <translation>Daar is ’n nuwe boodskap in hierdie gesprek</translation>
     </message>
     <message>
         <source>Do nothing</source>
@@ -2645,7 +2645,7 @@ die volgende vlak te neem.</translation>
     </message>
     <message>
         <source>An error has occurred</source>
-        <translation>&apos;n Fout het gebeur</translation>
+        <translation>’n Fout het gebeur</translation>
     </message>
     <message>
         <source>Search all contacts</source>
@@ -2653,7 +2653,7 @@ die volgende vlak te neem.</translation>
     </message>
     <message>
         <source>Type a name to start searching</source>
-        <translation>Tik &apos;n naam om te begin soek</translation>
+        <translation>Tik ’n naam in om te begin soek</translation>
     </message>
     <message>
         <source>Type  to search</source>
@@ -2692,11 +2692,11 @@ die volgende vlak te neem.</translation>
     </message>
     <message>
         <source>You haven&apos;t changed the meeting time. Please propose a new time.</source>
-        <translation>Jy het nie die vergadering tyd verander nie. Stel asseblief &apos;n nuwe tyd voor.</translation>
+        <translation>Jy het nie die vergadering tyd verander nie. Stel asseblief ’n nuwe tyd voor.</translation>
     </message>
     <message>
         <source>Let them know why you&apos;re proposing a new time, or leave blank</source>
-        <translation>Laat hulle weet hoekom jy &apos;n nuwe tyd voorsel, of los uit</translation>
+        <translation>Laat hulle weet hoekom jy ’n nuwe tyd voorsel, of los dit leeg</translation>
     </message>
     <message>
         <source>Send</source>
@@ -2797,7 +2797,7 @@ die volgende vlak te neem.</translation>
     <name>ReminderNotification</name>
     <message>
         <source>Snooze</source>
-        <translation>Wag &apos;n bietjie</translation>
+        <translation>Stel uit</translation>
     </message>
     <message>
         <source>5 mins before due</source>
@@ -3016,7 +3016,7 @@ die volgende vlak te neem.</translation>
     <name>ResponseButtonsErrorMessage</name>
     <message>
         <source>An error has occurred</source>
-        <translation>&apos;n Fout het voorgekom</translation>
+        <translation>’n Fout het voorgekom</translation>
     </message>
 </context>
 <context>
@@ -3038,7 +3038,7 @@ die volgende vlak te neem.</translation>
     </message>
     <message>
         <source>Invite - type a name to begin</source>
-        <translation>Nooi - tik &apos;n naam om te begin</translation>
+        <translation>Nooi - tik ’n naam in om te begin</translation>
     </message>
     <message>
         <source>Location</source>
@@ -3072,7 +3072,7 @@ die volgende vlak te neem.</translation>
     <name>SearchDatePicker</name>
     <message>
         <source>1: Select a date</source>
-        <translation>1: Kies &apos;n datum</translation>
+        <translation>1: Kies ’n datum</translation>
     </message>
     <message>
         <source>Exact day</source>
@@ -3293,7 +3293,7 @@ die volgende vlak te neem.</translation>
         <source>Unable to get your subscription data.
 You can still use Hiri until connection with the server has been established.</source>
         <translation>Kan nie jou subskripsie data kry nie.
-Jy kan steeds Hiri gebruik tot verbinding met hoofrekenaar herstel is.</translation>
+Jy kan steeds Hiri gebruik tot verbinding met bediener herstel is.</translation>
     </message>
     <message>
         <source>Buy Hiri now</source>
@@ -3347,7 +3347,7 @@ Jy kan steeds Hiri gebruik tot verbinding met hoofrekenaar herstel is.</translat
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation>&apos;n E-pos alias is maar net &apos;n extra e-posadres gekoppel aan jou posbus. Hierdie rekening sal alle e-posse ontvang wat gestuur na die adresse wat hieronder gelys is. As gevolg van tegniese beperkings kan Hiri net 3 aliasse opstel op die e-posbediener. As jy meer as 3 het, sal jy dalk hulle helf hier wil byvoeg. Dit sal verhoed dat Hiri verkeerdelik jou e-posse kategoriseer. Bekende adresse vir die posbus:</translation>
+        <translation>’n E-pos alias is maar net ’n extra e-pos adres gekoppel aan jou posbus. Hierdie rekening sal alle e-posse ontvang wat gestuur is na die adresse wat hieronder gelys is. As gevolg van tegniese beperkings kan Hiri net 3 aliasse opstel op die e-pos bediener. As jy meer as 3 het, sal jy dalk hulle self hier wil byvoeg. Dit sal verhoed dat Hiri verkeerdelik jou e-posse kategoriseer. Bekende adresse vir die posbus:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
@@ -3419,11 +3419,11 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>If that doesn&apos;t work, maybe you paid with a different email address?</source>
-        <translation>As dit nie werk nie, miskien het jy betaal met &apos;n verskillende e-pos adres?</translation>
+        <translation>As dit nie werk nie, het jy miskien met ’n ander e-pos adres betaal?</translation>
     </message>
     <message>
         <source>I paid with a different email address</source>
-        <translation>Ek het betaal met &apos;n verskillende e-pos adres</translation>
+        <translation>Ek het betaal met ’n ander e-pos adres</translation>
     </message>
 </context>
 <context>
@@ -3458,7 +3458,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Email list on top and a preview-pane at the bottom.</source>
-        <translation>E-pos lys bo en &apos;n voorskou aan die onderkant.</translation>
+        <translation>E-pos lys bo en ’n voorskou aan die onderkant.</translation>
     </message>
     <message>
         <source>User interface size</source>
@@ -3560,7 +3560,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Speed up Hiri and free up some disk space. This can take a minute.</source>
-        <translation>Ons maak gou Hiri vinniger en maak plek op die hardeskyf. Dit kan wel &apos;n minuut duur.</translation>
+        <translation>Ons maak gou Hiri vinniger en maak plek op die hardeskyf. Dit kan wel ’n minuut duur.</translation>
     </message>
     <message>
         <source>Optimizing the database…</source>
@@ -3572,7 +3572,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Hiri might look frozen at this point but give it a few minutes.</source>
-        <translation>Hiri lyk dalk asof dit vashak, maar gee dit &apos;n paar minute.</translation>
+        <translation>Hiri lyk dalk asof dit vashak, maar gee dit ’n paar minute.</translation>
     </message>
     <message>
         <source>Done!</source>
@@ -3592,7 +3592,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Can&apos;t check for updates at the moment</source>
-        <translation>Kon nie sien of daar &apos;n nuwe weergawe is nie</translation>
+        <translation>Kon nie kyk of daar ’n nuwe weergawe is nie</translation>
     </message>
     <message>
         <source>Found new version</source>
@@ -3604,7 +3604,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Error checking for updates</source>
-        <translation>Kon nie kyk of daar &apos;n nuwe weergawe is nie</translation>
+        <translation>Kon nie kyk of daar ’n nuwe weergawe is nie</translation>
     </message>
 </context>
 <context>
@@ -3627,7 +3627,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>If the translation that you select is incomplete, some words will be displayed in English. If you would like to help with translations (or create one for a new language) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;go here&lt;/a&gt; to contribute! Thanks.</source>
-        <translation>Indien die vertaling wat jy kies onvolledig is, sal &apos;n paar woorde in Engels vertoon word. As jy wil help met vertalings (of een skep vir &apos;n nuwe taal) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt; gaan hiernatoe&lt;/a&gt;! Dankie.</translation>
+        <translation>Indien die vertaling wat jy kies onvolledig is, sal ’n paar woorde in Engels vertoon word. As jy wil help met vertalings (of een skep vir ’n nuwe taal) &lt;a href=&apos;https://hosted.weblate.org/projects/hiri/&apos;&gt;gaan hiernatoe&lt;/a&gt;! Dankie.</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -3654,7 +3654,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     </message>
     <message>
         <source>Please enter an Out of Office message.</source>
-        <translation>Tik asseblief &apos;n boodskap om stuur terwyl jy  uit die kantoor is.</translation>
+        <translation>Tik asseblief ’n boodskap om te stuur terwyl jy uit die kantoor is.</translation>
     </message>
     <message>
         <source>Out of office saved</source>
@@ -3773,8 +3773,8 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     <message>
         <source>Create a desktop entry and add it to your applications menu.
 This will let you pin Hiri icon to your launcher.</source>
-        <translation>Skep &apos;n desktop icon en voeg dit by jou toepassingskieslys.
-Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translation>
+        <translation>Skep ’n desktop ikoon en voeg dit by jou toepassings kieslys.
+Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</translation>
     </message>
     <message>
         <source>Create desktop entry</source>
@@ -3822,7 +3822,7 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Error selecting folder. Try a different folder.</source>
-        <translation>Kon nie vouer kies nie. Probeer &apos;n ander vouer.</translation>
+        <translation>Kon nie vouer kies nie. Probeer ’n ander vouer.</translation>
     </message>
     <message>
         <source>Spell check</source>
@@ -3864,7 +3864,7 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     <name>SimpleComboBox</name>
     <message>
         <source>Select an option</source>
-        <translation>Kies &apos;n opsie</translation>
+        <translation>Kies ’n opsie</translation>
     </message>
 </context>
 <context>
@@ -3970,11 +3970,11 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Separate your emails using the Action/FYI split.</source>
-        <translation>Skei jou e-posse met behulp van die aksie/FYI.</translation>
+        <translation>Skei jou e-posse met behulp van die Aksie/FYI.</translation>
     </message>
     <message>
         <source>It adds Action and an FYI filters to the dark grey box on the left hand side.</source>
-        <translation>Dit voeg &apos;n aksie en &apos;n FYI filtreerder in die donker grys boks aan die linkerkant.</translation>
+        <translation>Dit voeg ’n Aksie en ’n FYI filtreerder in die donker grys boks aan die linkerkant.</translation>
     </message>
     <message>
         <source>The Dashboard</source>
@@ -3986,7 +3986,7 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation>&apos;n Paneelbord sal voor Hiri na 90 sekondes van onaktiwiteit verskyn om jou te herhinder om nie jou pos so dikwels te kyk nie. Dit help jou fokus en jy bespaar tyd.</translation>
+        <translation>’n Beheerpaneel sal voor Hiri na 90 sekondes van onaktiwiteit verskyn om jou te herhinder om nie so dikwels na jou e-pos te kyk nie. Dit hou jou gefokus en bespaar tyd.</translation>
     </message>
     <message>
         <source>Task List</source>
@@ -3998,7 +3998,7 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Adds a Task list to the right hand side. You can simply drag emails into this panel to create a Task list.</source>
-        <translation>Voeg &apos;n taak lys aan die regterkant by. Jy kan eenvoudig e-posse in hierdie paneel sleep om &apos;n taaklys te skep.</translation>
+        <translation>Voeg ’n Taak lys aan die regterkant by. Jy kan eenvoudig e-posse na hierdie paneel sleep om ’n taaklys te skep.</translation>
     </message>
     <message>
         <source>Delegate Emails</source>
@@ -4006,11 +4006,11 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Make it clear that you have delegated a task.</source>
-        <translation>Maak dit duidelik dat jy &apos;n taak gedelegeer het.</translation>
+        <translation>Maak dit duidelik dat jy ’n taak gedelegeer het.</translation>
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation>Voeg &apos;n delegeer knoppie op die e-pos aksie balk by.</translation>
+        <translation>Voeg ’n &apos;Delegeer&apos; knoppie op die e-pos Aksiebalk by.</translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4018,11 +4018,11 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Never forget about an important email again</source>
-        <translation>Vergeet nooit weer &apos;n belangrike e-pos nie</translation>
+        <translation>Vergeet nooit weer ’n belangrike e-pos nie</translation>
     </message>
     <message>
         <source>Adds a Reminder button to the Email Action Bar. This allows you to set reminders for specific conversations.</source>
-        <translation>Voeg &apos;n herinnering knoppie op die e-pos aksie balk by. Dit laat jou toe om herinneringe op te stel vir spesifieke gesprekke.</translation>
+        <translation>Voeg ’n &apos;Herindering&apos; knoppie op die e-pos Aksiebalk by. Dit laat jou toe om herinderinge op te stel vir spesifieke gesprekke.</translation>
     </message>
     <message>
         <source>Write Better Subject Lines</source>
@@ -4046,19 +4046,19 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Requires Action/FYI Split</source>
-        <translation>Vereis aksie/FYI verdeeling</translation>
+        <translation>Vereis Aksie/FYI verdeëling</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel jou in staat om ’n Nul Inboks te verkry. Gewoonlik, as jy Aksie/FYI verdeëling aktiveer (sien Aksie/FYI verdeëling vaardigheid vir meer inligting), bly e-pos wat deur hierdie reëls verskuif word in die algemene inboks, maar word gemerk met ’n kleur. Deur Nul Inboks te aktiveer word heirdie e-posse nou geskuif na die betrokke vouers. Dit hou jou inboks leeg.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
-        <translation>Beoordeel E-posse</translation>
+        <translation>Beoordeel e-posse</translation>
     </message>
     <message>
         <source>Become a better communicator.</source>
-        <translation>Kommunikeer beter.</translation>
+        <translation>Verbeter jou kommunikasie.</translation>
     </message>
     <message>
         <source>Coming soon!</source>
@@ -4066,11 +4066,11 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>The best way to improve your communication skills is honest feedback, and what better place to ask then an email?</source>
-        <translation>Die beste plek om jou kommunikasie vermoe te verbeter is eerlike terugvoer - wat kan &apos;n beter plek wees om te vra as in &apos;n e-pos?</translation>
+        <translation>Die beste plek om jou kommunikasie vermoë te verbeter is eerlike terugvoer - wat kan ’n beter plek wees om te vra as in ’n e-pos?</translation>
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gee  ander die moontlikheid om jou e-pos te beoordeel met behulp van die vier fondamente van goeie kommunikasie - duidelikheid, bondigheid, toon en gedrag. Hiri gee jou ’n gradering gebasseer op die terugvoer van andere en aanbevelings om jou kommunikasie vaardighede te verbeter. Jou resultaat word nie met ander gedeel nie. Graderings bly anoniem - jy weet nie wie jou beoordeel het nie.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
@@ -4078,7 +4078,7 @@ Dit sal jou toelaat om Hiri ikoon in jou launcher te &quot;pin&quot;.</translati
     </message>
     <message>
         <source>Up your game with these email productivity hacks.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbeter jou vermoëns met behulp van hierdie produktiwiteit wenke (hacks).</translation>
     </message>
     <message>
         <source>Short version: Triaging your emails helps you separate the wheat from the chaff. An organised Inbox leads to a healthier mind. &lt;br /&gt;&lt;br /&gt;
@@ -4174,7 +4174,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation>Tik asseblief &apos;n boodskap om stuur terwyl jy  uit die kantoor is</translation>
+        <translation>Tik asseblief ’n boodskap in om stuur terwyl jy uit die kantoor is</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
@@ -4499,7 +4499,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Conversation moved to Actionable mailbox.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gesprek geskuif na Aksieboks.</translation>
     </message>
     <message>
         <source>Oops, creating followup failed…</source>
@@ -4885,7 +4885,7 @@ under control.</source>
     <name>ExceptionHandler</name>
     <message>
         <source>The Hiri server is offline. You won&apos;t be able to rate your colleagues&apos; emails or see your communication score.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Hiri bediener is aflyn. Jy kan nie kolegas se e-posse beoordeel of jou kommunikasie punte sien nie.</translation>
     </message>
 </context>
 <context>
@@ -4899,7 +4899,7 @@ under control.</source>
     <name>Operation</name>
     <message>
         <source>Connection to server was interrupted</source>
-        <translation type="unfinished"></translation>
+        <translation>Die verbinding met die bediener was onderbreek</translation>
     </message>
     <message>
         <source>Yikes, something went wrong</source>

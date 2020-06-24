@@ -4354,47 +4354,47 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>from</source>
-        <translation type="unfinished"></translation>
+        <translation>van</translation>
     </message>
     <message>
         <source>Open email</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak e-pos oop</translation>
     </message>
     <message>
         <source>Set a reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Skep ’n herhindering</translation>
     </message>
     <message>
         <source>Remove reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder herhindering</translation>
     </message>
     <message>
         <source>Remove due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder vervaldatum</translation>
     </message>
     <message>
         <source>Delete task</source>
-        <translation type="unfinished"></translation>
+        <translation>Vee taak uit</translation>
     </message>
     <message>
         <source>Add a note</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg ’n nota by</translation>
     </message>
     <message>
         <source>Edit note</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander nota</translation>
     </message>
     <message>
         <source>Clear note</source>
-        <translation type="unfinished"></translation>
+        <translation>Wis nota uit</translation>
     </message>
     <message>
         <source>Are you sure you want to clear the note?</source>
-        <translation type="unfinished"></translation>
+        <translation>Is jy seker dat jy die nota wil uitwis?</translation>
     </message>
     <message>
         <source>Yes, clear it</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja, wis dit uit</translation>
     </message>
     <message>
         <source>No, keep it</source>
@@ -4405,18 +4405,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskList</name>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>jy</translation>
     </message>
     <message>
         <source>all</source>
-        <translation type="unfinished"></translation>
+        <translation>alles</translation>
     </message>
 </context>
 <context>
     <name>TaskNoteDialog</name>
     <message>
         <source>Edit task note</source>
-        <translation type="unfinished"></translation>
+        <translation>Verander taak nota</translation>
     </message>
     <message>
         <source>Close</source>
@@ -4431,11 +4431,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskReminderService</name>
     <message>
         <source>(No task)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Geen taak)</translation>
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oeps, dié herhindering  kan nie</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4904,7 +4904,7 @@ under control.</source>
     </message>
     <message>
         <source>Yikes, something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Ai! Iets het verkeerd gegaan</translation>
     </message>
 </context>
 <context>

@@ -4092,7 +4092,8 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kort weergawe: Deur verskillende vlakke van belangrikheid aan jou e-posse toe te ken kan jy konsentreer op wat jy moet. ’n Georganiseerde posbus lei na ’n gesonder brein.&lt;/br&gt;&lt;/br&gt;
+     Deur jou e-posse</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;

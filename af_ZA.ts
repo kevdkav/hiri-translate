@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Attachment &apos;%1&apos; downloaded</source>
-        <translation>Aanhegsel &apos;%1&apos; afgelaai</translation>
+        <translation>Aanhegsel &apos;%1&apos; is afgelaai</translation>
     </message>
     <message>
         <source>Download of attachment &apos;%1&apos; failed</source>
@@ -221,7 +221,7 @@
     </message>
     <message>
         <source>Are you sure you want to remove calendar %1? You can always add it later.</source>
-        <translation>Is jy seker dat jy kalender %1 wil verwyder? Jy kan dit altyd later weer byvoeg.</translation>
+        <translation>Is jy seker dat jy kalender &quot;%1&quot; wil verwyder? Jy kan dit altyd later weer byvoeg.</translation>
     </message>
     <message>
         <source>Yes remove it</source>
@@ -635,7 +635,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete contact:</source>
-        <translation>Is jy seker dat jy dié kontak wil uitvee:</translation>
+        <translation>Is jy seker dat jy hierdie kontak wil uitvee:</translation>
     </message>
     <message>
         <source>Yes, delete it.</source>
@@ -933,14 +933,14 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Error downloading all attachments</source>
-        <translation>Kon nie alle aanhegsels aflaai nie</translation>
+        <translation>Kon nie al die aanhegsels aflaai nie</translation>
     </message>
 </context>
 <context>
     <name>EditCancelButtons</name>
     <message>
         <source>Are you sure you want to cancel this meeting?</source>
-        <translation>Is jy seker dat jy dié vergadering wil kanselleer?</translation>
+        <translation>Is jy seker dat jy hierdie vergadering wil kanselleer?</translation>
     </message>
     <message>
         <source>Yes, cancel it</source>
@@ -952,7 +952,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Is jy seker dat jy dié vergadering wil uitvee?</translation>
+        <translation>Is jy seker dat jy hierdie vergadering wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -988,15 +988,15 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Cancel occurence</source>
-        <translation>Kanselleer dié een</translation>
+        <translation>Kanselleer hierdie een</translation>
     </message>
     <message>
         <source>Delete occurence</source>
-        <translation>Vee dié een uit</translation>
+        <translation>Vee hierdie een uit</translation>
     </message>
     <message>
         <source>Edit occurence</source>
-        <translation>Verander dié een</translation>
+        <translation>Verander hierdie een</translation>
     </message>
 </context>
 <context>
@@ -1043,7 +1043,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>This conversation contains drafts. Are you sure you want to delete it?</source>
-        <translation>Hierdie gesprek bevat ongestuurde bootskappe. Is jy seker jy wil dit uitvee?</translation>
+        <translation>Hierdie gesprek bevat ongestuurde boodskappe. Is jy seker dat jy dit wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -1109,7 +1109,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>See our thoughts on privacy &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;here&lt;/a&gt;.</source>
-        <translation>Sien ons gedagtes aangaande privaatheid  &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;hier&lt;/a&gt;.</translation>
+        <translation>Sien ons gedagtes aangaande privaatheid &lt;a href=&apos;https://support.hiri.com/hc/en-us/articles/115000846814-Privacy&apos;&gt;hier&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Next step</source>
@@ -1487,7 +1487,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t delete a folder if you&apos;re offline.</source>
-        <translation>Jammer, jy kan nie -n vouer uitvee as jy aflyn is nie.</translation>
+        <translation>Jammer, jy kan nie ’n vouer uitvee as jy aflyn is nie.</translation>
     </message>
     <message>
         <source>Are you sure you want to permanently delete the folder and the contents of &quot;%1&quot;?</source>
@@ -1656,7 +1656,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Farsi</source>
-        <translation>Farsi</translation>
+        <translation>Persies</translation>
     </message>
     <message>
         <source>Faroese</source>
@@ -1975,7 +1975,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation>Open beheerpaneel:</translation>
+        <translation>Open paneelbord:</translation>
     </message>
     <message>
         <source>Open settings:</source>
@@ -2066,7 +2066,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Dashboard</source>
-        <translation>Beheerpaneel</translation>
+        <translation>Paneelbord</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -2245,13 +2245,13 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Delegate is used to forward a task to someone.</source>
-        <translation>Afgevaardigde is gebruik om ’n taak aan iemand stuur.</translation>
+        <translation>Delegeer word gebruik om ’n taak aan iemand te stuur.</translation>
     </message>
     <message>
         <source>If the email you&apos;re forwarding contains a task for you, each recipient you add to Action will have your task by default.
  That&apos;s why we call it Delegate.</source>
         <translation>Indien die e-pos wat jy aanstuur ’n taak vir jou bevat, sal elke ontvanger wat jy by Aksie voeg jou taak kry.
- Dit is hoekom ons dit ’n afgevaardigde noem.</translation>
+ Dit is hoekom ons dit &quot;Delegeer&quot; noem.</translation>
     </message>
 </context>
 <context>
@@ -2458,7 +2458,7 @@ Wil jy net hierde een stuur, of die hele reeks?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete this meeting?</source>
-        <translation>Is jy seker dat jy die vergadering wil uitvee?</translation>
+        <translation>Is jy seker dat jy hierdie vergadering wil uitvee?</translation>
     </message>
     <message>
         <source>Yes, delete it</source>
@@ -3170,7 +3170,7 @@ die volgende vlak te neem.</translation>
     </message>
     <message>
         <source>attachment:</source>
-        <translation>Aanhangsel:</translation>
+        <translation>aanhegsel:</translation>
     </message>
     <message>
         <source>date:</source>
@@ -3347,7 +3347,9 @@ Jy kan steeds Hiri gebruik tot verbinding met bediener herstel is.</translation>
         <source>An email alias is simply a forwarding email address. This account will receive all emails sent to the addresses listed below. Due to technical limitations Hiri only knows for up to 3 aliases set on the mail server. If you have more than 3 set you might want to add them manually below. This will prevent Hiri from wrongly categorizing your emails received directly or via mailing lists.
 
 Known aliases:</source>
-        <translation>’n E-pos alias is maar net ’n extra e-pos adres gekoppel aan jou posbus. Hierdie rekening sal alle e-posse ontvang wat gestuur is na die adresse wat hieronder gelys is. As gevolg van tegniese beperkings kan Hiri net 3 aliasse opstel op die e-pos bediener. As jy meer as 3 het, sal jy dalk hulle self hier wil byvoeg. Dit sal verhoed dat Hiri verkeerdelik jou e-posse kategoriseer. Bekende adresse vir die posbus:</translation>
+        <translation>’n E-pos alias is maar net ’n extra e-pos adres gekoppel aan jou posbus. Hierdie rekening sal alle e-posse ontvang wat gestuur is na die adresse wat hieronder gelys is. As gevolg van tegniese beperkings kan Hiri net 3 aliasse opstel op die e-pos bediener. As jy meer as 3 het, sal jy dalk hulle self hier wil byvoeg. Dit sal verhoed dat Hiri verkeerdelik jou e-posse kategoriseer.
+
+Bekende adresse vir die posbus:</translation>
     </message>
     <message>
         <source>You can enter any custom aliases here (one per line):</source>
@@ -3355,7 +3357,7 @@ Known aliases:</source>
     </message>
     <message>
         <source>(please note these must be existing aliases, you can&apos;t create aliases in Hiri)</source>
-        <translation>(Let wel dat hierdie hierdie bestaande aliasse moet wees, Hiri kan hulle nie skep nie)</translation>
+        <translation>(Let wel dat hierdie bestaande aliasse moet wees, Hiri kan hulle nie skep nie)</translation>
     </message>
     <message>
         <source>Save</source>
@@ -3405,7 +3407,7 @@ Known aliases:</source>
         <source>Are you sure you want to delete this account from Hiri?
 This will delete all settings and the LOCAL email database.
 Don&apos;t worry, your emails are still safe on the server!</source>
-        <translation>Is jy seker jy wil hierdie rekening van Hiri uitvee?
+        <translation>Is jy seker dat jy hierdie rekening wil uitvee van Hiri af?
 Dit sal alle instellings en die plaaslike e-pos databasis uitvee.
 Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translation>
     </message>
@@ -3523,7 +3525,7 @@ Moenie bekommerd wees nie, jou e-posse is nog veilig op die bediener!</translati
     <name>SettingsDashboard</name>
     <message>
         <source>Show dashboard when inactive</source>
-        <translation>Wys paneelbord wanneer onaktief is</translation>
+        <translation>Wys paneelbord indien onaktief</translation>
     </message>
     <message>
         <source>Display the dashboard when not interacting with Hiri for:</source>
@@ -3810,7 +3812,7 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     </message>
     <message>
         <source>Always ask where to download attachments</source>
-        <translation>Vra altyd waar om aanhegsels af te laai</translation>
+        <translation>Vra altyd waar om aanhegsels te stoor</translation>
     </message>
     <message>
         <source>Download to</source>
@@ -3882,11 +3884,11 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     </message>
     <message>
         <source>Error downloading attachment</source>
-        <translation>Kon nie aanhegsel aflaai nie</translation>
+        <translation>Kon nie die aanhegsel aflaai nie</translation>
     </message>
     <message>
         <source>Yikes! I&apos;m not sure how to open this attachment!</source>
-        <translation>Yikes! Ek is nie seker hoe om die aanhangsel oop te maak nie!</translation>
+        <translation>Ai! Ek is nie seker hoe om die aanhegsel oop te maak nie!</translation>
     </message>
     <message>
         <source>Open</source>
@@ -3986,7 +3988,7 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     </message>
     <message>
         <source>A Dashboard will pop up in front of Hiri after 90 seconds of inactivity to remind you not to check your mail so often. This helps you keep focused and saves you time.</source>
-        <translation>’n Beheerpaneel sal voor Hiri na 90 sekondes van onaktiwiteit verskyn om jou te herhinder om nie so dikwels na jou e-pos te kyk nie. Dit hou jou gefokus en bespaar tyd.</translation>
+        <translation>’n Paneelbord sal voor Hiri na 90 sekondes van onaktiwiteit verskyn om jou te herhinder om nie so dikwels na jou e-pos te kyk nie. Dit hou jou gefokus en bespaar tyd.</translation>
     </message>
     <message>
         <source>Task List</source>
@@ -4010,7 +4012,7 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     </message>
     <message>
         <source>Adds a Delegate button to the Email Action Bar.</source>
-        <translation>Voeg ’n &apos;Delegeer&apos; knoppie op die e-pos Aksiebalk by.</translation>
+        <translation>Voeg ’n &quot;Delegeer&quot; knoppie op die e-pos Aksiebalk by.</translation>
     </message>
     <message>
         <source>Reminders</source>
@@ -4070,7 +4072,7 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     </message>
     <message>
         <source>Allows others to rate your emails using the four pillars of good communication - clarity, brevity, tone and behaviour. Hiri will give you a score based on feedback from your peers and recommendations on what you can do to improve your communication skills. This score is not shared with anyone else. Ratings are anonymised - you won&apos;t know who rated you.</source>
-        <translation>Gee  ander die moontlikheid om jou e-pos te beoordeel met behulp van die vier fondamente van goeie kommunikasie - duidelikheid, bondigheid, toon en gedrag. Hiri gee jou ’n gradering gebasseer op die terugvoer van andere en aanbevelings om jou kommunikasie vaardighede te verbeter. Jou resultaat word nie met ander gedeel nie. Graderings bly anoniem - jy weet nie wie jou beoordeel het nie.</translation>
+        <translation>Gee ander die moontlikheid om jou e-pos te beoordeel met behulp van die vier fondamente van goeie kommunikasie - duidelikheid, bondigheid, toon en gedrag. Hiri gee jou ’n gradering gebasseer op die terugvoer van andere en aanbevelings om jou kommunikasie vaardighede te verbeter. Jou resultaat word nie met ander gedeel nie. Graderings bly anoniem - jy weet nie wie jou beoordeel het nie.</translation>
     </message>
     <message>
         <source>Time to skill up.</source>
@@ -4092,15 +4094,27 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     If you don&apos;t triage your email you can&apos;t tell which emails require attention and which don&apos;t. Which means your inbox looks like it contains an insurmountable mountain of work. Looking at an overflowing inbox can be pretty stressful. And when you are stressed, important stuff falls through the cracks.&lt;br /&gt;&lt;br /&gt;The Action / FYI concept is carried through to other parts of the app too. For example, If you enable the Task list skill, any emails you drag to the task list will automatically appear in the Actionable filter. &lt;br /&gt;&lt;br /&gt;
 
     To learn about Action / FYI in detail, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;visit our support article&lt;/a&gt;.</source>
-        <translation type="unfinished">Kort weergawe: Deur verskillende vlakke van belangrikheid aan jou e-posse toe te ken kan jy konsentreer op wat jy moet. ’n Georganiseerde posbus lei na ’n gesonder brein.&lt;/br&gt;&lt;/br&gt;
-     Deur jou e-posse</translation>
+        <translation>Kort weergawe: Deur verskillende vlakke van belangrikheid aan jou e-posse toe te ken kan jy konsentreer op wat jy moet. ’n Georganiseerde posbus lei na ’n gesonder brein.&lt;br/&gt;&lt;br/&gt;
+     Deur jou e-posse te verdeel in goed wat jy moet doen en goed wat jy net kennis van behoort te hê is ’n wonderlike manier om jou inboks in toom te hou. Wanneer jy jou inboks ‘triage’, begin jy besef dat daar nie naastenby soveel dinge is wat jy moet doen as wat jy gedink het nie. In teendeel, slegs omtrent 20% van die gemiddelde e-posse wat jy ontvang bevat ’n taak vir jou. Die hoof rede vir die res kan opgebreek word as volg:&lt;br/&gt;
+     &lt;ul&gt;
+     &lt;li&gt;16% van die e-posse ontvang is onnodige Cc&apos;s&lt;/li&gt;
+     &lt;li&gt;13% van die e-posse ontvang is irrelevant of ongerig&lt;/li&gt;
+     &lt;li&gt;41% van die e-posse ontvang is slegs vir inligtingsdoeleindes&lt;/li&gt;
+     &lt;/ul&gt;
+     &lt;br/&gt;
+      As jy nie jou e-posse ‘triage’ nie, kan jy nie sê watter e-posse aandag benodig en watter nie. Dit beteken dat jou inboks lyk asof dit ’n onoorkomelike berg werk bevat. Om na ’n oorstroomde inboks te kyk, kan redelik stresvol wees. En as jy gespanne is, val belangrike dinge deur die krake. &lt;br /&gt; &lt;br /&gt; Die Aksie / FYI-konsep word ook na ander dele van die program oorgedra. Byvoorbeeld, as jy die vaardigheid in die taaklys aktiveer, sal e-posse watjy na die taaklys sleep, outomaties in die Aksiefilter verskyn. &lt;br /&gt; &lt;br /&gt;
+
+     Om meer inligting oor Action / FYI te verkry, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115001210574-What-are-Actionable-and-FYI-inboxes-&quot;&gt;besoek ons ondersteuningsartikel&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>The most destructive email habit of all? Checking your mail too frequently. On average, we check our email 96 times a day, or every 5 minutes. This is completely unnecessary. Nobody expects you to check your email this often (and if they do, they&apos;re nuts). &lt;br/&gt;&lt;br/&gt;
     Email is not a realtime communications protocol. Need to get a quick response? Try calling, texting, IM&apos;ing - or just pop over to their desk. Email is really good for asynchronous, unambiguous communication. Or in plain English, stuff you don&apos;t need an answer for immediately where the answer is clear. Why clear? Well if your email is likely to result in loads more emails, you&apos;d be better off giving them a call. Nobody likes email tennis.&lt;br /&gt;&lt;br /&gt;
     Checking email less can result in significant time savings. Every time you check your mail, it costs you at least one minute (some studies say 20 minutes depending on your role). That&apos;s because when you are interrupted, it&apos;s not just the time it takes to read the email. It&apos;s the time it takes you to get back up to speed on what you were doing before you were interrupted.&lt;br /&gt;&lt;br /&gt;
     A team of researchers at UC Irvine and U.S. Army studied effects of limiting email access on participants&apos; heart rate and ability to focus. It found that limiting email access dramatically reduces stress by tracking participants&apos; heart rate. Participants without access to email switched windows 18 times per hour vs 37 times per hour for participants with email access. The dashboard skill doesn&apos;t prevent you from accessing your email, but it is proven to reduce the amount of times you check your email.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die slegste e-pos gewoonte van almal? Deur te gereeld na jou e-pos te kyk. Gemiddeld kyk ons na ons e-pos 96 keer per dag of elke 5 minute. Dit is heeltemal onnodig. Niemand verwag van jou om jou e-pos gereeld na te gaan nie (en as dit wel so is, is dit nie goed nie). &lt;br/&gt; &lt;br/&gt;
+    E-pos is nie ’n intydse kommunikasie protokol nie. Moet jy vinnig ’n antwoord kry? Probeer bel, SMS, ander kletsprogramme - of gaan sien hulle by hul lessenaar. E-pos is regtig goed vir asinchroniese, ondubbelsinnige kommunikasie. Of anders gestel, dinge waarvoor jy nie dadelik ’n antwoord hoef te hê nie, waar die antwoord duidelik is. Waarom duidelik? As jou e-pos meer e-posse sal aanmoedig, is dit beter om te bel. Niemand hou van e-pos tennis nie. &lt;br /&gt; &lt;br /&gt;
+    As jy minder na jou e-pos kyk, kan dit aansienlike tydbesparing tot gevolg hê. Elke keer as jy jou e-pos nagaan, kos dit jou ten minste ’n minuut (sommige studies sê 20 minute, afhangende van jou rol). Dit is omdat, as u onderbreek word, dit nie net die tyd is wat dit neem om die e-pos te lees nie. Dit is die tyd wat dit neem terug te keer na wat jy gedoen het voordat jy onderbreek is. &lt;br /&gt; &lt;br /&gt;
+    ’n Span navorsers aan die Universiteit van Kalifornië in Irvine en die Amerikaanse weermag het die gevolge van die beperking van e-pos toegang op die hartklop van deelnemers en hul vermoë om te konsentreer bestudeer. Daar is gevind dat, deur die hartklop van die deelnemers dop te hou, die beperking van toegang tot e-pos spanning dramaties verminder. Deelnemers wat nie toegang tot e-pos het nie, het 18 keer per uur tussen program vensters oorgeskakel teenoor 37 keer per uur vir deelnemers met e-pos toegang. Die vaardighede in die paneelbord verhinder nie dat jy toegang tot jou e-pos kry nie, maar dit is bewys dat dit die hoeveelheid kere wat jy e-pos nagaan, verminder.</translation>
     </message>
     <message>
         <source>Ever forget to deal with an important email? Yup. By capturing those emails in the task list, you can rest assured you&apos;re not going to forget something important. Or have to keep scrolling through your email list to remind yourself what you need to do.&lt;br /&gt;&lt;br /&gt;
@@ -4109,7 +4123,12 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
     Tasks are compatible with MS Outlook and Microsoft&apos;s Task app.&lt;br /&gt;&lt;br /&gt;
     To learn more about the task list, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt;visit our support page&lt;/a&gt;.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Het jy al ooit vergeet om ’n belangrike e-pos op te volg? Ja. Deur die e-pos in die taaklys op te neem, kan jy gerus wees dat jy nie iets belangriks sal vergeet nie. Of gedurend deur jou e-pos lys te blaai om jouself te herhinder wat jy moet doen. &lt;br /&gt; &lt;br /&gt;
+     Die taaklys het ’n paar aangename funksies. Jy kan byvoorbeeld die e-pos wat met die taak geassosieer word direk vanaf die taaklys oopmaak. En omgekeerd - jy kan enige take wat verband hou met ’n e-pos vanaf enige e-pos oopmaak. &lt;br /&gt; &lt;br /&gt;
+     Jy kan ook jou take in lyste organiseer. Ons het ’n paar vooropgestelde take - byvoorbeeld take wat vandag voltooi moet word en take wat jy aan ander mense gestuur het, maar jy kan ook jou eie persoonlike lyste skep. &lt;br /&gt; &lt;br /&gt;
+     Take is versoenbaar met MS Outlook en die Task program van Microsoft. &lt;br /&gt; &lt;br /&gt;
+     Om meer te wete te kom oor die taaklys, &lt;a href=&quot;https://support.hiri.com/hc/en-us/articles/115000876174-Using-tasks-in-Hiri&quot;&gt; besoek ons ondersteuningsblad &lt;/a&gt; .
+    </translation>
     </message>
     <message>
         <source>Ever heard of the Four D&apos;s? Nope? That&apos;s OK.&lt;br /&gt;
@@ -4152,12 +4171,18 @@ Dit sal jou toelaat om die Hiri ikoon in jou launcher te &quot;pin&quot;.</trans
 
     For the same reasons, you&apos;ll also notice that Hiri won&apos;t allow you to send an email without a subject line.
     </source>
-        <translation type="unfinished"></translation>
+        <translation>Jy skryf ’n beter onderwerpreël nadat jy ’n e-pos geskryf het. &lt;br /&gt; &lt;br /&gt;
+
+     Dit is belangrik. Deur beter gebruik van die onderwerpreël is dit aansienlik makliker vir iemand om die belangrikheid van ’n e-pos te beoordeel. As die onderwerp van jou e-pos relevant is vir die inhoud van die e-pos, maak dit ook die hele e-pos makliker om te verteer. &lt;br /&gt; &lt;br /&gt;
+
+     Om dieselfde redes, sal jy ook agterkom dat Hiri jou nie toelaat om ’n e-pos sonder &apos;n onderwerpreël stuur nie.
+    </translation>
     </message>
     <message>
         <source>Inbox Zero is a rigorous approach to email management aimed at keeping the inbox empty - or almost empty - at all times.&lt;br /&gt;&lt;br /&gt;
 Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, the zero is not a reference to the number of messages in an inbox; it is &quot;the amount of time an employee&apos;s brain is in his inbox.&quot; Mann&apos;s point is that time and attention are finite and when an inbox is confused with a &quot;to do&quot; list, productivity suffers. By clearing out your inbox, you will spend less time looking through your email. A clean inbox leads to a healthy, productive mind - or so the theory goes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inboks Nul is ’n streng benadering tot e-pos bestuur wat daarop gemik is om die inboks te alle tye leeg te hou - of amper leeg. &lt;br /&gt; &lt;br /&gt;
+Inboks Nul is ontwikkel deur die produktiwiteitskenner Merlin Mann. Volgens Mann verwys die nul nie na die aantal boodskappe in ’n inboks nie; dit is &quot;die hoeveelheid tyd wat ’n werknemer se brein in sy inboks is.&quot; Mann se punt is dat tyd en aandag beperk is en as ’n inboks verwar word met ’n lysvan items om te doen, ly produktiwiteit daaronder. Deur jou inboks leeg te hou, sal jy minder tyd spandeer om deur jou e-posse te kyk. ’n Skoon inboks lei tot ’n gesonde, produktiewe brein - of so sê die teorie.</translation>
     </message>
 </context>
 <context>
@@ -4183,51 +4208,51 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Feedback message:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Terugvoer boodskap:%1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die terugvoer is gestuur. Dankie!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Die terugvoer kon nie gestuur word nie</translation>
     </message>
     <message>
         <source>Error attaching logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie loglêers aanheg nie</translation>
     </message>
     <message>
         <source>View FAQ&apos;s in our support center</source>
-        <translation type="unfinished"></translation>
+        <translation>Kyk na veelgestelde vrae in ons ondersteuning sentrum</translation>
     </message>
     <message>
         <source>If you have an idea for us</source>
-        <translation type="unfinished"></translation>
+        <translation>As jy ’n idee vir ons het</translation>
     </message>
     <message>
         <source>Or, get in touch with Team Hiri directly</source>
-        <translation type="unfinished"></translation>
+        <translation>Of kontak Team Hiri direk</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die e-pos sal gestuur word aan:</translation>
     </message>
     <message>
         <source>Help us help you :)</source>
-        <translation type="unfinished"></translation>
+        <translation>Help ons om jou te help :)</translation>
     </message>
     <message>
         <source>The more details you give, the better we will be able to help.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoe meer inligting jy verskaf, hoe beter kan ons jou help.</translation>
     </message>
     <message>
         <source>Let us know to which part of the app your problem/suggestion relates to.</source>
-        <translation type="unfinished"></translation>
+        <translation>Laat ons weet na watter deel van die program jou probleem/voorstel verwys.</translation>
     </message>
     <message>
         <source>Attach logs to this ticket</source>
-        <translation type="unfinished"></translation>
+        <translation>Voeg loglêers by hierdie kaartjie</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4239,70 +4264,70 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <message>
         <source>On</source>
         <comment>Not off</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Af</translation>
     </message>
 </context>
 <context>
     <name>Task</name>
     <message>
         <source>Were these tasks completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Was hierdie take voltooi?</translation>
     </message>
     <message>
         <source>Was this task completed?</source>
-        <translation type="unfinished"></translation>
+        <translation>Was hierdie taak voltooi?</translation>
     </message>
     <message>
         <source>You marked this message as a task on %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy het hierdie boodskap as ’n taak gemerk op %1</translation>
     </message>
     <message>
         <source>you</source>
-        <translation type="unfinished"></translation>
+        <translation>jy</translation>
     </message>
     <message>
         <source>you and 1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>jy en 1 ander</translation>
     </message>
     <message>
         <source>you and %1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>jy en %1 andere</translation>
     </message>
     <message>
         <source>1 other</source>
-        <translation type="unfinished"></translation>
+        <translation>1 ander</translation>
     </message>
     <message>
         <source>%1 others</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 andere</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>Vraag</translation>
     </message>
     <message>
         <source>Delegated</source>
-        <translation type="unfinished"></translation>
+        <translation>Gedelegeer</translation>
     </message>
     <message>
         <source>Task</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak</translation>
     </message>
     <message>
         <source>to</source>
-        <translation type="unfinished"></translation>
+        <translation>aan</translation>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>vir</translation>
     </message>
     <message>
         <source>Open task</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak taak oop</translation>
     </message>
 </context>
 <context>
@@ -4320,18 +4345,18 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>TaskFilters</name>
     <message>
         <source>All tasks</source>
-        <translation type="unfinished"></translation>
+        <translation>All take</translation>
     </message>
     <message>
         <source>New list</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuwe lys</translation>
     </message>
 </context>
 <context>
     <name>TaskInput</name>
     <message>
         <source>Same task for all</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieselfde taak vir almal</translation>
     </message>
 </context>
 <context>
@@ -4342,15 +4367,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Set due date</source>
-        <translation type="unfinished"></translation>
+        <translation>Stel sperdatum</translation>
     </message>
     <message>
         <source>you created this task</source>
-        <translation type="unfinished"></translation>
+        <translation>jy het hierdie taak geskep</translation>
     </message>
     <message>
         <source>from</source>
@@ -4435,7 +4460,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Oops, unable to dismiss the reminder…</source>
-        <translation>Oeps, dié herhindering kan nie weggewys word nie…</translation>
+        <translation>Oeps, hierdie herhindering kan nie weggewys word nie…</translation>
     </message>
     <message>
         <source>Oops, unable to snooze the task reminder…</source>
@@ -4512,74 +4537,74 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Task moved to Today - due date set (Today, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak na vandag verskuif - sperdatum verander (Vandag, 6nm)</translation>
     </message>
     <message>
         <source>Task moved to This week - due date set (Friday, 6pm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Taak na hierdie week geskuif - sperdatum verander (Vrydag, 6nm)</translation>
     </message>
     <message>
         <source>Sorry, you can&apos;t move this task to the sent task list</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jy kan nie hierdie taak na die taaklys skuif nie</translation>
     </message>
 </context>
 <context>
     <name>TrialEndedDialog</name>
     <message>
         <source>Sorry your trial is over :(</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, jou proeftydperk is verstrek :(</translation>
     </message>
     <message>
         <source>Fear not! You can buy a licence to continue using Hiri.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geen probleem: jy kan ’n lisensie aanskaf om Hiri te gebruik.</translation>
     </message>
     <message>
         <source>If you have any questions, please</source>
-        <translation type="unfinished"></translation>
+        <translation>As jy enige vrae het, kontak</translation>
     </message>
     <message>
         <source>get in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>ons asseblief.</translation>
     </message>
     <message>
         <source>Buy now</source>
-        <translation type="unfinished"></translation>
+        <translation>Koop nou</translation>
     </message>
     <message>
         <source>Checking subscription…</source>
-        <translation type="unfinished"></translation>
+        <translation>Besig om intekening na te gaan…</translation>
     </message>
     <message>
         <source>Sorry. We couldn&apos;t find your payment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jammer, ons kon nie jou betaling vind nie.</translation>
     </message>
     <message>
         <source>Please write a feedback message</source>
-        <translation type="unfinished"></translation>
+        <translation>Skryf ’n terugvoering boodskap</translation>
     </message>
     <message>
         <source>Sending feedback…</source>
-        <translation type="unfinished"></translation>
+        <translation>Besig om terugvoer te stuur…</translation>
     </message>
     <message>
         <source>Trial question:%1%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Proeftydperk vraag: %1%2</translation>
     </message>
     <message>
         <source>Feedback sent. Thanks!</source>
-        <translation type="unfinished"></translation>
+        <translation>Terugvoer gestuur. Dankie!</translation>
     </message>
     <message>
         <source>Error sending feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie die terugvoer stuur nie</translation>
     </message>
     <message>
         <source>Email will be sent to:</source>
-        <translation type="unfinished"></translation>
+        <translation>Die e-pos sal gestuur word na:</translation>
     </message>
     <message>
         <source>Have any questions about your trial or feedback that you&apos;d like to share?</source>
-        <translation type="unfinished"></translation>
+        <translation>Het jy enige vrae oor die proef tydperk of terugvoer wat jy wil deel?</translation>
     </message>
     <message>
         <source>Send</source>
@@ -4587,15 +4612,15 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>If you are stuck here but you have already paid.</source>
-        <translation type="unfinished"></translation>
+        <translation>As jy vassit, maar al reeds betaal het.</translation>
     </message>
     <message>
         <source>Click below to get going!</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliek hieronder om te begin!</translation>
     </message>
     <message>
         <source>I have already paid</source>
-        <translation type="unfinished"></translation>
+        <translation>Ek het reeds betaal</translation>
     </message>
 </context>
 <context>
@@ -4613,47 +4638,47 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>Util</name>
     <message>
         <source>Sunday</source>
-        <translation type="unfinished"></translation>
+        <translation>Sondag</translation>
     </message>
     <message>
         <source>Monday</source>
-        <translation type="unfinished"></translation>
+        <translation>Maandag</translation>
     </message>
     <message>
         <source>Tuesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Dinsdag</translation>
     </message>
     <message>
         <source>Wednesday</source>
-        <translation type="unfinished"></translation>
+        <translation>Woensdag</translation>
     </message>
     <message>
         <source>Thursday</source>
-        <translation type="unfinished"></translation>
+        <translation>Donderdag</translation>
     </message>
     <message>
         <source>Friday</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrydag</translation>
     </message>
     <message>
         <source>Saturday</source>
-        <translation type="unfinished"></translation>
+        <translation>Saterdag</translation>
     </message>
     <message>
         <source>You</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Just Now</source>
-        <translation type="unfinished"></translation>
+        <translation>Nou net</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation type="unfinished"></translation>
+        <translation>Gister</translation>
     </message>
     <message>
         <source>Tomorrow</source>
@@ -4665,19 +4690,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 attachments added.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 aanhegsels bygevoeg.</translation>
     </message>
     <message>
         <source>Attachment added.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aanhegsel bygevoeg.</translation>
     </message>
     <message>
         <source>That file is already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Daardie lêer is reeds aangeheg.</translation>
     </message>
     <message>
         <source>Some files are already attached.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sommige lêers is reeds aangeheg.</translation>
     </message>
     <message>
         <source>Every day</source>
@@ -4697,7 +4722,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Every %1. %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Elke %1. %2</translation>
     </message>
     <message>
         <source>Every last %1</source>
@@ -4705,19 +4730,19 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Trial:</source>
-        <translation type="unfinished"></translation>
+        <translation>Proef tydperk:</translation>
     </message>
     <message>
         <source>Ends today</source>
-        <translation type="unfinished"></translation>
+        <translation>Eindig vandag</translation>
     </message>
     <message>
         <source>1 day left</source>
-        <translation type="unfinished"></translation>
+        <translation>1 dag oor</translation>
     </message>
     <message>
         <source>%1 days left</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 dae oor</translation>
     </message>
     <message>
         <source>All day</source>
@@ -4729,11 +4754,11 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>Due in</source>
-        <translation type="unfinished"></translation>
+        <translation>Verloop oor</translation>
     </message>
     <message>
         <source>Starts in</source>
-        <translation type="unfinished"></translation>
+        <translation>Begin oor</translation>
     </message>
     <message>
         <source>%1 min</source>
@@ -4741,7 +4766,7 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     </message>
     <message>
         <source>%1 mins</source>
-        <translation>%1 mins</translation>
+        <translation>%1 minute</translation>
     </message>
     <message>
         <source>%1 h</source>
@@ -4756,67 +4781,68 @@ Inbox Zero was developed by productivity expert Merlin Mann. According to Mann, 
     <name>WebEngineContextMenu</name>
     <message>
         <source>Open link</source>
-        <translation type="unfinished"></translation>
+        <translation>Maak skakel oop</translation>
     </message>
     <message>
         <source>Copy link address</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer skakel adres</translation>
     </message>
     <message>
         <source>Copy image</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer prent</translation>
     </message>
     <message>
         <source>Save image</source>
-        <translation type="unfinished"></translation>
+        <translation>Stoor prent</translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation type="unfinished"></translation>
+        <translation>Knip</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiëer</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak</translation>
     </message>
     <message>
         <source>Paste without formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>Plak sonder formaat</translation>
     </message>
     <message>
         <source>Select all</source>
-        <translation type="unfinished"></translation>
+        <translation>Kies alles</translation>
     </message>
     <message>
         <source>Unselect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwyder keuses</translation>
     </message>
     <message>
         <source>Check spelling</source>
-        <translation type="unfinished"></translation>
+        <translation>Gaan spelling na</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Taal</translation>
     </message>
     <message>
         <source>Image downloaded to your Downloads folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Prent afgelaai na jou &quot;Downloads&quot; vouer</translation>
     </message>
 </context>
 <context>
     <name>Welcome</name>
     <message>
         <source>Welcome to Hiri!</source>
-        <translation type="unfinished"></translation>
+        <translation>Welkom by Hiri!</translation>
     </message>
     <message>
         <source>It&apos;s time to get your email
 under control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit is tyd om jou e-pos
+onder beheer te kry.</translation>
     </message>
 </context>
 <context>
@@ -4827,37 +4853,37 @@ under control.</source>
     </message>
     <message>
         <source>Unknown availability status</source>
-        <translation type="unfinished"></translation>
+        <translation>Beskikbaarheid onbekend</translation>
     </message>
     <message>
         <source>You are %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Jy is %1</translation>
     </message>
     <message>
         <source>Where: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Waar: %1</translation>
     </message>
 </context>
 <context>
     <name>YesNoDialog</name>
     <message>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Ja</translation>
     </message>
     <message>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nee</translation>
     </message>
 </context>
 <context>
     <name>AttachmentsService</name>
     <message>
         <source>There was an error downloading the attachment</source>
-        <translation type="unfinished"></translation>
+        <translation>Daar was ’n probleem tydens die aflaai van die aanhegsel</translation>
     </message>
     <message>
         <source>Unable to save: </source>
-        <translation type="unfinished"></translation>
+        <translation>Kan nie stoor nie: </translation>
     </message>
 </context>
 <context>
@@ -4868,18 +4894,18 @@ under control.</source>
     </message>
     <message>
         <source>for</source>
-        <translation type="unfinished"></translation>
+        <translation>vir</translation>
     </message>
 </context>
 <context>
     <name>EmailService</name>
     <message>
         <source>Error saving your message. Double check your changes because some of them might not have taken effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kon nie jou boodskap stoor nie. Gaan jou veranderings na, want sommige was dalk nie toegepas nie.</translation>
     </message>
     <message>
         <source>Oops! Something went wrong</source>
-        <translation type="unfinished"></translation>
+        <translation>Oeps! Iets het verkeerd gegaan</translation>
     </message>
 </context>
 <context>
@@ -4893,7 +4919,7 @@ under control.</source>
     <name>MiscController</name>
     <message>
         <source> on behalf of </source>
-        <translation type="unfinished"></translation>
+        <translation> namens </translation>
     </message>
 </context>
 <context>
@@ -4911,7 +4937,7 @@ under control.</source>
     <name>obj</name>
     <message>
         <source>Test {} interpolation</source>
-        <translation type="unfinished"></translation>
+        <translation>Toets {} interpolasie</translation>
     </message>
 </context>
 </TS>

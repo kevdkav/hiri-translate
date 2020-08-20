@@ -1833,7 +1833,8 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Invite your friends and colleagues to try Hiri. The first 3 people that you invite get</source>
-        <translation>Bjud in dina vänner och kollegor att testa  Hiri. De tre första personerna som du bjuder in får</translation>
+        <translation>Bjud in dina vänner och kollegor att testa Hiri. 
+De tre första personerna som du bjuder in får</translation>
     </message>
     <message>
         <source>25% off</source>
@@ -1975,7 +1976,7 @@ Vill du vidarebefordra endast denna händelse eller hela serien?</translation>
     </message>
     <message>
         <source>Open dashboard:</source>
-        <translation>Öppna  dashboard:</translation>
+        <translation>Öppna dashboard:</translation>
     </message>
     <message>
         <source>Open settings:</source>
@@ -4052,7 +4053,7 @@ Detta gör att du kan nåla fast Hiri-ikonen vid din launcher.</translation>
     </message>
     <message>
         <source>Allows you to achieve Inbox Zero. Normally when you enable the Action / FYI split skill (Checkout the Action /FYI split skill for more info), emails that are moved to these filters remain in the main inbox, but they are colour coded. Enabling the Inbox Zero skill means that these emails are now moved to the Action / FYI filters. This allows you to empty out your main inbox.</source>
-        <translation>Låter dig uppnå Inkorg Noll. Normalt när du aktiverar färdigheten Att Göra / FYI (kolla upp färdigheten Att Göra / FYI  för mera info=, e-postmeddelande som flyttas till dessa filer kommer finnas kvar i huvudinkorgen, men de ändrar färg. Att aktivera färdigheten Inkorg Noll innebär att dessa e-postmeddelanden nu flyttas till Att Göra / FYI filtren. Detta tillåter dig att tömma ut din huvudinkorg.</translation>
+        <translation>Låter dig uppnå Inkorg Noll. Normalt när du aktiverar färdigheten Att Göra / FYI (kolla upp färdigheten Att Göra / FYI för mera info=, e-postmeddelande som flyttas till dessa filer kommer finnas kvar i huvudinkorgen, men de ändrar färg. Att aktivera färdigheten Inkorg Noll innebär att dessa e-postmeddelanden nu flyttas till Att Göra / FYI filtren. Detta tillåter dig att tömma ut din huvudinkorg.</translation>
     </message>
     <message>
         <source>Rate Emails</source>
